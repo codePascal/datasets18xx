@@ -1,0 +1,10 @@
+-- 2024-09-21 --
+[21:23] -- Phase 2 (Operating Rounds: 1 | Train Limit: 4 | Available Tiles: Yellow) --
+[21:23] Optional rules used in this game:
+[21:23] * Buy Multiple Brown Shares From IPO: Multiple brown shares may be bought from IPO as well as from pool
+[21:23] Eepi bids $165 for Camden & Amboy
+[21:46] bootydharma bids $170 for Camden & Amboy
+[23:53] squiddy bids $115 for Mohawk & Hudson
+-- 2024-09-27 --
+[04:31] Game ended manually by squiddy
+[04:31] -- Game over: Sheldon ($600), squiddy ($600), bootydharma ($600), Eepi ($600) --

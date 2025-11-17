@@ -1,0 +1,219 @@
+{
+  "game": "1830",
+  "id": "179469",
+  "num_players": 3,
+  "mapping": {
+    "Alberic": "player1",
+    "Skollvaldr": "player2",
+    "DAK (UTC+8)": "player3"
+  },
+  "finished": "GameEndedManually",
+  "result": {
+    "player2": 8836,
+    "player1": 8370,
+    "player3": 5119
+  },
+  "winner": "player2",
+  "final_state": {
+    "players": {
+      "player1": {
+        "name": "player1",
+        "cash": 3025.0,
+        "privates": {},
+        "value": 8370.0,
+        "shares": {
+          "B&M": 0,
+          "B&O": 3,
+          "C&O": 5,
+          "CPR": 0,
+          "ERIE": 3,
+          "NYC": 2,
+          "NYNH": 4,
+          "PRR": 4
+        },
+        "priority_deal": true,
+        "is_bankrupt": false
+      },
+      "player2": {
+        "name": "player2",
+        "cash": 2326.0,
+        "privates": {},
+        "value": 8836.0,
+        "shares": {
+          "B&M": 0,
+          "B&O": 6,
+          "C&O": 5,
+          "CPR": 1,
+          "ERIE": 0,
+          "NYC": 6,
+          "NYNH": 0,
+          "PRR": 6
+        },
+        "priority_deal": false,
+        "is_bankrupt": false
+      },
+      "player3": {
+        "name": "player3",
+        "cash": 904.0,
+        "privates": {},
+        "value": 5119.0,
+        "shares": {
+          "B&M": 6,
+          "B&O": 1,
+          "C&O": 0,
+          "CPR": 6,
+          "ERIE": 2,
+          "NYC": 2,
+          "NYNH": 6,
+          "PRR": 0
+        },
+        "priority_deal": false,
+        "is_bankrupt": false
+      }
+    },
+    "companies": {
+      "B&M": {
+        "name": "B&M",
+        "cash": 10.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0,
+          "D": 0
+        },
+        "ipo": 4,
+        "market": 0,
+        "president": "player3",
+        "share_price": 180.0
+      },
+      "B&O": {
+        "name": "B&O",
+        "cash": 92.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 1,
+          "D": 0
+        },
+        "ipo": 0,
+        "market": 0,
+        "president": "player2",
+        "share_price": 325.0
+      },
+      "C&O": {
+        "name": "C&O",
+        "cash": 0.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "D": 1
+        },
+        "ipo": 0,
+        "market": 0,
+        "president": "player2",
+        "share_price": 220.0
+      },
+      "CPR": {
+        "name": "CPR",
+        "cash": 184.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0,
+          "D": 0
+        },
+        "ipo": 0,
+        "market": 3,
+        "president": "player3",
+        "share_price": 70.0
+      },
+      "ERIE": {
+        "name": "ERIE",
+        "cash": 231.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "D": 1
+        },
+        "ipo": 0,
+        "market": 5,
+        "president": "player1",
+        "share_price": 130.0
+      },
+      "NYC": {
+        "name": "NYC",
+        "cash": 154.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 1,
+          "D": 0
+        },
+        "ipo": 0,
+        "market": 0,
+        "president": "player2",
+        "share_price": 240.0
+      },
+      "NYNH": {
+        "name": "NYNH",
+        "cash": 10.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "D": 1
+        },
+        "ipo": 0,
+        "market": 0,
+        "president": "player3",
+        "share_price": 275.0
+      },
+      "PRR": {
+        "name": "PRR",
+        "cash": 74.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0,
+          "D": 0
+        },
+        "ipo": 0,
+        "market": 0,
+        "president": "player2",
+        "share_price": 325.0
+      }
+    }
+  },
+  "verification": {
+    "success": true,
+    "diffs": {}
+  },
+  "unprocessed_lines": [],
+  "parse_result": "SUCCESS"
+}

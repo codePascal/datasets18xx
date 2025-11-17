@@ -1,0 +1,1566 @@
+-- 2024-09-24 --
+[10:51] -- Phase 2 (Operating Rounds: 1 | Train Limit: 4 | Available Tiles: Yellow) --
+[10:51] RAUL3826 bids $165 for Camden & Amboy
+[11:06] Rowdycc (AEST 6-21) bids $170 for Camden & Amboy
+[11:08] Larryp1960 bids $75 for Delaware & Hudson
+[14:33] JGould bids $175 for Camden & Amboy
+[15:48] RAUL3826 bids $115 for Mohawk & Hudson
+[22:02] Rowdycc (AEST 6-21) bids $45 for Champlain & St.Lawrence
+[22:04] Larryp1960 buys Schuylkill Valley for $20
+[22:04] Rowdycc (AEST 6-21) wins the auction for Champlain & St.Lawrence with the only bid of $45
+[22:04] Larryp1960 wins the auction for Delaware & Hudson with the only bid of $75
+[22:04] RAUL3826 wins the auction for Mohawk & Hudson with the only bid of $115
+[22:04] Camden & Amboy goes up for auction
+-- 2024-09-25 --
+[08:55] RAUL3826 bids $180 for Camden & Amboy
+[09:38] Rowdycc (AEST 6-21) bids $185 for Camden & Amboy
+[14:15] JGould bids $200 for Camden & Amboy
+[17:00] RAUL3826 passes on Camden & Amboy
+[21:44] Rowdycc (AEST 6-21) bids $205 for Camden & Amboy
+-- 2024-09-26 --
+[00:07] JGould bids $210 for Camden & Amboy
+[02:20] Rowdycc (AEST 6-21) bids $215 for Camden & Amboy
+[03:36] JGould bids $220 for Camden & Amboy
+[04:18] Rowdycc (AEST 6-21) bids $225 for Camden & Amboy
+[04:29] JGould bids $230 for Camden & Amboy
+[05:04] Rowdycc (AEST 6-21) bids $235 for Camden & Amboy
+[05:13] JGould bids $240 for Camden & Amboy
+[07:04] Rowdycc (AEST 6-21) passes on Camden & Amboy
+[07:04] JGould wins the auction for Camden & Amboy with a bid of $240
+[07:04] JGould receives a 10% share of PRR
+[12:03] JGould passes bidding
+[20:02] RAUL3826 passes bidding
+[22:22] Rowdycc (AEST 6-21) buys Baltimore & Ohio for $220
+[22:22] Rowdycc (AEST 6-21) pars B&O at $100
+[22:22] Rowdycc (AEST 6-21) receives a 20% share of B&O
+[22:22] Rowdycc (AEST 6-21) becomes the president of B&O
+[22:22] Larryp1960 has priority deal
+[22:22] -- Stock Round 1 --
+[22:24] Larryp1960 pars PRR at $100
+[22:24] Larryp1960 buys a 20% share of PRR from the IPO for $200
+[22:24] Larryp1960 becomes the president of PRR
+-- 2024-09-27 --
+[01:51] JGould passes
+[12:07] RAUL3826 pars NYNH at $67
+[12:07] RAUL3826 buys a 20% share of NYNH from the IPO for $134
+[12:07] RAUL3826 becomes the president of NYNH
+[12:14] Rowdycc (AEST 6-21) passes
+[12:14] Larryp1960 buys a 10% share of PRR from the IPO for $100
+[16:04] JGould passes
+[17:22] RAUL3826 buys a 10% share of NYNH from the IPO for $67
+[17:22] Rowdycc (AEST 6-21) passes
+[17:22] Larryp1960 buys a 10% share of PRR from the IPO for $100
+[23:18] JGould passes
+[23:18] RAUL3826 buys a 10% share of NYNH from the IPO for $67
+[23:18] Rowdycc (AEST 6-21) passes
+[23:18] Larryp1960 buys a 10% share of PRR from the IPO for $100
+[23:18] PRR floats
+[23:18] PRR receives $1000
+[23:19] JGould passes
+[23:19] RAUL3826 buys a 10% share of NYNH from the IPO for $67
+[23:19] Rowdycc (AEST 6-21) passes
+[23:19] Larryp1960 has no valid actions and passes
+[23:20] JGould passes
+[23:20] RAUL3826 buys a 10% share of NYNH from the IPO for $67
+[23:20] NYNH floats
+[23:20] NYNH receives $670
+[23:20] Rowdycc (AEST 6-21) passes
+[23:20] Larryp1960 has no valid actions and passes
+[23:20] JGould passes
+[23:20] RAUL3826 has no valid actions and passes
+[23:20] Rowdycc (AEST 6-21) has priority deal
+[23:20] -- Operating Round 1.1 (of 1) --
+[23:20] Rowdycc (AEST 6-21) collects $10 from Champlain & St.Lawrence
+[23:20] Rowdycc (AEST 6-21) collects $30 from Baltimore & Ohio
+[23:20] Larryp1960 collects $5 from Schuylkill Valley
+[23:20] Larryp1960 collects $15 from Delaware & Hudson
+[23:20] JGould collects $25 from Camden & Amboy
+[23:20] RAUL3826 collects $20 from Mohawk & Hudson
+[23:20] Larryp1960 operates PRR
+[23:20] PRR places a token on H12
+-- 2024-09-28 --
+[03:01] PRR lays tile #9 with rotation 1 on H14
+[03:01] PRR skips place a token
+[03:01] PRR skips run routes
+[03:01] PRR does not run
+[03:01] PRR's share price moves left from $100 to $90
+[03:01] PRR buys a 2 train for $80 from The Depot
+[03:01] PRR passes buy trains
+[03:01] PRR skips buy companies
+[03:01] RAUL3826 operates NYNH
+[03:01] NYNH places a token on G19
+[08:31] NYNH lays tile #1 with rotation 0 on F20 (New Haven & Hartford)
+[08:31] NYNH skips place a token
+[08:31] NYNH skips run routes
+[08:31] NYNH does not run
+[08:31] NYNH's share price moves left from $67 to $65
+[08:31] NYNH buys a 2 train for $80 from The Depot
+[08:31] NYNH buys a 2 train for $80 from The Depot
+[08:31] NYNH buys a 2 train for $80 from The Depot
+[08:32] NYNH passes buy trains
+[08:32] NYNH skips buy companies
+[08:32] -- Stock Round 2 --
+[08:38] Rowdycc (AEST 6-21) passes
+[14:36] Larryp1960 passes
+[16:31] JGould sells a 10% share of PRR and receives $90
+[16:31] PRR's share price moves down from $90 to $82
+[16:32] JGould pars B&M at $76
+[16:32] JGould buys a 20% share of B&M from the IPO for $152
+[16:32] JGould becomes the president of B&M
+[18:35] RAUL3826 buys a 10% share of B&O from the IPO for $100
+[18:36] RAUL3826 sells a 10% share of B&O and receives $100
+[18:36] B&O's share price moves down from $100 to $90
+[21:52] Rowdycc (AEST 6-21) buys a 10% share of B&O from the IPO for $100
+[21:52] Rowdycc (AEST 6-21) declines to sell shares
+-- 2024-09-29 --
+[01:32] Larryp1960 passes
+[08:08] JGould buys a 10% share of B&M from the IPO for $76
+[08:08] JGould declines to sell shares
+[10:34] RAUL3826 buys a 10% share of PRR from the market for $82
+[10:34] RAUL3826 declines to sell shares
+[10:34] Rowdycc (AEST 6-21) buys a 10% share of B&O from the IPO for $100
+[10:34] Rowdycc (AEST 6-21) declines to sell shares
+[10:34] Larryp1960 passes
+[10:43] JGould buys a 10% share of B&M from the IPO for $76
+[10:43] JGould declines to sell shares
+[10:52] RAUL3826 passes
+[10:52] Rowdycc (AEST 6-21) buys a 10% share of B&O from the IPO for $100
+[10:52] B&O floats
+[10:52] B&O receives $1000
+[10:52] Rowdycc (AEST 6-21) declines to sell shares
+[10:52] Larryp1960 passes
+[10:52] JGould buys a 10% share of B&M from the IPO for $76
+[10:52] JGould declines to sell shares
+[10:52] RAUL3826 passes
+[10:52] Rowdycc (AEST 6-21) passes
+[10:52] Larryp1960 passes
+[10:54] JGould passes
+[10:54] RAUL3826 has priority deal
+[10:54] -- Operating Round 2.1 (of 1) --
+[10:54] RAUL3826 collects $20 from Mohawk & Hudson
+[10:54] Rowdycc (AEST 6-21) collects $10 from Champlain & St.Lawrence
+[10:54] Rowdycc (AEST 6-21) collects $30 from Baltimore & Ohio
+[10:54] Larryp1960 collects $5 from Schuylkill Valley
+[10:54] Larryp1960 collects $15 from Delaware & Hudson
+[10:54] JGould collects $25 from Camden & Amboy
+[10:54] Rowdycc (AEST 6-21) operates B&O
+[10:54] B&O places a token on I15
+[12:00] B&O spends $80 and lays tile #57 with rotation 0 on J14 (Washington)
+[12:01] B&O passes place a token
+[12:01] B&O skips run routes
+[12:01] B&O does not run
+[12:01] B&O's share price moves left from $90 to $82
+[12:01] B&O buys a 2 train for $80 from The Depot
+[12:01] Baltimore & Ohio closes
+[12:01] B&O buys a 2 train for $80 from The Depot
+[12:01] B&O buys a 3 train for $180 from The Depot
+[12:01] -- Phase 3 (Operating Rounds: 2 | Train Limit: 4 | Available Tiles: Yellow, Green) --
+[12:01] B&O buys a 3 train for $180 from The Depot
+[12:01] B&O buys Champlain & St.Lawrence from Rowdycc (AEST 6-21) for $80
+[12:02] B&O passes buy companies
+[12:02] Larryp1960 operates PRR
+[13:20] PRR lays tile #57 with rotation 1 on H16 (Lancaster)
+[13:20] PRR places a token on H16 (Lancaster) for $40
+[13:20] PRR runs a 2 train for $30: H16-H12
+[13:20] PRR pays out $30 = $3 per share ($15 to Larryp1960, $3 to RAUL3826)
+[13:20] PRR's share price moves right from $82 to $90
+[13:20] PRR buys a 3 train for $180 from The Depot
+[13:20] PRR buys a 3 train for $180 from The Depot
+[13:21] PRR passes buy trains
+[13:21] PRR buys Schuylkill Valley from Larryp1960 for $40
+[13:21] PRR buys Delaware & Hudson from Larryp1960 for $140
+[13:21] PRR passes buy companies
+[13:21] RAUL3826 operates NYNH
+[16:18] NYNH spends $80 and lays tile #57 with rotation 1 on F22 (Providence)
+[16:18] NYNH places a token on F22 (Providence) for $40
+[16:18] NYNH runs a 2 train for $30: F22-F20
+[16:18] NYNH runs a 2 train for $30: F22-F24
+[16:18] NYNH runs a 2 train for $50: G19-F20
+[16:18] NYNH pays out $110 = $11 per share ($66 to RAUL3826)
+[16:18] NYNH's share price moves right from $65 to $67
+[16:19] NYNH buys Mohawk & Hudson from RAUL3826 for $220
+[16:22] NYNH passes buy trains
+[16:22] NYNH passes buy companies
+[16:22] -- Stock Round 3 --
+[16:22] RAUL3826 sells a 10% share of PRR and receives $90
+[16:22] PRR's share price moves down from $90 to $82
+[16:23] RAUL3826 buys a 10% share of B&O from the IPO for $100
+[16:23] RAUL3826 sells a 10% share of B&O and receives $82
+[16:23] B&O's share price moves down from $82 to $76
+[21:23] Rowdycc (AEST 6-21) buys a 10% share of PRR from the market for $82
+[21:23] Rowdycc (AEST 6-21) declines to sell shares
+[22:57] Larryp1960 buys a 10% share of PRR from the IPO for $100
+[22:57] Larryp1960 declines to sell shares
+-- 2024-09-30 --
+[02:52] JGould buys a 10% share of B&M from the IPO for $76
+[02:52] B&M floats
+[02:52] B&M receives $760
+[02:52] JGould declines to sell shares
+[07:43] RAUL3826 sells a 10% share of NYNH and receives $67
+[07:43] NYNH's share price moves down from $67 to $67
+[07:45] RAUL3826 buys a 10% share of B&M from the IPO for $76
+[08:57] Rowdycc (AEST 6-21) buys a 10% share of NYNH from the market for $67
+[08:57] Rowdycc (AEST 6-21) declines to sell shares
+[12:27] Larryp1960 buys a 10% share of B&O from the market for $76
+[12:27] Larryp1960 declines to sell shares
+[15:31] JGould sells a 10% share of B&M and receives $76
+[15:31] B&M's share price moves down from $76 to $71
+[15:31] JGould buys a 10% share of NYNH from the IPO for $67
+[15:31] JGould sells a 10% share of NYNH and receives $67
+[15:31] NYNH's share price moves down from $67 to $67
+[18:47] RAUL3826 buys a 10% share of B&M from the market for $71
+[18:59] RAUL3826 declines to sell shares
+[22:23] Rowdycc (AEST 6-21) passes
+[22:24] Larryp1960 passes
+[23:15] JGould buys a 10% share of B&O from the market for $76
+[23:36] JGould declines to sell shares
+-- 2024-10-01 --
+[08:24] RAUL3826 buys a 10% share of B&M from the IPO for $76
+[08:25] RAUL3826 declines to sell shares
+[08:35] Rowdycc (AEST 6-21) passes
+[08:35] Larryp1960 passes
+[14:49] JGould passes
+[15:20] RAUL3826 sells 3 shares of B&M and receives $213
+[15:20] B&M's share price moves down from $71 to $67
+[15:21] RAUL3826 pars NYC at $76
+[15:21] RAUL3826 buys a 20% share of NYC from the IPO for $152
+[15:21] RAUL3826 becomes the president of NYC
+[21:46] Rowdycc (AEST 6-21) passes
+[22:45] Larryp1960 passes
+-- 2024-10-02 --
+[02:02] JGould passes
+[02:02] RAUL3826 buys a 10% share of NYC from the IPO for $76
+[02:02] RAUL3826 declines to sell shares
+[02:09] Rowdycc (AEST 6-21) passes
+[02:09] Larryp1960 passes
+[02:09] JGould passes
+[02:09] RAUL3826 buys a 10% share of NYC from the IPO for $76
+[02:09] RAUL3826 declines to sell shares
+[02:09] Rowdycc (AEST 6-21) passes
+[02:09] Larryp1960 passes
+[02:09] JGould passes
+[02:09] RAUL3826 buys a 10% share of NYC from the IPO for $76
+[02:09] RAUL3826 declines to sell shares
+[02:09] Rowdycc (AEST 6-21) passes
+[02:09] Larryp1960 passes
+[02:09] JGould passes
+[02:09] RAUL3826 buys a 10% share of NYC from the IPO for $76
+[02:09] NYC floats
+[02:09] NYC receives $760
+[06:35] RAUL3826 declines to sell shares
+[06:50] Rowdycc (AEST 6-21) passes
+[06:50] Larryp1960 passes
+[06:50] JGould passes
+[06:55] RAUL3826 passes
+[06:55] Rowdycc (AEST 6-21) has priority deal
+[06:55] -- Operating Round 3.1 (of 2) --
+[06:55] JGould collects $25 from Camden & Amboy
+[06:55] PRR collects $5 from Schuylkill Valley
+[06:55] PRR collects $15 from Delaware & Hudson
+[06:55] B&O collects $10 from Champlain & St.Lawrence
+[06:55] NYNH collects $20 from Mohawk & Hudson
+[06:55] Larryp1960 operates PRR
+[07:17] PRR lays tile #57 with rotation 1 on H10 (Pittsburgh)
+[07:17] PRR passes place a token
+[07:17] PRR runs a 3 train for $30: H16-H12
+[07:17] PRR runs a 3 train for $30: H12-H10
+[07:17] PRR pays out $60 = $6 per share ($36 to Larryp1960, $6 to Rowdycc (AEST 6-21))
+[07:17] PRR's share price moves right from $82 to $90
+[07:17] PRR passes buy trains
+[07:17] PRR passes buy companies
+[07:17] RAUL3826 operates NYC
+[07:17] NYC places a token on E19
+[07:53] NYC passes lay/upgrade track
+[07:53] NYC skips place a token
+[07:53] NYC skips run routes
+[07:53] NYC does not run
+[07:53] NYC's share price moves left from $76 to $71
+[07:54] NYC buys a 2 train for $271 from NYNH
+[07:54] NYC buys a 3 train for $180 from The Depot
+[07:56] NYC passes buy trains
+[07:56] NYC passes buy companies
+[07:56] Rowdycc (AEST 6-21) operates B&O
+[08:10] B&O lays tile #14 with rotation 2 on J14 (Washington)
+[08:10] B&O places a token on J14 (Washington) for $40
+[08:11] B&O runs a 3 train for $50: J14-K15
+[08:11] B&O runs a 3 train for $60: J14-I15
+[08:11] B&O runs a 2 train for $60: J14-K13
+[08:11] B&O pays out $170 = $17 per share ($85 to Rowdycc (AEST 6-21), $17 to Larryp1960, $17 to JGould)
+[08:11] B&O's share price moves right from $76 to $82
+[08:11] B&O skips buy trains
+[08:11] B&O passes buy companies
+[08:11] RAUL3826 operates NYNH
+[09:28] NYNH spends $80 and lays tile #54 with rotation 0 on G19 (New York & Newark)
+[09:28] NYNH skips place a token
+[09:29] NYNH runs a 2 train for $30: F22-F24
+[09:29] NYNH runs a 2 train for $70: G19-F20
+[09:29] NYNH pays out $100 = $10 per share ($50 to RAUL3826, $10 to Rowdycc (AEST 6-21), $10 to NYNH)
+[09:29] NYNH's share price moves right from $67 to $68
+[09:30] NYNH buys a 4 train for $300 from The Depot
+[09:30] -- Phase 4 (Operating Rounds: 2 | Train Limit: 3 | Available Tiles: Yellow, Green) --
+[09:30] -- Event: 2 trains rust ( PRR x1, NYC x1, NYNH x2, B&O x2) --
+[09:31] NYNH buys a 3 train for $1 from NYC
+[09:31] NYNH passes buy trains
+[09:31] NYNH skips buy companies
+[09:31] JGould operates B&M
+[09:31] B&M places a token on E23
+[14:46] B&M lays tile #15 with rotation 1 on F22 (Providence)
+[14:46] B&M places a token on F22 (Providence) for $40
+[14:46] B&M skips run routes
+[14:46] B&M does not run
+[14:46] B&M's share price moves left from $67 to $60
+[14:46] B&M buys a 4 train for $300 from The Depot
+[14:46] B&M buys Camden & Amboy from JGould for $320
+[14:47] B&M passes buy trains
+[14:47] B&M skips buy companies
+[14:47] -- Operating Round 3.2 (of 2) --
+[14:47] PRR collects $5 from Schuylkill Valley
+[14:47] PRR collects $15 from Delaware & Hudson
+[14:47] B&O collects $10 from Champlain & St.Lawrence
+[14:47] NYNH collects $20 from Mohawk & Hudson
+[14:47] B&M collects $25 from Camden & Amboy
+[14:47] Larryp1960 operates PRR
+[15:04] PRR lays tile #59 with rotation 5 on H18 (Philadelphia & Trenton)
+[15:04] PRR passes place a token
+[15:04] PRR runs a 3 train for $70: H18-H16-H12
+[15:04] PRR runs a 3 train for $30: H12-H10
+[15:04] PRR pays out $100 = $10 per share ($60 to Larryp1960, $10 to Rowdycc (AEST 6-21))
+[15:04] PRR's share price moves right from $90 to $100
+[15:04] PRR passes buy trains
+[15:04] PRR skips buy companies
+[15:04] Rowdycc (AEST 6-21) operates B&O
+[15:06] B&O lays tile #53 with rotation 0 on I15 (Baltimore)
+[15:06] B&O passes place a token
+[15:06] B&O runs a 3 train for $50: J14-K15
+[15:06] B&O runs a 3 train for $110: I15-J14-K13
+[15:06] B&O pays out $160 = $16 per share ($80 to Rowdycc (AEST 6-21), $16 to Larryp1960, $16 to JGould)
+[15:06] B&O's share price moves right from $82 to $90
+[15:06] B&O buys a 4 train for $300 from The Depot
+[15:06] B&O passes buy companies
+[15:06] RAUL3826 operates NYC
+[16:38] NYC lays tile #57 with rotation 0 on E19 (Albany)
+[16:38] NYC skips place a token
+[16:38] NYC skips run routes
+[16:38] NYC does not run
+[16:38] NYC's share price moves left from $71 to $66
+[16:38] NYC buys a 4 train for $300 from The Depot
+[16:38] NYC passes buy trains
+[16:38] NYC skips buy companies
+[16:38] RAUL3826 operates NYNH
+[16:38] NYNH lays tile #8 with rotation 3 on F18
+[16:38] NYNH skips place a token
+[16:40] NYNH runs a 4 train for $110: G19-F20-F22-F24
+[16:40] NYNH runs a 3 train for $80: G19-E19
+[16:40] NYNH pays out $190 = $19 per share ($95 to RAUL3826, $19 to Rowdycc (AEST 6-21), $19 to NYNH)
+[16:40] NYNH's share price moves up from $68 to $69
+[16:41] NYNH passes buy trains
+[16:41] NYNH skips buy companies
+[16:41] JGould operates B&M
+[22:31] B&M lays tile #53 with rotation 1 on E23 (Boston)
+[22:31] B&M skips place a token
+[22:31] B&M runs a 4 train for $110: G19-F20-F22-F24
+[22:31] B&M pays out $110 = $11 per share ($55 to JGould, $33 to B&M)
+[22:31] B&M's share price moves right from $60 to $67
+[22:32] B&M passes buy trains
+[22:32] B&M skips buy companies
+[22:32] -- Stock Round 4 --
+[23:59] Rowdycc (AEST 6-21) sells a 10% share of PRR and receives $100
+[23:59] PRR's share price moves down from $100 to $90
+[23:59] Rowdycc (AEST 6-21) sells a 10% share of NYNH and receives $69
+[23:59] NYNH's share price moves down from $69 to $68
+-- 2024-10-03 --
+[00:00] Rowdycc (AEST 6-21) sells 2 shares of B&O and receives $180
+[00:00] B&O's share price moves down from $90 to $76
+[00:00] Rowdycc (AEST 6-21) pars C&O at $90
+[00:00] Rowdycc (AEST 6-21) buys a 20% share of C&O from the IPO for $180
+[00:00] Rowdycc (AEST 6-21) becomes the president of C&O
+[03:19] Larryp1960 buys a 10% share of B&M from the market for $67
+[03:19] Larryp1960 declines to sell shares
+[04:07] JGould buys a 10% share of B&O from the market for $76
+[04:09] JGould declines to sell shares
+[06:33] RAUL3826 buys a 10% share of B&O from the market for $76
+[06:34] RAUL3826 declines to sell shares
+[06:51] Rowdycc (AEST 6-21) buys a 10% share of C&O from the IPO for $90
+[06:51] Rowdycc (AEST 6-21) declines to sell shares
+[13:38] Larryp1960 buys a 10% share of NYNH from the IPO for $67
+[13:38] Larryp1960 declines to sell shares
+[15:17] JGould buys a 10% share of B&O from the IPO for $100
+[15:17] JGould declines to sell shares
+[18:10] RAUL3826 buys a 10% share of NYNH from the IPO for $67
+[18:10] RAUL3826 declines to sell shares
+[21:55] Rowdycc (AEST 6-21) buys a 10% share of C&O from the IPO for $90
+[21:55] Rowdycc (AEST 6-21) declines to sell shares
+-- 2024-10-04 --
+[05:03] Larryp1960 passes
+[05:08] JGould sells 3 shares of B&O and receives $228
+[05:08] B&O's share price moves down from $76 to $68
+[05:10] JGould declines to buy shares
+[07:59] RAUL3826 sells 2 shares of NYC and receives $132
+[07:59] NYC's share price moves down from $66 to $58
+[07:59] RAUL3826 buys a 10% share of B&O from the market for $68
+[08:00] RAUL3826 sells a 10% share of NYNH and receives $68
+[09:15] Rowdycc (AEST 6-21) buys a 10% share of C&O from the IPO for $90
+[09:15] Rowdycc (AEST 6-21) declines to sell shares
+[14:06] Larryp1960 passes
+[16:07] JGould pars ERIE at $82
+[16:07] JGould buys a 20% share of ERIE from the IPO for $164
+[16:07] JGould becomes the president of ERIE
+[16:08] JGould declines to sell shares
+[17:57] RAUL3826 buys a 10% share of B&O from the market for $68
+[17:57] RAUL3826 declines to sell shares
+[21:43] Rowdycc (AEST 6-21) buys a 10% share of C&O from the IPO for $90
+[21:43] C&O floats
+[21:43] C&O receives $900
+[21:43] Rowdycc (AEST 6-21) declines to sell shares
+[23:07] Larryp1960 passes
+-- 2024-10-05 --
+[03:15] JGould buys a 10% share of ERIE from the IPO for $82
+[03:15] JGould declines to sell shares
+[03:15] RAUL3826 buys a 10% share of B&O from the market for $68
+[03:15] RAUL3826 becomes the president of B&O
+[08:59] RAUL3826 declines to sell shares
+[09:06] Rowdycc (AEST 6-21) buys a 10% share of NYC from the market for $58
+[09:06] Rowdycc (AEST 6-21) declines to sell shares
+[09:06] Larryp1960 passes
+[14:01] JGould buys a 10% share of ERIE from the IPO for $82
+[14:01] JGould declines to sell shares
+[14:29] RAUL3826 passes
+[14:37] Rowdycc (AEST 6-21) passes
+[14:37] Larryp1960 passes
+[14:51] JGould buys a 10% share of ERIE from the IPO for $82
+[14:51] JGould declines to sell shares
+[14:51] RAUL3826 passes
+[14:51] Rowdycc (AEST 6-21) passes
+[14:51] Larryp1960 passes
+[14:54] JGould buys a 10% share of ERIE from the IPO for $82
+[14:54] ERIE floats
+[14:54] ERIE receives $820
+[14:56] JGould declines to sell shares
+[14:56] RAUL3826 passes
+[14:56] Rowdycc (AEST 6-21) passes
+[14:56] Larryp1960 passes
+[14:56] JGould sells a 10% share of ERIE and receives $82
+[14:56] ERIE's share price moves down from $82 to $76
+[14:56] JGould buys a 10% share of PRR from the market for $90
+[15:13] RAUL3826 passes
+[22:40] Rowdycc (AEST 6-21) passes
+[22:55] Larryp1960 buys a 10% share of NYC from the market for $58
+[22:55] Larryp1960 declines to sell shares
+-- 2024-10-06 --
+[01:08] JGould passes
+[05:56] RAUL3826 passes
+[07:31] Rowdycc (AEST 6-21) passes
+[07:31] Larryp1960 passes
+[07:31] JGould has priority deal
+[07:31] -- Operating Round 4.1 (of 2) --
+[07:31] PRR collects $5 from Schuylkill Valley
+[07:31] PRR collects $15 from Delaware & Hudson
+[07:31] NYNH collects $20 from Mohawk & Hudson
+[07:31] B&O collects $10 from Champlain & St.Lawrence
+[07:31] B&M collects $25 from Camden & Amboy
+[07:31] Larryp1960 operates PRR
+[13:55] PRR lays tile #15 with rotation 1 on H16 (Lancaster)
+[13:55] PRR passes place a token
+[13:56] PRR runs a 3 train for $60: H16-H12-H10
+[13:56] PRR runs a 3 train for $70: H16-H18
+[13:56] PRR withholds $130
+[13:56] PRR's share price moves left from $90 to $82
+[13:56] PRR buys a 5 train for $450 from The Depot
+[13:56] -- Phase 5 (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[13:56] -- Event: Private companies close --
+[13:56] PRR discards 3
+[15:21] B&O discards 3
+[15:21] PRR skips buy companies
+[15:21] Rowdycc (AEST 6-21) operates C&O
+[15:21] C&O places a token on F6
+[21:24] C&O lays tile #7 with rotation 2 on G5
+[21:24] C&O skips place a token
+[21:24] C&O skips run routes
+[21:24] C&O does not run
+[21:24] C&O's share price moves left from $90 to $82
+[21:24] C&O buys a 5 train for $450 from The Depot
+[21:24] C&O buys a 5 train for $450 from The Depot
+[21:24] C&O skips buy companies
+[21:24] JGould operates ERIE
+[21:24] ERIE places a token on E11
+-- 2024-10-07 --
+[01:34] ERIE passes lay/upgrade track
+[01:34] ERIE skips place a token
+[01:34] ERIE skips run routes
+[01:34] ERIE does not run
+[01:34] ERIE's share price moves left from $76 to $71
+[01:35] ERIE buys a 6 train for $630 from The Depot
+[01:35] -- Phase 6 (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[01:35] -- Event: 3 trains rust ( The Depot x2, B&O x1, PRR x1, NYNH x1) --
+[01:35] ERIE passes buy trains
+[01:35] ERIE skips buy companies
+[01:35] RAUL3826 operates NYNH
+[06:40] NYNH lays tile #24 with rotation 3 on F18
+[06:40] NYNH skips place a token
+[06:41] NYNH runs a 4 train for $120: F22-F20-G19-E19
+[06:41] NYNH pays out $120 = $12 per share ($60 to RAUL3826, $36 to NYNH, $12 to Larryp1960)
+[06:41] NYNH's share price moves up from $68 to $69
+[06:41] NYNH passes buy trains
+[06:41] NYNH skips buy companies
+[06:41] RAUL3826 operates B&O
+[06:41] B&O lays tile #27 with rotation 4 on H14
+[06:41] B&O skips place a token
+[06:41] B&O runs a 4 train for $150: K13-J14-I15-H16
+[06:41] B&O pays out $150 = $15 per share ($60 to RAUL3826, $45 to Rowdycc (AEST 6-21), $15 to Larryp1960)
+[06:41] B&O's share price moves up from $68 to $69
+[06:41] B&O passes buy trains
+[06:41] B&O skips buy companies
+[06:41] JGould operates B&M
+[06:49] B&M lays tile #61 with rotation 3 on E23 (Boston)
+[06:49] B&M skips place a token
+[06:49] B&M runs a 4 train for $160: E23-F22-F20-G19
+[06:49] B&M pays out $160 = $16 per share ($80 to JGould, $32 to B&M, $16 to Larryp1960)
+[06:49] B&M's share price moves right from $67 to $68
+[06:51] B&M buys a 6 train for $1 from ERIE
+[06:51] B&M skips buy companies
+[06:51] RAUL3826 operates NYC
+[06:53] NYC lays tile #2 with rotation 2 on G17 (Reading & Allentown)
+[06:53] NYC skips place a token
+[06:53] NYC runs a 4 train for $90: E19-G17-G19
+[06:53] NYC pays out $90 = $9 per share ($36 to RAUL3826, $9 to Rowdycc (AEST 6-21), $9 to Larryp1960)
+[06:53] NYC's share price moves right from $58 to $65
+[06:53] NYC passes buy trains
+[06:53] NYC skips buy companies
+[06:53] -- Operating Round 4.2 (of 2) --
+[06:53] Larryp1960 operates PRR
+[12:03] PRR lays tile #14 with rotation 0 on H10 (Pittsburgh)
+[12:03] PRR skips place a token
+[12:03] PRR runs a 5 train for $120: I15-H16-H18
+[12:03] PRR pays out $120 = $12 per share ($72 to Larryp1960, $12 to JGould)
+[12:03] PRR's share price moves right from $82 to $90
+[12:03] PRR passes buy trains
+[12:03] PRR skips buy companies
+[12:03] Rowdycc (AEST 6-21) operates C&O
+[21:13] C&O lays tile #55 with rotation 1 on G7 (Akron & Canton)
+[21:13] C&O skips place a token
+[21:13] C&O runs a 5 train for $40: F6-G7
+[21:13] C&O pays out $40 = $4 per share ($24 to Rowdycc (AEST 6-21))
+[21:13] C&O's share price moves right from $82 to $90
+[21:13] C&O skips buy trains
+[21:13] C&O skips buy companies
+[21:13] JGould operates ERIE
+[23:00] ERIE passes lay/upgrade track
+[23:00] ERIE skips place a token
+[23:00] ERIE skips run routes
+[23:00] ERIE does not run
+[23:00] ERIE's share price moves left from $71 to $66
+[23:01] ERIE buys a 4 train for $190 from B&M
+[23:02] ERIE passes buy trains
+[23:02] ERIE skips buy companies
+[23:02] RAUL3826 operates NYNH
+-- 2024-10-08 --
+[07:01] NYNH lays tile #42 with rotation 0 on F18
+[07:01] NYNH skips place a token
+[07:02] NYNH runs a 4 train for $160: G19-F20-F22-E23
+[07:02] NYNH pays out $160 = $16 per share ($80 to RAUL3826, $48 to NYNH, $16 to Larryp1960)
+[07:02] NYNH's share price moves right from $69 to $70
+[07:10] NYNH passes buy trains
+[07:10] NYNH skips buy companies
+[07:10] RAUL3826 operates B&O
+[08:48] B&O lays tile #64 with rotation 3 on H18 (Philadelphia & Trenton)
+[08:48] B&O skips place a token
+[08:48] B&O runs a 4 train for $160: J14-I15-H16-H18
+[08:48] B&O pays out $160 = $16 per share ($64 to RAUL3826, $48 to Rowdycc (AEST 6-21), $16 to Larryp1960)
+[08:48] B&O's share price moves right from $69 to $70
+[08:48] B&O passes buy trains
+[08:48] B&O skips buy companies
+[08:48] JGould operates B&M
+[14:12] B&M lays tile #62 with rotation 0 on G19 (New York & Newark)
+[14:12] B&M skips place a token
+[14:12] B&M runs a 6 train for $270: E23-F22-F20-G19-G17-G19
+[14:12] B&M withholds $270
+[14:12] B&M's share price moves left from $68 to $67
+[14:12] B&M buys a 6 train for $630 from The Depot
+[14:12] B&M skips buy companies
+[14:12] RAUL3826 operates NYC
+[14:41] NYC lays tile #14 with rotation 0 on E19 (Albany)
+[14:41] NYC skips place a token
+[14:41] NYC runs a 4 train for $170: E19-G17-G19-H18
+[14:46] NYC withholds $170
+[14:46] NYC's share price moves left from $65 to $58
+[14:46] NYC buys a 4 train for $1 from B&O
+[14:46] NYC skips buy companies
+[14:46] -- Stock Round 5 --
+[19:02] JGould buys a 10% share of B&M from the market for $67
+[19:03] JGould sells 3 shares of ERIE and receives $198
+[19:03] ERIE's share price moves down from $66 to $54
+[19:56] RAUL3826 sells 3 shares of B&O and receives $210
+[19:56] Rowdycc (AEST 6-21) becomes the president of B&O
+[19:58] RAUL3826 buys a 10% share of B&M from the market for $67
+[21:08] Rowdycc (AEST 6-21) buys a 10% share of B&O from the market for $70
+[21:08] Rowdycc (AEST 6-21) declines to sell shares
+[21:19] Larryp1960 buys a 10% share of C&O from the IPO for $90
+[21:19] Larryp1960 declines to sell shares
+-- 2024-10-09 --
+[02:15] JGould buys a 10% share of C&O from the IPO for $90
+[02:17] JGould declines to sell shares
+[07:15] RAUL3826 buys a 10% share of C&O from the IPO for $90
+[07:15] RAUL3826 declines to sell shares
+[07:48] Rowdycc (AEST 6-21) passes
+[08:59] Larryp1960 buys a 10% share of ERIE from the market for $54
+[08:59] Larryp1960 declines to sell shares
+[12:16] JGould buys a 10% share of B&O from the market for $70
+[12:18] JGould declines to sell shares
+[12:28] RAUL3826 buys a 10% share of NYNH from the IPO for $67
+[12:28] RAUL3826 declines to sell shares
+[12:41] Rowdycc (AEST 6-21) sells a 10% share of C&O and receives $90
+[12:41] C&O's share price moves down from $90 to $82
+[12:41] Rowdycc (AEST 6-21) buys a 10% share of B&O from the market for $70
+[12:49] Larryp1960 passes
+[17:04] JGould buys a 10% share of NYNH from the market for $70
+[17:04] JGould declines to sell shares
+[18:02] RAUL3826 buys a 10% share of NYC from the IPO for $76
+[18:02] RAUL3826 declines to sell shares
+[21:24] Rowdycc (AEST 6-21) buys a 10% share of NYNH from the market for $70
+[21:24] Rowdycc (AEST 6-21) declines to sell shares
+[21:24] Larryp1960 passes
+[23:20] JGould passes
+-- 2024-10-10 --
+[07:00] RAUL3826 pars CPR at $100
+[07:00] RAUL3826 buys a 20% share of CPR from the IPO for $200
+[07:00] RAUL3826 becomes the president of CPR
+[07:00] RAUL3826 declines to sell shares
+[07:00] Rowdycc (AEST 6-21) passes
+[08:39] Larryp1960 passes
+[08:42] JGould passes
+[08:58] RAUL3826 passes
+[08:58] Rowdycc (AEST 6-21) has priority deal
+[08:58] -- Operating Round 5.1 (of 3) --
+[08:58] Larryp1960 operates PRR
+[10:30] PRR spends $80 and lays tile #7 with rotation 3 on I17
+[10:30] PRR skips place a token
+[10:31] PRR runs a 5 train for $220: H16-H18-I19-H18-G19
+[10:31] PRR withholds $220
+[10:31] PRR's share price moves left from $90 to $82
+[10:31] PRR passes buy trains
+[10:31] PRR skips buy companies
+[10:31] Rowdycc (AEST 6-21) operates C&O
+[11:23] C&O lays tile #8 with rotation 2 on H8
+[11:23] C&O skips place a token
+[11:23] C&O runs a 5 train for $150: F6-G7-H10-H16-H18
+[11:23] C&O pays out $150 = $15 per share ($75 to Rowdycc (AEST 6-21), $15 to Larryp1960, $15 to JGould, $15 to RAUL3826, $15 to C&O)
+[11:23] C&O's share price moves right from $82 to $90
+[11:23] C&O skips buy trains
+[11:23] C&O skips buy companies
+[11:23] RAUL3826 operates NYNH
+[12:50] NYNH lays tile #63 with rotation 0 on E19 (Albany)
+[12:50] NYNH skips place a token
+[12:51] NYNH runs a 4 train for $220: G19-G17-G19-H18
+[12:51] NYNH pays out $220 = $22 per share ($132 to RAUL3826, $22 to Rowdycc (AEST 6-21), $22 to Larryp1960, $22 to JGould, $22 to NYNH)
+[12:51] NYNH's share price moves up from $70 to $75
+[12:51] NYNH passes buy trains
+[12:51] NYNH skips buy companies
+[12:51] Rowdycc (AEST 6-21) operates B&O
+[21:45] B&O lays tile #26 with rotation 4 on I17
+[21:45] B&O skips place a token
+[21:45] B&O skips run routes
+[21:45] B&O does not run
+[21:45] B&O's share price moves left from $70 to $69
+[21:45] B&O buys a 5 train for $1 from C&O
+[21:45] B&O passes buy trains
+[21:45] B&O skips buy companies
+[21:45] JGould operates B&M
+[23:33] B&M lays tile #8 with rotation 4 on D20
+[23:33] B&M skips place a token
+[23:33] B&M runs a 6 train for $100: E23-F24-F22
+[23:33] B&M runs a 6 train for $270: E23-F22-F20-G19-G17-G19
+[23:33] B&M pays out $370 = $37 per share ($222 to JGould, $37 to Larryp1960, $37 to RAUL3826)
+[23:33] B&M's share price moves right from $67 to $68
+[23:33] B&M skips buy trains
+[23:33] B&M skips buy companies
+[23:33] RAUL3826 operates NYC
+-- 2024-10-11 --
+[02:20] NYC lays tile #8 with rotation 5 on D18
+[02:22] NYC places a token on H18 (Philadelphia & Trenton) for $40
+[02:22] NYC runs a 4 train for $140: H18-I19-H18-H16
+[02:22] NYC runs a 4 train for $220: H18-G19-G17-G19
+[02:23] NYC pays out $360 = $36 per share ($180 to RAUL3826, $36 to Rowdycc (AEST 6-21), $36 to Larryp1960)
+[02:23] NYC's share price moves right from $58 to $65
+[02:23] NYC skips buy trains
+[02:23] NYC skips buy companies
+[02:23] JGould operates ERIE
+[02:34] ERIE passes lay/upgrade track
+[02:34] ERIE skips place a token
+[02:34] ERIE skips run routes
+[02:34] ERIE does not run
+[02:34] ERIE's share price moves left from $54 to $45
+[02:35] ERIE passes buy trains
+[02:35] ERIE skips buy companies
+[02:35] -- Operating Round 5.2 (of 3) --
+[02:35] Rowdycc (AEST 6-21) operates C&O
+[05:11] C&O lays tile #63 with rotation 0 on H16 (Lancaster)
+[05:11] C&O skips place a token
+[05:11] C&O runs a 5 train for $160: F6-G7-H10-H16-H18
+[05:11] C&O pays out $160 = $16 per share ($80 to Rowdycc (AEST 6-21), $16 to Larryp1960, $16 to JGould, $16 to RAUL3826, $16 to C&O)
+[05:11] C&O's share price moves right from $90 to $100
+[05:11] C&O passes buy trains
+[05:11] C&O skips buy companies
+[05:11] Larryp1960 operates PRR
+[15:19] PRR lays tile #63 with rotation 0 on H10 (Pittsburgh)
+[15:19] PRR places a token on H10 (Pittsburgh) for $100
+[15:19] PRR runs a 5 train for $200: I15-H16-H18-I19-H18
+[15:19] PRR pays out $200 = $20 per share ($120 to Larryp1960, $20 to JGould)
+[15:19] PRR's share price moves right from $82 to $90
+[15:19] PRR passes buy trains
+[15:19] PRR skips buy companies
+[15:19] RAUL3826 operates NYNH
+[21:34] NYNH lays tile #9 with rotation 1 on D16
+[21:34] NYNH skips place a token
+[21:34] NYNH runs a 4 train for $220: G19-G17-G19-H18
+[21:34] NYNH pays out $220 = $22 per share ($132 to RAUL3826, $22 to Rowdycc (AEST 6-21), $22 to Larryp1960, $22 to JGould, $22 to NYNH)
+[21:34] NYNH's share price moves right from $75 to $80
+[21:34] NYNH passes buy trains
+[21:34] NYNH skips buy companies
+[21:34] Rowdycc (AEST 6-21) operates B&O
+[21:57] B&O lays tile #61 with rotation 0 on I15 (Baltimore)
+[21:57] B&O skips place a token
+[21:57] B&O runs a 5 train for $220: K13-J14-I15-H16-H18
+[21:57] B&O pays out $220 = $22 per share ($110 to Rowdycc (AEST 6-21), $22 to Larryp1960, $22 to JGould, $22 to RAUL3826)
+[21:57] B&O's share price moves right from $69 to $70
+[21:58] B&O passes buy trains
+[21:58] B&O skips buy companies
+[21:58] JGould operates B&M
+-- 2024-10-12 --
+[00:42] B&M passes lay/upgrade track
+[00:42] B&M skips place a token
+[00:42] B&M runs a 6 train for $100: E23-F24-F22
+[00:42] B&M runs a 6 train for $270: E23-F22-F20-G19-G17-G19
+[00:42] B&M pays out $370 = $37 per share ($222 to JGould, $37 to Larryp1960, $37 to RAUL3826)
+[00:42] B&M's share price moves up from $68 to $69
+[00:42] B&M skips buy trains
+[00:42] B&M skips buy companies
+[00:42] RAUL3826 operates NYC
+[06:52] NYC lays tile #8 with rotation 1 on E13
+[06:52] NYC places a token on G19 (New York & Newark) for $100
+[06:53] NYC runs a 4 train for $180: G19-G17-G19-F20
+[06:53] NYC runs a 4 train for $200: G19-H18-I19-I15
+[06:53] NYC pays out $380 = $38 per share ($190 to RAUL3826, $38 to Rowdycc (AEST 6-21), $38 to Larryp1960)
+[06:53] NYC's share price moves right from $65 to $67
+[06:53] NYC skips buy trains
+[06:53] NYC skips buy companies
+[06:53] JGould operates ERIE
+[06:57] ERIE passes lay/upgrade track
+[06:57] ERIE skips place a token
+[06:57] ERIE skips run routes
+[06:57] ERIE does not run
+[06:57] ERIE's share price moves left from $45 to $36
+[06:58] ERIE passes buy trains
+[06:58] ERIE skips buy companies
+[06:58] -- Operating Round 5.3 (of 3) --
+[06:58] Rowdycc (AEST 6-21) operates C&O
+[08:20] C&O lays tile #41 with rotation 4 on H14
+[08:20] C&O skips place a token
+[08:20] C&O runs a 5 train for $180: F6-G7-H10-H16-I15
+[08:20] C&O pays out $180 = $18 per share ($90 to Rowdycc (AEST 6-21), $18 to Larryp1960, $18 to JGould, $18 to RAUL3826, $18 to C&O)
+[08:20] C&O's share price moves right from $100 to $111
+[08:20] C&O passes buy trains
+[08:20] C&O skips buy companies
+[08:20] Larryp1960 operates PRR
+[12:21] PRR lays tile #42 with rotation 4 on I17
+[12:21] PRR passes place a token
+[12:24] PRR runs a 5 train for $210: I15-H16-H18-I19-H18
+[12:24] PRR pays out $210 = $21 per share ($126 to Larryp1960, $21 to JGould)
+[12:24] PRR's share price moves right from $90 to $100
+[12:24] PRR passes buy trains
+[12:24] PRR skips buy companies
+[12:24] RAUL3826 operates NYNH
+[13:48] NYNH lays tile #16 with rotation 4 on D18
+[13:48] NYNH skips place a token
+[13:48] NYNH runs a 4 train for $220: G19-G17-G19-H18
+[13:48] NYNH pays out $220 = $22 per share ($132 to RAUL3826, $22 to Rowdycc (AEST 6-21), $22 to Larryp1960, $22 to JGould, $22 to NYNH)
+[13:48] NYNH's share price moves up from $80 to $90
+[13:48] NYNH passes buy trains
+[13:48] NYNH skips buy companies
+[13:48] Rowdycc (AEST 6-21) operates B&O
+[21:52] B&O lays tile #23 with rotation 4 on H8
+[21:52] B&O skips place a token
+[21:52] B&O runs a 5 train for $220: K13-J14-I15-H18-H16
+[21:52] B&O pays out $220 = $22 per share ($110 to Rowdycc (AEST 6-21), $22 to Larryp1960, $22 to JGould, $22 to RAUL3826)
+[21:52] B&O's share price moves up from $70 to $75
+[21:53] B&O passes buy trains
+[21:53] B&O skips buy companies
+[21:53] JGould operates B&M
+-- 2024-10-13 --
+[05:35] B&M passes lay/upgrade track
+[05:35] B&M skips place a token
+[05:35] B&M runs a 6 train for $90: E23-F22
+[05:35] B&M runs a 6 train for $190: E23-F24-F22-F20-G19
+[05:37] B&M pays out $280 = $28 per share ($168 to JGould, $28 to Larryp1960, $28 to RAUL3826)
+[05:37] B&M's share price moves right from $69 to $70
+[05:37] B&M skips buy trains
+[05:37] B&M skips buy companies
+[05:37] RAUL3826 operates NYC
+[06:52] NYC lays tile #28 with rotation 0 on D20
+[06:52] NYC skips place a token
+[06:52] NYC runs a 4 train for $180: G19-G17-G19-F20
+[06:52] NYC runs a 4 train for $200: G19-H18-I19-I15
+[06:52] NYC pays out $380 = $38 per share ($190 to RAUL3826, $38 to Rowdycc (AEST 6-21), $38 to Larryp1960)
+[06:52] NYC's share price moves right from $67 to $71
+[06:52] NYC skips buy trains
+[06:52] NYC skips buy companies
+[06:52] JGould operates ERIE
+[07:38] ERIE lays tile #59 with rotation 4 on E11 (Dunkirk & Buffalo)
+[07:38] ERIE must choose city for token
+[07:38] ERIE places a token on E11 (Dunkirk & Buffalo)
+[07:38] ERIE skips place a token
+[07:38] ERIE runs a 4 train for $180: E11-D14-E19-G19
+[07:38] ERIE pays out $180 = $18 per share ($54 to ERIE, $36 to JGould, $18 to Larryp1960)
+[07:38] ERIE's share price moves right from $36 to $45
+[07:38] ERIE passes buy trains
+[07:38] ERIE skips buy companies
+[07:38] -- Stock Round 6 --
+[08:00] Rowdycc (AEST 6-21) buys a 10% share of CPR from the IPO for $100
+[08:00] Rowdycc (AEST 6-21) declines to sell shares
+[12:27] Larryp1960 buys a 10% share of B&O from the IPO for $100
+[12:27] Larryp1960 declines to sell shares
+[15:15] JGould buys a 10% share of C&O from the IPO for $90
+[15:15] JGould declines to sell shares
+[17:40] RAUL3826 buys a 10% share of CPR from the IPO for $100
+[17:40] RAUL3826 declines to sell shares
+[21:41] Rowdycc (AEST 6-21) buys a 10% share of CPR from the IPO for $100
+[21:41] Rowdycc (AEST 6-21) declines to sell shares
+[22:20] Larryp1960 buys a 10% share of B&O from the IPO for $100
+[22:20] Larryp1960 declines to sell shares
+-- 2024-10-14 --
+[02:59] JGould buys a 10% share of PRR from the IPO for $100
+[02:59] JGould declines to sell shares
+[13:28] RAUL3826 buys a 10% share of NYC from the IPO for $76
+[13:29] RAUL3826 declines to sell shares
+[15:14] Rowdycc (AEST 6-21) buys a 10% share of CPR from the IPO for $100
+[15:14] CPR floats
+[15:14] CPR receives $1000
+[15:14] Rowdycc (AEST 6-21) declines to sell shares
+[15:28] Larryp1960 buys a 10% share of CPR from the IPO for $100
+[15:29] Larryp1960 declines to sell shares
+[16:15] JGould buys a 10% share of PRR from the IPO for $100
+[16:17] JGould declines to sell shares
+[17:14] RAUL3826 buys a 10% share of CPR from the IPO for $100
+[17:14] RAUL3826 declines to sell shares
+[21:04] Rowdycc (AEST 6-21) buys a 10% share of CPR from the IPO for $100
+[21:04] Rowdycc (AEST 6-21) declines to sell shares
+[21:45] Larryp1960 buys a 10% share of CPR from the IPO for $100
+[21:45] Larryp1960 declines to sell shares
+[23:31] JGould buys a 10% share of PRR from the IPO for $100
+[23:31] JGould declines to sell shares
+-- 2024-10-15 --
+[11:17] RAUL3826 passes
+[19:43] Rowdycc (AEST 6-21) sells 4 shares of CPR and receives $400
+[19:43] CPR's share price moves down from $100 to $71
+[19:43] Rowdycc (AEST 6-21) buys a 10% share of C&O from the market for $111
+[23:01] Larryp1960 buys a 10% share of CPR from the market for $71
+[23:01] Larryp1960 declines to sell shares
+[23:21] JGould buys a 10% share of NYC from the IPO for $76
+[23:22] JGould declines to sell shares
+-- 2024-10-16 --
+[08:11] RAUL3826 sells a 10% share of C&O and receives $111
+[08:11] C&O's share price moves down from $111 to $100
+[08:11] RAUL3826 buys a 10% share of CPR from the market for $71
+[08:39] Rowdycc (AEST 6-21) buys a 10% share of ERIE from the market for $45
+[08:39] Rowdycc (AEST 6-21) declines to sell shares
+[10:40] Larryp1960 buys a 10% share of CPR from the market for $71
+[10:41] Larryp1960 declines to sell shares
+[15:55] JGould buys a 10% share of C&O from the market for $100
+[15:56] JGould declines to sell shares
+[16:21] RAUL3826 passes
+[22:06] Rowdycc (AEST 6-21) buys a 10% share of B&M from the IPO for $76
+[22:06] Rowdycc (AEST 6-21) declines to sell shares
+-- 2024-10-17 --
+[03:47] Larryp1960 passes
+[04:33] JGould buys a 10% share of ERIE from the market for $45
+[04:35] JGould declines to sell shares
+[06:33] RAUL3826 passes
+[06:44] Rowdycc (AEST 6-21) buys a 10% share of ERIE from the market for $45
+[06:44] Rowdycc (AEST 6-21) declines to sell shares
+[06:44] Larryp1960 passes
+[06:59] JGould buys a 10% share of ERIE from the IPO for $82
+[07:00] JGould declines to sell shares
+[07:00] RAUL3826 passes
+[07:57] Rowdycc (AEST 6-21) buys a 10% share of ERIE from the IPO for $82
+[07:57] Rowdycc (AEST 6-21) declines to sell shares
+[07:57] Larryp1960 passes
+[08:10] JGould buys a 10% share of ERIE from the IPO for $82
+[08:10] JGould declines to sell shares
+[08:10] RAUL3826 passes
+[08:50] Rowdycc (AEST 6-21) buys a 10% share of ERIE from the IPO for $82
+[08:50] Rowdycc (AEST 6-21) declines to sell shares
+[08:50] Larryp1960 passes
+[14:00] JGould passes
+[14:00] RAUL3826 passes
+[21:29] Rowdycc (AEST 6-21) buys a 10% share of B&M from the IPO for $76
+[21:29] Rowdycc (AEST 6-21) declines to sell shares
+[21:29] Larryp1960 passes
+[23:02] JGould passes
+[23:02] RAUL3826 passes
+-- 2024-10-18 --
+[00:52] Rowdycc (AEST 6-21) passes
+[00:52] PRR's share price moves up from $100 to $111
+[00:52] C&O's share price moves up from $100 to $111
+[00:52] B&O's share price moves up from $75 to $82
+[00:52] B&M's share price moves up from $70 to $75
+[00:52] ERIE's share price moves up from $45 to $50
+[00:52] Larryp1960 has priority deal
+[00:52] -- Operating Round 6.1 (of 3) --
+[00:52] Larryp1960 operates PRR
+[02:26] PRR lays tile #9 with rotation 1 on H6
+[02:26] PRR passes place a token
+[02:26] PRR runs a 5 train for $210: I15-H16-H18-I19-H18
+[02:26] PRR pays out $210 = $21 per share ($126 to Larryp1960, $84 to JGould)
+[02:26] PRR's share price moves right from $111 to $125
+[02:26] PRR passes buy trains
+[02:26] PRR skips buy companies
+[02:26] Rowdycc (AEST 6-21) operates C&O
+[02:41] C&O lays tile #41 with rotation 1 on H8
+[02:41] C&O places a token on H16 (Lancaster) for $40
+[02:41] C&O runs a 5 train for $210: I15-H16-H18-I19-H18
+[02:41] C&O pays out $210 = $21 per share ($126 to Rowdycc (AEST 6-21), $63 to JGould, $21 to Larryp1960)
+[02:41] C&O's share price moves right from $111 to $125
+[02:41] C&O passes buy trains
+[02:41] C&O skips buy companies
+[02:41] RAUL3826 operates NYNH
+[06:50] NYNH lays tile #27 with rotation 4 on D16
+[06:50] NYNH skips place a token
+[06:51] NYNH runs a 4 train for $220: G19-G17-G19-H18
+[06:51] NYNH pays out $220 = $22 per share ($132 to RAUL3826, $22 to Larryp1960, $22 to JGould, $22 to Rowdycc (AEST 6-21), $22 to NYNH)
+[06:51] NYNH's share price moves right from $90 to $100
+[06:51] NYNH passes buy trains
+[06:51] NYNH skips buy companies
+[06:51] Rowdycc (AEST 6-21) operates B&O
+[06:55] B&O lays tile #24 with rotation 4 on H6
+[06:55] B&O skips place a token
+[06:55] B&O runs a 5 train for $220: K13-J14-I15-H18-H16
+[06:55] B&O pays out $220 = $22 per share ($110 to Rowdycc (AEST 6-21), $66 to Larryp1960, $22 to JGould, $22 to RAUL3826)
+[06:55] B&O's share price moves right from $82 to $90
+[06:55] B&O passes buy trains
+[06:55] B&O skips buy companies
+[06:55] JGould operates B&M
+[07:02] B&M passes lay/upgrade track
+[07:02] B&M skips place a token
+[07:02] B&M runs a 6 train for $90: E23-F22
+[07:02] B&M runs a 6 train for $190: E23-F24-F22-F20-G19
+[07:02] B&M pays out $280 = $28 per share ($168 to JGould, $56 to Rowdycc (AEST 6-21), $28 to Larryp1960, $28 to RAUL3826)
+[07:02] B&M's share price moves right from $75 to $80
+[07:02] B&M skips buy trains
+[07:02] B&M skips buy companies
+[07:02] RAUL3826 operates NYC
+[08:03] NYC lays tile #39 with rotation 4 on D20
+[08:03] NYC skips place a token
+[08:04] NYC runs a 4 train for $180: G19-G17-G19-F20
+[08:04] NYC runs a 4 train for $200: G19-H18-I19-I15
+[08:04] NYC pays out $380 = $38 per share ($228 to RAUL3826, $38 to Larryp1960, $38 to JGould, $38 to Rowdycc (AEST 6-21))
+[08:04] NYC's share price moves right from $71 to $75
+[08:04] NYC skips buy trains
+[08:04] NYC skips buy companies
+[08:04] RAUL3826 operates CPR
+[08:04] CPR places a token on A19
+[08:04] CPR passes lay/upgrade track
+[08:04] CPR skips place a token
+[08:04] CPR skips run routes
+[08:04] CPR does not run
+[08:04] CPR's share price moves left from $71 to $67
+[08:06] CPR passes buy trains
+[08:06] CPR skips buy companies
+[08:06] JGould operates ERIE
+[14:31] ERIE lays tile #67 with rotation 0 on E11 (Dunkirk & Buffalo)
+[14:31] ERIE places a token on D14 (Rochester) for $40
+[14:31] ERIE runs a 4 train for $190: E11-D14-E19-G19
+[14:31] ERIE withholds $190
+[14:31] ERIE's share price moves left from $50 to $42
+[14:33] ERIE buys a 6 train for $77 from B&M
+[14:33] ERIE skips buy companies
+[14:33] -- Operating Round 6.2 (of 3) --
+[14:33] Larryp1960 operates PRR
+[15:10] PRR lays tile #57 with rotation 1 on H4 (Columbus)
+[15:11] PRR passes place a token
+[15:11] PRR runs a 5 train for $210: I15-H18-H16-H10-H4
+[15:11] PRR pays out $210 = $21 per share ($126 to Larryp1960, $84 to JGould)
+[15:11] PRR's share price moves right from $125 to $140
+[15:11] PRR passes buy trains
+[15:11] PRR skips buy companies
+[15:11] Rowdycc (AEST 6-21) operates C&O
+[18:01] C&O lays tile #9 with rotation 0 on I5
+[18:01] C&O skips place a token
+[18:01] C&O runs a 5 train for $210: I15-H18-H16-H10-H4
+[18:02] C&O pays out $210 = $21 per share ($126 to Rowdycc (AEST 6-21), $63 to JGould, $21 to Larryp1960)
+[18:02] C&O's share price moves right from $125 to $140
+[18:02] C&O passes buy trains
+[18:02] C&O skips buy companies
+[18:02] RAUL3826 operates NYNH
+[18:30] NYNH passes lay/upgrade track
+[18:30] NYNH skips place a token
+[18:30] NYNH runs a 4 train for $220: G19-G17-G19-H18
+[18:30] NYNH pays out $220 = $22 per share ($132 to RAUL3826, $22 to Larryp1960, $22 to JGould, $22 to Rowdycc (AEST 6-21), $22 to NYNH)
+[18:30] NYNH's share price moves up from $100 to $110
+[18:30] NYNH passes buy trains
+[18:30] NYNH skips buy companies
+[18:30] Rowdycc (AEST 6-21) operates B&O
+[21:20] B&O lays tile #8 with rotation 1 on J4
+[21:20] B&O skips place a token
+[21:20] B&O runs a 5 train for $250: J2-H10-I15-H18-H16
+[21:20] B&O pays out $250 = $25 per share ($125 to Rowdycc (AEST 6-21), $75 to Larryp1960, $25 to JGould, $25 to RAUL3826)
+[21:20] B&O's share price moves right from $90 to $100
+[21:20] B&O passes buy trains
+[21:20] B&O skips buy companies
+[21:20] JGould operates B&M
+-- 2024-10-19 --
+[02:03] B&M spends $120 and lays tile #9 with rotation 1 on E21
+[02:03] B&M skips place a token
+[02:03] B&M runs a 6 train for $270: F22-E23-E19-G17-G19-H18
+[02:03] B&M pays out $270 = $27 per share ($162 to JGould, $54 to Rowdycc (AEST 6-21), $27 to Larryp1960, $27 to RAUL3826)
+[02:03] B&M's share price moves up from $80 to $90
+[02:07] B&M passes buy trains
+[02:07] B&M skips buy companies
+[02:07] RAUL3826 operates NYC
+[06:53] NYC passes lay/upgrade track
+[06:53] NYC skips place a token
+[06:54] NYC runs a 4 train for $190: E23-E19-G19-F20
+[06:54] NYC runs a 4 train for $200: G19-H18-I19-I15
+[06:54] NYC pays out $390 = $39 per share ($234 to RAUL3826, $39 to Larryp1960, $39 to JGould, $39 to Rowdycc (AEST 6-21))
+[06:54] NYC's share price moves right from $75 to $80
+[06:54] NYC skips buy trains
+[06:54] NYC skips buy companies
+[06:54] RAUL3826 operates CPR
+[06:54] CPR passes lay/upgrade track
+[06:54] CPR skips place a token
+[06:54] CPR skips run routes
+[06:54] CPR does not run
+[06:54] CPR's share price moves left from $67 to $62
+[06:54] CPR passes buy trains
+[06:54] CPR skips buy companies
+[06:54] JGould operates ERIE
+[14:17] ERIE lays tile #8 with rotation 4 on D12
+[14:18] ERIE passes place a token
+[14:18] ERIE runs a 6 train for $200: D14-E19-G17-G19-H18
+[14:18] ERIE runs a 4 train for $120: E11-D14-E11
+[14:18] ERIE withholds $320
+[14:18] ERIE's share price moves left from $42 to $34
+[14:18] ERIE skips buy trains
+[14:18] ERIE skips buy companies
+[14:18] -- Operating Round 6.3 (of 3) --
+[14:18] Larryp1960 operates PRR
+[20:50] PRR lays tile #15 with rotation 1 on H4 (Columbus)
+[20:50] PRR passes place a token
+[20:50] PRR runs a 5 train for $250: J2-H10-H16-H18-I15
+[20:50] PRR pays out $250 = $25 per share ($150 to Larryp1960, $100 to JGould)
+[20:50] PRR's share price moves right from $140 to $155
+[20:50] PRR passes buy trains
+[20:50] PRR skips buy companies
+[20:50] Rowdycc (AEST 6-21) operates C&O
+-- 2024-10-20 --
+[00:44] C&O lays tile #9 with rotation 2 on G3
+[00:44] C&O skips place a token
+[00:45] C&O runs a 5 train for $250: J2-H10-H16-H18-I15
+[00:45] C&O pays out $250 = $25 per share ($150 to Rowdycc (AEST 6-21), $75 to JGould, $25 to Larryp1960)
+[00:45] C&O's share price moves right from $140 to $155
+[00:45] C&O passes buy trains
+[00:45] C&O skips buy companies
+[00:45] RAUL3826 operates NYNH
+[07:57] NYNH lays tile #23 with rotation 1 on E21
+[07:57] NYNH skips place a token
+[07:57] NYNH runs a 4 train for $220: G19-G17-G19-H18
+[07:57] NYNH pays out $220 = $22 per share ($132 to RAUL3826, $22 to Larryp1960, $22 to JGould, $22 to Rowdycc (AEST 6-21), $22 to NYNH)
+[07:57] NYNH's share price moves right from $110 to $120
+[07:57] NYNH passes buy trains
+[07:57] NYNH skips buy companies
+[07:57] Rowdycc (AEST 6-21) operates B&O
+[08:05] B&O passes lay/upgrade track
+[08:05] B&O skips place a token
+[08:05] B&O runs a 5 train for $250: J2-H10-I15-H18-H16
+[08:05] B&O pays out $250 = $25 per share ($125 to Rowdycc (AEST 6-21), $75 to Larryp1960, $25 to JGould, $25 to RAUL3826)
+[08:05] B&O's share price moves up from $100 to $110
+[08:06] B&O passes buy trains
+[08:06] B&O skips buy companies
+[08:06] JGould operates B&M
+[12:10] B&M lays tile #47 with rotation 1 on E21
+[12:10] B&M skips place a token
+[12:10] B&M runs a 6 train for $270: F22-E23-E19-G17-G19-H18
+[12:10] B&M pays out $270 = $27 per share ($162 to JGould, $54 to Rowdycc (AEST 6-21), $27 to Larryp1960, $27 to RAUL3826)
+[12:10] B&M's share price moves right from $90 to $100
+[12:11] B&M passes buy trains
+[12:11] B&M skips buy companies
+[12:11] RAUL3826 operates NYC
+[13:12] NYC passes lay/upgrade track
+[13:12] NYC skips place a token
+[13:12] NYC runs a 4 train for $190: E23-E19-G19-F20
+[13:12] NYC runs a 4 train for $200: G19-H18-I19-I15
+[13:12] NYC pays out $390 = $39 per share ($234 to RAUL3826, $39 to Larryp1960, $39 to JGould, $39 to Rowdycc (AEST 6-21))
+[13:12] NYC's share price moves up from $80 to $90
+[13:12] NYC skips buy trains
+[13:12] NYC skips buy companies
+[13:12] RAUL3826 operates CPR
+[13:12] CPR passes lay/upgrade track
+[13:12] CPR skips place a token
+[13:12] CPR skips run routes
+[13:12] CPR does not run
+[13:12] CPR's share price moves left from $62 to $55
+[13:14] CPR buys a 4 train for $998 from NYC
+[13:15] CPR passes buy trains
+[13:15] CPR skips buy companies
+[13:15] JGould operates ERIE
+[13:42] ERIE spends $80 and lays tile #59 with rotation 3 on D10 (Hamilton & Toronto)
+[13:42] ERIE passes place a token
+[13:42] ERIE runs a 6 train for $200: D14-E19-G17-G19-H18
+[13:42] ERIE runs a 4 train for $160: E11-D14-E11-D10
+[13:42] ERIE withholds $360
+[13:42] ERIE's share price moves left from $34 to $25
+[13:42] ERIE skips buy trains
+[13:42] ERIE skips buy companies
+[13:42] -- Stock Round 7 --
+[18:02] Larryp1960 buys a 10% share of CPR from the market for $55
+[18:03] Larryp1960 sells 5 shares of CPR and receives $275
+[18:03] CPR's share price moves down from $55 to $20
+[20:53] JGould buys a 10% share of CPR from the market for $20
+[20:54] JGould buys a 10% share of CPR from the market for $20
+[20:54] JGould buys a 10% share of CPR from the market for $20
+[20:54] JGould buys a 10% share of CPR from the market for $20
+[20:54] JGould buys a 10% share of CPR from the market for $20
+[20:54] JGould declines to sell shares
+[21:27] RAUL3826 sells 4 shares of CPR and receives $80
+[21:27] JGould becomes the president of CPR
+[21:27] CPR's share price moves down from $20 to $10
+[21:28] RAUL3826 declines to buy shares
+[21:33] Rowdycc (AEST 6-21) buys a 10% share of CPR from the market for $10
+[21:33] Rowdycc (AEST 6-21) declines to sell shares
+[22:47] Larryp1960 buys a 10% share of NYC from the IPO for $76
+[22:47] Larryp1960 declines to sell shares
+-- 2024-10-21 --
+[04:40] JGould buys a 10% share of CPR from the market for $10
+[04:40] JGould buys a 10% share of CPR from the market for $10
+[04:40] JGould buys a 10% share of CPR from the market for $10
+[04:40] JGould declines to sell shares
+[06:35] RAUL3826 passes
+[07:52] Rowdycc (AEST 6-21) passes
+[10:37] Larryp1960 passes
+[16:09] JGould passes
+[16:09] PRR's share price moves up from $155 to $180
+[16:09] C&O's share price moves up from $155 to $180
+[16:09] B&O's share price moves up from $110 to $125
+[16:09] B&M's share price moves up from $100 to $110
+[16:09] NYC's share price moves up from $90 to $100
+[16:09] ERIE's share price moves up from $25 to $32
+[16:09] CPR's share price moves up from $10 to $20
+[16:09] RAUL3826 has priority deal
+[16:09] -- Operating Round 7.1 (of 3) --
+[16:09] Larryp1960 operates PRR
+[16:53] PRR lays tile #23 with rotation 3 on I5
+[16:53] PRR passes place a token
+[16:53] PRR runs a 5 train for $250: J2-H10-H16-H18-I15
+[16:53] PRR pays out $250 = $25 per share ($150 to Larryp1960, $100 to JGould)
+[16:53] PRR's share price moves right from $180 to $200
+[16:53] PRR passes buy trains
+[16:53] PRR skips buy companies
+[16:53] Rowdycc (AEST 6-21) operates C&O
+[21:28] C&O passes lay/upgrade track
+[21:28] C&O skips place a token
+[21:28] C&O runs a 5 train for $250: J2-H10-H16-H18-I15
+[21:28] C&O pays out $250 = $25 per share ($150 to Rowdycc (AEST 6-21), $75 to JGould, $25 to Larryp1960)
+[21:28] C&O's share price moves right from $180 to $200
+[21:28] C&O passes buy trains
+[21:28] C&O skips buy companies
+[21:28] Rowdycc (AEST 6-21) operates B&O
+[21:28] B&O passes lay/upgrade track
+[21:28] B&O skips place a token
+[21:28] B&O runs a 5 train for $250: J2-H10-I15-H18-H16
+[21:28] B&O pays out $250 = $25 per share ($125 to Rowdycc (AEST 6-21), $75 to Larryp1960, $25 to RAUL3826, $25 to JGould)
+[21:28] B&O's share price moves right from $125 to $140
+[21:28] B&O passes buy trains
+[21:28] B&O skips buy companies
+[21:28] RAUL3826 operates NYNH
+-- 2024-10-22 --
+[06:18] NYNH passes lay/upgrade track
+[06:18] NYNH skips place a token
+[06:19] NYNH runs a 4 train for $220: G19-G17-G19-H18
+[06:19] NYNH pays out $220 = $22 per share ($132 to RAUL3826, $22 to Rowdycc (AEST 6-21), $22 to Larryp1960, $22 to JGould, $22 to NYNH)
+[06:19] NYNH's share price moves right from $120 to $130
+[06:20] NYNH passes buy trains
+[06:20] NYNH skips buy companies
+[06:20] JGould operates B&M
+[07:44] B&M passes lay/upgrade track
+[07:44] B&M skips place a token
+[07:45] B&M runs a 6 train for $270: F22-E23-E19-G17-G19-H18
+[07:45] B&M pays out $270 = $27 per share ($162 to JGould, $54 to Rowdycc (AEST 6-21), $27 to RAUL3826, $27 to Larryp1960)
+[07:45] B&M's share price moves right from $110 to $120
+[07:45] B&M passes buy trains
+[07:45] B&M skips buy companies
+[07:45] RAUL3826 operates NYC
+[08:32] NYC passes lay/upgrade track
+[08:32] NYC skips place a token
+[08:32] NYC runs a 4 train for $200: G19-H18-I19-I15
+[08:32] NYC withholds $200
+[08:32] NYC's share price moves left from $100 to $90
+[08:33] NYC buys a 4 train for $436 from NYNH
+[08:33] NYC exchanges a 4 for a D train for $800 from The Depot
+[08:33] -- Phase D (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[08:33] -- Event: 4 trains rust ( NYC x1, ERIE x1, CPR x1, The Depot x1) --
+[08:34] NYC passes buy trains
+[08:34] NYC skips buy companies
+[08:34] JGould operates ERIE
+[14:27] ERIE spends $120 and lays tile #9 with rotation 1 on D22
+[14:27] ERIE passes place a token
+[14:27] ERIE runs a 6 train for $250: E11-D14-E19-G17-G19-H18
+[14:28] ERIE withholds $250
+[14:28] ERIE's share price moves down from $32 to $25
+[14:28] ERIE passes buy trains
+[14:28] ERIE skips buy companies
+[14:28] JGould operates CPR
+[14:28] CPR passes lay/upgrade track
+[14:28] CPR skips place a token
+[14:28] CPR skips run routes
+[14:28] CPR does not run
+[14:28] CPR's share price moves left from $20 to $10
+[14:28] CPR passes buy trains
+[14:28] CPR skips buy companies
+[14:28] -- Operating Round 7.2 (of 3) --
+[14:28] Larryp1960 operates PRR
+[15:29] PRR lays tile #8 with rotation 2 on I3
+[15:29] PRR passes place a token
+[15:29] PRR runs a 5 train for $250: J2-H10-H16-H18-I15
+[15:29] PRR pays out $250 = $25 per share ($150 to Larryp1960, $100 to JGould)
+[15:29] PRR's share price moves right from $200 to $220
+[15:29] PRR passes buy trains
+[15:29] PRR skips buy companies
+[15:29] Rowdycc (AEST 6-21) operates C&O
+[21:35] C&O lays tile #8 with rotation 3 on H2
+[21:35] C&O skips place a token
+[21:35] C&O runs a 5 train for $250: J2-H10-H16-H18-I15
+[21:35] C&O pays out $250 = $25 per share ($150 to Rowdycc (AEST 6-21), $75 to JGould, $25 to Larryp1960)
+[21:35] C&O's share price moves right from $200 to $220
+[21:35] C&O passes buy trains
+[21:35] C&O skips buy companies
+[21:35] Rowdycc (AEST 6-21) operates B&O
+[21:35] B&O lays tile #23 with rotation 2 on G3
+[21:35] B&O skips place a token
+[21:35] B&O runs a 5 train for $260: F2-H10-I15-H18-H16
+[21:35] B&O pays out $260 = $26 per share ($130 to Rowdycc (AEST 6-21), $78 to Larryp1960, $26 to RAUL3826, $26 to JGould)
+[21:35] B&O's share price moves right from $140 to $155
+[21:36] B&O passes buy trains
+[21:36] B&O skips buy companies
+[21:36] RAUL3826 operates NYNH
+[21:43] NYNH passes lay/upgrade track
+[21:43] NYNH skips place a token
+[21:43] NYNH skips run routes
+[21:43] NYNH does not run
+[21:43] NYNH's share price moves left from $130 to $120
+[21:43] RAUL3826 contributes $357
+[21:43] NYNH buys a D train for $1100 from The Depot
+[21:43] NYNH skips buy companies
+[21:43] JGould operates B&M
+-- 2024-10-23 --
+[01:43] B&M passes lay/upgrade track
+[01:43] B&M skips place a token
+[01:43] B&M runs a 6 train for $270: F22-E23-E19-G17-G19-H18
+[01:44] B&M pays out $270 = $27 per share ($162 to JGould, $54 to Rowdycc (AEST 6-21), $27 to RAUL3826, $27 to Larryp1960)
+[01:44] B&M's share price moves right from $120 to $130
+[01:46] B&M passes buy trains
+[01:46] B&M skips buy companies
+[01:46] RAUL3826 operates NYC
+[06:35] NYC lays tile #24 with rotation 1 on D22
+[06:35] NYC skips place a token
+[06:35] NYC runs a D train for $360: H16-H18-I19-H18-G19-G17-G19-F20-F22
+[06:35] NYC pays out $360 = $36 per share ($216 to RAUL3826, $72 to Larryp1960, $36 to Rowdycc (AEST 6-21), $36 to JGould)
+[06:35] NYC's share price moves right from $90 to $100
+[06:35] NYC passes buy trains
+[06:35] NYC skips buy companies
+[06:35] JGould operates ERIE
+[13:36] ERIE lays tile #8 with rotation 0 on C23
+[13:36] ERIE passes place a token
+[13:36] ERIE runs a 6 train for $250: E11-D14-E19-G17-G19-H18
+[13:36] ERIE withholds $250
+[13:36] ERIE's share price moves down from $25 to $18
+[13:36] ERIE buys a D train for $1100 from The Depot
+[13:36] ERIE skips buy companies
+[13:36] JGould operates CPR
+[13:37] CPR lays tile #58 with rotation 2 on B20 (Burlington)
+[13:37] CPR skips place a token
+[13:37] CPR skips run routes
+[13:37] CPR does not run
+[13:37] CPR buys a 6 train for $1 from ERIE
+[13:38] CPR passes buy trains
+[13:38] CPR skips buy companies
+[13:38] -- Operating Round 7.3 (of 3) --
+[13:38] Larryp1960 operates PRR
+[14:14] PRR passes lay/upgrade track
+[14:15] PRR places a token on H18 (Philadelphia & Trenton) for $100
+[14:15] PRR runs a 5 train for $260: F2-H10-H16-H18-I15
+[14:15] PRR pays out $260 = $26 per share ($156 to Larryp1960, $104 to JGould)
+[14:15] PRR's share price moves right from $220 to $240
+[14:15] PRR passes buy trains
+[14:15] PRR skips buy companies
+[14:15] Rowdycc (AEST 6-21) operates C&O
+[21:13] C&O passes lay/upgrade track
+[21:13] C&O skips place a token
+[21:13] C&O runs a 5 train for $240: F2-H4-H10-H16-I15
+[21:13] C&O pays out $240 = $24 per share ($144 to Rowdycc (AEST 6-21), $72 to JGould, $24 to Larryp1960)
+[21:13] C&O's share price moves right from $220 to $240
+[21:13] C&O passes buy trains
+[21:13] C&O skips buy companies
+[21:13] Rowdycc (AEST 6-21) operates B&O
+[21:13] B&O passes lay/upgrade track
+[21:13] B&O skips place a token
+[21:13] B&O runs a 5 train for $250: F2-H4-H10-I15-H18
+[21:13] B&O pays out $250 = $25 per share ($125 to Rowdycc (AEST 6-21), $75 to Larryp1960, $25 to RAUL3826, $25 to JGould)
+[21:13] B&O's share price moves right from $155 to $170
+[21:13] B&O passes buy trains
+[21:13] B&O skips buy companies
+[21:13] JGould operates B&M
+-- 2024-10-24 --
+[04:01] B&M lays tile #8 with rotation 5 on B22
+[04:01] B&M skips place a token
+[04:01] B&M runs a 6 train for $270: F22-E23-E19-G17-G19-H18
+[04:01] B&M pays out $270 = $27 per share ($162 to JGould, $54 to Rowdycc (AEST 6-21), $27 to RAUL3826, $27 to Larryp1960)
+[04:01] B&M's share price moves up from $130 to $155
+[04:03] B&M passes buy trains
+[04:03] B&M skips buy companies
+[04:03] RAUL3826 operates NYNH
+[07:10] NYNH passes lay/upgrade track
+[07:10] NYNH skips place a token
+[07:10] NYNH runs a D train for $360: E23-E19-F22-F20-G19-G17-G19-H18
+[07:10] NYNH pays out $360 = $36 per share ($216 to RAUL3826, $36 to Rowdycc (AEST 6-21), $36 to Larryp1960, $36 to JGould, $36 to NYNH)
+[07:10] NYNH's share price moves right from $120 to $130
+[07:10] NYNH passes buy trains
+[07:10] NYNH skips buy companies
+[07:10] RAUL3826 operates NYC
+[07:11] NYC passes lay/upgrade track
+[07:11] NYC skips place a token
+[07:11] NYC runs a D train for $330: I15-I19-H18-G19-G17-G19-F20-F22
+[07:11] NYC pays out $330 = $33 per share ($198 to RAUL3826, $66 to Larryp1960, $33 to Rowdycc (AEST 6-21), $33 to JGould)
+[07:11] NYC's share price moves right from $100 to $110
+[07:11] NYC passes buy trains
+[07:11] NYC skips buy companies
+[07:11] JGould operates ERIE
+[13:40] ERIE lays tile #65 with rotation 3 on D10 (Hamilton & Toronto)
+[13:40] ERIE skips place a token
+[13:41] ERIE runs a D train for $300: H18-G19-G17-E19-D14-E11-D10
+[13:42] ERIE pays out $300 = $30 per share ($150 to JGould, $120 to Rowdycc (AEST 6-21), $30 to Larryp1960)
+[13:42] ERIE's share price moves right from $18 to $27
+[13:42] ERIE passes buy trains
+[13:42] ERIE skips buy companies
+[13:42] JGould operates CPR
+[13:44] CPR passes lay/upgrade track
+[13:44] CPR skips place a token
+[13:44] CPR runs a 6 train for $230: A19-B20-E19-G17-G19-H18
+[13:44] CPR pays out $230 = $23 per share ($184 to JGould, $23 to RAUL3826, $23 to Rowdycc (AEST 6-21))
+[13:44] CPR's share price moves right from $10 to $20
+[13:44] CPR passes buy trains
+[13:44] CPR skips buy companies
+[13:44] -- Stock Round 8 --
+[15:30] RAUL3826 passes
+[21:02] Rowdycc (AEST 6-21) buys a 10% share of NYNH from the market for $130
+[21:02] Rowdycc (AEST 6-21) declines to sell shares
+[22:06] Larryp1960 passes
+-- 2024-10-25 --
+[01:53] JGould passes
+[01:53] RAUL3826 passes
+[03:27] Rowdycc (AEST 6-21) passes
+[03:27] PRR's share price moves up from $240 to $275
+[03:27] C&O's share price moves up from $240 to $275
+[03:27] B&O's share price moves up from $170 to $200
+[03:27] B&M's share price moves up from $155 to $180
+[03:27] NYNH's share price moves up from $130 to $155
+[03:27] NYC's share price moves up from $110 to $125
+[03:27] ERIE's share price moves up from $27 to $34
+[03:27] CPR's share price moves up from $20 to $30
+[03:27] Larryp1960 has priority deal
+[03:27] -- Operating Round 8.1 (of 3) --
+[03:27] Larryp1960 operates PRR
+[04:02] PRR passes lay/upgrade track
+[04:02] PRR skips place a token
+[04:02] PRR runs a 5 train for $260: F2-H10-H16-H18-I15
+[04:02] PRR pays out $260 = $26 per share ($156 to Larryp1960, $104 to JGould)
+[04:02] PRR's share price moves right from $275 to $300
+[04:02] PRR passes buy trains
+[04:02] PRR skips buy companies
+[04:02] Rowdycc (AEST 6-21) operates C&O
+[04:17] C&O passes lay/upgrade track
+[04:17] C&O skips place a token
+[04:17] C&O runs a 5 train for $240: F2-H4-H10-H16-I15
+[04:17] C&O pays out $240 = $24 per share ($144 to Rowdycc (AEST 6-21), $72 to JGould, $24 to Larryp1960)
+[04:17] C&O's share price moves right from $275 to $300
+[04:17] C&O passes buy trains
+[04:17] C&O skips buy companies
+[04:17] Rowdycc (AEST 6-21) operates B&O
+[04:17] B&O passes lay/upgrade track
+[04:17] B&O skips place a token
+[04:17] B&O runs a 5 train for $250: F2-H4-H10-I15-H18
+[04:17] B&O pays out $250 = $25 per share ($125 to Rowdycc (AEST 6-21), $75 to Larryp1960, $25 to JGould, $25 to RAUL3826)
+[04:17] B&O's share price moves right from $200 to $220
+[04:17] B&O passes buy trains
+[04:17] B&O skips buy companies
+[04:17] JGould operates B&M
+[04:31] B&M passes lay/upgrade track
+[04:31] B&M skips place a token
+[04:31] B&M runs a 6 train for $270: F22-E23-E19-G17-G19-H18
+[04:31] B&M pays out $270 = $27 per share ($162 to JGould, $54 to Rowdycc (AEST 6-21), $27 to Larryp1960, $27 to RAUL3826)
+[04:31] B&M's share price moves right from $180 to $200
+[04:31] B&M passes buy trains
+[04:31] B&M skips buy companies
+[04:31] RAUL3826 operates NYNH
+[15:59] NYNH passes lay/upgrade track
+[15:59] NYNH skips place a token
+[15:59] NYNH runs a D train for $360: E23-E19-F22-F20-G19-G17-G19-H18
+[15:59] NYNH pays out $360 = $36 per share ($216 to RAUL3826, $72 to Rowdycc (AEST 6-21), $36 to Larryp1960, $36 to JGould)
+[15:59] NYNH's share price moves right from $155 to $170
+[15:59] NYNH passes buy trains
+[15:59] NYNH skips buy companies
+[15:59] RAUL3826 operates NYC
+[15:59] NYC passes lay/upgrade track
+[15:59] NYC skips place a token
+[15:59] NYC runs a D train for $330: I15-I19-H18-G19-G17-G19-F20-F22
+[15:59] NYC pays out $330 = $33 per share ($198 to RAUL3826, $66 to Larryp1960, $33 to JGould, $33 to Rowdycc (AEST 6-21))
+[15:59] NYC's share price moves right from $125 to $140
+[15:59] NYC passes buy trains
+[15:59] NYC skips buy companies
+[15:59] JGould operates ERIE
+[20:17] ERIE lays tile #7 with rotation 4 on D8
+[20:17] ERIE skips place a token
+[20:17] ERIE runs a D train for $350: H18-G19-G17-E19-D14-E11-D10-D10
+[20:17] -- The bank has broken --
+[20:17] ERIE pays out $350 = $35 per share ($175 to JGould, $140 to Rowdycc (AEST 6-21), $35 to Larryp1960)
+[20:17] ERIE's share price moves right from $34 to $42
+[20:17] ERIE passes buy trains
+[20:17] ERIE skips buy companies
+[20:17] JGould operates CPR
+[20:18] CPR passes lay/upgrade track
+[20:18] CPR skips place a token
+[20:18] CPR runs a 6 train for $230: A19-B20-E19-G17-G19-H18
+[20:18] CPR pays out $230 = $23 per share ($184 to JGould, $23 to RAUL3826, $23 to Rowdycc (AEST 6-21))
+[20:18] CPR's share price moves right from $30 to $40
+[20:18] CPR passes buy trains
+[20:18] CPR skips buy companies
+[20:18] -- Operating Round 8.2 (of 3) --
+[20:18] Larryp1960 operates PRR
+[20:47] PRR passes lay/upgrade track
+[20:47] PRR skips place a token
+[20:47] PRR runs a 5 train for $260: F2-H10-H16-H18-I15
+[20:47] PRR pays out $260 = $26 per share ($156 to Larryp1960, $104 to JGould)
+[20:47] PRR's share price moves right from $300 to $325
+[20:47] PRR passes buy trains
+[20:47] PRR skips buy companies
+[20:47] Rowdycc (AEST 6-21) operates C&O
+[21:02] C&O passes lay/upgrade track
+[21:02] C&O skips place a token
+[21:02] C&O runs a 5 train for $240: F2-H4-H10-H16-I15
+[21:02] C&O pays out $240 = $24 per share ($144 to Rowdycc (AEST 6-21), $72 to JGould, $24 to Larryp1960)
+[21:02] C&O's share price moves right from $300 to $325
+[21:02] C&O passes buy trains
+[21:02] C&O skips buy companies
+[21:02] Rowdycc (AEST 6-21) operates B&O
+[21:02] B&O passes lay/upgrade track
+[21:02] B&O skips place a token
+[21:02] B&O runs a 5 train for $250: F2-H4-H10-I15-H18
+[21:02] B&O pays out $250 = $25 per share ($125 to Rowdycc (AEST 6-21), $75 to Larryp1960, $25 to JGould, $25 to RAUL3826)
+[21:02] B&O's share price moves right from $220 to $240
+[21:02] B&O passes buy trains
+[21:02] B&O skips buy companies
+[21:02] JGould operates B&M
+-- 2024-10-26 --
+[00:38] B&M passes lay/upgrade track
+[00:38] B&M skips place a token
+[00:41] B&M runs a 6 train for $270: F22-E23-E19-G17-G19-H18
+[00:41] B&M pays out $270 = $27 per share ($162 to JGould, $54 to Rowdycc (AEST 6-21), $27 to Larryp1960, $27 to RAUL3826)
+[00:41] B&M's share price moves right from $200 to $220
+[00:41] B&M passes buy trains
+[00:41] B&M skips buy companies
+[00:41] RAUL3826 operates NYNH
+[06:57] NYNH passes lay/upgrade track
+[06:57] NYNH skips place a token
+[06:57] NYNH runs a D train for $360: E23-E19-F22-F20-G19-G17-G19-H18
+[06:57] NYNH pays out $360 = $36 per share ($216 to RAUL3826, $72 to Rowdycc (AEST 6-21), $36 to Larryp1960, $36 to JGould)
+[06:57] NYNH's share price moves right from $170 to $185
+[06:57] NYNH passes buy trains
+[06:57] NYNH skips buy companies
+[06:57] RAUL3826 operates NYC
+[06:57] NYC passes lay/upgrade track
+[06:57] NYC skips place a token
+[06:58] NYC runs a D train for $330: I15-I19-H18-G19-G17-G19-F20-F22
+[06:58] NYC pays out $330 = $33 per share ($198 to RAUL3826, $66 to Larryp1960, $33 to JGould, $33 to Rowdycc (AEST 6-21))
+[06:58] NYC's share price moves right from $140 to $155
+[06:58] NYC passes buy trains
+[06:58] NYC skips buy companies
+[06:58] JGould operates ERIE
+[06:59] ERIE lays tile #8 with rotation 0 on C11
+[06:59] ERIE skips place a token
+[06:59] ERIE runs a D train for $350: H18-G19-G17-E19-D14-E11-D10-D10
+[06:59] ERIE pays out $350 = $35 per share ($175 to JGould, $140 to Rowdycc (AEST 6-21), $35 to Larryp1960)
+[06:59] ERIE's share price moves right from $42 to $50
+[06:59] ERIE passes buy trains
+[06:59] ERIE skips buy companies
+[06:59] JGould operates CPR
+[07:00] CPR passes lay/upgrade track
+[07:00] CPR skips place a token
+[07:00] CPR runs a 6 train for $230: A19-B20-E19-G17-G19-H18
+[07:03] CPR pays out $230 = $23 per share ($184 to JGould, $23 to RAUL3826, $23 to Rowdycc (AEST 6-21))
+[07:03] CPR's share price moves right from $40 to $50
+[07:03] CPR passes buy trains
+[07:03] CPR skips buy companies
+[07:03] -- Operating Round 8.3 (of 3) --
+[07:03] Larryp1960 operates PRR
+[12:18] PRR passes lay/upgrade track
+[12:18] PRR skips place a token
+[12:18] PRR runs a 5 train for $260: F2-H10-H16-H18-I15
+[12:18] PRR pays out $260 = $26 per share ($156 to Larryp1960, $104 to JGould)
+[12:18] PRR's share price moves right from $325 to $350
+[12:18] PRR passes buy trains
+[12:18] PRR skips buy companies
+[12:18] Rowdycc (AEST 6-21) operates C&O
+[12:52] C&O passes lay/upgrade track
+[12:52] C&O skips place a token
+[12:52] C&O runs a 5 train for $240: F2-H4-H10-H16-I15
+[12:52] C&O pays out $240 = $24 per share ($144 to Rowdycc (AEST 6-21), $72 to JGould, $24 to Larryp1960)
+[12:52] C&O's share price moves right from $325 to $350
+[12:52] C&O passes buy trains
+[12:52] C&O skips buy companies
+[12:52] Rowdycc (AEST 6-21) operates B&O
+[12:52] B&O passes lay/upgrade track
+[12:52] B&O skips place a token
+[12:52] B&O runs a 5 train for $250: F2-H4-H10-I15-H18
+[12:52] B&O pays out $250 = $25 per share ($125 to Rowdycc (AEST 6-21), $75 to Larryp1960, $25 to JGould, $25 to RAUL3826)
+[12:52] B&O's share price moves right from $240 to $260
+[12:52] B&O passes buy trains
+[12:52] B&O skips buy companies
+[12:52] JGould operates B&M
+[14:55] B&M passes lay/upgrade track
+[14:55] B&M skips place a token
+[14:56] B&M runs a 6 train for $270: F22-E23-E19-G17-G19-H18
+[14:56] B&M pays out $270 = $27 per share ($162 to JGould, $54 to Rowdycc (AEST 6-21), $27 to Larryp1960, $27 to RAUL3826)
+[14:56] B&M's share price moves right from $220 to $240
+[14:56] B&M passes buy trains
+[14:56] B&M skips buy companies
+[14:56] RAUL3826 operates NYNH
+[18:21] NYNH passes lay/upgrade track
+[18:21] NYNH skips place a token
+[18:21] NYNH runs a D train for $360: E23-E19-F22-F20-G19-G17-G19-H18
+[18:21] NYNH pays out $360 = $36 per share ($216 to RAUL3826, $72 to Rowdycc (AEST 6-21), $36 to Larryp1960, $36 to JGould)
+[18:21] NYNH's share price moves right from $185 to $200
+[18:21] NYNH passes buy trains
+[18:21] NYNH skips buy companies
+[18:21] RAUL3826 operates NYC
+[18:21] NYC passes lay/upgrade track
+[18:21] NYC skips place a token
+[18:21] NYC runs a D train for $330: I15-I19-H18-G19-G17-G19-F20-F22
+[18:21] NYC pays out $330 = $33 per share ($198 to RAUL3826, $66 to Larryp1960, $33 to JGould, $33 to Rowdycc (AEST 6-21))
+[18:21] NYC's share price moves right from $155 to $170
+[18:21] NYC passes buy trains
+[18:21] NYC skips buy companies
+[18:21] JGould operates CPR
+-- 2024-10-27 --
+[00:13] CPR passes lay/upgrade track
+[00:13] CPR skips place a token
+[00:13] CPR runs a 6 train for $230: A19-B20-E19-G17-G19-H18
+[00:13] CPR pays out $230 = $23 per share ($184 to JGould, $23 to RAUL3826, $23 to Rowdycc (AEST 6-21))
+[00:13] CPR's share price moves right from $50 to $60
+[00:13] CPR passes buy trains
+[00:13] CPR skips buy companies
+[00:13] JGould operates ERIE
+[00:13] ERIE lays tile #57 with rotation 2 on B10 (Barrie)
+[00:13] ERIE skips place a token
+[00:14] ERIE runs a D train for $420: A9-B10-D10-D10-E11-D14-E19-G17-G19-H18
+[00:14] ERIE pays out $420 = $42 per share ($210 to JGould, $168 to Rowdycc (AEST 6-21), $42 to Larryp1960)
+[00:14] ERIE's share price moves right from $50 to $58
+[00:14] ERIE passes buy trains
+[00:14] ERIE skips buy companies
+[00:14] -- Game over: JGould ($10427), Rowdycc (AEST 6-21) ($8906), Larryp1960 ($7598), RAUL3826 ($7084) --

@@ -1,0 +1,893 @@
+-- 2024-09-24 --
+[12:32] -- Phase 2 (Operating Rounds: 1 | Train Limit: 4 | Available Tiles: Yellow) --
+[12:32] 8 bids $165 for Camden & Amboy
+[12:47] Rdj2905 bids $225 for Baltimore & Ohio
+[12:50] Rekai bids $75 for Delaware & Hudson
+[14:47] ledeia bids $115 for Mohawk & Hudson
+[15:07] max18xx bids $80 for Delaware & Hudson
+[15:38] 8 bids $45 for Champlain & St.Lawrence
+[16:47] Rdj2905 buys Schuylkill Valley for $20
+[16:47] 8 wins the auction for Champlain & St.Lawrence with the only bid of $45
+[16:47] Delaware & Hudson goes up for auction
+[18:02] Rekai bids $85 for Delaware & Hudson
+[18:37] max18xx bids $90 for Delaware & Hudson
+[22:39] Rekai bids $95 for Delaware & Hudson
+-- 2024-09-25 --
+[12:38] max18xx passes on Delaware & Hudson
+[12:38] Rekai wins the auction for Delaware & Hudson with a bid of $95
+[12:38] ledeia wins the auction for Mohawk & Hudson with the only bid of $115
+[12:38] 8 wins the auction for Camden & Amboy with the only bid of $165
+[12:38] 8 receives a 10% share of PRR
+[12:38] Rdj2905 wins the auction for Baltimore & Ohio with the only bid of $225
+[14:35] Rdj2905 pars B&O at $100
+[14:35] Rdj2905 receives a 20% share of B&O
+[14:35] Rdj2905 becomes the president of B&O
+[14:35] Rekai has priority deal
+[14:35] -- Stock Round 1 --
+[15:09] Rekai pars NYNH at $90
+[15:09] Rekai buys a 20% share of NYNH from the IPO for $180
+[15:09] Rekai becomes the president of NYNH
+[15:15] ledeia buys a 10% share of B&O from the IPO for $100
+[22:16] max18xx buys a 10% share of B&O from the IPO for $100
+-- 2024-09-26 --
+[09:05] 8 buys a 10% share of NYNH from the IPO for $90
+[09:28] Rdj2905 buys a 10% share of B&O from the IPO for $100
+[19:01] Rekai buys a 10% share of NYNH from the IPO for $90
+[22:55] ledeia buys a 10% share of B&O from the IPO for $100
+[22:55] B&O floats
+[22:55] B&O receives $1000
+[22:57] max18xx buys a 10% share of B&O from the IPO for $100
+[22:57] 8 buys a 10% share of NYNH from the IPO for $90
+[23:22] Rdj2905 buys a 10% share of B&O from the IPO for $100
+-- 2024-09-27 --
+[09:48] Rekai buys a 10% share of NYNH from the IPO for $90
+[09:48] NYNH floats
+[09:48] NYNH receives $900
+[16:23] ledeia buys a 10% share of NYNH from the IPO for $90
+[17:39] max18xx buys a 10% share of NYNH from the IPO for $90
+[17:39] 8 buys a 10% share of NYNH from the IPO for $90
+[17:39] Rdj2905 has no valid actions and passes
+[17:39] Rekai has no valid actions and passes
+[17:39] ledeia has no valid actions and passes
+[17:39] max18xx buys a 10% share of B&O from the IPO for $100
+[17:39] 8 has no valid actions and passes
+[17:39] Rdj2905 has no valid actions and passes
+[17:39] Rekai has no valid actions and passes
+[17:39] ledeia has no valid actions and passes
+[17:39] max18xx buys a 10% share of NYNH from the IPO for $90
+[17:39] 8 has no valid actions and passes
+[17:39] Rdj2905 has no valid actions and passes
+[17:39] Rekai has no valid actions and passes
+[17:39] ledeia has no valid actions and passes
+[17:39] max18xx has no valid actions and passes
+[17:39] NYNH's share price moves up from $90 to $100
+[17:39] 8 has priority deal
+[17:39] -- Operating Round 1.1 (of 1) --
+[17:39] 8 collects $10 from Champlain & St.Lawrence
+[17:39] 8 collects $25 from Camden & Amboy
+[17:39] Rdj2905 collects $5 from Schuylkill Valley
+[17:39] Rdj2905 collects $30 from Baltimore & Ohio
+[17:39] Rekai collects $15 from Delaware & Hudson
+[17:39] ledeia collects $20 from Mohawk & Hudson
+[17:39] Rdj2905 operates B&O
+[17:39] B&O places a token on I15
+[17:47] B&O spends $80 and lays tile #57 with rotation 0 on J14 (Washington)
+[17:47] B&O places a token on J14 (Washington) for $40
+[17:47] B&O skips run routes
+[17:47] B&O does not run
+[17:47] B&O's share price moves left from $100 to $90
+[17:47] B&O buys a 2 train for $80 from The Depot
+[17:47] Baltimore & Ohio closes
+[17:47] B&O buys a 2 train for $80 from The Depot
+[17:47] B&O buys a 2 train for $80 from The Depot
+[17:47] B&O passes buy trains
+[17:47] B&O skips buy companies
+[17:47] Rekai operates NYNH
+[17:47] NYNH places a token on G19
+[18:14] NYNH lays tile #55 with rotation 0 on F20 (New Haven & Hartford)
+[18:14] NYNH skips place a token
+[18:14] NYNH skips run routes
+[18:14] NYNH does not run
+[18:14] NYNH's share price moves left from $100 to $90
+[18:15] NYNH buys a 2 train for $80 from The Depot
+[18:15] NYNH passes buy trains
+[18:15] NYNH skips buy companies
+[18:15] -- Stock Round 2 --
+-- 2024-09-29 --
+[10:52] 8 passes
+[13:08] Rdj2905 passes
+[16:59] Rekai passes
+[17:56] ledeia passes
+[21:31] max18xx passes
+[21:31] 8 has priority deal
+[21:31] -- Operating Round 2.1 (of 1) --
+[21:31] 8 collects $10 from Champlain & St.Lawrence
+[21:31] 8 collects $25 from Camden & Amboy
+[21:31] Rdj2905 collects $5 from Schuylkill Valley
+[21:31] Rekai collects $15 from Delaware & Hudson
+[21:31] ledeia collects $20 from Mohawk & Hudson
+[21:31] Rdj2905 operates B&O
+[23:27] B&O spends $80 and lays tile #9 with rotation 1 on I17
+[23:27] B&O skips place a token
+[23:28] B&O runs a 2 train for $50: J14-K13
+[23:28] B&O runs a 2 train for $50: I15-J14
+[23:28] B&O runs a 2 train for $40: I19-I15
+[23:28] B&O pays out $140 = $14 per share ($56 to Rdj2905, $42 to max18xx, $28 to ledeia)
+[23:28] B&O's share price moves right from $90 to $100
+[23:28] B&O passes buy trains
+[23:28] B&O skips buy companies
+[23:28] Rekai operates NYNH
+-- 2024-09-30 --
+[10:02] NYNH spends $120 and lays tile #7 with rotation 0 on E21
+[10:02] NYNH skips place a token
+[10:02] NYNH runs a 2 train for $50: F20-G19
+[10:02] NYNH pays out $50 = $5 per share ($20 to Rekai, $15 to 8, $10 to max18xx, $5 to ledeia)
+[10:02] NYNH's share price moves right from $90 to $100
+[10:03] NYNH passes buy trains
+[10:03] NYNH skips buy companies
+[10:03] -- Stock Round 3 --
+[11:25] 8 passes
+[11:26] Rdj2905 buys a 10% share of B&O from the IPO for $100
+[11:26] Rdj2905 declines to sell shares
+[13:57] Rekai passes
+-- 2024-10-01 --
+[22:18] ledeia passes
+[23:27] max18xx passes
+-- 2024-10-02 --
+[09:58] 8 passes
+[20:50] Rdj2905 passes
+[20:50] Rekai has priority deal
+[20:50] -- Operating Round 3.1 (of 1) --
+[20:50] Rekai collects $15 from Delaware & Hudson
+[20:50] ledeia collects $20 from Mohawk & Hudson
+[20:50] 8 collects $10 from Champlain & St.Lawrence
+[20:50] 8 collects $25 from Camden & Amboy
+[20:50] Rdj2905 collects $5 from Schuylkill Valley
+[20:50] Rdj2905 operates B&O
+[20:50] B&O passes lay/upgrade track
+[20:50] B&O skips place a token
+[20:50] B&O runs a 2 train for $50: K13-J14
+[20:50] B&O runs a 2 train for $50: J14-I15
+[20:50] B&O runs a 2 train for $40: I15-I19
+[20:50] B&O pays out $140 = $14 per share ($70 to Rdj2905, $42 to max18xx, $28 to ledeia)
+[20:50] B&O's share price moves right from $100 to $112
+[20:50] B&O passes buy trains
+[20:50] B&O skips buy companies
+[20:50] Rekai operates NYNH
+[21:30] NYNH lays tile #57 with rotation 4 on E19 (Albany)
+[21:30] NYNH skips place a token
+[21:30] NYNH runs a 2 train for $50: G19-F20
+[21:30] NYNH pays out $50 = $5 per share ($20 to Rekai, $15 to 8, $10 to max18xx, $5 to ledeia)
+[21:30] NYNH's share price moves right from $100 to $112
+[21:32] NYNH passes buy trains
+[21:32] NYNH skips buy companies
+[21:32] -- Stock Round 4 --
+[21:33] Rekai passes
+-- 2024-10-03 --
+[15:11] ledeia sells 2 shares of B&O and receives $224
+[15:11] B&O's share price moves down from $112 to $90
+[15:11] ledeia sells a 10% share of NYNH and receives $112
+[15:11] NYNH's share price moves down from $112 to $100
+[15:11] ledeia exchanges Mohawk & Hudson from the IPO for a 10% share of NYC
+[15:11] ledeia pars NYC at $100
+[15:11] ledeia buys a 20% share of NYC from the IPO for $200
+[15:11] ledeia becomes the president of NYC
+[23:18] max18xx sells 2 shares of NYNH and receives $200
+[23:18] NYNH's share price moves down from $100 to $82
+[23:18] max18xx buys a 10% share of NYC from the IPO for $100
+-- 2024-10-04 --
+[11:44] 8 buys a 10% share of B&O from the market for $90
+[11:44] 8 declines to sell shares
+[11:46] Rdj2905 buys a 10% share of B&O from the market for $90
+[11:47] Rdj2905 declines to sell shares
+[13:09] Rekai buys a 10% share of NYNH from the market for $82
+[13:09] Rekai declines to sell shares
+-- 2024-10-05 --
+[17:28] ledeia buys a 10% share of NYC from the IPO for $100
+[17:28] ledeia declines to sell shares
+[18:57] max18xx buys a 10% share of NYC from the IPO for $100
+[18:57] NYC floats
+[18:57] NYC receives $1000
+[18:58] max18xx declines to sell shares
+[22:37] 8 passes
+[23:30] Rdj2905 passes
+[23:30] Rekai passes
+[23:30] ledeia buys a 10% share of NYC from the IPO for $100
+[23:30] ledeia declines to sell shares
+-- 2024-10-06 --
+[02:21] max18xx buys a 10% share of NYC from the IPO for $100
+[02:21] max18xx declines to sell shares
+[02:21] 8 passes
+[02:21] Rdj2905 passes
+[02:21] Rekai passes
+[02:21] ledeia buys a 10% share of NYC from the IPO for $100
+[08:14] ledeia declines to sell shares
+[11:22] max18xx passes
+[11:22] 8 passes
+[11:22] Rdj2905 passes
+[11:22] Rekai passes
+[11:22] ledeia passes
+[11:22] B&O's share price moves up from $90 to $100
+[11:22] max18xx has priority deal
+[11:22] -- Operating Round 4.1 (of 1) --
+[11:22] 8 collects $10 from Champlain & St.Lawrence
+[11:22] 8 collects $25 from Camden & Amboy
+[11:22] Rdj2905 collects $5 from Schuylkill Valley
+[11:22] Rekai collects $15 from Delaware & Hudson
+[11:22] Rdj2905 operates B&O
+[13:36] B&O passes lay/upgrade track
+[13:36] B&O skips place a token
+[13:36] B&O runs a 2 train for $50: K13-J14
+[13:36] B&O runs a 2 train for $50: J14-I15
+[13:36] B&O runs a 2 train for $40: I15-I19
+[13:36] B&O pays out $140 = $14 per share ($84 to Rdj2905, $42 to max18xx, $14 to 8)
+[13:36] B&O's share price moves right from $100 to $112
+[13:37] B&O passes buy trains
+[13:37] B&O skips buy companies
+[13:37] ledeia operates NYC
+[13:37] NYC places a token on E19
+[19:04] NYC spends $120 and lays tile #9 with rotation 1 on E17
+[19:04] NYC skips place a token
+[19:04] NYC skips run routes
+[19:04] NYC does not run
+[19:04] NYC's share price moves left from $100 to $90
+[19:04] NYC buys a 2 train for $80 from The Depot
+[19:05] NYC passes buy trains
+[19:05] NYC skips buy companies
+[19:05] Rekai operates NYNH
+-- 2024-10-07 --
+[19:59] NYNH passes lay/upgrade track
+[19:59] NYNH skips place a token
+[19:59] NYNH runs a 2 train for $50: G19-F20
+[19:59] NYNH pays out $50 = $5 per share ($25 to Rekai, $15 to 8, $10 to NYNH)
+[19:59] NYNH's share price moves right from $82 to $90
+[19:59] NYNH passes buy trains
+[19:59] NYNH skips buy companies
+[19:59] -- Stock Round 5 --
+[22:30] max18xx passes
+-- 2024-10-08 --
+[11:58] 8 buys a 10% share of NYC from the IPO for $100
+[11:59] 8 declines to sell shares
+[12:08] Rdj2905 buys a 10% share of NYNH from the market for $90
+[12:08] Rdj2905 declines to sell shares
+[12:12] Rekai passes
+[13:02] ledeia passes
+[14:27] max18xx passes
+[14:27] 8 passes
+[14:31] Rdj2905 passes
+[14:31] B&O's share price moves up from $112 to $126
+[14:31] Rekai has priority deal
+[14:31] -- Operating Round 5.1 (of 1) --
+[14:31] Rekai collects $15 from Delaware & Hudson
+[14:31] 8 collects $10 from Champlain & St.Lawrence
+[14:31] 8 collects $25 from Camden & Amboy
+[14:31] Rdj2905 collects $5 from Schuylkill Valley
+[14:31] Rdj2905 operates B&O
+[14:31] B&O passes lay/upgrade track
+[14:31] B&O skips place a token
+[14:31] B&O runs a 2 train for $50: K13-J14
+[14:31] B&O runs a 2 train for $50: J14-I15
+[14:31] B&O runs a 2 train for $40: I15-I19
+[14:31] B&O pays out $140 = $14 per share ($84 to Rdj2905, $42 to max18xx, $14 to 8)
+[14:31] B&O's share price moves right from $126 to $142
+[14:31] B&O passes buy trains
+[14:31] B&O skips buy companies
+[14:31] Rekai operates NYNH
+[14:38] NYNH passes lay/upgrade track
+[14:38] NYNH skips place a token
+[14:38] NYNH runs a 2 train for $50: G19-F20
+[15:49] NYNH pays out $50 = $5 per share ($25 to Rekai, $15 to 8, $5 to Rdj2905, $5 to NYNH)
+[15:49] NYNH's share price moves right from $90 to $100
+[15:49] NYNH passes buy trains
+[15:49] NYNH skips buy companies
+[15:49] ledeia operates NYC
+[20:35] NYC lays tile #9 with rotation 1 on E15
+[20:35] NYC skips place a token
+[20:36] NYC runs a 2 train for $30: F20-E19
+[20:36] NYC pays out $30 = $3 per share ($18 to ledeia, $9 to max18xx, $3 to 8)
+[20:36] NYC's share price moves right from $90 to $100
+[20:36] NYC buys a 2 train for $80 from The Depot
+[20:36] NYC buys a 3 train for $180 from The Depot
+[20:36] -- Phase 3 (Operating Rounds: 2 | Train Limit: 4 | Available Tiles: Yellow, Green) --
+[20:36] NYC passes buy trains
+[20:36] NYC passes buy companies
+[20:36] -- Stock Round 6 --
+[20:55] Rekai buys a 10% share of NYNH from the market for $100
+[20:56] Rekai declines to sell shares
+-- 2024-10-09 --
+[16:54] ledeia passes
+[17:15] max18xx passes
+-- 2024-10-10 --
+[09:50] 8 passes
+[11:45] Rdj2905 sells 5 shares of B&O and receives $710
+[11:45] max18xx becomes the president of B&O
+[11:45] B&O's share price moves down from $142 to $80
+[11:45] Rdj2905 pars ERIE at $100
+[11:45] Rdj2905 buys a 20% share of ERIE from the IPO for $200
+[11:45] Rdj2905 becomes the president of ERIE
+[11:56] Rekai passes
+[20:13] ledeia passes
+-- 2024-10-11 --
+[12:30] max18xx passes
+[15:34] 8 passes
+[15:34] Rdj2905 buys a 10% share of ERIE from the IPO for $100
+[15:34] Rdj2905 declines to sell shares
+[15:34] Rekai passes
+[15:34] ledeia passes
+[15:52] max18xx buys a 10% share of B&O from the market for $80
+[15:52] max18xx declines to sell shares
+[15:52] 8 passes
+[15:52] Rdj2905 buys a 10% share of ERIE from the IPO for $100
+[15:52] Rdj2905 declines to sell shares
+[15:52] Rekai passes
+[15:52] ledeia passes
+[15:52] max18xx passes
+[15:52] 8 passes
+[15:52] Rdj2905 buys a 10% share of ERIE from the IPO for $100
+[15:52] Rdj2905 declines to sell shares
+[15:52] Rekai passes
+[15:52] ledeia passes
+[15:52] max18xx passes
+[15:52] 8 passes
+[15:52] Rdj2905 buys a 10% share of ERIE from the IPO for $100
+[15:52] ERIE floats
+[15:52] ERIE receives $1000
+[15:54] Rdj2905 declines to sell shares
+[15:54] Rekai passes
+[15:54] ledeia passes
+[15:54] max18xx passes
+[15:54] 8 passes
+[15:57] Rdj2905 pars PRR at $67
+[15:57] Rdj2905 buys a 20% share of PRR from the IPO for $134
+[15:57] Rdj2905 becomes the president of PRR
+[15:57] Rdj2905 declines to sell shares
+[16:25] Rekai passes
+-- 2024-10-13 --
+[15:42] ledeia passes
+[16:50] max18xx passes
+-- 2024-10-14 --
+[10:11] 8 buys a 10% share of PRR from the IPO for $67
+[10:11] 8 declines to sell shares
+[10:11] Rdj2905 buys a 10% share of PRR from the IPO for $67
+[10:11] Rdj2905 declines to sell shares
+[10:11] Rekai passes
+[10:11] ledeia passes
+[10:11] max18xx passes
+[10:11] 8 passes
+[10:13] Rdj2905 sells a 10% share of NYNH and receives $100
+[10:13] NYNH's share price moves down from $100 to $90
+[10:13] Rdj2905 buys a 10% share of PRR from the IPO for $67
+[10:13] PRR floats
+[10:13] PRR receives $670
+[10:48] Rekai passes
+[12:34] ledeia passes
+[14:03] max18xx passes
+[14:10] 8 passes
+[14:10] Rdj2905 passes
+[14:10] Rekai has priority deal
+[14:10] -- Operating Round 6.1 (of 2) --
+[14:10] Rekai collects $15 from Delaware & Hudson
+[14:10] 8 collects $10 from Champlain & St.Lawrence
+[14:10] 8 collects $25 from Camden & Amboy
+[14:10] Rdj2905 collects $5 from Schuylkill Valley
+[14:10] ledeia operates NYC
+-- 2024-10-15 --
+[18:36] NYC lays tile #7 with rotation 3 on E13
+[18:36] NYC passes place a token
+[18:37] NYC runs a 3 train for $70: E19-F20-G19
+[18:37] NYC runs a 2 train for $40: D14-E19
+[18:37] NYC pays out $110 = $11 per share ($66 to ledeia, $33 to max18xx, $11 to 8)
+[18:37] NYC's share price moves right from $100 to $112
+[18:37] NYC passes buy trains
+[18:37] NYC passes buy companies
+[18:37] Rdj2905 operates ERIE
+[18:37] ERIE places a token on E11
+[20:26] ERIE lays tile #59 with rotation 3 on E11 (Dunkirk & Buffalo)
+[20:26] ERIE must choose city for token
+[20:26] ERIE places a token on E11 (Dunkirk & Buffalo)
+[20:26] ERIE skips place a token
+[20:26] ERIE skips run routes
+[20:26] ERIE does not run
+[20:26] ERIE's share price moves left from $100 to $90
+[20:26] ERIE buys a 3 train for $180 from The Depot
+[20:26] ERIE buys a 3 train for $180 from The Depot
+[20:26] ERIE passes buy trains
+[20:26] ERIE passes buy companies
+[20:26] Rekai operates NYNH
+[21:03] NYNH lays tile #15 with rotation 1 on E19 (Albany)
+[21:03] NYNH places a token on D14 (Rochester) for $40
+[21:03] NYNH runs a 2 train for $50: G19-F20
+[21:03] NYNH pays out $50 = $5 per share ($30 to Rekai, $15 to 8, $5 to NYNH)
+[21:03] NYNH's share price moves right from $90 to $100
+[21:04] NYNH buys a 3 train for $180 from The Depot
+[21:04] NYNH buys a 3 train for $180 from The Depot
+[21:05] NYNH passes buy trains
+[21:05] NYNH passes buy companies
+[21:05] max18xx operates B&O
+-- 2024-10-16 --
+[00:02] B&O lays tile #53 with rotation 0 on I15 (Baltimore)
+[00:02] B&O skips place a token
+[00:02] B&O runs a 2 train for $50: K13-J14
+[00:02] B&O runs a 2 train for $70: J14-I15
+[00:02] B&O runs a 2 train for $60: I15-I19
+[00:04] B&O pays out $180 = $18 per share ($72 to max18xx, $72 to B&O, $18 to 8, $18 to Rdj2905)
+[00:04] B&O's share price moves up from $80 to $90
+[00:06] B&O buys a 4 train for $300 from The Depot
+[00:06] -- Phase 4 (Operating Rounds: 2 | Train Limit: 3 | Available Tiles: Yellow, Green) --
+[00:06] -- Event: 2 trains rust ( B&O x3, NYNH x1, NYC x2) --
+[00:07] B&O passes buy trains
+[00:07] B&O passes buy companies
+[00:07] Rdj2905 operates PRR
+[00:07] PRR places a token on H12
+[01:16] PRR lays tile #8 with rotation 5 on H14
+[01:16] PRR skips place a token
+[01:16] PRR skips run routes
+[01:16] PRR does not run
+[01:16] PRR's share price moves left from $67 to $65
+[01:16] PRR buys a 4 train for $300 from The Depot
+[01:17] PRR buys a 3 train for $180 from ERIE
+[01:17] PRR passes buy trains
+[01:17] PRR buys Schuylkill Valley from Rdj2905 for $40
+[01:17] PRR passes buy companies
+[01:17] -- Operating Round 6.2 (of 2) --
+[01:17] Rekai collects $15 from Delaware & Hudson
+[01:17] 8 collects $10 from Champlain & St.Lawrence
+[01:17] 8 collects $25 from Camden & Amboy
+[01:17] PRR collects $5 from Schuylkill Valley
+[01:17] ledeia operates NYC
+[06:45] NYC lays tile #24 with rotation 4 on E15
+[06:45] NYC skips place a token
+[06:46] NYC runs a 3 train for $80: E19-F20-G19
+[06:46] NYC pays out $80 = $8 per share ($48 to ledeia, $24 to max18xx, $8 to 8)
+[06:46] NYC's share price moves right from $112 to $126
+[06:46] NYC buys a 4 train for $300 from The Depot
+[06:46] NYC passes buy trains
+[06:46] NYC passes buy companies
+[06:46] Rekai operates NYNH
+-- 2024-10-17 --
+[20:57] NYNH spends $80 and lays tile #54 with rotation 0 on G19 (New York & Newark)
+[20:57] NYNH skips place a token
+[20:57] NYNH runs a 3 train for $100: E19-F20-G19
+[20:57] NYNH runs a 3 train for $50: D14-E19
+[20:58] NYNH pays out $150 = $15 per share ($90 to Rekai, $45 to 8, $15 to NYNH)
+[20:58] NYNH's share price moves up from $100 to $110
+[20:58] NYNH passes buy trains
+[20:58] NYNH buys Delaware & Hudson from Rekai for $140
+[20:58] NYNH passes buy companies
+[20:58] max18xx operates B&O
+-- 2024-10-18 --
+[12:41] B&O lays tile #57 with rotation 1 on H10 (Pittsburgh)
+[12:41] B&O passes place a token
+[12:42] B&O runs a 4 train for $120: H10-I15-J14-K13
+[12:43] B&O withholds $120
+[12:43] B&O's share price moves left from $90 to $82
+[12:43] B&O passes buy trains
+[12:43] B&O passes buy companies
+[12:43] Rdj2905 operates ERIE
+[12:52] ERIE lays tile #8 with rotation 4 on D12
+[12:52] ERIE skips place a token
+[12:52] ERIE runs a 3 train for $60: D14-E11
+[12:53] ERIE pays out $60 = $6 per share ($36 to Rdj2905)
+[12:53] ERIE's share price moves right from $90 to $100
+[12:53] ERIE passes buy trains
+[12:53] ERIE passes buy companies
+[12:53] Rdj2905 operates PRR
+[12:53] PRR lays tile #15 with rotation 1 on H10 (Pittsburgh)
+[12:53] PRR passes place a token
+[12:54] PRR runs a 4 train for $60: I15-H12
+[12:54] PRR runs a 3 train for $40: H12-H10
+[12:54] PRR pays out $100 = $10 per share ($40 to Rdj2905, $20 to 8)
+[12:54] PRR's share price moves right from $65 to $67
+[12:54] PRR passes buy trains
+[12:54] PRR passes buy companies
+[12:54] -- Stock Round 7 --
+[13:46] Rekai pars B&M at $90
+[13:46] Rekai buys a 20% share of B&M from the IPO for $180
+[13:46] Rekai becomes the president of B&M
+[13:46] Rekai declines to sell shares
+[19:51] ledeia buys a 10% share of B&O from the market for $82
+[19:51] ledeia declines to sell shares
+-- 2024-10-19 --
+[17:14] max18xx buys a 10% share of PRR from the IPO for $67
+[17:14] max18xx declines to sell shares
+-- 2024-10-21 --
+[12:50] 8 sells 3 shares of NYNH and receives $330
+[12:50] NYNH's share price moves down from $110 to $100
+[12:52] 8 buys a 10% share of PRR from the IPO for $67
+[12:56] Rdj2905 buys a 10% share of PRR from the IPO for $67
+[12:56] Rdj2905 declines to sell shares
+[15:23] Rekai buys a 10% share of PRR from the IPO for $67
+[15:24] Rekai declines to sell shares
+[15:26] ledeia buys a 10% share of B&O from the market for $82
+[15:26] ledeia declines to sell shares
+[19:13] max18xx passes
+-- 2024-10-22 --
+[10:49] 8 pars C&O at $76
+[10:49] 8 buys a 20% share of C&O from the IPO for $152
+[10:49] 8 becomes the president of C&O
+[10:49] 8 declines to sell shares
+[11:07] Rdj2905 buys a 10% share of C&O from the IPO for $76
+[11:07] Rdj2905 declines to sell shares
+[13:26] Rekai passes
+[15:47] ledeia passes
+[17:22] max18xx buys a 10% share of C&O from the IPO for $76
+[17:23] max18xx declines to sell shares
+[17:23] 8 buys a 10% share of C&O from the IPO for $76
+[17:23] 8 declines to sell shares
+[18:33] Rdj2905 passes
+[18:43] Rekai passes
+[18:43] ledeia passes
+[19:55] max18xx passes
+[19:55] 8 buys a 10% share of C&O from the IPO for $76
+[19:55] C&O floats
+[19:55] C&O receives $760
+-- 2024-10-23 --
+[09:30] 8 declines to sell shares
+[09:30] Rdj2905 passes
+[09:30] Rekai passes
+[09:30] ledeia passes
+[09:30] max18xx passes
+[09:32] 8 buys a 10% share of B&O from the market for $82
+[09:32] 8 declines to sell shares
+[09:32] Rdj2905 passes
+[09:32] Rekai passes
+[09:32] ledeia passes
+[16:45] max18xx passes
+[20:02] 8 passes
+[20:02] PRR's share price moves up from $67 to $71
+[20:02] Rdj2905 has priority deal
+[20:02] -- Operating Round 7.1 (of 2) --
+[20:02] 8 collects $10 from Champlain & St.Lawrence
+[20:02] 8 collects $25 from Camden & Amboy
+[20:02] NYNH collects $15 from Delaware & Hudson
+[20:02] PRR collects $5 from Schuylkill Valley
+[20:02] ledeia operates NYC
+-- 2024-10-24 --
+[12:34] NYC lays tile #8 with rotation 1 on F14
+[12:34] NYC skips place a token
+[12:34] NYC runs a 3 train for $100: E19-F20-G19
+[12:34] NYC runs a 4 train for $50: D14-E19
+[12:34] NYC pays out $150 = $15 per share ($90 to ledeia, $45 to max18xx, $15 to 8)
+[12:34] NYC's share price moves right from $126 to $142
+[12:34] NYC passes buy trains
+[12:34] NYC passes buy companies
+[12:34] Rekai operates NYNH
+[13:16] NYNH lays tile #7 with rotation 5 on F18
+[13:16] NYNH skips place a token
+[13:16] NYNH runs a 3 train for $100: E19-F20-G19
+[13:16] NYNH runs a 3 train for $90: E19-D14-E11
+[13:16] NYNH pays out $190 = $19 per share ($114 to Rekai, $76 to NYNH)
+[13:16] NYNH's share price moves up from $100 to $110
+[13:17] NYNH passes buy trains
+[13:17] NYNH passes buy companies
+[13:17] Rdj2905 operates ERIE
+[15:04] ERIE lays tile #28 with rotation 0 on D12
+[15:04] ERIE skips place a token
+[15:04] ERIE runs a 3 train for $60: E11-D14
+[15:04] ERIE pays out $60 = $6 per share ($36 to Rdj2905)
+[15:04] ERIE's share price moves right from $100 to $112
+[15:04] ERIE passes buy trains
+[15:04] ERIE passes buy companies
+[15:04] max18xx operates B&O
+[18:33] B&O lays tile #9 with rotation 0 on G11
+[18:35] B&O places a token on H10 (Pittsburgh) for $100
+[18:36] B&O runs a 4 train for $130: H10-I15-J14-K13
+[18:36] B&O withholds $130
+[18:36] B&O's share price moves left from $82 to $76
+[18:36] B&O passes buy trains
+[18:36] B&O passes buy companies
+[18:36] 8 operates C&O
+[18:36] C&O places a token on F6
+[20:19] C&O lays tile #56 with rotation 2 on G7 (Akron & Canton)
+[20:19] C&O skips place a token
+[20:19] C&O skips run routes
+[20:19] C&O does not run
+[20:19] C&O's share price moves left from $76 to $71
+[20:19] C&O buys a 4 train for $300 from The Depot
+[20:35] C&O buys Champlain & St.Lawrence from 8 for $40
+[20:35] C&O buys Camden & Amboy from 8 for $200
+[20:36] C&O (CS) lays tile #58 with rotation 2 on B20 (Burlington)
+[20:36] C&O passes buy trains
+[20:36] C&O skips buy companies
+[20:36] Rdj2905 operates PRR
+[20:58] PRR lays tile #8 with rotation 0 on F12
+[20:58] PRR places a token on E11 (Dunkirk & Buffalo) for $40
+[20:58] PRR runs a 4 train for $60: H12-I15
+[20:58] PRR runs a 3 train for $80: E11-H10-H12
+[20:58] PRR pays out $140 = $14 per share ($70 to Rdj2905, $42 to 8, $14 to Rekai, $14 to max18xx)
+[20:58] PRR's share price moves right from $71 to $76
+[21:05] PRR passes buy trains
+[21:05] PRR skips buy companies
+[21:05] -- Operating Round 7.2 (of 2) --
+[21:05] NYNH collects $15 from Delaware & Hudson
+[21:05] PRR collects $5 from Schuylkill Valley
+[21:05] C&O collects $10 from Champlain & St.Lawrence
+[21:05] C&O collects $25 from Camden & Amboy
+[21:05] ledeia operates NYC
+-- 2024-10-25 --
+[18:24] NYC lays tile #25 with rotation 0 on F12
+[18:24] NYC places a token on H10 (Pittsburgh) for $40
+[18:25] NYC runs a 3 train for $120: E11-H10-I15
+[18:25] NYC runs a 4 train for $120: D14-E19-F20-G19
+[18:25] NYC withholds $240
+[18:25] NYC's share price moves left from $142 to $126
+[18:25] NYC passes buy trains
+[18:25] NYC skips buy companies
+[18:25] Rdj2905 operates ERIE
+[18:27] ERIE lays tile #18 with rotation 2 on E13
+[18:27] ERIE skips place a token
+[18:27] ERIE runs a 3 train for $60: E11-D14
+[18:27] ERIE pays out $60 = $6 per share ($36 to Rdj2905)
+[18:27] ERIE's share price moves right from $112 to $126
+[18:27] ERIE buys a 5 train for $450 from The Depot
+[18:27] -- Phase 5 (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[18:27] -- Event: Private companies close --
+[18:27] ERIE skips buy companies
+[18:27] Rekai operates NYNH
+[19:50] NYNH lays tile #2 with rotation 2 on G17 (Reading & Allentown)
+[19:50] NYNH skips place a token
+[19:50] NYNH runs a 3 train for $100: E19-F20-G19
+[19:50] NYNH runs a 3 train for $130: G19-G17-G19
+[19:52] NYNH pays out $230 = $23 per share ($138 to Rekai, $92 to NYNH)
+[19:52] NYNH's share price moves right from $110 to $120
+[19:52] NYNH skips buy trains
+[19:52] NYNH skips buy companies
+[19:52] max18xx operates B&O
+[20:23] B&O lays tile #9 with rotation 1 on H8
+[20:23] B&O skips place a token
+[20:23] B&O runs a 4 train for $140: H10-I15-J14-K13
+[20:23] B&O pays out $140 = $14 per share ($56 to max18xx, $28 to ledeia, $28 to 8, $14 to Rdj2905, $14 to B&O)
+[20:23] B&O's share price moves right from $76 to $82
+[20:24] B&O buys a 5 train for $450 from The Depot
+[20:24] B&O skips buy companies
+[20:24] Rdj2905 operates PRR
+[20:59] PRR lays tile #68 with rotation 2 on E11 (Dunkirk & Buffalo)
+[20:59] PRR skips place a token
+[20:59] PRR runs a 4 train for $90: H10-H12-I15
+[20:59] PRR runs a 3 train for $80: H10-E11
+[20:59] PRR pays out $170 = $17 per share ($85 to Rdj2905, $51 to 8, $17 to Rekai, $17 to max18xx)
+[20:59] PRR's share price moves right from $76 to $82
+[20:59] PRR skips buy trains
+[20:59] PRR skips buy companies
+[20:59] 8 operates C&O
+-- 2024-10-26 --
+[19:30] C&O lays tile #8 with rotation 5 on G9
+[19:30] C&O skips place a token
+[19:30] C&O runs a 4 train for $70: H10-G7-F6
+[19:30] C&O pays out $70 = $7 per share ($28 to 8, $7 to Rdj2905, $7 to max18xx)
+[19:30] C&O's share price moves right from $71 to $76
+[19:30] C&O passes buy trains
+[19:30] C&O skips buy companies
+[19:30] -- Stock Round 8 --
+[20:39] Rdj2905 sells 5 shares of PRR and receives $410
+[20:39] 8 becomes the president of PRR
+[20:39] PRR's share price moves down from $82 to $70
+[20:40] Rdj2905 pars CPR at $100
+[20:40] Rdj2905 buys a 20% share of CPR from the IPO for $200
+[20:40] Rdj2905 becomes the president of CPR
+-- 2024-10-27 --
+[03:00] Rekai buys a 10% share of ERIE from the IPO for $100
+[03:00] Rekai declines to sell shares
+-- 2024-10-28 --
+[15:12] ledeia sells 2 shares of B&O and receives $164
+[15:12] B&O's share price moves down from $82 to $70
+[15:12] ledeia buys a 10% share of ERIE from the IPO for $100
+[16:11] max18xx buys a 10% share of B&O from the market for $70
+[16:11] max18xx declines to sell shares
+[16:37] 8 buys a 10% share of ERIE from the IPO for $100
+[16:37] 8 declines to sell shares
+[16:38] Rdj2905 buys a 10% share of CPR from the IPO for $100
+[16:39] Rdj2905 declines to sell shares
+-- 2024-10-31 --
+[21:30] Rekai buys a 10% share of ERIE from the IPO for $100
+[21:30] Rekai sells 2 shares of ERIE and receives $252
+[21:30] ERIE's share price moves down from $126 to $100
+-- 2024-11-01 --
+[07:32] ledeia buys a 10% share of ERIE from the market for $100
+[07:33] ledeia declines to sell shares
+[11:09] max18xx buys a 10% share of B&O from the market for $70
+[11:10] max18xx declines to sell shares
+-- 2024-11-02 --
+[22:53] 8 buys a 10% share of B&O from the market for $70
+[22:53] 8 declines to sell shares
+[23:17] Rdj2905 buys a 10% share of CPR from the IPO for $100
+[23:17] Rdj2905 declines to sell shares
+-- 2024-11-03 --
+[00:29] Rekai buys a 10% share of B&M from the IPO for $90
+[00:41] Rekai declines to sell shares
+[00:41] ledeia buys a 10% share of C&O from the IPO for $76
+[00:41] ledeia declines to sell shares
+[00:41] max18xx passes
+[10:24] 8 buys a 10% share of NYNH from the market for $120
+[10:24] 8 declines to sell shares
+[10:24] Rdj2905 buys a 10% share of CPR from the IPO for $100
+[10:24] Rdj2905 declines to sell shares
+[11:33] Rekai buys a 10% share of B&M from the IPO for $90
+[11:34] Rekai declines to sell shares
+[11:34] ledeia passes
+[11:34] max18xx passes
+[11:34] 8 buys a 10% share of NYNH from the market for $120
+[22:02] 8 declines to sell shares
+[22:02] Rdj2905 buys a 10% share of CPR from the IPO for $100
+[22:02] CPR floats
+[22:02] CPR receives $1000
+[23:02] Rdj2905 declines to sell shares
+-- 2024-11-04 --
+[09:42] Rekai buys a 10% share of B&M from the IPO for $90
+[09:42] Rekai declines to sell shares
+[09:42] ledeia passes
+[09:42] max18xx passes
+[10:14] 8 buys a 10% share of ERIE from the market for $100
+[10:14] 8 declines to sell shares
+[11:04] Rdj2905 buys a 10% share of B&M from the IPO for $90
+[11:04] B&M floats
+[11:04] B&M receives $900
+[11:04] Rdj2905 declines to sell shares
+[11:32] Rekai buys a 10% share of B&M from the IPO for $90
+[11:32] Rekai declines to sell shares
+[11:32] ledeia passes
+[11:32] max18xx passes
+[11:32] 8 passes
+[11:32] Rdj2905 passes
+[11:33] Rekai passes
+[11:33] ERIE's share price moves up from $100 to $112
+[11:33] B&O's share price moves up from $70 to $75
+[11:33] ledeia has priority deal
+[11:33] -- Operating Round 8.1 (of 3) --
+[11:33] ledeia operates NYC
+[12:49] NYC lays tile #62 with rotation 0 on G19 (New York & Newark)
+[12:49] NYC places a token on G19 (New York & Newark) for $100
+[12:50] NYC runs a 3 train for $130: E11-H10-I15
+[12:50] NYC runs a 4 train for $180: F20-G19-G17-G19
+[12:51] NYC withholds $310
+[12:51] NYC's share price moves left from $126 to $112
+[12:51] NYC skips buy trains
+[12:51] NYC skips buy companies
+[12:51] Rekai operates NYNH
+[12:53] NYNH lays tile #43 with rotation 4 on D12
+[12:53] NYNH skips place a token
+[12:53] NYNH runs a 3 train for $120: E19-F20-G19
+[12:53] NYNH runs a 3 train for $170: G19-G17-G19
+[12:54] NYNH withholds $290
+[12:54] NYNH's share price moves left from $120 to $110
+[12:54] NYNH skips buy trains
+[12:54] NYNH skips buy companies
+[12:54] Rdj2905 operates ERIE
+[12:57] ERIE lays tile #43 with rotation 2 on E13
+[12:57] ERIE places a token on E19 (Albany) for $40
+[12:58] ERIE runs a 3 train for $70: E11-D14
+[12:58] ERIE runs a 5 train for $150: H10-E19-F20-G19
+[12:58] ERIE pays out $220 = $22 per share ($132 to Rdj2905, $44 to ledeia, $44 to 8)
+[12:58] ERIE's share price moves right from $112 to $126
+[12:58] ERIE skips buy trains
+[12:58] ERIE skips buy companies
+[12:58] Rdj2905 operates CPR
+[12:58] CPR places a token on A19
+[12:58] CPR lays tile #9 with rotation 1 on B22
+[12:58] CPR skips place a token
+[12:58] CPR skips run routes
+[12:58] CPR does not run
+[12:58] CPR's share price moves left from $100 to $90
+[12:58] CPR buys a 5 train for $450 from The Depot
+[12:59] CPR buys a 3 train for $400 from ERIE
+[12:59] CPR skips buy companies
+[12:59] Rekai operates B&M
+[12:59] B&M places a token on E23
+[16:05] B&M spends $80 and lays tile #57 with rotation 1 on F22 (Providence)
+[16:05] B&M passes place a token
+[16:05] B&M skips run routes
+[16:05] B&M does not run
+[16:05] B&M's share price moves left from $90 to $82
+[16:09] B&M buys a 3 train for $150 from NYNH
+[16:09] B&M buys a 6 train for $630 from The Depot
+[16:09] -- Phase 6 (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[16:09] -- Event: 3 trains rust ( NYC x1, PRR x1, CPR x1, B&M x1, NYNH x1) --
+[16:09] B&M passes buy trains
+[16:09] B&M skips buy companies
+[16:09] 8 operates C&O
+[17:28] C&O lays tile #8 with rotation 1 on G5
+[17:28] C&O skips place a token
+[17:28] C&O runs a 4 train for $70: H10-G7-F6
+[17:29] C&O pays out $70 = $7 per share ($28 to 8, $7 to ledeia, $7 to max18xx, $7 to Rdj2905)
+[17:29] C&O's share price moves right from $76 to $82
+[17:29] C&O passes buy trains
+[17:29] C&O skips buy companies
+[17:29] max18xx operates B&O
+-- 2024-11-05 --
+[11:55] B&O lays tile #59 with rotation 5 on H18 (Philadelphia & Trenton)
+[11:55] B&O skips place a token
+[11:58] B&O runs a 4 train for $130: E11-H10-I15
+[11:58] B&O runs a 5 train for $160: H18-I19-I15-J14-K13
+[12:00] B&O pays out $290 = $29 per share ($174 to max18xx, $87 to 8, $29 to Rdj2905)
+[12:00] B&O's share price moves right from $75 to $80
+[12:00] B&O skips buy trains
+[12:00] B&O skips buy companies
+[12:00] 8 operates PRR
+[14:46] PRR spends $80 and lays tile #59 with rotation 3 on D10 (Hamilton & Toronto)
+[14:46] PRR skips place a token
+[14:47] PRR runs a 4 train for $120: H10-E11-D10
+[14:48] PRR pays out $120 = $12 per share ($60 to PRR, $36 to 8, $12 to max18xx, $12 to Rekai)
+[14:48] PRR's share price moves up from $70 to $75
+[14:48] PRR passes buy trains
+[14:48] PRR skips buy companies
+[14:48] -- Operating Round 8.2 (of 3) --
+[14:48] Rdj2905 operates ERIE
+[14:50] ERIE lays tile #4 with rotation 0 on F10 (Erie)
+[14:50] ERIE skips place a token
+[14:50] ERIE runs a 5 train for $180: F10-E11-E19-F20-G19
+[14:50] ERIE withholds $180
+[14:50] ERIE's share price moves left from $126 to $112
+[14:51] ERIE exchanges a 5 for a D train for $800 from The Depot
+[14:51] -- Phase D (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[14:51] -- Event: 4 trains rust ( B&O x1, PRR x1, NYC x1, C&O x1) --
+[14:51] ERIE passes buy trains
+[14:51] ERIE skips buy companies
+[14:51] ledeia operates NYC
+-- 2024-11-06 --
+[10:36] NYC lays tile #65 with rotation 3 on H18 (Philadelphia & Trenton)
+[10:36] NYC places a token on H18 (Philadelphia & Trenton) for $100
+[10:36] NYC skips run routes
+[10:36] NYC does not run
+[10:36] NYC's share price moves left from $112 to $100
+[10:36] NYC buys a 5 train for $450 from The Discard
+[10:36] NYC passes buy trains
+[10:36] NYC skips buy companies
+[10:36] Rekai operates NYNH
+[11:28] NYNH lays tile #28 with rotation 0 on F18
+[11:28] NYNH skips place a token
+[11:28] NYNH skips run routes
+[11:28] NYNH does not run
+[11:28] NYNH's share price moves left from $110 to $100
+[11:28] NYNH buys a 6 train for $630 from The Depot
+[11:29] NYNH passes buy trains
+[11:29] NYNH skips buy companies
+[11:29] Rdj2905 operates CPR
+[11:29] CPR spends $80 and lays tile #8 with rotation 1 on B18
+[11:29] CPR skips place a token
+[11:29] CPR runs a 5 train for $80: A19-B20-B24
+[11:29] CPR pays out $80 = $8 per share ($48 to Rdj2905)
+[11:29] CPR's share price moves right from $90 to $100
+[11:30] CPR passes buy trains
+[11:30] CPR skips buy companies
+[11:30] 8 operates C&O
+[11:56] C&O lays tile #8 with rotation 2 on G3
+[11:56] C&O skips place a token
+[11:56] C&O skips run routes
+[11:56] C&O does not run
+[11:56] C&O's share price moves left from $82 to $76
+[11:57] 8 sells 2 shares of NYNH and receives $200
+[11:57] NYNH's share price moves down from $100 to $80
+[11:58] 8 sells 2 shares of ERIE and receives $224
+[11:58] ERIE's share price moves down from $112 to $90
+[11:58] 8 sells 3 shares of B&O and receives $240
+[11:58] 8 contributes $845
+[11:58] C&O buys a D train for $1100 from The Depot
+[11:58] C&O skips buy companies
+[11:58] Rekai operates B&M
+[12:00] B&M lays tile #53 with rotation 1 on E23 (Boston)
+[12:00] B&M places a token on G19 (New York & Newark) for $40
+[12:01] B&M runs a 6 train for $220: G19-G17-G19-H18
+[12:01] B&M pays out $220 = $22 per share ($132 to Rekai, $22 to Rdj2905)
+[12:01] B&M's share price moves right from $82 to $90
+[12:01] B&M skips buy trains
+[12:01] B&M skips buy companies
+[12:01] max18xx operates B&O
+[12:15] B&O lays tile #61 with rotation 0 on I15 (Baltimore)
+[12:15] B&O skips place a token
+[12:16] B&O runs a 5 train for $200: E11-H10-I15-J14-K13
+[12:16] B&O pays out $200 = $20 per share ($120 to max18xx, $60 to B&O, $20 to Rdj2905)
+[12:16] B&O's share price moves up from $80 to $90
+[12:17] B&O passes buy trains
+[12:17] B&O skips buy companies
+[12:17] 8 operates PRR
+[12:40] PRR lays tile #67 with rotation 3 on D10 (Hamilton & Toronto)
+[12:40] PRR passes place a token
+[12:40] PRR skips run routes
+[12:40] PRR does not run
+[12:40] PRR's share price moves left from $75 to $71
+[12:41] 8 sells a 10% share of NYC and receives $100
+[12:41] NYC's share price moves down from $100 to $90
+[12:41] -- 8 goes bankrupt and sells remaining shares --
+[12:41] 8 sells 2 shares of C&O and receives $152
+[12:41] C&O's share price moves down from $76 to $67
+[12:41] -- Game over: Rdj2905 ($1660), max18xx ($1263), Rekai ($1261), ledeia ($849), 8 ($347) --

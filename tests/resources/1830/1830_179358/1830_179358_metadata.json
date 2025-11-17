@@ -1,0 +1,203 @@
+{
+  "game": "1830",
+  "id": "179358",
+  "num_players": 2,
+  "mapping": {
+    "Bart Kuiper": "player1",
+    "PdG": "player2"
+  },
+  "finished": "GameEndedManually",
+  "result": {
+    "player1": 3000,
+    "player2": 894
+  },
+  "winner": "player1",
+  "final_state": {
+    "players": {
+      "player1": {
+        "name": "player1",
+        "cash": 779.0,
+        "privates": {},
+        "value": 3000.0,
+        "shares": {
+          "B&M": 6,
+          "B&O": 4,
+          "C&O": 2,
+          "CPR": 6,
+          "ERIE": 1,
+          "NYC": 6,
+          "NYNH": 6,
+          "PRR": 4
+        },
+        "priority_deal": false,
+        "is_bankrupt": false
+      },
+      "player2": {
+        "name": "player2",
+        "cash": 61.0,
+        "privates": {},
+        "value": 894.0,
+        "shares": {
+          "B&M": 0,
+          "B&O": 6,
+          "C&O": 8,
+          "CPR": 0,
+          "ERIE": 9,
+          "NYC": 0,
+          "NYNH": 0,
+          "PRR": 6
+        },
+        "priority_deal": true,
+        "is_bankrupt": false
+      }
+    },
+    "companies": {
+      "B&M": {
+        "name": "B&M",
+        "cash": 0.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0,
+          "D": 0
+        },
+        "ipo": 4,
+        "market": 0,
+        "president": "player1",
+        "share_price": 62.0
+      },
+      "B&O": {
+        "name": "B&O",
+        "cash": 320.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "D": 1
+        },
+        "ipo": 0,
+        "market": 0,
+        "president": "player2",
+        "share_price": 25.0
+      },
+      "C&O": {
+        "name": "C&O",
+        "cash": 510.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 1,
+          "D": 0
+        },
+        "ipo": 0,
+        "market": 0,
+        "president": "player2",
+        "share_price": 10.0
+      },
+      "CPR": {
+        "name": "CPR",
+        "cash": 100.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0,
+          "D": 0
+        },
+        "ipo": 4,
+        "market": 0,
+        "president": "player1",
+        "share_price": 90.0
+      },
+      "ERIE": {
+        "name": "ERIE",
+        "cash": 161.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 1,
+          "D": 0
+        },
+        "ipo": 0,
+        "market": 0,
+        "president": "player2",
+        "share_price": 25.0
+      },
+      "NYC": {
+        "name": "NYC",
+        "cash": 385.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0,
+          "D": 1
+        },
+        "ipo": 0,
+        "market": 4,
+        "president": "player1",
+        "share_price": 76.0
+      },
+      "NYNH": {
+        "name": "NYNH",
+        "cash": 16.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "D": 1
+        },
+        "ipo": 3,
+        "market": 1,
+        "president": "player1",
+        "share_price": 76.0
+      },
+      "PRR": {
+        "name": "PRR",
+        "cash": 449.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 1,
+          "D": 0
+        },
+        "ipo": 0,
+        "market": 0,
+        "president": "player2",
+        "share_price": 63.0
+      }
+    }
+  },
+  "verification": {
+    "success": true,
+    "diffs": {}
+  },
+  "unprocessed_lines": [
+    "Optional rules used in this game:",
+    "* Buy Multiple Brown Shares From IPO: Multiple brown shares may be bought from IPO as well as from pool",
+    "* Optional extra 6-Train: Adds a 3rd 6-train"
+  ],
+  "parse_result": "SUCCESS"
+}

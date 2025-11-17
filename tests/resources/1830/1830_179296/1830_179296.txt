@@ -1,0 +1,783 @@
+-- 2024-09-22 --
+[19:49] -- Phase 2 (Operating Rounds: 1 | Train Limit: 4 | Available Tiles: Yellow) --
+[19:49] Beda bids $115 for Mohawk & Hudson
+[21:37] Tusio_CET bids $165 for Camden & Amboy
+[22:59] WaltzTangoFoxtrot bids $75 for Delaware & Hudson
+-- 2024-09-23 --
+[00:03] Bloedje bids $170 for Camden & Amboy
+[00:39] beardurham buys Schuylkill Valley for $20
+[01:02] huffman123 buys Champlain & St.Lawrence for $40
+[01:02] WaltzTangoFoxtrot wins the auction for Delaware & Hudson with the only bid of $75
+[01:02] Beda wins the auction for Mohawk & Hudson with the only bid of $115
+[01:02] Camden & Amboy goes up for auction
+[18:40] Tusio_CET bids $175 for Camden & Amboy
+[22:39] Bloedje bids $180 for Camden & Amboy
+-- 2024-09-24 --
+[00:11] Tusio_CET bids $185 for Camden & Amboy
+[00:39] Bloedje bids $190 for Camden & Amboy
+[18:43] Tusio_CET passes on Camden & Amboy
+[18:43] Bloedje wins the auction for Camden & Amboy with a bid of $190
+[18:43] Bloedje receives a 10% share of PRR
+[23:25] Beda passes bidding
+-- 2024-09-25 --
+[20:41] Tusio_CET buys Baltimore & Ohio for $220
+[20:41] Tusio_CET pars B&O at $100
+[20:41] Tusio_CET receives a 20% share of B&O
+[20:41] Tusio_CET becomes the president of B&O
+[20:41] WaltzTangoFoxtrot has priority deal
+[20:41] -- Stock Round 1 --
+[22:15] WaltzTangoFoxtrot pars PRR at $67
+[22:15] WaltzTangoFoxtrot buys a 20% share of PRR from the IPO for $134
+[22:15] WaltzTangoFoxtrot becomes the president of PRR
+[23:37] Bloedje passes
+-- 2024-09-26 --
+[09:37] beardurham pars NYNH at $76
+[09:37] beardurham buys a 20% share of NYNH from the IPO for $152
+[09:37] beardurham becomes the president of NYNH
+[13:09] huffman123 buys a 10% share of PRR from the IPO for $67
+[13:10] Beda buys a 10% share of PRR from the IPO for $67
+[18:34] Tusio_CET buys a 10% share of NYNH from the IPO for $76
+[20:51] WaltzTangoFoxtrot buys a 10% share of PRR from the IPO for $67
+[20:51] PRR floats
+[20:51] PRR receives $670
+-- 2024-09-27 --
+[13:49] Bloedje buys a 10% share of B&O from the IPO for $100
+[16:27] beardurham buys a 10% share of NYNH from the IPO for $76
+[17:16] huffman123 buys a 10% share of PRR from the IPO for $67
+[19:37] Beda buys a 10% share of PRR from the IPO for $67
+-- 2024-09-28 --
+[00:25] Tusio_CET buys a 10% share of NYNH from the IPO for $76
+[00:27] WaltzTangoFoxtrot buys a 10% share of PRR from the IPO for $67
+[01:13] Bloedje buys a 10% share of B&O from the IPO for $100
+[01:13] beardurham buys a 10% share of NYNH from the IPO for $76
+[01:13] NYNH floats
+[01:13] NYNH receives $760
+[02:59] huffman123 buys a 10% share of PRR from the IPO for $67
+[06:45] Beda buys a 10% share of NYNH from the IPO for $76
+[06:45] Tusio_CET has no valid actions and passes
+[06:45] WaltzTangoFoxtrot has no valid actions and passes
+[06:45] Bloedje has no valid actions and passes
+[08:11] beardurham buys a 10% share of NYNH from the IPO for $76
+[16:37] huffman123 buys a 10% share of NYNH from the IPO for $76
+[16:37] Beda has no valid actions and passes
+[16:37] Tusio_CET has no valid actions and passes
+[16:37] WaltzTangoFoxtrot has no valid actions and passes
+[16:37] Bloedje has no valid actions and passes
+[16:37] beardurham has no valid actions and passes
+[16:37] huffman123 buys a 10% share of NYNH from the IPO for $76
+[16:37] Beda has no valid actions and passes
+[16:37] Tusio_CET has no valid actions and passes
+[16:37] WaltzTangoFoxtrot has no valid actions and passes
+[16:37] Bloedje has no valid actions and passes
+[16:37] beardurham has no valid actions and passes
+[16:37] huffman123 has no valid actions and passes
+[16:37] NYNH's share price moves up from $76 to $82
+[16:37] PRR's share price moves up from $67 to $71
+[16:37] Beda has priority deal
+[16:37] -- Operating Round 1.1 (of 1) --
+[16:37] Beda collects $20 from Mohawk & Hudson
+[16:37] Tusio_CET collects $30 from Baltimore & Ohio
+[16:37] WaltzTangoFoxtrot collects $15 from Delaware & Hudson
+[16:37] Bloedje collects $25 from Camden & Amboy
+[16:37] beardurham collects $5 from Schuylkill Valley
+[16:37] huffman123 collects $10 from Champlain & St.Lawrence
+[16:37] beardurham operates NYNH
+[16:37] NYNH places a token on G19
+[19:00] NYNH lays tile #1 with rotation 0 on F20 (New Haven & Hartford)
+[19:00] NYNH skips place a token
+[19:00] NYNH skips run routes
+[19:00] NYNH does not run
+[19:00] NYNH's share price moves left from $82 to $76
+[19:00] NYNH buys a 2 train for $80 from The Depot
+[19:00] NYNH buys a 2 train for $80 from The Depot
+[19:00] NYNH passes buy trains
+[19:00] NYNH skips buy companies
+[19:00] WaltzTangoFoxtrot operates PRR
+[19:00] PRR places a token on H12
+[20:03] PRR lays tile #9 with rotation 1 on H14
+[20:03] PRR skips place a token
+[20:03] PRR skips run routes
+[20:03] PRR does not run
+[20:03] PRR's share price moves left from $71 to $67
+[20:03] PRR buys a 2 train for $80 from The Depot
+[20:03] PRR passes buy trains
+[20:03] PRR skips buy companies
+[20:03] -- Stock Round 2 --
+[20:09] Beda passes
+[20:50] Tusio_CET passes
+[22:04] WaltzTangoFoxtrot passes
+-- 2024-09-29 --
+[00:15] Bloedje passes
+[09:11] beardurham passes
+[12:47] huffman123 passes
+[12:47] NYNH's share price moves up from $76 to $82
+[12:47] PRR's share price moves up from $67 to $71
+[12:47] Beda has priority deal
+[12:47] -- Operating Round 2.1 (of 1) --
+[12:47] Beda collects $20 from Mohawk & Hudson
+[12:47] Tusio_CET collects $30 from Baltimore & Ohio
+[12:47] WaltzTangoFoxtrot collects $15 from Delaware & Hudson
+[12:47] Bloedje collects $25 from Camden & Amboy
+[12:47] beardurham collects $5 from Schuylkill Valley
+[12:47] huffman123 collects $10 from Champlain & St.Lawrence
+[12:47] beardurham operates NYNH
+[12:56] NYNH spends $80 and lays tile #57 with rotation 1 on F22 (Providence)
+[12:56] NYNH places a token on F22 (Providence) for $40
+[12:56] NYNH runs a 2 train for $30: F22-F24
+[12:56] NYNH runs a 2 train for $50: G19-F20
+[12:56] NYNH pays out $80 = $8 per share ($40 to beardurham, $16 to Tusio_CET, $16 to huffman123, $8 to Beda)
+[12:56] NYNH's share price moves right from $82 to $90
+[12:57] NYNH passes buy trains
+[12:57] NYNH skips buy companies
+[12:57] WaltzTangoFoxtrot operates PRR
+[13:20] PRR lays tile #57 with rotation 1 on H16 (Lancaster)
+[13:21] PRR passes place a token
+[13:21] PRR runs a 2 train for $30: H12-H16
+[13:21] PRR pays out $30 = $3 per share ($12 to WaltzTangoFoxtrot, $9 to huffman123, $6 to Beda, $3 to Bloedje)
+[13:21] PRR's share price moves right from $71 to $76
+[13:21] PRR buys a 2 train for $80 from The Depot
+[13:21] PRR passes buy trains
+[13:21] PRR skips buy companies
+[13:21] -- Stock Round 3 --
+[13:36] Beda buys a 10% share of B&O from the IPO for $100
+[13:36] Beda declines to sell shares
+[20:47] Tusio_CET sells 2 shares of B&O and receives $200
+[20:47] Bloedje becomes the president of B&O
+[20:47] B&O's share price moves down from $100 to $82
+[20:47] Tusio_CET sells 2 shares of NYNH and receives $180
+[20:47] NYNH's share price moves down from $90 to $76
+[20:47] Tusio_CET pars B&M at $76
+[20:47] Tusio_CET buys a 20% share of B&M from the IPO for $152
+[20:47] Tusio_CET becomes the president of B&M
+-- 2024-09-30 --
+[01:47] WaltzTangoFoxtrot buys a 10% share of NYNH from the market for $76
+[01:48] WaltzTangoFoxtrot declines to sell shares
+-- 2024-10-01 --
+[01:45] Bloedje sells a 10% share of PRR and receives $76
+[01:45] PRR's share price moves down from $76 to $71
+[01:45] Bloedje buys a 10% share of B&O from the IPO for $100
+[01:45] B&O floats
+[01:45] B&O receives $1000
+[08:08] beardurham passes
+[13:27] huffman123 passes
+[15:24] Beda sells a 10% share of NYNH and receives $76
+[15:24] NYNH's share price moves down from $76 to $71
+[15:24] Beda sells a 10% share of B&O and receives $82
+[15:24] B&O's share price moves down from $82 to $76
+[15:24] Beda sells 2 shares of PRR and receives $142
+[15:24] PRR's share price moves down from $71 to $67
+[15:25] Beda buys a 10% share of B&M from the IPO for $76
+[21:14] Tusio_CET buys a 10% share of B&M from the IPO for $76
+[21:14] Tusio_CET declines to sell shares
+[22:27] WaltzTangoFoxtrot passes
+-- 2024-10-02 --
+[10:34] Bloedje passes
+[11:21] beardurham passes
+[13:33] huffman123 passes
+[13:33] Beda buys a 10% share of B&M from the IPO for $76
+[13:33] Beda declines to sell shares
+[21:17] Tusio_CET buys a 10% share of B&M from the IPO for $76
+[21:17] B&M floats
+[21:17] B&M receives $760
+[21:17] Tusio_CET declines to sell shares
+[22:21] WaltzTangoFoxtrot passes
+-- 2024-10-03 --
+[00:28] Bloedje passes
+[09:53] beardurham passes
+[13:20] huffman123 passes
+[13:20] Beda buys a 10% share of B&M from the IPO for $76
+[13:20] Beda declines to sell shares
+-- 2024-10-04 --
+[21:58] Tusio_CET buys a 10% share of B&M from the IPO for $76
+[21:58] Tusio_CET declines to sell shares
+[22:01] WaltzTangoFoxtrot passes
+[22:01] Bloedje passes
+-- 2024-10-05 --
+[01:18] beardurham passes
+[01:18] huffman123 passes
+[01:18] Beda buys a 10% share of B&M from the IPO for $76
+[01:18] Beda declines to sell shares
+[12:16] Tusio_CET buys a 10% share of B&M from the IPO for $76
+[12:16] Tusio_CET declines to sell shares
+[14:32] WaltzTangoFoxtrot passes
+[14:32] Bloedje passes
+[16:50] beardurham passes
+[16:50] huffman123 passes
+[16:50] Beda passes
+[17:27] Tusio_CET passes
+[17:27] B&M's share price moves up from $76 to $82
+[17:27] WaltzTangoFoxtrot has priority deal
+[17:27] -- Operating Round 3.1 (of 1) --
+[17:27] WaltzTangoFoxtrot collects $15 from Delaware & Hudson
+[17:27] Bloedje collects $25 from Camden & Amboy
+[17:27] beardurham collects $5 from Schuylkill Valley
+[17:27] huffman123 collects $10 from Champlain & St.Lawrence
+[17:27] Beda collects $20 from Mohawk & Hudson
+[17:27] Tusio_CET collects $30 from Baltimore & Ohio
+[17:27] Tusio_CET operates B&M
+[17:27] B&M places a token on E23
+[17:28] B&M passes lay/upgrade track
+[17:28] B&M skips place a token
+[17:28] B&M skips run routes
+[17:28] B&M does not run
+[17:28] B&M's share price moves left from $82 to $76
+[17:28] B&M buys a 2 train for $80 from The Depot
+[17:28] B&M passes buy trains
+[17:28] B&M skips buy companies
+[17:28] Bloedje operates B&O
+[17:28] B&O places a token on I15
+[18:05] B&O spends $80 and lays tile #7 with rotation 1 on I17
+[18:05] B&O skips place a token
+[18:05] B&O skips run routes
+[18:05] B&O does not run
+[18:05] B&O's share price moves left from $76 to $71
+[18:05] B&O buys a 2 train for $80 from The Depot
+[18:05] Baltimore & Ohio closes
+[18:05] B&O buys a 3 train for $180 from The Depot
+[18:05] -- Phase 3 (Operating Rounds: 2 | Train Limit: 4 | Available Tiles: Yellow, Green) --
+[18:05] B&O buys Camden & Amboy from Bloedje for $320
+[18:06] B&O passes buy trains
+[18:07] B&O passes buy companies
+[18:07] beardurham operates NYNH
+[23:09] NYNH passes lay/upgrade track
+[23:09] NYNH skips place a token
+[23:09] NYNH runs a 2 train for $30: F22-F24
+[23:09] NYNH runs a 2 train for $50: G19-F20
+[23:09] NYNH pays out $80 = $8 per share ($40 to beardurham, $16 to huffman123, $16 to NYNH, $8 to WaltzTangoFoxtrot)
+[23:09] NYNH's share price moves right from $71 to $76
+[23:09] NYNH buys a 3 train for $180 from The Depot
+-- 2024-10-06 --
+[00:13] NYNH passes buy trains
+[00:13] NYNH passes buy companies
+[00:13] WaltzTangoFoxtrot operates PRR
+[00:21] PRR lays tile #59 with rotation 1 on H18 (Philadelphia & Trenton)
+[00:21] PRR places a token on H18 (Philadelphia & Trenton) for $40
+[00:21] PRR runs a 2 train for $30: H16-H12
+[00:21] PRR runs a 2 train for $60: H16-H18
+[00:21] PRR pays out $90 = $9 per share ($36 to WaltzTangoFoxtrot, $27 to huffman123, $27 to PRR)
+[00:21] PRR's share price moves right from $67 to $69
+[00:21] PRR buys a 3 train for $180 from The Depot
+[00:21] PRR passes buy trains
+[00:21] PRR passes buy companies
+[00:21] -- Stock Round 4 --
+[00:24] WaltzTangoFoxtrot buys a 10% share of PRR from the market for $69
+[00:24] WaltzTangoFoxtrot declines to sell shares
+[01:02] Bloedje buys a 10% share of PRR from the market for $69
+[01:02] Bloedje declines to sell shares
+[09:06] beardurham buys a 10% share of PRR from the market for $69
+[09:07] beardurham declines to sell shares
+[13:59] huffman123 buys a 10% share of NYNH from the market for $76
+[13:59] huffman123 declines to sell shares
+[14:10] Beda passes
+[20:21] Tusio_CET passes
+[21:27] WaltzTangoFoxtrot passes
+[22:07] Bloedje buys a 10% share of NYNH from the market for $76
+[22:08] Bloedje declines to sell shares
+[23:54] beardurham passes
+-- 2024-10-07 --
+[01:13] huffman123 passes
+[01:13] Beda passes
+[01:13] Tusio_CET passes
+[02:09] WaltzTangoFoxtrot passes
+[11:12] Bloedje buys a 10% share of B&O from the market for $71
+[11:12] Bloedje declines to sell shares
+[13:54] beardurham passes
+[16:12] huffman123 passes
+[16:12] Beda passes
+[16:12] Tusio_CET passes
+[16:44] WaltzTangoFoxtrot passes
+[18:53] Bloedje buys a 10% share of B&O from the market for $71
+[18:53] Bloedje declines to sell shares
+-- 2024-10-08 --
+[02:02] beardurham passes
+[02:02] huffman123 passes
+[02:02] Beda passes
+[02:02] Tusio_CET passes
+[02:13] WaltzTangoFoxtrot passes
+[11:28] Bloedje buys a 10% share of B&O from the market for $71
+[11:29] Bloedje declines to sell shares
+[15:01] beardurham passes
+[15:01] huffman123 passes
+[15:01] Beda passes
+[15:01] Tusio_CET passes
+[16:01] WaltzTangoFoxtrot passes
+-- 2024-10-09 --
+[14:45] Bloedje passes
+[14:45] NYNH's share price moves up from $76 to $82
+[14:45] B&M's share price moves up from $76 to $82
+[14:45] PRR's share price moves up from $69 to $71
+[14:45] beardurham has priority deal
+[14:45] -- Operating Round 4.1 (of 2) --
+[14:45] beardurham collects $5 from Schuylkill Valley
+[14:45] huffman123 collects $10 from Champlain & St.Lawrence
+[14:45] Beda collects $20 from Mohawk & Hudson
+[14:45] WaltzTangoFoxtrot collects $15 from Delaware & Hudson
+[14:45] B&O collects $25 from Camden & Amboy
+[14:45] beardurham operates NYNH
+[16:41] NYNH lays tile #15 with rotation 1 on F22 (Providence)
+[16:41] NYNH skips place a token
+[16:41] NYNH runs a 3 train for $70: F22-F24-E23
+[16:41] NYNH runs a 2 train for $40: F22-F20
+[16:41] NYNH runs a 2 train for $50: G19-F20
+[16:42] NYNH pays out $160 = $16 per share ($80 to beardurham, $48 to huffman123, $16 to WaltzTangoFoxtrot, $16 to Bloedje)
+[16:42] NYNH's share price moves right from $82 to $90
+[16:42] NYNH buys a 3 train for $180 from The Depot
+[16:42] NYNH passes buy companies
+[16:42] Tusio_CET operates B&M
+-- 2024-10-10 --
+[00:15] B&M lays tile #53 with rotation 1 on E23 (Boston)
+[00:16] B&M places a token on F22 (Providence) for $40
+[00:16] B&M runs a 2 train for $60: E23-F24
+[00:16] B&M pays out $60 = $6 per share ($36 to Tusio_CET, $24 to Beda)
+[00:16] B&M's share price moves right from $82 to $90
+[00:16] B&M buys a 3 train for $180 from The Depot
+[00:16] B&M buys a 4 train for $300 from The Depot
+[00:16] -- Phase 4 (Operating Rounds: 2 | Train Limit: 3 | Available Tiles: Yellow, Green) --
+[00:16] -- Event: 2 trains rust ( NYNH x2, PRR x2, B&M x1, B&O x1) --
+[00:16] B&M passes buy trains
+[00:16] B&M passes buy companies
+[00:16] WaltzTangoFoxtrot operates PRR
+[05:11] PRR lays tile #15 with rotation 1 on H16 (Lancaster)
+[05:11] PRR passes place a token
+[05:12] PRR runs a 3 train for $80: H12-H16-H18
+[05:12] PRR pays out $80 = $8 per share ($40 to WaltzTangoFoxtrot, $24 to huffman123, $8 to beardurham, $8 to Bloedje)
+[05:12] PRR's share price moves right from $71 to $75
+[05:12] PRR passes buy trains
+[05:12] PRR passes buy companies
+[05:12] Bloedje operates B&O
+[11:15] B&O lays tile #27 with rotation 1 on I17
+[11:15] B&O skips place a token
+[11:16] B&O runs a 3 train for $40: I19-I15
+[11:16] B&O pays out $40 = $4 per share ($24 to Bloedje)
+[11:16] B&O's share price moves right from $71 to $76
+[11:16] B&O passes buy trains
+[11:16] B&O passes buy companies
+[11:16] -- Operating Round 4.2 (of 2) --
+[11:16] beardurham collects $5 from Schuylkill Valley
+[11:16] huffman123 collects $10 from Champlain & St.Lawrence
+[11:16] Beda collects $20 from Mohawk & Hudson
+[11:16] WaltzTangoFoxtrot collects $15 from Delaware & Hudson
+[11:16] B&O collects $25 from Camden & Amboy
+[11:16] beardurham operates NYNH
+[16:33] NYNH spends $80 and lays tile #54 with rotation 0 on G19 (New York & Newark)
+[16:33] NYNH skips place a token
+[16:34] NYNH runs a 3 train for $90: F22-F24-E23
+[16:34] NYNH runs a 3 train for $100: G19-F20-F22
+[16:34] NYNH pays out $190 = $19 per share ($95 to beardurham, $57 to huffman123, $19 to WaltzTangoFoxtrot, $19 to Bloedje)
+[16:34] NYNH's share price moves right from $90 to $100
+[16:34] NYNH passes buy trains
+[16:34] NYNH passes buy companies
+[16:34] Tusio_CET operates B&M
+[18:28] B&M passes lay/upgrade track
+[18:28] B&M skips place a token
+[18:28] B&M runs a 4 train for $90: E23-F24-F22
+[18:28] B&M runs a 3 train for $100: F22-F20-G19
+[18:28] B&M withholds $190
+[18:28] B&M's share price moves left from $90 to $82
+[18:29] B&M passes buy trains
+[18:29] B&M passes buy companies
+[18:29] Bloedje operates B&O
+[20:35] B&O lays tile #53 with rotation 0 on I15 (Baltimore)
+[20:35] B&O skips place a token
+[20:35] B&O runs a 3 train for $60: I15-I19
+[20:37] B&O pays out $60 = $6 per share ($36 to Bloedje)
+[20:37] B&O's share price moves right from $76 to $82
+[20:42] B&O passes buy trains
+[20:44] B&O passes buy companies
+[20:44] WaltzTangoFoxtrot operates PRR
+[22:02] PRR lays tile #56 with rotation 3 on G17 (Reading & Allentown)
+[22:02] PRR places a token on G19 (New York & Newark) for $100
+[22:02] PRR runs a 3 train for $100: G19-G17-H16
+[22:03] PRR pays out $100 = $10 per share ($50 to WaltzTangoFoxtrot, $30 to huffman123, $10 to beardurham, $10 to Bloedje)
+[22:03] PRR's share price moves right from $75 to $80
+[22:04] PRR buys Delaware & Hudson from WaltzTangoFoxtrot for $140
+[22:04] PRR passes buy trains
+[22:04] PRR passes buy companies
+[22:04] -- Stock Round 5 --
+[22:38] beardurham buys a 10% share of B&O from the IPO for $100
+[22:40] beardurham declines to sell shares
+[23:30] huffman123 sells 3 shares of NYNH and receives $300
+[23:30] NYNH's share price moves down from $100 to $80
+[23:31] huffman123 sells 3 shares of PRR and receives $240
+[23:31] huffman123 pars NYC at $100
+[23:31] huffman123 buys a 20% share of NYC from the IPO for $200
+[23:31] huffman123 becomes the president of NYC
+-- 2024-10-11 --
+[00:04] Beda exchanges Mohawk & Hudson from the IPO for a 10% share of NYC
+[00:04] Beda sells a 10% share of NYC and receives $100
+[00:04] NYC's share price moves down from $100 to $90
+[00:04] Beda sells 4 shares of B&M and receives $328
+[00:04] B&M's share price moves down from $82 to $65
+[00:05] Beda pars C&O at $82
+[00:05] Beda buys a 20% share of C&O from the IPO for $164
+[00:05] Beda becomes the president of C&O
+[18:38] Tusio_CET buys a 10% share of NYNH from the market for $80
+[18:38] Tusio_CET declines to sell shares
+[19:47] WaltzTangoFoxtrot sells 2 shares of PRR and receives $160
+[19:48] WaltzTangoFoxtrot sells a 10% share of NYNH and receives $80
+[19:49] WaltzTangoFoxtrot pars CPR at $90
+[19:49] WaltzTangoFoxtrot buys a 20% share of CPR from the IPO for $180
+[19:49] WaltzTangoFoxtrot becomes the president of CPR
+[21:05] Bloedje passes
+[22:19] beardurham buys a 10% share of NYNH from the market for $80
+[22:19] beardurham declines to sell shares
+[22:42] huffman123 buys a 10% share of NYC from the IPO for $100
+[22:42] huffman123 declines to sell shares
+[22:45] Beda buys a 10% share of C&O from the IPO for $82
+[22:45] Beda declines to sell shares
+[22:48] Tusio_CET passes
+[22:55] WaltzTangoFoxtrot buys a 10% share of CPR from the IPO for $90
+[22:55] WaltzTangoFoxtrot declines to sell shares
+-- 2024-10-12 --
+[00:15] Bloedje passes
+[09:17] beardurham passes
+[09:17] huffman123 buys a 10% share of NYC from the IPO for $100
+[09:17] huffman123 declines to sell shares
+[09:17] Beda buys a 10% share of C&O from the IPO for $82
+[09:17] Beda declines to sell shares
+[09:17] Tusio_CET passes
+[13:47] WaltzTangoFoxtrot buys a 10% share of CPR from the IPO for $90
+[13:47] WaltzTangoFoxtrot declines to sell shares
+[18:12] Bloedje passes
+-- 2024-10-13 --
+[02:04] beardurham passes
+[02:04] huffman123 buys a 10% share of NYC from the IPO for $100
+[02:04] NYC floats
+[02:04] NYC receives $1000
+[02:21] huffman123 declines to sell shares
+[02:21] Beda buys a 10% share of C&O from the IPO for $82
+[02:21] Beda declines to sell shares
+[02:21] Tusio_CET passes
+[02:23] WaltzTangoFoxtrot buys a 10% share of CPR from the IPO for $90
+[02:23] WaltzTangoFoxtrot declines to sell shares
+[03:04] Bloedje buys a 10% share of B&M from the market for $65
+[03:04] Bloedje declines to sell shares
+[08:58] beardurham passes
+[09:45] huffman123 buys a 10% share of NYC from the IPO for $100
+[09:45] huffman123 declines to sell shares
+[09:45] Beda buys a 10% share of C&O from the IPO for $82
+[09:45] C&O floats
+[09:45] C&O receives $820
+[14:47] Beda declines to sell shares
+[14:47] Tusio_CET passes
+[14:58] WaltzTangoFoxtrot buys a 10% share of CPR from the IPO for $90
+[14:58] CPR floats
+[14:58] CPR receives $900
+[14:58] WaltzTangoFoxtrot declines to sell shares
+[17:39] Bloedje buys a 10% share of B&M from the market for $65
+[17:40] Bloedje declines to sell shares
+[22:03] beardurham passes
+[22:27] huffman123 buys a 10% share of B&M from the market for $65
+[22:27] huffman123 declines to sell shares
+[22:27] Beda passes
+[22:27] Tusio_CET passes
+[22:34] WaltzTangoFoxtrot passes
+-- 2024-10-14 --
+[01:14] Bloedje passes
+[09:10] beardurham passes
+[11:07] huffman123 buys a 10% share of C&O from the IPO for $82
+[11:07] huffman123 declines to sell shares
+[11:07] Beda passes
+[11:07] Tusio_CET passes
+[13:39] WaltzTangoFoxtrot passes
+[16:00] Bloedje passes
+[22:40] beardurham passes
+-- 2024-10-15 --
+[00:49] huffman123 passes
+[00:49] Beda has priority deal
+[00:49] -- Operating Round 5.1 (of 2) --
+[00:49] beardurham collects $5 from Schuylkill Valley
+[00:49] huffman123 collects $10 from Champlain & St.Lawrence
+[00:49] B&O collects $25 from Camden & Amboy
+[00:49] PRR collects $15 from Delaware & Hudson
+[00:49] huffman123 operates NYC
+[00:49] NYC places a token on E19
+[00:50] NYC lays tile #57 with rotation 0 on E19 (Albany)
+[00:50] NYC skips place a token
+[00:50] NYC skips run routes
+[00:50] NYC does not run
+[00:50] NYC's share price moves left from $90 to $82
+[00:52] NYC buys a 4 train for $300 from The Depot
+[00:52] NYC passes buy trains
+[00:52] NYC buys Champlain & St.Lawrence from huffman123 for $70
+[00:53] NYC (CS) lays tile #4 with rotation 2 on B20 (Burlington)
+[00:53] NYC passes buy companies
+[00:53] WaltzTangoFoxtrot operates CPR
+[00:53] CPR places a token on A19
+[03:48] CPR spends $120 and lays tile #8 with rotation 0 on C21
+[03:48] CPR skips place a token
+[03:48] CPR skips run routes
+[03:48] CPR does not run
+[03:48] CPR's share price moves left from $90 to $82
+[03:48] CPR buys a 4 train for $300 from The Depot
+[03:48] CPR passes buy trains
+[03:48] CPR passes buy companies
+[03:48] Bloedje operates B&O
+[11:12] B&O lays tile #23 with rotation 1 on H14
+[11:12] B&O skips place a token
+[11:12] B&O runs a 3 train for $70: H12-I15-I19
+[11:12] B&O pays out $70 = $7 per share ($42 to Bloedje, $7 to beardurham)
+[11:12] B&O's share price moves right from $82 to $90
+[11:12] B&O passes buy trains
+[11:12] B&O passes buy companies
+[11:12] Beda operates C&O
+[11:12] C&O places a token on F6
+[11:28] C&O lays tile #2 with rotation 5 on G7 (Akron & Canton)
+[11:28] C&O skips place a token
+[11:28] C&O skips run routes
+[11:28] C&O does not run
+[11:28] C&O's share price moves left from $82 to $76
+[11:28] C&O buys a 4 train for $300 from The Depot
+[11:28] C&O buys a 5 train for $450 from The Depot
+[11:28] -- Phase 5 (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[11:28] -- Event: Private companies close --
+[11:28] C&O skips buy companies
+[11:28] WaltzTangoFoxtrot operates PRR
+[12:10] PRR lays tile #64 with rotation 5 on H18 (Philadelphia & Trenton)
+[12:10] PRR skips place a token
+[12:11] PRR runs a 3 train for $120: H18-G19-G17
+[12:12] PRR withholds $120
+[12:12] PRR's share price moves left from $80 to $75
+[12:14] PRR passes buy trains
+[12:14] PRR skips buy companies
+[12:14] beardurham operates NYNH
+[12:28] NYNH lays tile #8 with rotation 3 on F18
+[12:28] NYNH skips place a token
+[12:28] NYNH runs a 3 train for $90: F22-F24-E23
+[12:28] NYNH runs a 3 train for $100: G19-F20-F22
+[12:28] NYNH pays out $190 = $19 per share ($114 to beardurham, $38 to NYNH, $19 to Tusio_CET, $19 to Bloedje)
+[12:28] NYNH's share price moves up from $80 to $90
+[12:28] NYNH skips buy trains
+[12:28] NYNH skips buy companies
+[12:28] Tusio_CET operates B&M
+[12:52] B&M lays tile #61 with rotation 3 on E23 (Boston)
+[12:52] B&M skips place a token
+[12:52] B&M runs a 4 train for $160: E23-F22-F20-G19
+[12:52] B&M runs a 3 train for $100: E23-F24-F22
+[12:53] B&M pays out $260 = $26 per share ($156 to Tusio_CET, $52 to Bloedje, $26 to huffman123, $26 to B&M)
+[12:53] B&M's share price moves right from $65 to $67
+[12:53] B&M skips buy trains
+[12:53] B&M skips buy companies
+[12:53] -- Operating Round 5.2 (of 2) --
+[12:53] beardurham operates NYNH
+[14:56] NYNH lays tile #14 with rotation 2 on E19 (Albany)
+[14:56] NYNH skips place a token
+[14:56] NYNH runs a 3 train for $100: F22-F24-E23
+[14:56] NYNH runs a 3 train for $100: G19-F20-F22
+[14:57] NYNH withholds $200
+[14:57] NYNH's share price moves left from $90 to $82
+[14:57] NYNH skips buy trains
+[14:57] NYNH skips buy companies
+[14:57] Bloedje operates B&O
+-- 2024-10-16 --
+[01:45] B&O lays tile #63 with rotation 0 on H16 (Lancaster)
+[01:53] B&O places a token on H16 (Lancaster) for $40
+[01:54] B&O runs a 3 train for $140: I15-H16-H18
+[01:54] B&O withholds $140
+[01:54] B&O's share price moves left from $90 to $82
+[01:54] B&O buys a 5 train for $450 from The Depot
+[01:54] B&O skips buy companies
+[01:54] huffman123 operates NYC
+[03:18] NYC lays tile #24 with rotation 3 on F18
+[03:19] NYC places a token on H18 (Philadelphia & Trenton) for $40
+[03:19] NYC runs a 4 train for $150: E19-G17-H18-G19
+[03:19] NYC pays out $150 = $15 per share ($90 to huffman123, $15 to NYC)
+[03:19] NYC's share price moves right from $82 to $90
+[03:21] NYC passes buy trains
+[03:21] NYC skips buy companies
+[03:21] WaltzTangoFoxtrot operates CPR
+[03:29] CPR lays tile #9 with rotation 0 on D20
+[03:30] CPR places a token on E19 (Albany) for $40
+[03:30] CPR runs a 4 train for $140: A19-B20-E19-G19
+[03:30] CPR withholds $140
+[03:30] CPR's share price moves left from $82 to $76
+[03:30] CPR buys a 5 train for $450 from The Depot
+[03:30] CPR skips buy companies
+[03:30] Beda operates C&O
+[07:53] C&O lays tile #8 with rotation 2 on H8
+[07:53] C&O skips place a token
+[07:53] C&O runs a 5 train for $40: F6-G7
+[07:53] C&O pays out $40 = $4 per share ($24 to Beda, $4 to huffman123)
+[07:53] C&O's share price moves right from $76 to $82
+[07:53] C&O skips buy trains
+[07:53] C&O skips buy companies
+[07:53] WaltzTangoFoxtrot operates PRR
+[11:50] PRR lays tile #62 with rotation 0 on G19 (New York & Newark)
+[11:51] PRR places a token on H16 (Lancaster) for $100
+[11:51] PRR runs a 3 train for $140: H18-G19-G17
+[11:52] PRR pays out $140 = $14 per share ($70 to PRR, $42 to WaltzTangoFoxtrot, $14 to Bloedje, $14 to beardurham)
+[11:52] PRR's share price moves right from $75 to $80
+[11:53] PRR buys a 5 train for $181 from CPR
+[11:53] PRR skips buy companies
+[11:53] Tusio_CET operates B&M
+[13:10] B&M lays tile #42 with rotation 0 on F18
+[13:10] B&M skips place a token
+[13:10] B&M runs a 4 train for $180: E23-F22-F20-G19
+[13:10] B&M runs a 3 train for $100: E23-F24-F22
+[13:10] B&M withholds $280
+[13:10] B&M's share price moves left from $67 to $65
+[13:10] B&M skips buy trains
+[13:10] B&M skips buy companies
+[13:10] -- Stock Round 6 --
+[13:17] Beda buys a 10% share of B&M from the market for $65
+[13:17] Beda declines to sell shares
+[22:00] Tusio_CET buys a 10% share of C&O from the IPO for $82
+[22:00] Tusio_CET declines to sell shares
+[22:16] WaltzTangoFoxtrot sells 2 shares of CPR and receives $152
+[22:16] CPR's share price moves down from $76 to $66
+[22:16] WaltzTangoFoxtrot buys a 10% share of PRR from the market for $80
+-- 2024-10-17 --
+[10:53] Bloedje buys a 10% share of NYC from the market for $90
+[10:54] Bloedje declines to sell shares
+[20:01] beardurham buys a 10% share of B&O from the IPO for $100
+[20:01] beardurham declines to sell shares
+[20:02] huffman123 buys a 10% share of C&O from the IPO for $82
+[20:03] huffman123 declines to sell shares
+[20:29] Beda passes
+[21:09] Tusio_CET buys a 10% share of CPR from the market for $66
+[21:09] Tusio_CET declines to sell shares
+[21:52] WaltzTangoFoxtrot buys a 10% share of PRR from the market for $80
+[21:52] WaltzTangoFoxtrot declines to sell shares
+-- 2024-10-18 --
+[01:24] Bloedje sells a 10% share of B&M and receives $65
+[01:24] B&M's share price moves down from $65 to $63
+[01:25] Bloedje buys a 10% share of C&O from the IPO for $82
+[08:20] beardurham buys a 10% share of B&M from the market for $63
+[08:27] beardurham declines to sell shares
+[08:40] huffman123 buys a 10% share of PRR from the market for $80
+[08:41] huffman123 declines to sell shares
+[09:14] Beda passes
+[10:18] Tusio_CET passes
+[13:12] WaltzTangoFoxtrot passes
+[13:14] Bloedje passes
+[14:26] beardurham passes
+[21:15] huffman123 passes
+[21:15] C&O's share price moves up from $82 to $90
+[21:15] B&M's share price moves up from $63 to $65
+[21:15] Beda has priority deal
+[21:15] -- Operating Round 6.1 (of 3) --
+[21:15] huffman123 operates NYC
+[21:15] NYC lays tile #63 with rotation 0 on E19 (Albany)
+[21:16] NYC places a token on G19 (New York & Newark) for $100
+[21:16] NYC runs a 4 train for $220: G19-G17-H18-G19
+[21:16] NYC withholds $220
+[21:16] NYC's share price moves left from $90 to $82
+[21:16] NYC buys a 6 train for $630 from The Depot
+[21:16] -- Phase 6 (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[21:16] -- Event: 3 trains rust ( B&O x1, NYNH x2, PRR x1, B&M x1) --
+[21:16] NYC skips buy companies
+[21:16] Beda operates C&O
+[22:32] C&O lays tile #57 with rotation 1 on H10 (Pittsburgh)
+[22:32] C&O places a token on H10 (Pittsburgh) for $40
+[22:33] C&O runs a 5 train for $60: F6-G7-H10
+[22:33] C&O runs a 4 train for $70: H10-I15
+[22:33] C&O pays out $130 = $13 per share ($78 to Beda, $26 to huffman123, $13 to Tusio_CET, $13 to Bloedje)
+[22:33] C&O's share price moves right from $90 to $100
+[22:33] C&O skips buy trains
+[22:33] C&O skips buy companies
+[22:33] beardurham operates NYNH
+[22:40] NYNH passes lay/upgrade track
+[22:40] NYNH skips place a token
+[22:40] NYNH skips run routes
+[22:40] NYNH does not run
+[22:40] NYNH's share price moves left from $82 to $76
+[22:41] beardurham sells a 10% share of B&M and receives $65
+[22:41] B&M's share price moves down from $65 to $63
+[22:41] beardurham sells 2 shares of B&O and receives $164
+[22:41] B&O's share price moves down from $82 to $71
+[22:41] beardurham sells a 10% share of PRR and receives $80
+[22:42] beardurham sells a 10% share of NYNH and receives $76
+[22:42] NYNH's share price moves down from $76 to $71
+[22:42] beardurham contributes $336
+[22:42] NYNH buys a 6 train for $630 from The Depot
+[22:42] NYNH skips buy companies
+[22:42] WaltzTangoFoxtrot operates PRR
+[23:11] PRR lays tile #61 with rotation 0 on I15 (Baltimore)
+[23:11] PRR skips place a token
+[23:11] PRR runs a 5 train for $240: H18-G19-G17-H16-I15
+[23:14] PRR pays out $240 = $24 per share ($120 to WaltzTangoFoxtrot, $72 to PRR, $24 to Bloedje, $24 to huffman123)
+[23:14] PRR's share price moves up from $80 to $90
+[23:14] PRR passes buy trains
+[23:14] PRR skips buy companies
+[23:14] Bloedje operates B&O
+[23:23] B&O lays tile #14 with rotation 0 on H10 (Pittsburgh)
+[23:23] B&O skips place a token
+[23:24] B&O runs a 5 train for $220: H10-I15-H16-G17-G19
+[23:24] B&O pays out $220 = $22 per share ($132 to Bloedje, $44 to B&O)
+[23:24] B&O's share price moves right from $71 to $75
+[23:24] B&O passes buy trains
+[23:24] B&O skips buy companies
+[23:24] WaltzTangoFoxtrot operates CPR
+[23:50] CPR lays tile #8 with rotation 5 on D18
+[23:50] CPR skips place a token
+-- 2024-10-19 --
+[02:18] CPR runs a 4 train for $170: A19-B20-E19-G19
+[02:18] CPR withholds $170
+[02:18] CPR's share price moves left from $66 to $60
+[02:18] CPR passes buy trains
+[02:18] CPR skips buy companies
+[02:18] Tusio_CET operates B&M
+[12:07] B&M passes lay/upgrade track
+[12:07] B&M skips place a token
+[12:07] B&M runs a 4 train for $180: E23-F22-F20-G19
+[12:08] B&M withholds $180
+[12:08] B&M's share price moves left from $63 to $54
+[12:08] B&M exchanges a 4 for a D train for $800 from The Depot
+[12:08] -- Phase D (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[12:08] -- Event: 4 trains rust ( The Depot x1, NYC x1, CPR x1, C&O x1) --
+[12:09] B&M passes buy trains
+[12:09] B&M skips buy companies
+[12:09] -- Operating Round 6.2 (of 3) --
+[12:09] Beda operates C&O
+[12:54] C&O lays tile #8 with rotation 1 on G5
+[12:54] C&O skips place a token
+[12:54] C&O runs a 5 train for $130: F6-G7-H10-I15
+[12:54] C&O pays out $130 = $13 per share ($78 to Beda, $26 to huffman123, $13 to Tusio_CET, $13 to Bloedje)
+[12:54] C&O's share price moves right from $100 to $112
+[12:54] C&O passes buy trains
+[12:54] C&O skips buy companies
+[12:54] WaltzTangoFoxtrot operates PRR
+[14:18] PRR lays tile #63 with rotation 0 on H10 (Pittsburgh)
+[14:18] PRR skips place a token
+[14:18] PRR runs a 5 train for $240: H18-G19-G17-H16-I15
+[14:20] PRR withholds $240
+[14:20] PRR's share price moves left from $90 to $82
+[14:21] PRR passes buy trains
+[14:21] PRR skips buy companies
+[14:21] huffman123 operates NYC
+[14:22] NYC lays tile #9 with rotation 1 on D16
+[14:22] NYC skips place a token
+[14:23] NYC runs a 6 train for $270: G19-G17-H18-G19-G17-H16
+[14:23] NYC pays out $270 = $27 per share ($162 to huffman123, $27 to Bloedje)
+[14:23] NYC's share price moves right from $82 to $90
+[14:23] NYC passes buy trains
+[14:23] NYC skips buy companies
+[14:23] Bloedje operates B&O
+[23:53] B&O lays tile #9 with rotation 0 on G11
+[23:53] B&O places a token on G19 (New York & Newark) for $100
+[23:53] B&O runs a 5 train for $230: H10-I15-H16-G17-G19
+[23:53] B&O pays out $230 = $23 per share ($138 to Bloedje, $46 to B&O)
+[23:53] B&O's share price moves right from $75 to $80
+[23:53] B&O passes buy trains
+[23:53] B&O skips buy companies
+[23:53] beardurham operates NYNH
+-- 2024-10-20 --
+[09:31] NYNH passes lay/upgrade track
+[09:31] NYNH skips place a token
+[09:31] NYNH runs a 6 train for $240: E23-F22-F20-G19-G17-H18
+[09:31] NYNH pays out $240 = $24 per share ($120 to beardurham, $72 to NYNH, $24 to Tusio_CET, $24 to Bloedje)
+[09:31] NYNH's share price moves right from $71 to $75
+[09:32] NYNH passes buy trains
+[09:32] NYNH skips buy companies
+[09:32] WaltzTangoFoxtrot operates CPR
+[13:31] CPR lays tile #8 with rotation 1 on E13
+[13:31] CPR places a token on D14 (Rochester) for $100
+[13:31] CPR skips run routes
+[13:31] CPR does not run
+[13:31] CPR's share price moves left from $60 to $54
+[13:32] -- WaltzTangoFoxtrot goes bankrupt and sells remaining shares --
+[13:32] WaltzTangoFoxtrot sells 2 shares of PRR and receives $164
+[13:32] PRR's share price moves down from $82 to $70
+[13:32] WaltzTangoFoxtrot sells 2 shares of CPR and receives $108
+[13:32] CPR's share price moves down from $54 to $42
+[13:32] -- Game over: Bloedje ($1281), huffman123 ($1165), Beda ($886), Tusio_CET ($644), beardurham ($570), WaltzTangoFoxtrot ($294) --

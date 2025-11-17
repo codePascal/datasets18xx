@@ -1,0 +1,1574 @@
+-- 2024-09-20 --
+[18:49] -- Phase 2 (Operating Rounds: 1 | Train Limit: 4 | Available Tiles: Yellow) --
+[18:49] Optional rules used in this game:
+[18:49] * Buy Multiple Brown Shares From IPO: Multiple brown shares may be bought from IPO as well as from pool
+[18:49] * Optional extra 6-Train: Adds a 3rd 6-train
+[18:49] Bart Kuiper bids $115 for Mohawk & Hudson
+[18:49] PdG bids $75 for Delaware & Hudson
+[18:51] The Lord bids $165 for Camden & Amboy
+[18:51] Bart Kuiper bids $225 for Baltimore & Ohio
+[18:52] PdG bids $230 for Baltimore & Ohio
+[18:53] The Lord buys Schuylkill Valley for $20
+[18:53] Bart Kuiper buys Champlain & St.Lawrence for $40
+[18:53] PdG wins the auction for Delaware & Hudson with the only bid of $75
+[18:53] Bart Kuiper wins the auction for Mohawk & Hudson with the only bid of $115
+[18:53] The Lord wins the auction for Camden & Amboy with the only bid of $165
+[18:53] The Lord receives a 10% share of PRR
+[18:53] Baltimore & Ohio goes up for auction
+[18:53] Bart Kuiper bids $235 for Baltimore & Ohio
+[18:53] PdG bids $265 for Baltimore & Ohio
+[18:55] Bart Kuiper passes on Baltimore & Ohio
+[18:55] PdG wins the auction for Baltimore & Ohio with a bid of $265
+[18:55] PdG pars B&O at $100
+[18:55] PdG receives a 20% share of B&O
+[18:55] PdG becomes the president of B&O
+[18:55] PdG has priority deal
+[18:55] -- Stock Round 1 --
+[18:55] PdG buys a 10% share of B&O from the IPO for $100
+[18:56] The Lord pars PRR at $100
+[18:56] The Lord buys a 20% share of PRR from the IPO for $200
+[18:56] The Lord becomes the president of PRR
+[18:59] Bart Kuiper pars NYC at $67
+[18:59] Bart Kuiper buys a 20% share of NYC from the IPO for $134
+[18:59] Bart Kuiper becomes the president of NYC
+[19:22] PdG buys a 10% share of B&O from the IPO for $100
+[20:00] The Lord buys a 10% share of PRR from the IPO for $100
+[20:00] Bart Kuiper exchanges Mohawk & Hudson from the IPO for a 10% share of NYC
+[20:00] Bart Kuiper buys a 10% share of NYC from the IPO for $67
+[20:00] PdG buys a 10% share of B&O from the IPO for $100
+[20:00] The Lord buys a 10% share of PRR from the IPO for $100
+[20:00] Bart Kuiper pars NYNH at $71
+[20:00] Bart Kuiper buys a 20% share of NYNH from the IPO for $142
+[20:00] Bart Kuiper becomes the president of NYNH
+[20:00] PdG buys a 10% share of B&O from the IPO for $100
+[20:00] B&O floats
+[20:00] B&O receives $1000
+[20:00] The Lord buys a 10% share of PRR from the IPO for $100
+[20:00] PRR floats
+[20:00] PRR receives $1000
+[20:00] Bart Kuiper buys a 10% share of NYNH from the IPO for $71
+[20:00] PdG has no valid actions and passes
+[20:02] The Lord buys a 10% share of B&O from the IPO for $100
+[20:02] Bart Kuiper buys a 10% share of NYNH from the IPO for $71
+[20:02] PdG has no valid actions and passes
+[20:02] The Lord has no valid actions and passes
+[20:02] Bart Kuiper buys a 10% share of NYNH from the IPO for $71
+[20:02] PdG has no valid actions and passes
+[20:02] The Lord has no valid actions and passes
+[20:02] Bart Kuiper buys a 10% share of NYNH from the IPO for $71
+[20:02] NYNH floats
+[20:02] NYNH receives $710
+[20:02] PdG has no valid actions and passes
+[20:02] The Lord has no valid actions and passes
+[20:02] Bart Kuiper has no valid actions and passes
+[20:02] PdG has priority deal
+[20:02] -- Operating Round 1.1 (of 1) --
+[20:02] PdG collects $15 from Delaware & Hudson
+[20:02] PdG collects $30 from Baltimore & Ohio
+[20:02] The Lord collects $5 from Schuylkill Valley
+[20:02] The Lord collects $25 from Camden & Amboy
+[20:02] Bart Kuiper collects $10 from Champlain & St.Lawrence
+[20:02] PdG operates B&O
+[20:02] B&O places a token on I15
+[20:03] B&O spends $80 and lays tile #57 with rotation 3 on J14 (Washington)
+[20:03] B&O places a token on J14 (Washington) for $40
+[20:03] B&O skips run routes
+[20:03] B&O does not run
+[20:03] B&O's share price moves left from $100 to $90
+[20:03] B&O buys a 2 train for $80 from The Depot
+[20:03] Baltimore & Ohio closes
+[20:03] B&O buys a 2 train for $80 from The Depot
+[20:03] B&O buys a 2 train for $80 from The Depot
+[20:03] B&O passes buy trains
+[20:03] B&O skips buy companies
+[20:03] The Lord operates PRR
+[20:03] PRR places a token on H12
+[20:04] PRR lays tile #57 with rotation 1 on H10 (Pittsburgh)
+[20:04] PRR passes place a token
+[20:04] PRR skips run routes
+[20:04] PRR does not run
+[20:04] PRR's share price moves left from $100 to $90
+[20:05] PRR buys a 2 train for $80 from The Depot
+[20:05] PRR passes buy trains
+[20:05] PRR skips buy companies
+[20:05] Bart Kuiper operates NYNH
+[20:05] NYNH places a token on G19
+[20:06] NYNH lays tile #56 with rotation 0 on F20 (New Haven & Hartford)
+[20:06] NYNH skips place a token
+[20:06] NYNH skips run routes
+[20:06] NYNH does not run
+[20:06] NYNH's share price moves left from $71 to $67
+[20:06] NYNH buys a 2 train for $80 from The Depot
+[20:06] NYNH buys a 2 train for $80 from The Depot
+[20:06] NYNH buys a 3 train for $180 from The Depot
+[20:06] -- Phase 3 (Operating Rounds: 2 | Train Limit: 4 | Available Tiles: Yellow, Green) --
+[20:06] NYNH buys a 3 train for $180 from The Depot
+[20:06] NYNH buys Champlain & St.Lawrence from Bart Kuiper for $80
+[20:07] NYNH passes buy companies
+[20:07] -- Stock Round 2 --
+[20:07] PdG buys a 10% share of NYNH from the IPO for $71
+[20:07] PdG declines to sell shares
+[20:08] The Lord passes
+[20:08] Bart Kuiper buys a 10% share of NYC from the IPO for $67
+[20:08] Bart Kuiper sells a 10% share of NYNH and receives $67
+[20:08] NYNH's share price moves down from $67 to $65
+[20:08] PdG passes
+[20:09] The Lord passes
+[20:09] Bart Kuiper buys a 10% share of NYC from the IPO for $67
+[20:09] NYC floats
+[20:09] NYC receives $670
+[20:09] Bart Kuiper declines to sell shares
+[20:09] PdG passes
+[20:10] The Lord passes
+[20:10] Bart Kuiper passes
+[20:10] PdG has priority deal
+[20:10] -- Operating Round 2.1 (of 2) --
+[20:10] PdG collects $15 from Delaware & Hudson
+[20:10] The Lord collects $5 from Schuylkill Valley
+[20:10] The Lord collects $25 from Camden & Amboy
+[20:10] NYNH collects $10 from Champlain & St.Lawrence
+[20:10] PdG operates B&O
+[20:11] B&O spends $80 and lays tile #9 with rotation 1 on I17
+[20:11] B&O skips place a token
+[20:11] B&O runs a 2 train for $40: I15-I19
+[20:11] B&O runs a 2 train for $50: I15-J14
+[20:11] B&O runs a 2 train for $50: J14-K13
+[20:11] B&O pays out $140 = $14 per share ($84 to PdG, $14 to The Lord)
+[20:11] B&O's share price moves right from $90 to $100
+[20:11] B&O buys Delaware & Hudson from PdG for $140
+[20:11] B&O buys a 3 train for $180 from The Depot
+[20:11] B&O passes buy companies
+[20:11] The Lord operates PRR
+[20:12] PRR lays tile #9 with rotation 1 on H14
+[20:12] PRR places a token on H10 (Pittsburgh) for $40
+[20:13] PRR runs a 2 train for $30: H10-H12
+[20:13] PRR pays out $30 = $3 per share ($18 to The Lord)
+[20:13] PRR's share price moves right from $90 to $100
+[20:13] PRR buys a 3 train for $180 from The Depot
+[20:13] PRR passes buy trains
+[20:14] PRR passes buy companies
+[20:14] Bart Kuiper operates NYC
+[20:14] NYC places a token on E19
+[20:14] NYC lays tile #57 with rotation 2 on E19 (Albany)
+[20:14] NYC skips place a token
+[20:14] NYC skips run routes
+[20:14] NYC does not run
+[20:14] NYC's share price moves left from $67 to $65
+[20:15] NYC buys a 3 train for $400 from NYNH
+[20:18] NYC buys a 2 train for $40 from NYNH
+[20:18] NYC passes buy trains
+[20:18] NYC passes buy companies
+[20:18] Bart Kuiper operates NYNH
+[20:18] NYNH spends $80 and lays tile #54 with rotation 0 on G19 (New York & Newark)
+[20:18] NYNH skips place a token
+[20:18] NYNH runs a 3 train for $90: G19-F20-E19
+[20:18] NYNH pays out $90 = $9 per share ($45 to Bart Kuiper, $9 to PdG, $9 to NYNH)
+[20:18] NYNH's share price moves right from $65 to $67
+[20:18] NYNH buys a 3 train for $180 from The Depot
+[20:18] NYNH buys a 4 train for $300 from The Depot
+[20:18] -- Phase 4 (Operating Rounds: 2 | Train Limit: 3 | Available Tiles: Yellow, Green) --
+[20:18] -- Event: 2 trains rust ( B&O x3, PRR x1, NYC x1, NYNH x1) --
+[20:18] NYNH passes buy companies
+[20:18] -- Operating Round 2.2 (of 2) --
+[20:18] The Lord collects $5 from Schuylkill Valley
+[20:18] The Lord collects $25 from Camden & Amboy
+[20:18] B&O collects $15 from Delaware & Hudson
+[20:18] NYNH collects $10 from Champlain & St.Lawrence
+[20:18] PdG operates B&O
+[20:19] B&O (DH) spends $120 and lays tile #57 with rotation 2 on F16 (Scranton)
+[20:19] B&O (DH) places a token on F16 (Scranton)
+[20:19] B&O skips lay track
+[20:19] B&O skips place a token
+[20:19] B&O runs a 3 train for $80: I15-J14-K13
+[20:19] B&O withholds $80
+[20:19] B&O's share price moves left from $100 to $90
+[20:19] B&O passes buy trains
+[20:19] B&O passes buy companies
+[20:19] The Lord operates PRR
+[20:20] PRR lays tile #15 with rotation 1 on H10 (Pittsburgh)
+[20:20] PRR skips place a token
+[20:20] PRR runs a 3 train for $40: H10-H12
+[20:20] PRR pays out $40 = $4 per share ($24 to The Lord)
+[20:20] PRR's share price moves right from $100 to $112
+[20:21] PRR buys a 4 train for $300 from The Depot
+[20:21] PRR passes buy trains
+[20:21] PRR buys Schuylkill Valley from The Lord for $40
+[20:22] PRR buys Camden & Amboy from The Lord for $320
+[20:22] PRR skips buy companies
+[20:22] Bart Kuiper operates NYNH
+[20:22] NYNH lays tile #15 with rotation 5 on E19 (Albany)
+[20:22] NYNH skips place a token
+[20:22] NYNH runs a 3 train for $100: G19-F20-E19
+[20:22] NYNH pays out $100 = $10 per share ($50 to Bart Kuiper, $10 to PdG, $10 to NYNH)
+[20:22] NYNH's share price moves right from $67 to $71
+[20:22] NYNH skips buy trains
+[20:22] NYNH passes buy companies
+[20:22] Bart Kuiper operates NYC
+[20:23] NYC lays tile #9 with rotation 0 on F18
+[20:23] NYC skips place a token
+[20:23] NYC runs a 3 train for $100: E19-F20-G19
+[20:23] NYC pays out $100 = $10 per share ($60 to Bart Kuiper)
+[20:23] NYC's share price moves right from $65 to $67
+[20:23] NYC buys a 3 train for $30 from NYNH
+[20:23] NYC passes buy trains
+[20:23] NYC skips buy companies
+[20:23] -- Stock Round 3 --
+[20:24] PdG buys a 10% share of PRR from the IPO for $100
+[20:24] PdG declines to sell shares
+[20:25] The Lord pars ERIE at $82
+[20:25] The Lord buys a 20% share of ERIE from the IPO for $164
+[20:25] The Lord becomes the president of ERIE
+[20:26] The Lord declines to sell shares
+[20:26] Bart Kuiper buys a 10% share of B&O from the IPO for $100
+[20:26] Bart Kuiper declines to sell shares
+[20:26] PdG buys a 10% share of NYNH from the market for $71
+[20:27] PdG declines to sell shares
+[20:27] The Lord buys a 10% share of ERIE from the IPO for $82
+[20:27] The Lord declines to sell shares
+[20:27] Bart Kuiper sells a 10% share of NYC and receives $67
+[20:27] NYC's share price moves down from $67 to $67
+[20:27] Bart Kuiper declines to buy shares
+[20:27] PdG buys a 10% share of NYC from the market for $67
+[20:27] PdG declines to sell shares
+[20:28] The Lord buys a 10% share of ERIE from the IPO for $82
+[20:28] The Lord declines to sell shares
+[20:28] Bart Kuiper buys a 10% share of B&O from the IPO for $100
+[20:28] Bart Kuiper declines to sell shares
+[20:28] PdG sells a 10% share of NYNH and receives $71
+[20:28] NYNH's share price moves down from $71 to $69
+[20:28] PdG buys a 10% share of PRR from the IPO for $100
+[20:29] The Lord buys a 10% share of ERIE from the IPO for $82
+[20:29] The Lord declines to sell shares
+[20:29] Bart Kuiper sells 2 shares of B&O and receives $180
+[20:29] B&O's share price moves down from $90 to $76
+[20:29] Bart Kuiper buys a 10% share of ERIE from the IPO for $82
+[20:29] ERIE floats
+[20:29] ERIE receives $820
+[20:29] PdG passes
+[20:29] The Lord buys a 10% share of ERIE from the IPO for $82
+[20:30] The Lord declines to sell shares
+[20:30] Bart Kuiper buys a 10% share of ERIE from the IPO for $82
+[20:30] Bart Kuiper declines to sell shares
+[20:30] PdG passes
+[20:30] The Lord sells 5 shares of ERIE and receives $410
+[20:30] Bart Kuiper becomes the president of ERIE
+[20:30] ERIE's share price moves down from $82 to $67
+[20:32] The Lord buys a 10% share of B&O from the market for $76
+[20:32] Bart Kuiper buys a 10% share of ERIE from the market for $67
+[20:32] Bart Kuiper declines to sell shares
+[20:32] PdG passes
+[20:33] The Lord buys a 10% share of B&O from the market for $76
+[20:33] The Lord declines to sell shares
+[20:33] Bart Kuiper passes
+[20:33] PdG passes
+[20:34] The Lord buys a 10% share of B&O from the IPO for $100
+[20:34] The Lord declines to sell shares
+[20:34] Bart Kuiper passes
+[20:34] PdG passes
+[20:36] The Lord buys a 10% share of NYC from the IPO for $67
+[20:36] The Lord declines to sell shares
+[20:36] Bart Kuiper passes
+[20:36] PdG passes
+[20:36] The Lord buys a 10% share of NYC from the IPO for $67
+[20:36] The Lord declines to sell shares
+[20:37] Bart Kuiper passes
+[20:37] PdG passes
+[20:38] The Lord sells 2 shares of NYC and receives $134
+[20:38] NYC's share price moves down from $67 to $60
+[20:38] The Lord buys a 10% share of NYNH from the market for $69
+[20:38] Bart Kuiper passes
+[20:38] PdG passes
+[20:38] The Lord buys a 10% share of NYNH from the IPO for $71
+[20:38] The Lord declines to sell shares
+[20:38] Bart Kuiper passes
+[20:38] PdG passes
+[20:38] The Lord passes
+[20:38] B&O's share price moves up from $76 to $82
+[20:38] Bart Kuiper has priority deal
+[20:38] -- Operating Round 3.1 (of 2) --
+[20:38] PRR collects $5 from Schuylkill Valley
+[20:38] PRR collects $25 from Camden & Amboy
+[20:38] B&O collects $15 from Delaware & Hudson
+[20:38] NYNH collects $10 from Champlain & St.Lawrence
+[20:38] The Lord operates PRR
+[20:39] PRR lays tile #57 with rotation 1 on H16 (Lancaster)
+[20:39] PRR skips place a token
+[20:39] PRR runs a 4 train for $30: H12-H16
+[20:39] PRR runs a 3 train for $40: H10-H12
+[20:40] PRR pays out $70 = $7 per share ($42 to The Lord, $14 to PdG)
+[20:40] PRR's share price moves right from $112 to $126
+[20:40] PRR passes buy trains
+[20:40] PRR skips buy companies
+[20:40] PdG operates B&O
+[20:40] B&O lays tile #1 with rotation 1 on G17 (Reading & Allentown)
+[20:40] B&O skips place a token
+[20:40] B&O runs a 3 train for $90: F16-G17-G19
+[20:40] B&O withholds $90
+[20:40] B&O's share price moves left from $82 to $76
+[20:40] B&O buys a 4 train for $300 from The Depot
+[20:40] B&O passes buy trains
+[20:40] B&O skips buy companies
+[20:40] Bart Kuiper operates NYNH
+[20:46] NYNH lays tile #24 with rotation 3 on F18
+[20:46] NYNH passes place a token
+[20:46] NYNH runs a 4 train for $90: G19-E19
+[20:46] NYNH runs a 3 train for $100: G19-F20-E19
+[20:46] NYNH withholds $190
+[20:46] NYNH's share price moves left from $69 to $67
+[20:46] NYNH passes buy trains
+[20:46] NYNH passes buy companies
+[20:46] Bart Kuiper operates ERIE
+[20:46] ERIE places a token on E11
+[20:47] ERIE lays tile #59 with rotation 4 on E11 (Dunkirk & Buffalo)
+[20:47] ERIE must choose city for token
+[20:47] ERIE places a token on E11 (Dunkirk & Buffalo)
+[20:47] ERIE skips place a token
+[20:47] ERIE skips run routes
+[20:47] ERIE does not run
+[20:47] ERIE's share price moves left from $67 to $60
+[20:52] ERIE buys a 3 train for $820 from NYC
+[20:52] ERIE skips buy companies
+[20:52] Bart Kuiper operates NYC
+[20:52] NYC spends $120 and lays tile #8 with rotation 4 on E17
+[20:52] NYC skips place a token
+[20:52] NYC runs a 3 train for $100: G19-E19-F20
+[20:52] NYC withholds $100
+[20:52] NYC's share price moves left from $60 to $50
+[20:52] NYC buys a 4 train for $300 from The Depot
+[20:53] NYC passes buy trains
+[20:53] NYC skips buy companies
+[20:53] -- Operating Round 3.2 (of 2) --
+[20:53] PRR collects $5 from Schuylkill Valley
+[20:53] PRR collects $25 from Camden & Amboy
+[20:53] B&O collects $15 from Delaware & Hudson
+[20:53] NYNH collects $10 from Champlain & St.Lawrence
+[20:53] The Lord operates PRR
+[20:54] PRR lays tile #59 with rotation 5 on H18 (Philadelphia & Trenton)
+[20:54] PRR passes place a token
+[20:54] PRR runs a 4 train for $70: H12-H16-H18
+[20:54] PRR runs a 3 train for $40: H10-H12
+[20:55] PRR withholds $110
+[20:55] PRR's share price moves left from $126 to $112
+[20:56] PRR passes buy trains
+[20:56] PRR skips buy companies
+[20:56] PdG operates B&O
+[20:56] B&O lays tile #53 with rotation 0 on I15 (Baltimore)
+[20:56] B&O skips place a token
+[20:56] B&O runs a 4 train for $120: J14-I15-I19-H18
+[20:56] B&O runs a 3 train for $90: F16-G17-G19
+[20:56] B&O pays out $210 = $21 per share ($126 to PdG, $84 to The Lord)
+[20:56] B&O's share price moves right from $76 to $82
+[20:56] B&O passes buy trains
+[20:56] B&O skips buy companies
+[20:56] Bart Kuiper operates NYNH
+[20:57] NYNH lays tile #14 with rotation 5 on F16 (Scranton)
+[20:57] NYNH passes place a token
+[20:57] NYNH runs a 4 train for $130: G19-E19-F16-G17
+[20:57] NYNH runs a 3 train for $100: G19-F20-E19
+[20:57] NYNH pays out $230 = $23 per share ($115 to Bart Kuiper, $46 to The Lord, $23 to PdG)
+[20:57] NYNH's share price moves right from $67 to $69
+[20:57] NYNH passes buy trains
+[20:57] NYNH passes buy companies
+[20:57] Bart Kuiper operates ERIE
+[20:57] ERIE lays tile #9 with rotation 1 on E13
+[20:57] ERIE skips place a token
+[20:57] ERIE skips run routes
+[20:57] ERIE does not run
+[20:57] ERIE's share price moves left from $60 to $50
+[20:57] ERIE skips buy trains
+[20:57] ERIE skips buy companies
+[20:57] Bart Kuiper operates NYC
+[21:00] NYC lays tile #8 with rotation 5 on E15
+[21:00] NYC places a token on F16 (Scranton) for $40
+[21:01] NYC runs a 4 train for $140: G19-G17-F16-E11
+[21:01] NYC runs a 3 train for $120: F16-E19-G19
+[21:01] NYC pays out $260 = $26 per share ($130 to Bart Kuiper, $52 to NYC, $26 to PdG)
+[21:01] NYC's share price moves right from $50 to $60
+[21:01] NYC buys a 5 train for $450 from The Depot
+[21:01] -- Phase 5 (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[21:01] -- Event: Private companies close --
+[21:01] NYC discards 3
+[21:01] NYC skips buy companies
+[21:01] -- Stock Round 4 --
+[21:02] Bart Kuiper buys a 10% share of PRR from the IPO for $100
+[21:02] Bart Kuiper declines to sell shares
+[21:02] PdG sells 2 shares of PRR and receives $224
+[21:02] PRR's share price moves down from $112 to $90
+[21:02] PdG pars C&O at $71
+[21:02] PdG buys a 20% share of C&O from the IPO for $142
+[21:02] PdG becomes the president of C&O
+[21:05] The Lord buys a 10% share of NYC from the IPO for $67
+[21:05] The Lord declines to sell shares
+[21:05] Bart Kuiper buys a 10% share of NYC from the market for $60
+[21:05] Bart Kuiper declines to sell shares
+[21:05] PdG buys a 10% share of C&O from the IPO for $71
+[21:05] PdG declines to sell shares
+[21:05] The Lord buys a 10% share of NYC from the market for $60
+[21:06] The Lord declines to sell shares
+[21:06] Bart Kuiper sells a 10% share of PRR and receives $90
+[21:06] PRR's share price moves down from $90 to $82
+[21:06] Bart Kuiper buys a 10% share of ERIE from the market for $50
+[21:06] PdG buys a 10% share of C&O from the IPO for $71
+[21:06] PdG declines to sell shares
+[21:06] The Lord buys a 10% share of NYC from the IPO for $67
+[21:06] The Lord declines to sell shares
+[21:07] Bart Kuiper buys a 10% share of NYNH from the IPO for $71
+[21:07] Bart Kuiper declines to sell shares
+[21:07] PdG buys a 10% share of C&O from the IPO for $71
+[21:07] PdG declines to sell shares
+[21:08] The Lord sells a 10% share of ERIE and receives $50
+[21:08] ERIE's share price moves down from $50 to $40
+[21:09] The Lord buys a 10% share of NYNH from the IPO for $71
+[21:09] Bart Kuiper buys a 10% share of ERIE from the market for $40
+[21:09] Bart Kuiper declines to sell shares
+[21:09] PdG buys a 10% share of C&O from the IPO for $71
+[21:09] C&O floats
+[21:09] C&O receives $710
+[21:09] PdG declines to sell shares
+[21:09] The Lord passes
+[21:09] Bart Kuiper passes
+[21:09] PdG passes
+[21:09] B&O's share price moves up from $82 to $90
+[21:09] NYNH's share price moves up from $69 to $71
+[21:09] NYC's share price moves up from $60 to $67
+[21:09] The Lord has priority deal
+[21:09] -- Operating Round 4.1 (of 3) --
+[21:09] PdG operates B&O
+[21:11] B&O lays tile #67 with rotation 5 on H18 (Philadelphia & Trenton)
+[21:11] B&O skips place a token
+[21:11] B&O runs a 4 train for $150: F16-G17-G19-H18
+[21:11] B&O runs a 3 train for $120: F16-E19-G19
+[21:11] B&O withholds $270
+[21:11] B&O's share price moves left from $90 to $82
+[21:11] B&O skips buy trains
+[21:11] B&O skips buy companies
+[21:11] The Lord operates PRR
+[21:12] PRR lays tile #62 with rotation 0 on G19 (New York & Newark)
+[21:12] PRR places a token on H18 (Philadelphia & Trenton) for $100
+[21:12] PRR runs a 4 train for $170: H18-G19-G17-F16
+[21:12] PRR runs a 3 train for $40: H10-H12
+[21:12] PRR pays out $210 = $21 per share ($126 to The Lord, $63 to PRR)
+[21:12] PRR's share price moves right from $82 to $90
+[21:12] PRR skips buy trains
+[21:12] PRR skips buy companies
+[21:12] Bart Kuiper operates NYNH
+[21:13] NYNH lays tile #63 with rotation 0 on F16 (Scranton)
+[21:13] NYNH passes place a token
+[21:13] NYNH runs a 4 train for $120: G19-F20-E19
+[21:13] NYNH runs a 3 train for $150: G19-E19-F16
+[21:14] NYNH withholds $270
+[21:14] NYNH's share price moves left from $71 to $67
+[21:14] NYNH skips buy trains
+[21:14] NYNH skips buy companies
+[21:14] PdG operates C&O
+[21:14] C&O places a token on F6
+[21:14] C&O lays tile #55 with rotation 1 on G7 (Akron & Canton)
+[21:14] C&O skips place a token
+[21:14] C&O skips run routes
+[21:14] C&O does not run
+[21:14] C&O's share price moves left from $71 to $67
+[21:14] C&O buys a 5 train for $450 from The Depot
+[21:14] C&O buys a 3 train for $215 from B&O
+[21:14] C&O skips buy companies
+[21:14] Bart Kuiper operates NYC
+[21:16] NYC lays tile #64 with rotation 2 on E11 (Dunkirk & Buffalo)
+[21:16] NYC passes place a token
+[21:16] NYC runs a 5 train for $160: F16-E19-G19-F20
+[21:16] NYC runs a 4 train for $180: G19-G17-F16-E11
+[21:17] NYC withholds $340
+[21:17] NYC's share price moves left from $67 to $60
+[21:17] NYC skips buy trains
+[21:17] NYC skips buy companies
+[21:17] Bart Kuiper operates ERIE
+[21:17] ERIE lays tile #23 with rotation 1 on E15
+[21:17] ERIE skips place a token
+[21:17] ERIE runs a 3 train for $90: E11-F16
+[21:17] ERIE withholds $90
+[21:17] ERIE's share price moves left from $40 to $30
+[21:19] ERIE buys a 4 train for $1 from NYNH
+[21:19] ERIE skips buy companies
+[21:19] -- Operating Round 4.2 (of 3) --
+[21:19] The Lord operates PRR
+[21:20] PRR lays tile #14 with rotation 0 on H16 (Lancaster)
+[21:20] PRR passes place a token
+[21:20] PRR runs a 4 train for $180: H18-G19-G17-F16
+[21:20] PRR runs a 3 train for $40: H10-H12
+[21:20] PRR withholds $220
+[21:20] PRR's share price moves left from $90 to $82
+[21:20] PRR skips buy trains
+[21:20] PRR skips buy companies
+[21:20] PdG operates B&O
+[21:21] B&O lays tile #25 with rotation 4 on E17
+[21:21] B&O skips place a token
+[21:22] B&O runs a 4 train for $200: G19-E19-F16-E11
+[21:22] B&O pays out $200 = $20 per share ($120 to PdG, $80 to The Lord)
+[21:22] B&O's share price moves right from $82 to $90
+[21:22] B&O buys a 5 train for $450 from The Depot
+[21:22] B&O skips buy companies
+[21:22] Bart Kuiper operates NYNH
+[21:23] NYNH lays tile #8 with rotation 5 on D18
+[21:23] NYNH passes place a token
+[21:23] NYNH runs a 3 train for $150: G19-E19-F16
+[21:23] NYNH withholds $150
+[21:23] NYNH's share price moves left from $67 to $65
+[21:23] NYNH buys a 6 train for $630 from The Depot
+[21:23] -- Phase 6 (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[21:23] -- Event: 3 trains rust ( ERIE x1, The Depot x1, C&O x1, PRR x1, NYNH x1) --
+[21:23] NYNH passes buy trains
+[21:23] NYNH skips buy companies
+[21:23] PdG operates C&O
+[21:23] C&O lays tile #8 with rotation 2 on H8
+[21:23] C&O places a token on H10 (Pittsburgh) for $40
+[21:24] C&O runs a 5 train for $150: F6-G7-H10-H16-H18
+[21:24] C&O pays out $150 = $15 per share ($90 to PdG)
+[21:24] C&O's share price moves right from $67 to $71
+[21:24] C&O passes buy trains
+[21:24] C&O skips buy companies
+[21:24] Bart Kuiper operates NYC
+[21:25] NYC lays tile #9 with rotation 1 on D16
+[21:25] NYC passes place a token
+[21:25] NYC runs a 5 train for $210: E11-F16-E19-G19-F20
+[21:25] NYC runs a 4 train for $180: F16-G17-G19-H18
+[21:26] NYC withholds $390
+[21:26] NYC's share price moves left from $60 to $50
+[21:27] NYC exchanges a 4 for a D train for $800 from The Depot
+[21:27] -- Phase D (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[21:27] -- Event: 4 trains rust ( ERIE x1, PRR x1, B&O x1, The Depot x1) --
+[21:27] NYC skips buy companies
+[21:27] Bart Kuiper operates ERIE
+[21:27] ERIE lays tile #24 with rotation 1 on E13
+[21:27] ERIE passes place a token
+[21:27] ERIE skips run routes
+[21:27] ERIE does not run
+[21:27] ERIE's share price moves left from $30 to $20
+[21:27] ERIE buys a 5 train for $1 from NYC
+[21:27] ERIE passes buy trains
+[21:27] ERIE skips buy companies
+[21:27] -- Operating Round 4.3 (of 3) --
+[21:27] PdG operates B&O
+[21:27] B&O lays tile #61 with rotation 0 on I15 (Baltimore)
+[21:27] B&O skips place a token
+[21:28] B&O runs a 5 train for $240: G19-E19-F16-G17-G19
+[21:28] B&O pays out $240 = $24 per share ($144 to PdG, $96 to The Lord)
+[21:28] B&O's share price moves right from $90 to $100
+[21:28] B&O passes buy trains
+[21:28] B&O skips buy companies
+[21:28] The Lord operates PRR
+[21:30] PRR lays tile #63 with rotation 0 on H16 (Lancaster)
+[21:30] PRR passes place a token
+[21:30] PRR skips run routes
+[21:30] PRR does not run
+[21:30] PRR's share price moves left from $82 to $76
+[21:30] The Lord contributes $237
+[21:30] PRR buys a 6 train for $630 from The Depot
+[21:30] PRR skips buy companies
+[21:30] PdG operates C&O
+[21:31] C&O lays tile #63 with rotation 0 on H10 (Pittsburgh)
+[21:31] C&O skips place a token
+[21:31] C&O runs a 5 train for $180: F6-G7-H10-H16-I15
+[21:31] C&O pays out $180 = $18 per share ($108 to PdG)
+[21:31] C&O's share price moves right from $71 to $76
+[21:31] C&O passes buy trains
+[21:31] C&O skips buy companies
+[21:31] Bart Kuiper operates NYNH
+[21:32] NYNH lays tile #46 with rotation 3 on F18
+[21:32] NYNH passes place a token
+[21:32] NYNH runs a 6 train for $230: E11-D14-E19-F20-G19-F16
+[21:32] NYNH pays out $230 = $23 per share ($138 to Bart Kuiper, $69 to The Lord, $23 to PdG)
+[21:32] NYNH's share price moves right from $65 to $67
+[21:32] NYNH passes buy trains
+[21:32] NYNH skips buy companies
+[21:32] Bart Kuiper operates NYC
+[21:32] NYC spends $120 and lays tile #8 with rotation 3 on G15
+[21:32] NYC skips place a token
+[21:33] NYC runs a D train for $370: E11-D14-E19-F20-G19-F16-G17-G19-H18
+[21:33] NYC pays out $370 = $37 per share ($222 to Bart Kuiper, $111 to The Lord, $37 to PdG)
+[21:33] NYC's share price moves right from $50 to $60
+[21:33] NYC passes buy trains
+[21:33] NYC skips buy companies
+[21:33] Bart Kuiper operates ERIE
+[21:33] ERIE spends $80 and lays tile #59 with rotation 5 on D10 (Hamilton & Toronto)
+[21:33] ERIE skips place a token
+[21:33] ERIE runs a 5 train for $220: G19-E19-D14-E11-D10
+[21:33] ERIE pays out $220 = $22 per share ($110 to Bart Kuiper, $66 to ERIE)
+[21:33] ERIE's share price moves right from $20 to $30
+[21:33] ERIE passes buy trains
+[21:33] ERIE skips buy companies
+[21:33] -- Stock Round 5 --
+[21:34] The Lord buys a 10% share of ERIE from the IPO for $82
+[21:34] The Lord declines to sell shares
+[21:35] Bart Kuiper buys a 10% share of ERIE from the market for $30
+[21:36] Bart Kuiper buys a 10% share of ERIE from the market for $30
+[21:36] Bart Kuiper buys a 10% share of ERIE from the market for $30
+[21:36] Bart Kuiper buys a 10% share of ERIE from the IPO for $82
+[21:36] Bart Kuiper declines to sell shares
+[21:36] PdG sells a 10% share of NYNH and receives $67
+[21:36] NYNH's share price moves down from $67 to $67
+[21:36] PdG pars CPR at $100
+[21:36] PdG buys a 20% share of CPR from the IPO for $200
+[21:36] PdG becomes the president of CPR
+[21:37] The Lord buys a 10% share of NYNH from the market for $67
+[21:37] The Lord declines to sell shares
+[21:37] Bart Kuiper buys a 10% share of CPR from the IPO for $100
+[21:37] Bart Kuiper declines to sell shares
+[21:37] PdG buys a 10% share of CPR from the IPO for $100
+[21:37] PdG declines to sell shares
+[21:39] The Lord buys a 10% share of CPR from the IPO for $100
+[21:39] The Lord sells a 10% share of CPR and receives $100
+[21:39] CPR's share price moves down from $100 to $90
+[21:40] Bart Kuiper buys a 10% share of CPR from the market for $90
+[21:40] Bart Kuiper declines to sell shares
+[21:40] PdG buys a 10% share of CPR from the IPO for $100
+[21:40] CPR floats
+[21:40] CPR receives $1000
+[21:40] PdG declines to sell shares
+[21:40] The Lord buys a 10% share of C&O from the IPO for $71
+[21:40] The Lord declines to sell shares
+[21:41] Bart Kuiper buys a 10% share of CPR from the IPO for $100
+[21:41] Bart Kuiper declines to sell shares
+[21:41] PdG buys a 10% share of PRR from the market for $76
+[21:41] PdG declines to sell shares
+[21:42] The Lord passes
+[21:42] Bart Kuiper sells 3 shares of CPR and receives $270
+[21:42] CPR's share price moves down from $90 to $71
+[21:42] Bart Kuiper buys a 10% share of C&O from the IPO for $71
+[21:42] PdG buys a 10% share of PRR from the market for $76
+[21:42] PdG declines to sell shares
+[21:43] The Lord passes
+[21:43] Bart Kuiper buys a 10% share of C&O from the IPO for $71
+[21:43] Bart Kuiper declines to sell shares
+[21:44] PdG passes
+[21:45] The Lord passes
+[21:45] Bart Kuiper buys a 10% share of PRR from the market for $76
+[21:45] Bart Kuiper declines to sell shares
+[21:45] PdG passes
+[21:45] The Lord passes
+[21:45] Bart Kuiper buys a 10% share of C&O from the IPO for $71
+[21:45] Bart Kuiper declines to sell shares
+[21:45] PdG passes
+[21:45] The Lord passes
+[21:45] Bart Kuiper sells 3 shares of C&O and receives $228
+[21:45] C&O's share price moves down from $76 to $68
+[21:46] Bart Kuiper sells a 10% share of PRR and receives $76
+[21:46] PRR's share price moves down from $76 to $71
+[21:46] Bart Kuiper pars B&M at $100
+[21:46] Bart Kuiper buys a 20% share of B&M from the IPO for $200
+[21:46] Bart Kuiper becomes the president of B&M
+[21:46] PdG passes
+[21:46] The Lord passes
+[21:46] Bart Kuiper buys a 10% share of B&M from the IPO for $100
+[21:46] Bart Kuiper declines to sell shares
+[21:46] PdG passes
+[21:47] The Lord passes
+[21:47] Bart Kuiper passes
+[21:47] NYNH's share price moves up from $67 to $67
+[21:47] NYC's share price moves up from $60 to $63
+[21:47] ERIE's share price moves up from $30 to $40
+[21:47] PdG has priority deal
+[21:47] -- Operating Round 5.1 (of 3) --
+[21:47] PdG operates B&O
+[21:47] B&O lays tile #14 with rotation 2 on J14 (Washington)
+[21:47] B&O skips place a token
+[21:47] B&O runs a 5 train for $260: G19-F16-G17-G19-H18
+[21:47] B&O withholds $260
+[21:47] B&O's share price moves left from $100 to $90
+[21:47] B&O passes buy trains
+[21:47] B&O skips buy companies
+[21:47] PdG operates CPR
+[21:47] CPR places a token on A19
+[21:47] CPR spends $80 and lays tile #7 with rotation 2 on B18
+[21:47] CPR skips place a token
+[21:47] CPR skips run routes
+[21:47] CPR does not run
+[21:47] CPR's share price moves left from $71 to $67
+[21:47] CPR buys a 6 train for $630 from The Depot
+[21:47] CPR passes buy trains
+[21:47] CPR skips buy companies
+[21:47] The Lord operates PRR
+[21:51] PRR lays tile #8 with rotation 5 on G9
+[21:51] PRR skips place a token
+[21:51] PRR runs a 6 train for $280: I15-H16-H18-G19-G17-F16
+[21:51] PRR withholds $280
+[21:51] PRR's share price moves left from $71 to $67
+[21:51] PRR passes buy trains
+[21:51] PRR skips buy companies
+[21:51] PdG operates C&O
+[21:51] C&O lays tile #8 with rotation 2 on G5
+[21:51] C&O skips place a token
+[21:51] C&O runs a 5 train for $180: F6-G7-H10-H16-I15
+[21:51] C&O withholds $180
+[21:51] C&O's share price moves left from $68 to $67
+[21:51] C&O passes buy trains
+[21:51] C&O skips buy companies
+[21:51] Bart Kuiper operates NYNH
+[21:52] NYNH lays tile #9 with rotation 1 on D12
+[21:53] NYNH passes place a token
+[21:54] NYNH runs a 6 train for $230: E11-D14-E19-F20-G19-F16
+[21:54] NYNH withholds $230
+[21:54] NYNH's share price moves left from $67 to $65
+[21:55] NYNH buys a D train for $250 from NYC
+[21:55] NYNH skips buy companies
+[21:55] Bart Kuiper operates NYC
+[21:55] NYC lays tile #66 with rotation 4 on D10 (Hamilton & Toronto)
+[21:55] NYC places a token on H16 (Lancaster) for $100
+[21:55] NYC skips run routes
+[21:55] NYC does not run
+[21:55] NYC's share price moves left from $63 to $54
+[21:56] NYC buys a D train for $123 from NYNH
+[21:56] NYC passes buy trains
+[21:56] NYC skips buy companies
+[21:56] Bart Kuiper operates ERIE
+[21:57] ERIE lays tile #7 with rotation 4 on D8
+[21:57] ERIE passes place a token
+[21:57] ERIE runs a 5 train for $230: G19-E19-D14-E11-D10
+[21:57] ERIE pays out $230 = $23 per share ($207 to Bart Kuiper, $23 to The Lord)
+[21:57] ERIE's share price moves right from $40 to $50
+[21:57] ERIE passes buy trains
+[21:57] ERIE skips buy companies
+[21:57] -- Operating Round 5.2 (of 3) --
+[21:57] PdG operates B&O
+[21:58] B&O lays tile #19 with rotation 1 on D16
+[21:58] B&O skips place a token
+[21:58] B&O runs a 5 train for $260: G19-F16-G17-G19-H18
+[21:58] B&O withholds $260
+[21:58] B&O's share price moves left from $90 to $82
+[21:59] B&O passes buy trains
+[21:59] B&O skips buy companies
+[21:59] PdG operates C&O
+[21:59] C&O spends $80 and lays tile #57 with rotation 2 on F4 (Toledo)
+[21:59] C&O places a token on H16 (Lancaster) for $100
+[22:00] C&O runs a 5 train for $180: F6-G7-H10-H16-I15
+[22:00] C&O withholds $180
+[22:00] C&O's share price moves left from $67 to $60
+[22:00] C&O passes buy trains
+[22:00] C&O skips buy companies
+[22:00] PdG operates CPR
+[22:00] CPR lays tile #57 with rotation 0 on B16 (Ottawa)
+[22:00] CPR passes place a token
+[22:00] CPR runs a 6 train for $70: A19-B16-C15
+[22:00] CPR pays out $70 = $7 per share ($28 to PdG, $21 to CPR)
+[22:00] CPR's share price moves right from $67 to $71
+[22:01] CPR passes buy trains
+[22:01] CPR skips buy companies
+[22:01] The Lord operates PRR
+[22:04] PRR lays tile #15 with rotation 5 on F4 (Toledo)
+[22:04] PRR passes place a token
+[22:04] PRR runs a 6 train for $220: H16-H18-G19-G17-F16
+[22:04] PRR pays out $220 = $22 per share ($132 to The Lord, $44 to PdG, $22 to PRR)
+[22:04] PRR's share price moves right from $67 to $71
+[22:04] PRR passes buy trains
+[22:04] PRR skips buy companies
+[22:04] Bart Kuiper operates NYNH
+[22:05] NYNH lays tile #23 with rotation 1 on D18
+[22:05] NYNH passes place a token
+[22:05] NYNH runs a 6 train for $280: G19-E19-D14-D10-D10-E11
+[22:05] NYNH pays out $280 = $28 per share ($168 to Bart Kuiper, $112 to The Lord)
+[22:05] NYNH's share price moves right from $65 to $67
+[22:05] NYNH passes buy trains
+[22:05] NYNH skips buy companies
+[22:05] Bart Kuiper operates NYC
+[22:05] NYC lays tile #41 with rotation 4 on D18
+[22:06] NYC passes place a token
+[22:06] NYC runs a D train for $470: E11-D10-D10-D14-E19-F20-G19-F16-G17-G19-H18
+[22:06] NYC pays out $470 = $47 per share ($282 to Bart Kuiper, $141 to The Lord, $47 to PdG)
+[22:06] NYC's share price moves right from $54 to $63
+[22:06] NYC passes buy trains
+[22:06] NYC skips buy companies
+[22:06] Bart Kuiper operates ERIE
+[22:10] ERIE lays tile #18 with rotation 3 on D8
+[22:10] ERIE places a token on E19 (Albany) for $40
+[22:10] ERIE runs a 5 train for $230: G19-E19-D14-E11-D10
+[22:11] ERIE pays out $230 = $23 per share ($207 to Bart Kuiper, $23 to The Lord)
+[22:11] ERIE's share price moves right from $50 to $60
+[22:11] ERIE passes buy trains
+[22:11] ERIE skips buy companies
+[22:11] -- Operating Round 5.3 (of 3) --
+[22:11] PdG operates B&O
+[22:11] B&O lays tile #29 with rotation 3 on G15
+[22:11] B&O skips place a token
+[22:11] B&O runs a 5 train for $260: G19-F16-G17-G19-H18
+[22:11] B&O withholds $260
+[22:11] B&O's share price moves left from $82 to $76
+[22:12] B&O passes buy trains
+[22:12] B&O skips buy companies
+[22:12] PdG operates CPR
+[22:13] CPR lays tile #58 with rotation 2 on B20 (Burlington)
+[22:13] CPR passes place a token
+[22:13] CPR runs a 6 train for $80: B20-A19-B16-C15
+[22:13] CPR pays out $80 = $8 per share ($32 to PdG, $24 to CPR)
+[22:13] CPR's share price moves right from $71 to $76
+[22:13] CPR passes buy trains
+[22:13] CPR skips buy companies
+[22:13] The Lord operates PRR
+[22:14] PRR lays tile #23 with rotation 1 on H14
+[22:14] PRR passes place a token
+[22:16] PRR runs a 6 train for $220: H16-H18-G19-G17-F16
+[22:16] PRR pays out $220 = $22 per share ($132 to The Lord, $44 to PdG, $22 to PRR)
+[22:16] PRR's share price moves right from $71 to $76
+[22:17] PRR passes buy trains
+[22:17] PRR skips buy companies
+[22:17] Bart Kuiper operates NYNH
+[22:17] NYNH passes lay/upgrade track
+[22:17] NYNH skips place a token
+[22:17] NYNH runs a 6 train for $160: F16-G19-F20-E19
+[22:17] NYNH pays out $160 = $16 per share ($96 to Bart Kuiper, $64 to The Lord)
+[22:17] NYNH's share price moves right from $67 to $71
+[22:17] NYNH passes buy trains
+[22:17] NYNH skips buy companies
+[22:17] Bart Kuiper operates NYC
+[22:18] NYC lays tile #9 with rotation 1 on D20
+[22:18] NYC passes place a token
+[22:18] NYC runs a D train for $470: E11-D10-D10-D14-E19-F20-G19-F16-G17-G19-H18
+[22:19] NYC pays out $470 = $47 per share ($282 to Bart Kuiper, $141 to The Lord, $47 to PdG)
+[22:19] NYC's share price moves right from $63 to $67
+[22:19] NYC passes buy trains
+[22:19] NYC skips buy companies
+[22:19] PdG operates C&O
+[22:19] C&O lays tile #9 with rotation 2 on E3
+[22:19] C&O skips place a token
+[22:19] C&O runs a 5 train for $210: F2-F4-G7-H10-I15
+[22:19] C&O pays out $210 = $21 per share ($126 to PdG, $63 to C&O, $21 to The Lord)
+[22:19] C&O's share price moves right from $60 to $67
+[22:20] C&O passes buy trains
+[22:20] C&O skips buy companies
+[22:20] Bart Kuiper operates ERIE
+[22:20] ERIE lays tile #43 with rotation 3 on D8
+[22:20] ERIE skips place a token
+[22:20] ERIE runs a 5 train for $230: G19-E19-D14-E11-D10
+[22:20] ERIE pays out $230 = $23 per share ($207 to Bart Kuiper, $23 to The Lord)
+[22:20] ERIE's share price moves right from $60 to $67
+[22:20] ERIE passes buy trains
+[22:20] ERIE skips buy companies
+[22:20] -- Stock Round 6 --
+[22:21] PdG buys a 10% share of PRR from the market for $76
+[22:21] PdG declines to sell shares
+[22:22] The Lord buys a 10% share of CPR from the IPO for $100
+[22:22] The Lord declines to sell shares
+[22:23] Bart Kuiper sells 3 shares of ERIE and receives $201
+[22:23] ERIE's share price moves down from $67 to $40
+[22:23] Bart Kuiper declines to buy shares
+[22:23] PdG buys a 10% share of ERIE from the market for $40
+[22:23] PdG declines to sell shares
+[22:24] The Lord buys a 10% share of ERIE from the market for $40
+[22:24] The Lord declines to sell shares
+[22:24] Bart Kuiper buys a 10% share of B&M from the IPO for $100
+[22:24] Bart Kuiper declines to sell shares
+[22:24] PdG buys a 10% share of ERIE from the market for $40
+[22:24] PdG declines to sell shares
+[22:25] The Lord buys a 10% share of C&O from the market for $67
+[22:25] The Lord declines to sell shares
+[22:25] Bart Kuiper buys a 10% share of PRR from the IPO for $100
+[22:25] Bart Kuiper declines to sell shares
+[22:25] PdG buys a 10% share of CPR from the market for $76
+[22:25] PdG declines to sell shares
+[22:25] The Lord buys a 10% share of C&O from the market for $67
+[22:26] The Lord declines to sell shares
+[22:26] Bart Kuiper buys a 10% share of C&O from the market for $67
+[22:26] Bart Kuiper declines to sell shares
+[22:26] PdG buys a 10% share of CPR from the IPO for $100
+[22:26] PdG declines to sell shares
+[22:29] The Lord passes
+[22:29] Bart Kuiper buys a 10% share of B&M from the IPO for $100
+[22:29] Bart Kuiper declines to sell shares
+[22:30] PdG passes
+[22:31] The Lord passes
+[22:31] Bart Kuiper buys a 10% share of B&M from the IPO for $100
+[22:31] B&M floats
+[22:31] B&M receives $1000
+[22:32] Bart Kuiper declines to sell shares
+[22:32] PdG passes
+[22:32] The Lord passes
+[22:33] Bart Kuiper buys a 10% share of CPR from the market for $76
+[22:33] Bart Kuiper declines to sell shares
+[22:33] PdG passes
+[22:33] The Lord passes
+[22:33] Bart Kuiper buys a 10% share of CPR from the market for $76
+[22:33] Bart Kuiper declines to sell shares
+[22:33] PdG passes
+[22:33] The Lord passes
+[22:33] Bart Kuiper buys a 10% share of CPR from the IPO for $100
+[22:33] Bart Kuiper declines to sell shares
+[22:33] PdG passes
+[22:33] The Lord passes
+[22:33] Bart Kuiper passes
+[22:33] CPR's share price moves up from $76 to $82
+[22:33] PRR's share price moves up from $76 to $82
+[22:33] NYNH's share price moves up from $71 to $76
+[22:33] NYC's share price moves up from $67 to $67
+[22:33] C&O's share price moves up from $67 to $67
+[22:33] ERIE's share price moves up from $40 to $50
+[22:33] PdG has priority deal
+[22:33] -- Operating Round 6.1 (of 3) --
+[22:33] Bart Kuiper operates B&M
+[22:33] B&M places a token on E23
+[22:33] B&M spends $120 and lays tile #9 with rotation 1 on D22
+[22:34] B&M passes place a token
+[22:34] B&M skips run routes
+[22:34] B&M does not run
+[22:34] B&M's share price moves left from $100 to $90
+[22:35] B&M buys a 5 train for $840 from ERIE
+[22:35] B&M passes buy trains
+[22:35] B&M skips buy companies
+[22:35] PdG operates CPR
+[22:35] CPR lays tile #26 with rotation 3 on B18
+[22:35] CPR passes place a token
+[22:35] CPR runs a 6 train for $80: B20-A19-B16-C15
+[22:35] CPR pays out $80 = $8 per share ($48 to PdG, $24 to Bart Kuiper, $8 to The Lord)
+[22:35] CPR's share price moves right from $82 to $90
+[22:35] CPR passes buy trains
+[22:35] CPR skips buy companies
+[22:35] The Lord operates PRR
+[22:37] PRR lays tile #58 with rotation 5 on D4 (Flint)
+[22:37] PRR passes place a token
+[22:38] PRR runs a 6 train for $220: H16-H18-G19-G17-F16
+[22:38] PRR pays out $220 = $22 per share ($132 to The Lord, $66 to PdG, $22 to Bart Kuiper)
+[22:38] PRR's share price moves right from $82 to $90
+[22:38] PRR passes buy trains
+[22:38] PRR skips buy companies
+[22:38] Bart Kuiper operates NYNH
+[22:38] NYNH passes lay/upgrade track
+[22:38] NYNH skips place a token
+[22:38] NYNH runs a 6 train for $160: F16-G19-F20-E19
+[22:38] NYNH pays out $160 = $16 per share ($96 to Bart Kuiper, $64 to The Lord)
+[22:38] NYNH's share price moves right from $76 to $82
+[22:38] NYNH passes buy trains
+[22:38] NYNH skips buy companies
+[22:38] PdG operates B&O
+[22:38] B&O lays tile #8 with rotation 5 on I13
+[22:38] B&O skips place a token
+[22:38] B&O runs a 5 train for $260: G19-F16-G17-G19-H18
+[22:38] B&O withholds $260
+[22:38] B&O's share price moves left from $76 to $71
+[22:38] B&O buys a D train for $1100 from The Depot
+[22:38] B&O skips buy companies
+[22:38] Bart Kuiper operates NYC
+[22:40] NYC lays tile #45 with rotation 1 on D16
+[22:40] NYC passes place a token
+[22:40] NYC runs a D train for $470: E11-D10-D10-D14-E19-F20-G19-F16-G17-G19-H18
+[22:40] NYC withholds $470
+[22:40] NYC's share price moves left from $67 to $65
+[22:42] NYC passes buy trains
+[22:42] NYC skips buy companies
+[22:42] PdG operates C&O
+[22:42] C&O spends $120 and lays tile #8 with rotation 2 on I11
+[22:42] C&O skips place a token
+[22:42] C&O runs a 5 train for $220: I15-J14-H10-H16-H18
+[22:42] C&O pays out $220 = $22 per share ($132 to PdG, $66 to The Lord, $22 to Bart Kuiper)
+[22:42] C&O's share price moves right from $67 to $69
+[22:42] C&O passes buy trains
+[22:42] C&O skips buy companies
+[22:42] Bart Kuiper operates ERIE
+[22:43] ERIE lays tile #9 with rotation 0 on C9
+[22:44] ERIE passes place a token
+[22:44] ERIE skips run routes
+[22:44] ERIE does not run
+[22:44] ERIE's share price moves left from $50 to $40
+[22:44] Bart Kuiper contributes $226
+[22:44] ERIE buys a D train for $1100 from The Depot
+[22:44] ERIE skips buy companies
+[22:44] -- Operating Round 6.2 (of 3) --
+[22:44] PdG operates CPR
+[22:44] CPR passes lay/upgrade track
+[22:44] CPR passes place a token
+[22:44] CPR runs a 6 train for $80: B20-A19-B16-C15
+[22:44] CPR pays out $80 = $8 per share ($48 to PdG, $24 to Bart Kuiper, $8 to The Lord)
+[22:44] CPR's share price moves right from $90 to $100
+[22:44] CPR passes buy trains
+[22:44] CPR skips buy companies
+[22:44] The Lord operates PRR
+[22:45] PRR spends $80 and lays tile #59 with rotation 0 on E5 (Detroit & Windsor)
+[22:45] PRR passes place a token
+[22:47] PRR runs a 6 train for $240: F2-F4-G7-H10-J14-I15
+[22:47] PRR pays out $240 = $24 per share ($144 to The Lord, $72 to PdG, $24 to Bart Kuiper)
+[22:47] PRR's share price moves right from $90 to $100
+[22:48] PRR passes buy trains
+[22:48] PRR skips buy companies
+[22:48] Bart Kuiper operates B&M
+[22:49] B&M lays tile #3 with rotation 2 on E7 (London)
+[22:49] B&M passes place a token
+[22:49] B&M runs a 5 train for $200: E23-D14-D10-D10-E11
+[22:49] B&M pays out $200 = $20 per share ($120 to Bart Kuiper)
+[22:49] B&M's share price moves right from $90 to $100
+[22:49] B&M passes buy trains
+[22:49] B&M skips buy companies
+[22:49] Bart Kuiper operates NYNH
+[22:49] NYNH passes lay/upgrade track
+[22:49] NYNH skips place a token
+[22:49] NYNH runs a 6 train for $160: F16-G19-F20-E19
+[22:49] NYNH pays out $160 = $16 per share ($96 to Bart Kuiper, $64 to The Lord)
+[22:49] NYNH's share price moves right from $82 to $90
+[22:49] NYNH passes buy trains
+[22:49] NYNH skips buy companies
+[22:49] PdG operates B&O
+[22:49] B&O lays tile #23 with rotation 4 on I11
+[22:49] B&O skips place a token
+[22:49] B&O runs a D train for $360: H10-J14-I15-I19-H18-G17-F16-G19-F20-E19
+[22:49] B&O runs a 5 train for $230: E11-F16-G17-G19-H18
+[22:49] B&O pays out $590 = $59 per share ($354 to PdG, $236 to The Lord)
+[22:49] B&O's share price moves right from $71 to $76
+[22:49] B&O skips buy trains
+[22:49] B&O skips buy companies
+[22:49] PdG operates C&O
+[22:49] C&O lays tile #19 with rotation 0 on G5
+[22:49] C&O skips place a token
+[22:50] C&O runs a 5 train for $220: I15-J14-H10-H16-H18
+[22:50] C&O pays out $220 = $22 per share ($132 to PdG, $66 to The Lord, $22 to Bart Kuiper)
+[22:50] C&O's share price moves right from $69 to $70
+[22:50] C&O passes buy trains
+[22:50] C&O skips buy companies
+[22:50] Bart Kuiper operates NYC
+[22:51] NYC spends $80 and lays tile #7 with rotation 5 on D6
+[22:51] NYC passes place a token
+[22:51] NYC runs a D train for $470: E11-D10-D10-D14-E19-F20-G19-F16-G17-G19-H18
+[22:51] NYC withholds $470
+[22:51] NYC's share price moves left from $65 to $58
+[22:51] NYC passes buy trains
+[22:51] NYC skips buy companies
+[22:51] Bart Kuiper operates ERIE
+[22:52] ERIE lays tile #65 with rotation 0 on E5 (Detroit & Windsor)
+[22:52] ERIE skips place a token
+[22:54] ERIE runs a D train for $420: F2-F4-D2-D4-E5-E7-D10-D14-E19-F20-G19-F16
+[22:54] ERIE pays out $420 = $42 per share ($252 to Bart Kuiper, $84 to PdG, $84 to The Lord)
+[22:54] ERIE's share price moves right from $40 to $50
+[22:54] ERIE skips buy trains
+[22:54] ERIE skips buy companies
+[22:54] -- Operating Round 6.3 (of 3) --
+[22:54] PdG operates CPR
+[22:54] CPR passes lay/upgrade track
+[22:54] CPR passes place a token
+[22:54] CPR runs a 6 train for $80: B20-A19-B16-C15
+[22:54] CPR pays out $80 = $8 per share ($48 to PdG, $24 to Bart Kuiper, $8 to The Lord)
+[22:54] CPR's share price moves right from $100 to $110
+[22:54] CPR buys a 5 train for $333 from C&O
+[22:54] CPR skips buy companies
+[22:54] The Lord operates PRR
+[22:56] PRR passes lay/upgrade track
+[22:56] PRR places a token on D14 (Rochester) for $100
+[22:57] PRR runs a 6 train for $240: F2-F4-G7-H10-J14-I15
+[22:57] PRR pays out $240 = $24 per share ($144 to The Lord, $72 to PdG, $24 to Bart Kuiper)
+[22:57] PRR's share price moves right from $100 to $110
+[22:57] PRR passes buy trains
+[22:57] PRR skips buy companies
+[22:57] Bart Kuiper operates B&M
+[22:58] B&M lays tile #53 with rotation 1 on E23 (Boston)
+[22:58] B&M skips place a token
+[22:58] B&M runs a 5 train for $90: E19-E23-F24
+[22:58] B&M pays out $90 = $9 per share ($54 to Bart Kuiper)
+[22:58] B&M's share price moves right from $100 to $112
+[22:58] B&M passes buy trains
+[22:58] B&M skips buy companies
+[22:58] Bart Kuiper operates NYNH
+[22:58] NYNH passes lay/upgrade track
+[22:58] NYNH skips place a token
+[22:58] NYNH runs a 6 train for $160: F16-G19-F20-E19
+[22:58] NYNH pays out $160 = $16 per share ($96 to Bart Kuiper, $64 to The Lord)
+[22:58] NYNH's share price moves right from $90 to $100
+[22:59] NYNH passes buy trains
+[22:59] NYNH skips buy companies
+[22:59] PdG operates B&O
+[22:59] B&O lays tile #9 with rotation 1 on I9
+[22:59] B&O skips place a token
+[22:59] B&O runs a D train for $360: H10-J14-I15-I19-H18-G17-F16-G19-F20-E19
+[22:59] B&O runs a 5 train for $230: E11-F16-G17-G19-H18
+[22:59] B&O pays out $590 = $59 per share ($354 to PdG, $236 to The Lord)
+[22:59] B&O's share price moves right from $76 to $82
+[22:59] B&O skips buy trains
+[22:59] B&O skips buy companies
+[22:59] PdG operates C&O
+[22:59] C&O lays tile #57 with rotation 0 on H4 (Columbus)
+[22:59] C&O skips place a token
+[22:59] C&O skips run routes
+[22:59] C&O does not run
+[22:59] C&O's share price moves left from $70 to $69
+[23:00] C&O buys a 5 train for $1 from CPR
+[23:00] C&O buys a 6 train for $1 from CPR
+[23:00] C&O skips buy companies
+[23:00] Bart Kuiper operates NYC
+[23:00] NYC lays tile #43 with rotation 1 on E13
+[23:00] NYC places a token on H18 (Philadelphia & Trenton) for $100
+[23:00] NYC runs a D train for $350: E23-E19-F20-G19-F16-G17-G19-H18
+[23:00] NYC withholds $350
+[23:00] NYC's share price moves left from $58 to $50
+[23:01] NYC buys a D train for $1100 from The Depot
+[23:01] NYC skips buy companies
+[23:01] Bart Kuiper operates ERIE
+[23:02] ERIE lays tile #45 with rotation 1 on E15
+[23:02] ERIE skips place a token
+[23:02] ERIE runs a D train for $210: F16-E11-D10-D10-D14
+[23:02] ERIE withholds $210
+[23:02] ERIE's share price moves left from $50 to $40
+[23:02] ERIE passes buy trains
+[23:02] ERIE skips buy companies
+[23:02] -- Stock Round 7 --
+[23:03] PdG sells 5 shares of CPR and receives $550
+[23:03] Bart Kuiper becomes the president of CPR
+[23:03] CPR's share price moves down from $110 to $100
+[23:03] PdG buys a 10% share of B&M from the IPO for $100
+[23:06] The Lord buys a 10% share of B&M from the IPO for $100
+[23:06] The Lord declines to sell shares
+[23:06] Bart Kuiper buys a 10% share of CPR from the market for $100
+[23:06] Bart Kuiper declines to sell shares
+[23:06] PdG buys a 10% share of B&M from the IPO for $100
+[23:06] PdG declines to sell shares
+[23:07] The Lord buys a 10% share of B&M from the IPO for $100
+[23:07] The Lord declines to sell shares
+[23:07] Bart Kuiper buys a 10% share of CPR from the market for $100
+[23:07] Bart Kuiper declines to sell shares
+[23:07] PdG passes
+[23:08] The Lord passes
+[23:08] Bart Kuiper buys a 10% share of CPR from the market for $100
+[23:08] Bart Kuiper declines to sell shares
+[23:08] PdG passes
+[23:09] The Lord passes
+[23:09] Bart Kuiper passes
+[23:09] PRR's share price moves up from $110 to $125
+[23:09] NYNH's share price moves up from $100 to $110
+[23:09] C&O's share price moves up from $69 to $71
+[23:09] NYC's share price moves up from $50 to $55
+[23:09] ERIE's share price moves up from $40 to $50
+[23:09] PdG has priority deal
+[23:09] -- Operating Round 7.1 (of 3) --
+[23:09] The Lord operates PRR
+[23:10] PRR passes lay/upgrade track
+[23:10] PRR skips place a token
+[23:10] PRR runs a 6 train for $240: F2-F4-G7-H10-J14-I15
+[23:10] PRR pays out $240 = $24 per share ($144 to The Lord, $72 to PdG, $24 to Bart Kuiper)
+[23:10] PRR's share price moves right from $125 to $140
+[23:10] PRR passes buy trains
+[23:10] PRR skips buy companies
+[23:10] Bart Kuiper operates B&M
+[23:10] B&M lays tile #61 with rotation 3 on E23 (Boston)
+[23:10] B&M skips place a token
+[23:11] B&M runs a 5 train for $100: E19-E23-F24
+[23:11] B&M pays out $100 = $10 per share ($60 to Bart Kuiper, $20 to PdG, $20 to The Lord)
+[23:11] B&M's share price moves right from $112 to $126
+[23:11] B&M passes buy trains
+[23:11] B&M skips buy companies
+[23:11] Bart Kuiper operates NYNH
+[23:11] NYNH passes lay/upgrade track
+[23:11] NYNH skips place a token
+[23:11] NYNH runs a 6 train for $160: F16-G19-F20-E19
+[23:11] NYNH pays out $160 = $16 per share ($96 to Bart Kuiper, $64 to The Lord)
+[23:11] NYNH's share price moves right from $110 to $120
+[23:11] NYNH passes buy trains
+[23:11] NYNH skips buy companies
+[23:11] Bart Kuiper operates CPR
+[23:11] CPR lays tile #8 with rotation 2 on C13
+[23:11] CPR skips place a token
+[23:11] CPR skips run routes
+[23:11] CPR does not run
+[23:11] CPR's share price moves left from $100 to $90
+[23:12] CPR buys a D train for $1 from NYC
+[23:12] CPR passes buy trains
+[23:12] CPR skips buy companies
+[23:12] PdG operates B&O
+[23:12] B&O lays tile #8 with rotation 2 on I7
+[23:12] B&O skips place a token
+[23:12] B&O runs a D train for $300: H18-G19-G17-F16-G19-F20-E19
+[23:12] B&O runs a 5 train for $190: H18-I19-I15-J14-H10
+[23:12] B&O pays out $490 = $49 per share ($294 to PdG, $196 to The Lord)
+[23:12] B&O's share price moves right from $82 to $90
+[23:12] B&O skips buy trains
+[23:12] B&O skips buy companies
+[23:12] PdG operates C&O
+[23:12] C&O lays tile #14 with rotation 0 on H4 (Columbus)
+[23:12] C&O skips place a token
+[23:12] C&O runs a 6 train for $240: F2-F4-G7-H10-J14-I15
+[23:12] C&O runs a 5 train for $180: F6-G7-H10-H16-I15
+[23:12] C&O pays out $420 = $42 per share ($252 to PdG, $126 to The Lord, $42 to Bart Kuiper)
+[23:12] C&O's share price moves right from $71 to $75
+[23:12] C&O skips buy trains
+[23:12] C&O skips buy companies
+[23:12] Bart Kuiper operates NYC
+[23:14] NYC lays tile #40 with rotation 0 on E17
+[23:14] NYC skips place a token
+[23:14] NYC runs a D train for $360: E23-E19-F20-G19-F16-G17-G19-H18
+[23:14] NYC pays out $360 = $36 per share ($216 to Bart Kuiper, $108 to The Lord, $36 to PdG)
+[23:14] NYC's share price moves right from $55 to $62
+[23:14] NYC passes buy trains
+[23:14] NYC skips buy companies
+[23:14] Bart Kuiper operates ERIE
+[23:15] ERIE lays tile #23 with rotation 0 on C9
+[23:15] ERIE passes place a token
+[23:15] ERIE runs a D train for $220: E23-E19-F20-G19-F16
+[23:15] ERIE pays out $220 = $22 per share ($132 to Bart Kuiper, $44 to PdG, $44 to The Lord)
+[23:15] ERIE's share price moves right from $50 to $60
+[23:15] ERIE passes buy trains
+[23:15] ERIE skips buy companies
+[23:15] -- Operating Round 7.2 (of 3) --
+[23:15] The Lord operates PRR
+[23:16] PRR passes lay/upgrade track
+[23:16] PRR skips place a token
+[23:16] PRR runs a 6 train for $240: F2-F4-G7-H10-J14-I15
+[23:16] PRR pays out $240 = $24 per share ($144 to The Lord, $72 to PdG, $24 to Bart Kuiper)
+[23:16] PRR's share price moves right from $140 to $155
+[23:16] PRR passes buy trains
+[23:16] PRR skips buy companies
+[23:16] Bart Kuiper operates B&M
+[23:18] B&M lays tile #27 with rotation 1 on D20
+[23:18] B&M skips place a token
+[23:18] B&M runs a 5 train for $100: E19-E23-F24
+[23:18] B&M pays out $100 = $10 per share ($60 to Bart Kuiper, $20 to PdG, $20 to The Lord)
+[23:18] B&M's share price moves right from $126 to $142
+[23:18] B&M passes buy trains
+[23:18] B&M skips buy companies
+[23:18] Bart Kuiper operates NYNH
+[23:18] NYNH passes lay/upgrade track
+[23:18] NYNH skips place a token
+[23:18] NYNH runs a 6 train for $160: F16-G19-F20-E19
+[23:18] NYNH pays out $160 = $16 per share ($96 to Bart Kuiper, $64 to The Lord)
+[23:18] NYNH's share price moves right from $120 to $130
+[23:18] NYNH passes buy trains
+[23:18] NYNH skips buy companies
+[23:18] Bart Kuiper operates CPR
+[23:18] CPR lays tile #28 with rotation 4 on C13
+[23:18] CPR skips place a token
+[23:19] CPR runs a D train for $80: B20-A19-B16-C15
+[23:19] CPR pays out $80 = $8 per share ($48 to Bart Kuiper, $16 to CPR, $8 to PdG, $8 to The Lord)
+[23:19] CPR's share price moves right from $90 to $100
+[23:19] CPR passes buy trains
+[23:19] CPR skips buy companies
+[23:19] PdG operates B&O
+[23:19] B&O lays tile #8 with rotation 5 on H6
+[23:19] B&O skips place a token
+[23:19] B&O runs a D train for $300: H18-G19-G17-F16-G19-F20-E19
+[23:19] B&O runs a 5 train for $190: H16-I15-J14-H4-F6
+[23:19] B&O pays out $490 = $49 per share ($294 to PdG, $196 to The Lord)
+[23:19] B&O's share price moves right from $90 to $100
+[23:19] B&O skips buy trains
+[23:19] B&O skips buy companies
+[23:19] PdG operates C&O
+[23:19] C&O lays tile #46 with rotation 0 on G5
+[23:19] C&O skips place a token
+[23:20] C&O runs a 6 train for $240: F2-F4-G7-H10-J14-I15
+[23:20] C&O runs a 5 train for $180: F6-G7-H10-H16-I15
+[23:20] C&O pays out $420 = $42 per share ($252 to PdG, $126 to The Lord, $42 to Bart Kuiper)
+[23:20] C&O's share price moves right from $75 to $80
+[23:20] C&O skips buy trains
+[23:20] C&O skips buy companies
+[23:20] Bart Kuiper operates NYC
+[23:20] NYC spends $80 and lays tile #9 with rotation 2 on C19
+[23:20] NYC skips place a token
+[23:20] NYC runs a D train for $360: E23-E19-F20-G19-F16-G17-G19-H18
+[23:20] NYC pays out $360 = $36 per share ($216 to Bart Kuiper, $108 to The Lord, $36 to PdG)
+[23:20] NYC's share price moves right from $62 to $67
+[23:20] NYC passes buy trains
+[23:20] NYC skips buy companies
+[23:20] Bart Kuiper operates ERIE
+[23:20] ERIE lays tile #9 with rotation 1 on C11
+[23:20] ERIE passes place a token
+[23:20] ERIE runs a D train for $220: E23-E19-F20-G19-F16
+[23:20] ERIE pays out $220 = $22 per share ($132 to Bart Kuiper, $44 to PdG, $44 to The Lord)
+[23:20] ERIE's share price moves up from $60 to $67
+[23:21] ERIE passes buy trains
+[23:21] ERIE skips buy companies
+[23:21] -- Operating Round 7.3 (of 3) --
+[23:21] The Lord operates PRR
+[23:22] PRR passes lay/upgrade track
+[23:22] PRR skips place a token
+[23:23] PRR runs a 6 train for $240: F2-F4-G7-H10-J14-I15
+[23:23] PRR pays out $240 = $24 per share ($144 to The Lord, $72 to PdG, $24 to Bart Kuiper)
+[23:23] PRR's share price moves right from $155 to $170
+[23:23] PRR passes buy trains
+[23:23] PRR skips buy companies
+[23:23] Bart Kuiper operates B&M
+[23:23] B&M lays tile #41 with rotation 1 on D20
+[23:23] B&M skips place a token
+[23:24] B&M runs a 5 train for $100: E19-E23-F24
+[23:24] B&M pays out $100 = $10 per share ($60 to Bart Kuiper, $20 to PdG, $20 to The Lord)
+[23:24] B&M's share price moves right from $142 to $160
+[23:24] B&M passes buy trains
+[23:24] B&M skips buy companies
+[23:24] Bart Kuiper operates NYNH
+[23:24] NYNH passes lay/upgrade track
+[23:24] NYNH skips place a token
+[23:24] NYNH runs a 6 train for $160: F16-G19-F20-E19
+[23:24] NYNH pays out $160 = $16 per share ($96 to Bart Kuiper, $64 to The Lord)
+[23:24] NYNH's share price moves up from $130 to $155
+[23:24] NYNH passes buy trains
+[23:24] NYNH skips buy companies
+[23:24] Bart Kuiper operates CPR
+[23:24] CPR lays tile #39 with rotation 2 on C13
+[23:24] CPR skips place a token
+[23:25] CPR runs a D train for $80: B20-A19-B16-C15
+[23:26] CPR withholds $80
+[23:26] CPR's share price moves left from $100 to $90
+[23:26] CPR passes buy trains
+[23:26] CPR skips buy companies
+[23:26] PdG operates B&O
+[23:26] B&O lays tile #47 with rotation 1 on I11
+[23:26] B&O skips place a token
+[23:27] B&O runs a D train for $300: H18-G19-G17-F16-G19-F20-E19
+[23:27] B&O runs a 5 train for $190: H16-I15-J14-H4-F6
+[23:27] B&O pays out $490 = $49 per share ($294 to PdG, $196 to The Lord)
+[23:27] B&O's share price moves right from $100 to $112
+[23:27] B&O skips buy trains
+[23:27] B&O skips buy companies
+[23:27] PdG operates C&O
+[23:27] C&O spends $120 and lays tile #7 with rotation 2 on J12
+[23:27] C&O skips place a token
+[23:27] C&O runs a 6 train for $240: F2-F4-G7-H10-J14-I15
+[23:27] C&O runs a 5 train for $180: F6-G7-H10-H16-I15
+[23:27] C&O pays out $420 = $42 per share ($252 to PdG, $126 to The Lord, $42 to Bart Kuiper)
+[23:27] C&O's share price moves up from $80 to $90
+[23:27] C&O skips buy trains
+[23:27] C&O skips buy companies
+[23:27] Bart Kuiper operates ERIE
+[23:28] ERIE lays tile #24 with rotation 1 on C11
+[23:28] ERIE passes place a token
+[23:28] ERIE runs a D train for $220: E23-E19-F20-G19-F16
+[23:28] ERIE pays out $220 = $22 per share ($132 to Bart Kuiper, $44 to PdG, $44 to The Lord)
+[23:28] ERIE's share price moves right from $67 to $68
+[23:28] ERIE passes buy trains
+[23:28] ERIE skips buy companies
+[23:28] Bart Kuiper operates NYC
+[23:29] NYC lays tile #44 with rotation 2 on B18
+[23:29] NYC skips place a token
+[23:29] NYC runs a D train for $360: E23-E19-F20-G19-F16-G17-G19-H18
+[23:29] NYC pays out $360 = $36 per share ($216 to Bart Kuiper, $108 to The Lord, $36 to PdG)
+[23:29] NYC's share price moves right from $67 to $71
+[23:29] NYC passes buy trains
+[23:29] NYC skips buy companies
+[23:29] -- Stock Round 8 --
+[23:30] PdG buys a 10% share of CPR from the market for $90
+[23:30] PdG declines to sell shares
+[23:31] The Lord sells 2 shares of B&M and receives $320
+[23:31] -- The bank has broken --
+[23:31] B&M's share price moves down from $160 to $125
+[23:32] The Lord sells a 10% share of CPR and receives $90
+[23:32] CPR's share price moves down from $90 to $80
+[23:33] The Lord sells a 10% share of NYNH and receives $155
+[23:33] NYNH's share price moves down from $155 to $130
+[23:33] The Lord declines to buy shares
+[23:35] Bart Kuiper sells a 10% share of ERIE and receives $68
+[23:36] Bart Kuiper sells a 10% share of B&M and receives $125
+[23:36] B&M's share price moves down from $125 to $110
+[23:36] Bart Kuiper sells a 10% share of CPR and receives $80
+[23:36] Bart Kuiper sells a 10% share of CPR and receives $80
+[23:36] Bart Kuiper sells a 10% share of NYNH and receives $130
+[23:37] Bart Kuiper sells a 10% share of NYNH and receives $130
+[23:37] Bart Kuiper sells a 10% share of ERIE and receives $68
+[23:38] Bart Kuiper declines to buy shares
+[23:39] PdG sells a 10% share of CPR and receives $80
+[23:39] PdG buys a 10% share of ERIE from the market for $68
+[23:41] The Lord sells a 10% share of NYNH and receives $130
+[23:41] The Lord buys a 10% share of ERIE from the market for $68
+[23:41] Bart Kuiper passes
+[23:42] PdG sells 2 shares of B&M and receives $220
+[23:42] B&M's share price moves down from $110 to $100
+[23:42] PdG buys a 10% share of NYNH from the market for $130
+[23:43] The Lord passes
+[23:43] Bart Kuiper passes
+[23:43] PdG buys a 10% share of NYNH from the market for $130
+[23:43] PdG declines to sell shares
+[23:43] The Lord passes
+[23:43] Bart Kuiper passes
+[23:43] PdG passes
+[23:43] PRR's share price moves up from $170 to $200
+[23:43] C&O's share price moves up from $90 to $100
+[23:43] NYC's share price moves up from $71 to $76
+[23:43] ERIE's share price moves up from $68 to $69
+[23:43] The Lord has priority deal
+[23:43] -- Operating Round 8.1 (of 3) --
+[23:43] The Lord operates PRR
+[23:44] PRR lays tile #28 with rotation 1 on I13
+[23:44] PRR skips place a token
+[23:44] PRR runs a 6 train for $240: F2-F4-H4-H10-H12-I15
+[23:44] PRR pays out $240 = $24 per share ($144 to The Lord, $72 to PdG, $24 to Bart Kuiper)
+[23:44] PRR's share price moves right from $200 to $220
+[23:44] PRR passes buy trains
+[23:44] PRR skips buy companies
+[23:44] Bart Kuiper operates NYNH
+[23:44] NYNH passes lay/upgrade track
+[23:44] NYNH skips place a token
+[23:44] NYNH runs a 6 train for $160: F16-G19-F20-E19
+[23:44] NYNH pays out $160 = $16 per share ($64 to Bart Kuiper, $32 to The Lord, $32 to PdG, $32 to NYNH)
+[23:44] NYNH's share price moves up from $130 to $155
+[23:44] NYNH passes buy trains
+[23:44] NYNH skips buy companies
+[23:44] PdG operates B&O
+[23:45] B&O lays tile #23 with rotation 1 on D12
+[23:45] B&O skips place a token
+[23:45] B&O runs a D train for $510: H18-I19-I15-J14-H4-F4-D2-D4-E5-E7-D10-F16-G19-F20-E19
+[23:45] B&O runs a 5 train for $220: H18-G19-G17-F16-H16
+[23:45] B&O pays out $730 = $73 per share ($438 to PdG, $292 to The Lord)
+[23:45] B&O's share price moves right from $112 to $126
+[23:45] B&O skips buy trains
+[23:45] B&O skips buy companies
+[23:45] Bart Kuiper operates B&M
+[23:45] B&M lays tile #7 with rotation 5 on B12
+[23:45] B&M passes place a token
+[23:45] B&M runs a 5 train for $190: E23-B16-C15-D10-E11
+[23:45] B&M pays out $190 = $19 per share ($95 to Bart Kuiper, $95 to B&M)
+[23:45] B&M's share price moves up from $100 to $110
+[23:46] B&M passes buy trains
+[23:46] B&M skips buy companies
+[23:46] PdG operates C&O
+[23:46] C&O lays tile #27 with rotation 2 on J12
+[23:46] C&O skips place a token
+[23:46] C&O runs a 6 train for $240: F2-F4-G7-H10-J14-I15
+[23:46] C&O runs a 5 train for $180: F6-G7-H10-H16-I15
+[23:46] C&O pays out $420 = $42 per share ($252 to PdG, $126 to The Lord, $42 to Bart Kuiper)
+[23:46] C&O's share price moves right from $100 to $110
+[23:46] C&O skips buy trains
+[23:46] C&O skips buy companies
+[23:46] Bart Kuiper operates CPR
+[23:46] CPR lays tile #25 with rotation 1 on G9
+[23:48] CPR places a token on E5 (Detroit & Windsor) for $40
+[23:48] CPR runs a D train for $330: I15-J14-H4-F4-D2-D4-E5-E7-D10-F16
+[23:48] CPR pays out $330 = $33 per share ($165 to CPR, $132 to Bart Kuiper, $33 to PdG)
+[23:48] CPR's share price moves up from $80 to $90
+[23:48] CPR passes buy trains
+[23:48] CPR skips buy companies
+[23:48] Bart Kuiper operates NYC
+[23:48] NYC lays tile #9 with rotation 1 on F14
+[23:48] NYC skips place a token
+[23:48] NYC runs a D train for $430: E11-D10-C15-B16-E19-F20-G19-F16-G17-G19-H18
+[23:48] NYC pays out $430 = $43 per share ($258 to Bart Kuiper, $129 to The Lord, $43 to PdG)
+[23:48] NYC's share price moves right from $76 to $82
+[23:49] NYC passes buy trains
+[23:49] NYC skips buy companies
+[23:49] Bart Kuiper operates ERIE
+[23:49] ERIE lays tile #57 with rotation 0 on B10 (Barrie)
+[23:49] ERIE passes place a token
+[23:49] ERIE runs a D train for $310: F16-G19-F20-E19-B16-C15-D10-E11-D14
+[23:49] ERIE pays out $310 = $31 per share ($124 to Bart Kuiper, $93 to The Lord, $93 to PdG)
+[23:49] ERIE's share price moves right from $69 to $70
+[23:49] ERIE passes buy trains
+[23:49] ERIE skips buy companies
+[23:49] -- Operating Round 8.2 (of 3) --
+[23:49] The Lord operates PRR
+[23:51] PRR passes lay/upgrade track
+[23:51] PRR skips place a token
+[23:51] PRR runs a 6 train for $240: F2-F4-H4-H10-H12-I15
+[23:51] PRR pays out $240 = $24 per share ($144 to The Lord, $72 to PdG, $24 to Bart Kuiper)
+[23:51] PRR's share price moves right from $220 to $240
+[23:51] PRR passes buy trains
+[23:51] PRR skips buy companies
+[23:51] Bart Kuiper operates NYNH
+[23:51] NYNH passes lay/upgrade track
+[23:51] NYNH skips place a token
+[23:51] NYNH runs a 6 train for $160: F16-G19-F20-E19
+[23:51] NYNH pays out $160 = $16 per share ($64 to Bart Kuiper, $32 to The Lord, $32 to PdG, $32 to NYNH)
+[23:51] NYNH's share price moves right from $155 to $170
+[23:51] NYNH passes buy trains
+[23:51] NYNH skips buy companies
+[23:51] PdG operates B&O
+[23:52] B&O lays tile #8 with rotation 2 on F12
+[23:52] B&O skips place a token
+[23:52] B&O runs a D train for $290: E5-D4-D2-F4-H4-J14-I15-I19-H18
+[23:52] B&O runs a 5 train for $270: G19-F16-D10-D10-E11
+[23:52] B&O pays out $560 = $56 per share ($336 to PdG, $224 to The Lord)
+[23:52] B&O's share price moves right from $126 to $142
+[23:52] B&O skips buy trains
+[23:52] B&O skips buy companies
+[23:52] Bart Kuiper operates B&M
+[23:53] B&M lays tile #14 with rotation 0 on B16 (Ottawa)
+[23:53] B&M passes place a token
+[23:53] B&M runs a 5 train for $200: E23-B16-C15-D10-E11
+[23:53] B&M pays out $200 = $20 per share ($100 to Bart Kuiper, $100 to B&M)
+[23:53] B&M's share price moves right from $110 to $120
+[23:53] B&M passes buy trains
+[23:53] B&M skips buy companies
+[23:53] PdG operates C&O
+[23:53] C&O lays tile #4 with rotation 0 on F10 (Erie)
+[23:53] C&O skips place a token
+[23:53] C&O runs a 6 train for $240: F2-F4-G7-H10-J14-I15
+[23:53] C&O runs a 5 train for $180: F6-G7-H10-H16-I15
+[23:53] C&O pays out $420 = $42 per share ($252 to PdG, $126 to The Lord, $42 to Bart Kuiper)
+[23:53] C&O's share price moves right from $110 to $120
+[23:53] C&O skips buy trains
+[23:53] C&O skips buy companies
+[23:53] Bart Kuiper operates CPR
+[23:55] CPR passes lay/upgrade track
+[23:55] CPR places a token on D2 (Lansing) for $100
+[23:55] CPR runs a D train for $340: I15-J14-H4-F4-D2-D4-E5-E7-C15-B16-E23
+[23:55] CPR pays out $340 = $34 per share ($170 to CPR, $136 to Bart Kuiper, $34 to PdG)
+[23:55] CPR's share price moves right from $90 to $100
+[23:55] CPR passes buy trains
+[23:55] CPR skips buy companies
+[23:55] Bart Kuiper operates NYC
+[23:55] NYC lays tile #8 with rotation 4 on B14
+[23:55] NYC skips place a token
+[23:56] NYC runs a D train for $470: F2-F4-G7-F10-E11-F16-G19-F20-E19-B16-C15-D10-E11
+[23:56] NYC pays out $470 = $47 per share ($282 to Bart Kuiper, $141 to The Lord, $47 to PdG)
+[23:56] NYC's share price moves right from $82 to $90
+[23:56] NYC passes buy trains
+[23:56] NYC skips buy companies
+[23:56] Bart Kuiper operates ERIE
+[23:56] ERIE passes lay/upgrade track
+[23:56] ERIE places a token on D10 (Hamilton & Toronto) for $100
+[23:56] ERIE runs a D train for $320: F16-G19-F20-E19-B16-C15-D10-E11-D14
+[23:56] ERIE pays out $320 = $32 per share ($128 to Bart Kuiper, $96 to The Lord, $96 to PdG)
+[23:56] ERIE's share price moves up from $70 to $75
+[23:56] ERIE passes buy trains
+[23:56] ERIE skips buy companies
+[23:56] -- Operating Round 8.3 (of 3) --
+[23:56] The Lord operates PRR
+[23:57] PRR passes lay/upgrade track
+[23:57] PRR skips place a token
+[23:57] PRR runs a 6 train for $240: F2-F4-H4-H10-H12-I15
+[23:57] PRR pays out $240 = $24 per share ($144 to The Lord, $72 to PdG, $24 to Bart Kuiper)
+[23:57] PRR's share price moves right from $240 to $260
+[23:57] PRR passes buy trains
+[23:57] PRR skips buy companies
+[23:57] Bart Kuiper operates NYNH
+[23:58] NYNH passes lay/upgrade track
+[23:58] NYNH skips place a token
+[23:58] NYNH runs a 6 train for $160: F16-G19-F20-E19
+[23:58] NYNH pays out $160 = $16 per share ($64 to Bart Kuiper, $32 to The Lord, $32 to PdG, $32 to NYNH)
+[23:58] NYNH's share price moves right from $170 to $185
+[23:58] NYNH passes buy trains
+[23:58] NYNH skips buy companies
+[23:58] PdG operates B&O
+[23:58] B&O lays tile #7 with rotation 3 on H2
+[23:58] B&O skips place a token
+[23:58] B&O runs a D train for $330: F2-F4-G7-F10-E11-F16-G19-F20-E19
+[23:58] B&O runs a 5 train for $230: D10-F16-G17-G19-H18
+[23:58] B&O pays out $560 = $56 per share ($336 to PdG, $224 to The Lord)
+[23:58] B&O's share price moves right from $142 to $160
+[23:58] B&O skips buy trains
+[23:58] B&O skips buy companies
+[23:58] Bart Kuiper operates B&M
+[23:59] B&M spends $80 and lays tile #57 with rotation 1 on F22 (Providence)
+[23:59] B&M passes place a token
+[23:59] B&M runs a 5 train for $200: E11-D10-B16-E23-F24
+[23:59] B&M pays out $200 = $20 per share ($100 to Bart Kuiper, $100 to B&M)
+[23:59] B&M's share price moves right from $120 to $130
+[23:59] B&M passes buy trains
+[23:59] B&M skips buy companies
+[23:59] PdG operates C&O
+[23:59] C&O lays tile #8 with rotation 0 on G3
+[23:59] C&O skips place a token
+[23:59] C&O runs a 6 train for $190: F6-G7-H10-G7-F4-F2
+[23:59] C&O runs a 5 train for $240: F2-H4-H10-H16-I15
+[23:59] C&O pays out $430 = $43 per share ($258 to PdG, $129 to The Lord, $43 to Bart Kuiper)
+[23:59] C&O's share price moves right from $120 to $130
+[23:59] C&O skips buy trains
+[23:59] C&O skips buy companies
+[23:59] Bart Kuiper operates CPR
+-- 2024-09-21 --
+[00:00] CPR passes lay/upgrade track
+[00:00] CPR places a token on J14 (Washington) for $100
+[00:00] CPR runs a D train for $340: I15-J14-H4-F4-D2-D4-E5-E7-C15-B16-E23
+[00:00] CPR pays out $340 = $34 per share ($170 to CPR, $136 to Bart Kuiper, $34 to PdG)
+[00:00] CPR's share price moves up from $100 to $110
+[00:00] CPR passes buy trains
+[00:00] CPR skips buy companies
+[00:00] Bart Kuiper operates NYC
+[00:00] NYC passes lay/upgrade track
+[00:00] NYC skips place a token
+[00:00] NYC runs a D train for $470: F2-F4-G7-F10-E11-F16-G19-F20-E19-B16-C15-D10-E11
+[00:00] NYC pays out $470 = $47 per share ($282 to Bart Kuiper, $141 to The Lord, $47 to PdG)
+[00:00] NYC's share price moves right from $90 to $100
+[00:00] NYC passes buy trains
+[00:00] NYC skips buy companies
+[00:00] Bart Kuiper operates ERIE
+[00:01] ERIE passes lay/upgrade track
+[00:01] ERIE skips place a token
+[00:01] ERIE runs a D train for $320: F16-G19-F20-E19-B16-C15-D10-E11-D14
+[00:01] ERIE pays out $320 = $32 per share ($128 to Bart Kuiper, $96 to The Lord, $96 to PdG)
+[00:01] ERIE's share price moves right from $75 to $80
+[00:01] ERIE passes buy trains
+[00:01] ERIE skips buy companies
+[00:01] -- Game over: The Lord ($10277), PdG ($9936), Bart Kuiper ($9195) --

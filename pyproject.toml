@@ -1,0 +1,37 @@
+[tool.poetry]
+name = "datasets18xx"
+version = "1.0.0"
+description = "A Python package to maintain datasets from 18xx.games"
+authors = ["Pascal <mup0117@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+tqdm = "^4.67.1"
+click = "^8.3.0"
+transcripts18xx = {git = "https://git@github.com/codePascal/transcripts18xx.git"}
+requests = "^2.32.5"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.5"
+coverage = "^7.8.1"
+sphinx = "^8.2.3"
+sphinx-autodoc-typehints = "^3.2.0"
+furo = "^2024.8.6"
+myst-parser = "^4.0.1"
+sphinx-new-tab-link = "^0.8.0"
+pylint = "^3.3.8"
+deptry = "^0.24.0"
+sphinx-multiversion = "^0.2.4"
+
+[tool.poetry.scripts]
+dsx = "datasets18xx.cli:app"
+
+[tool.poetry-auto-export]
+output = "requirements.txt"
+without_hashes = true
+without = ["dev"]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

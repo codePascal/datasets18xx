@@ -1,0 +1,1460 @@
+-- 2024-09-20 --
+[11:53] -- Phase 2 (Operating Rounds: 1 | Train Limit: 4 | Available Tiles: Yellow) --
+[11:53] Norbert bids $165 for Camden & Amboy
+[14:36] Skollvaldr bids $75 for Delaware & Hudson
+[14:57] how49 bids $80 for Delaware & Hudson
+[17:38] Volker18xx bids $170 for Camden & Amboy
+[17:43] Norbert bids $45 for Champlain & St.Lawrence
+[19:39] Skollvaldr bids $115 for Mohawk & Hudson
+[19:44] how49 bids $50 for Champlain & St.Lawrence
+[20:42] Volker18xx bids $120 for Mohawk & Hudson
+[20:44] Norbert bids $85 for Delaware & Hudson
+[21:55] Skollvaldr buys Schuylkill Valley for $20
+[21:55] Champlain & St.Lawrence goes up for auction
+[22:27] Norbert passes on Champlain & St.Lawrence
+[22:27] how49 wins the auction for Champlain & St.Lawrence with a bid of $50
+[22:27] Delaware & Hudson goes up for auction
+[23:04] Skollvaldr bids $90 for Delaware & Hudson
+[23:36] how49 bids $95 for Delaware & Hudson
+-- 2024-09-21 --
+[06:18] Norbert passes on Delaware & Hudson
+[09:19] Skollvaldr bids $100 for Delaware & Hudson
+[09:33] how49 passes on Delaware & Hudson
+[09:33] Skollvaldr wins the auction for Delaware & Hudson with a bid of $100
+[09:33] Mohawk & Hudson goes up for auction
+[12:21] Skollvaldr bids $125 for Mohawk & Hudson
+[12:38] Volker18xx bids $130 for Mohawk & Hudson
+[13:55] Skollvaldr bids $135 for Mohawk & Hudson
+[14:19] Volker18xx bids $140 for Mohawk & Hudson
+[14:45] Skollvaldr bids $145 for Mohawk & Hudson
+[21:30] Volker18xx bids $150 for Mohawk & Hudson
+[22:15] Skollvaldr passes on Mohawk & Hudson
+[22:15] Volker18xx wins the auction for Mohawk & Hudson with a bid of $150
+[22:15] Camden & Amboy goes up for auction
+[22:26] Norbert bids $175 for Camden & Amboy
+[22:44] Volker18xx bids $200 for Camden & Amboy
+[23:10] Norbert bids $205 for Camden & Amboy
+-- 2024-09-22 --
+[08:24] Volker18xx bids $210 for Camden & Amboy
+[08:28] Norbert passes on Camden & Amboy
+[08:28] Volker18xx wins the auction for Camden & Amboy with a bid of $210
+[08:28] Volker18xx receives a 10% share of PRR
+[08:55] how49 passes bidding
+[11:02] Volker18xx buys Baltimore & Ohio for $220
+[11:03] Volker18xx pars B&O at $100
+[11:03] Volker18xx receives a 20% share of B&O
+[11:03] Volker18xx becomes the president of B&O
+[11:03] Norbert has priority deal
+[11:03] -- Stock Round 1 --
+[14:13] Norbert pars PRR at $100
+[14:13] Norbert buys a 20% share of PRR from the IPO for $200
+[14:13] Norbert becomes the president of PRR
+[16:12] Skollvaldr pars C&O at $67
+[16:12] Skollvaldr buys a 20% share of C&O from the IPO for $134
+[16:12] Skollvaldr becomes the president of C&O
+[16:20] how49 pars NYNH at $67
+[16:20] how49 buys a 20% share of NYNH from the IPO for $134
+[16:20] how49 becomes the president of NYNH
+[16:20] Volker18xx has no valid actions and passes
+[17:33] Norbert buys a 10% share of PRR from the IPO for $100
+[17:33] Skollvaldr buys a 10% share of C&O from the IPO for $67
+[17:33] how49 buys a 10% share of NYNH from the IPO for $67
+[17:33] Volker18xx has no valid actions and passes
+[17:33] Norbert buys a 10% share of PRR from the IPO for $100
+[17:33] Skollvaldr buys a 10% share of C&O from the IPO for $67
+[17:33] how49 buys a 10% share of NYNH from the IPO for $67
+[17:33] Volker18xx has no valid actions and passes
+[17:33] Norbert buys a 10% share of PRR from the IPO for $100
+[17:33] PRR floats
+[17:33] PRR receives $1000
+[17:33] Skollvaldr buys a 10% share of C&O from the IPO for $67
+[17:33] how49 buys a 10% share of NYNH from the IPO for $67
+[17:33] Volker18xx has no valid actions and passes
+[17:33] Norbert buys a 10% share of PRR from the IPO for $100
+[17:33] Skollvaldr buys a 10% share of C&O from the IPO for $67
+[17:33] C&O floats
+[17:33] C&O receives $670
+[17:33] how49 buys a 10% share of NYNH from the IPO for $67
+[17:33] NYNH floats
+[17:33] NYNH receives $670
+[17:33] Volker18xx has no valid actions and passes
+[17:33] Norbert has no valid actions and passes
+[18:44] Skollvaldr buys a 10% share of NYNH from the IPO for $67
+[18:45] how49 passes
+[18:45] Volker18xx has no valid actions and passes
+[18:45] Norbert has no valid actions and passes
+[18:45] Skollvaldr has no valid actions and passes
+[18:45] how49 has priority deal
+[18:45] -- Operating Round 1.1 (of 1) --
+[18:45] how49 collects $10 from Champlain & St.Lawrence
+[18:45] Volker18xx collects $20 from Mohawk & Hudson
+[18:45] Volker18xx collects $25 from Camden & Amboy
+[18:45] Volker18xx collects $30 from Baltimore & Ohio
+[18:45] Skollvaldr collects $5 from Schuylkill Valley
+[18:45] Skollvaldr collects $15 from Delaware & Hudson
+[18:45] Norbert operates PRR
+[18:45] PRR places a token on H12
+[19:28] PRR lays tile #9 with rotation 1 on H14
+[19:28] PRR skips place a token
+[19:28] PRR skips run routes
+[19:28] PRR does not run
+[19:28] PRR's share price moves left from $100 to $90
+[19:28] PRR buys a 2 train for $80 from The Depot
+[19:28] PRR buys a 2 train for $80 from The Depot
+[19:28] PRR passes buy trains
+[19:28] PRR skips buy companies
+[19:28] Skollvaldr operates C&O
+[19:28] C&O places a token on F6
+[19:36] C&O lays tile #8 with rotation 1 on G5
+[19:36] C&O skips place a token
+[19:36] C&O skips run routes
+[19:36] C&O does not run
+[19:36] C&O's share price moves left from $67 to $65
+[19:36] C&O buys a 2 train for $80 from The Depot
+[19:36] C&O passes buy trains
+[19:36] C&O skips buy companies
+[19:36] how49 operates NYNH
+[19:36] NYNH places a token on G19
+[19:37] NYNH lays tile #56 with rotation 0 on F20 (New Haven & Hartford)
+[19:37] NYNH skips place a token
+[19:37] NYNH skips run routes
+[19:37] NYNH does not run
+[19:37] NYNH's share price moves left from $67 to $65
+[19:37] NYNH buys a 2 train for $80 from The Depot
+[19:38] NYNH passes buy trains
+[19:38] NYNH skips buy companies
+[19:38] -- Stock Round 2 --
+[19:38] how49 buys a 10% share of C&O from the IPO for $67
+[19:38] how49 declines to sell shares
+[20:30] Volker18xx buys a 10% share of NYNH from the IPO for $67
+[20:30] Volker18xx declines to sell shares
+[20:53] Norbert passes
+-- 2024-09-23 --
+[00:00] Skollvaldr passes
+[00:01] how49 passes
+[00:01] Volker18xx passes
+[00:01] Norbert has priority deal
+[00:01] -- Operating Round 2.1 (of 1) --
+[00:01] Skollvaldr collects $5 from Schuylkill Valley
+[00:01] Skollvaldr collects $15 from Delaware & Hudson
+[00:01] how49 collects $10 from Champlain & St.Lawrence
+[00:01] Volker18xx collects $20 from Mohawk & Hudson
+[00:01] Volker18xx collects $25 from Camden & Amboy
+[00:01] Volker18xx collects $30 from Baltimore & Ohio
+[00:01] Norbert operates PRR
+[06:58] PRR lays tile #57 with rotation 1 on H16 (Lancaster)
+[06:58] PRR passes place a token
+[06:58] PRR runs a 2 train for $30: H12-H16
+[06:58] PRR pays out $30 = $3 per share ($18 to Norbert, $3 to Volker18xx)
+[06:58] PRR's share price moves right from $90 to $100
+[06:59] PRR passes buy trains
+[06:59] PRR skips buy companies
+[06:59] Skollvaldr operates C&O
+[09:07] C&O lays tile #8 with rotation 2 on G3
+[09:07] C&O skips place a token
+[09:07] C&O runs a 2 train for $70: F6-F2
+[09:07] C&O pays out $70 = $7 per share ($42 to Skollvaldr, $7 to how49)
+[09:07] C&O's share price moves right from $65 to $67
+[09:08] C&O passes buy trains
+[09:08] C&O skips buy companies
+[09:08] how49 operates NYNH
+[10:19] NYNH lays tile #57 with rotation 2 on E19 (Albany)
+[10:19] NYNH skips place a token
+[10:19] NYNH runs a 2 train for $50: G19-F20
+[10:19] NYNH pays out $50 = $5 per share ($30 to how49, $5 to Skollvaldr, $5 to Volker18xx)
+[10:19] NYNH's share price moves right from $65 to $67
+[10:20] NYNH passes buy trains
+[10:20] NYNH skips buy companies
+[10:20] -- Stock Round 3 --
+[14:03] Norbert passes
+[14:20] Skollvaldr buys a 10% share of NYNH from the IPO for $67
+[14:20] Skollvaldr declines to sell shares
+[14:23] how49 buys a 10% share of PRR from the IPO for $100
+[14:23] how49 declines to sell shares
+[14:25] Volker18xx buys a 10% share of C&O from the IPO for $67
+[14:25] Volker18xx declines to sell shares
+[14:25] Norbert passes
+[14:25] Skollvaldr passes
+[14:25] how49 passes
+[14:25] Volker18xx passes
+[14:25] Norbert has priority deal
+[14:25] -- Operating Round 3.1 (of 1) --
+[14:25] Skollvaldr collects $5 from Schuylkill Valley
+[14:25] Skollvaldr collects $15 from Delaware & Hudson
+[14:25] how49 collects $10 from Champlain & St.Lawrence
+[14:25] Volker18xx collects $20 from Mohawk & Hudson
+[14:25] Volker18xx collects $25 from Camden & Amboy
+[14:25] Volker18xx collects $30 from Baltimore & Ohio
+[14:25] Norbert operates PRR
+[14:26] PRR lays tile #57 with rotation 1 on H10 (Pittsburgh)
+[14:26] PRR places a token on H16 (Lancaster) for $40
+[14:26] PRR runs a 2 train for $30: H16-H12
+[14:26] PRR runs a 2 train for $30: H12-H10
+[14:26] PRR pays out $60 = $6 per share ($36 to Norbert, $6 to how49, $6 to Volker18xx)
+[14:26] PRR's share price moves right from $100 to $112
+[14:26] PRR passes buy trains
+[14:26] PRR skips buy companies
+[14:26] Skollvaldr operates C&O
+[14:27] C&O lays tile #2 with rotation 2 on G7 (Akron & Canton)
+[14:27] C&O skips place a token
+[14:27] C&O runs a 2 train for $70: F6-F2
+[14:27] C&O pays out $70 = $7 per share ($42 to Skollvaldr, $7 to how49, $7 to Volker18xx)
+[14:27] C&O's share price moves right from $67 to $71
+[14:27] C&O buys a 2 train for $80 from The Depot
+[14:27] C&O passes buy trains
+[14:27] C&O skips buy companies
+[14:27] how49 operates NYNH
+[14:28] NYNH passes lay/upgrade track
+[14:28] NYNH skips place a token
+[14:28] NYNH runs a 2 train for $50: G19-F20
+[14:28] NYNH pays out $50 = $5 per share ($30 to how49, $10 to Skollvaldr, $5 to Volker18xx)
+[14:28] NYNH's share price moves right from $67 to $71
+[14:28] NYNH passes buy trains
+[14:28] NYNH skips buy companies
+[14:28] -- Stock Round 4 --
+[14:29] Norbert passes
+[14:31] Skollvaldr buys a 10% share of PRR from the IPO for $100
+[14:31] Skollvaldr declines to sell shares
+[14:32] how49 passes
+[14:38] Volker18xx buys a 10% share of PRR from the IPO for $100
+[14:38] Volker18xx sells 2 shares of PRR and receives $224
+[14:38] PRR's share price moves down from $112 to $90
+[14:39] Volker18xx sells a 10% share of C&O and receives $71
+[14:39] C&O's share price moves down from $71 to $69
+[14:39] Volker18xx sells a 10% share of NYNH and receives $71
+[14:39] NYNH's share price moves down from $71 to $69
+[14:40] Norbert passes
+[14:42] Skollvaldr passes
+[14:43] how49 buys a 10% share of PRR from the market for $90
+[14:43] how49 declines to sell shares
+[14:43] Volker18xx buys a 10% share of B&O from the IPO for $100
+[14:43] Volker18xx declines to sell shares
+[14:43] Norbert passes
+[14:43] Skollvaldr passes
+[14:43] how49 passes
+[14:43] Volker18xx buys a 10% share of B&O from the IPO for $100
+[14:43] Volker18xx declines to sell shares
+[14:43] Norbert passes
+[14:43] Skollvaldr passes
+[14:43] how49 passes
+[14:43] Volker18xx buys a 10% share of B&O from the IPO for $100
+[14:43] Volker18xx declines to sell shares
+[14:43] Norbert passes
+[14:43] Skollvaldr passes
+[14:43] how49 passes
+[14:43] Volker18xx buys a 10% share of B&O from the IPO for $100
+[14:43] B&O floats
+[14:43] B&O receives $1000
+[14:48] Volker18xx declines to sell shares
+[14:48] Norbert passes
+[14:48] Skollvaldr passes
+[14:49] how49 passes
+[14:49] Volker18xx passes
+[14:49] Norbert has priority deal
+[14:49] -- Operating Round 4.1 (of 1) --
+[14:49] Skollvaldr collects $5 from Schuylkill Valley
+[14:49] Skollvaldr collects $15 from Delaware & Hudson
+[14:49] how49 collects $10 from Champlain & St.Lawrence
+[14:49] Volker18xx collects $20 from Mohawk & Hudson
+[14:49] Volker18xx collects $25 from Camden & Amboy
+[14:49] Volker18xx collects $30 from Baltimore & Ohio
+[14:49] Volker18xx operates B&O
+[14:49] B&O places a token on I15
+[14:49] B&O spends $80 and lays tile #57 with rotation 0 on J14 (Washington)
+[14:49] B&O passes place a token
+[14:49] B&O skips run routes
+[14:49] B&O does not run
+[14:49] B&O's share price moves left from $100 to $90
+[14:49] B&O buys a 2 train for $80 from The Depot
+[14:49] Baltimore & Ohio closes
+[14:49] B&O buys a 3 train for $180 from The Depot
+[14:49] -- Phase 3 (Operating Rounds: 2 | Train Limit: 4 | Available Tiles: Yellow, Green) --
+[14:49] B&O buys Mohawk & Hudson from Volker18xx for $220
+[14:49] B&O buys Camden & Amboy from Volker18xx for $320
+[14:49] B&O passes buy trains
+[14:51] B&O passes buy companies
+[14:51] Norbert operates PRR
+[14:56] PRR lays tile #59 with rotation 1 on H18 (Philadelphia & Trenton)
+[14:56] PRR passes place a token
+[14:56] PRR runs a 2 train for $40: H16-H10
+[14:56] PRR runs a 2 train for $60: H16-H18
+[14:56] PRR pays out $100 = $10 per share ($60 to Norbert, $20 to how49, $10 to Skollvaldr, $10 to PRR)
+[14:56] PRR's share price moves right from $90 to $100
+[14:56] PRR buys a 3 train for $180 from The Depot
+[14:56] PRR passes buy trains
+[14:56] PRR passes buy companies
+[14:56] Skollvaldr operates C&O
+[15:02] C&O lays tile #8 with rotation 2 on H8
+[15:03] C&O passes place a token
+[15:03] C&O runs a 2 train for $40: F6-G7
+[15:03] C&O runs a 2 train for $70: F6-F2
+[15:03] C&O pays out $110 = $11 per share ($66 to Skollvaldr, $11 to how49, $11 to C&O)
+[15:03] C&O's share price moves right from $69 to $70
+[15:03] C&O passes buy trains
+[15:03] C&O buys Schuylkill Valley from Skollvaldr for $40
+[15:03] C&O buys Delaware & Hudson from Skollvaldr for $140
+[15:03] C&O passes buy companies
+[15:03] how49 operates NYNH
+[15:04] NYNH spends $80 and lays tile #54 with rotation 0 on G19 (New York & Newark)
+[15:04] NYNH skips place a token
+[15:04] NYNH runs a 2 train for $70: G19-F20
+[15:04] NYNH pays out $70 = $7 per share ($42 to how49, $14 to Skollvaldr, $7 to NYNH)
+[15:04] NYNH's share price moves right from $69 to $70
+[15:04] NYNH buys Champlain & St.Lawrence from how49 for $80
+[15:04] NYNH buys a 3 train for $180 from The Depot
+[15:05] NYNH passes buy trains
+[15:05] NYNH (CS) lays tile #58 with rotation 0 on B20 (Burlington)
+[15:05] NYNH skips buy companies
+[15:05] -- Stock Round 5 --
+[15:07] Norbert buys a 10% share of NYNH from the IPO for $67
+[15:07] Norbert declines to sell shares
+[15:10] Skollvaldr sells a 10% share of PRR and receives $100
+[15:10] PRR's share price moves down from $100 to $90
+[15:10] Skollvaldr sells 2 shares of NYNH and receives $140
+[15:10] Skollvaldr sells a 10% share of C&O and receives $70
+[15:11] Skollvaldr pars NYC at $100
+[15:11] Skollvaldr buys a 20% share of NYC from the IPO for $200
+[15:11] Skollvaldr becomes the president of NYC
+[15:14] how49 passes
+[15:25] Volker18xx pars CPR at $100
+[15:25] Volker18xx buys a 20% share of CPR from the IPO for $200
+[15:25] Volker18xx becomes the president of CPR
+[15:27] Volker18xx declines to sell shares
+[15:31] Norbert passes
+[17:27] Skollvaldr buys a 10% share of NYC from the IPO for $100
+[17:27] Skollvaldr declines to sell shares
+[17:34] how49 sells 2 shares of PRR and receives $180
+[17:34] PRR's share price moves down from $90 to $75
+[17:34] how49 sells a 10% share of C&O and receives $70
+[17:34] how49 sells a 10% share of NYNH and receives $70
+[17:34] how49 pars ERIE at $76
+[17:34] how49 buys a 20% share of ERIE from the IPO for $152
+[17:34] how49 becomes the president of ERIE
+[17:35] Volker18xx buys a 10% share of CPR from the IPO for $100
+[17:35] Volker18xx declines to sell shares
+[18:00] Norbert passes
+[19:18] Skollvaldr buys a 10% share of NYC from the IPO for $100
+[19:18] Skollvaldr declines to sell shares
+[19:18] how49 buys a 10% share of ERIE from the IPO for $76
+[19:18] how49 declines to sell shares
+[19:18] Volker18xx buys a 10% share of CPR from the IPO for $100
+[19:18] Volker18xx declines to sell shares
+[19:18] Norbert passes
+[19:18] Skollvaldr buys a 10% share of NYC from the IPO for $100
+[19:18] Skollvaldr declines to sell shares
+[19:18] how49 buys a 10% share of ERIE from the IPO for $76
+[19:18] how49 declines to sell shares
+[19:18] Volker18xx buys a 10% share of CPR from the IPO for $100
+[19:18] Volker18xx declines to sell shares
+[19:18] Norbert passes
+[19:18] Skollvaldr buys a 10% share of NYC from the IPO for $100
+[19:18] NYC floats
+[19:18] NYC receives $1000
+[19:19] Skollvaldr declines to sell shares
+[19:19] how49 buys a 10% share of ERIE from the IPO for $76
+[19:19] how49 declines to sell shares
+[19:19] Volker18xx buys a 10% share of CPR from the IPO for $100
+[19:19] CPR floats
+[19:19] CPR receives $1000
+[22:42] Volker18xx declines to sell shares
+[22:42] Norbert passes
+-- 2024-09-24 --
+[02:03] Skollvaldr passes
+[02:03] how49 buys a 10% share of ERIE from the IPO for $76
+[02:03] ERIE floats
+[02:03] ERIE receives $760
+[07:01] how49 declines to sell shares
+[07:01] Volker18xx passes
+[07:01] Norbert passes
+[07:01] Skollvaldr passes
+[07:02] how49 passes
+[07:02] Volker18xx has priority deal
+[07:02] -- Operating Round 5.1 (of 2) --
+[07:02] B&O collects $20 from Mohawk & Hudson
+[07:02] B&O collects $25 from Camden & Amboy
+[07:02] C&O collects $5 from Schuylkill Valley
+[07:02] C&O collects $15 from Delaware & Hudson
+[07:02] NYNH collects $10 from Champlain & St.Lawrence
+[07:02] Skollvaldr operates NYC
+[07:02] NYC places a token on E19
+[08:36] NYC lays tile #14 with rotation 2 on E19 (Albany)
+[08:36] NYC skips place a token
+[08:36] NYC skips run routes
+[08:36] NYC does not run
+[08:36] NYC's share price moves left from $100 to $90
+[08:36] NYC buys a 3 train for $180 from The Depot
+[08:36] NYC passes buy trains
+[08:36] NYC skips buy companies
+[08:36] Volker18xx operates CPR
+[08:36] CPR places a token on A19
+[09:19] CPR spends $80 and lays tile #8 with rotation 3 on C19
+[09:19] CPR skips place a token
+[09:19] CPR skips run routes
+[09:19] CPR does not run
+[09:19] CPR's share price moves left from $100 to $90
+[09:19] CPR buys a 3 train for $180 from The Depot
+[09:22] CPR buys a 2 train for $190 from B&O
+[09:22] CPR passes buy trains
+[09:22] CPR skips buy companies
+[09:22] Volker18xx operates B&O
+[09:22] B&O lays tile #53 with rotation 0 on I15 (Baltimore)
+[09:22] B&O passes place a token
+[09:22] B&O runs a 3 train for $100: I15-J14-K13
+[09:22] B&O pays out $100 = $10 per share ($60 to Volker18xx)
+[09:22] B&O's share price moves right from $90 to $100
+[09:23] B&O buys a 4 train for $300 from The Depot
+[09:23] -- Phase 4 (Operating Rounds: 2 | Train Limit: 3 | Available Tiles: Yellow, Green) --
+[09:23] -- Event: 2 trains rust ( PRR x2, C&O x2, NYNH x1, CPR x1) --
+[09:23] B&O passes buy trains
+[09:23] B&O skips buy companies
+[09:23] how49 operates ERIE
+[09:23] ERIE places a token on E11
+[11:02] ERIE lays tile #59 with rotation 4 on E11 (Dunkirk & Buffalo)
+[11:02] ERIE must choose city for token
+[11:02] ERIE places a token on E11 (Dunkirk & Buffalo)
+[11:02] ERIE skips place a token
+[11:02] ERIE skips run routes
+[11:02] ERIE does not run
+[11:02] ERIE's share price moves left from $76 to $71
+[11:03] ERIE buys a 4 train for $300 from The Depot
+[11:03] ERIE passes buy trains
+[11:03] ERIE skips buy companies
+[11:03] Norbert operates PRR
+[12:03] PRR lays tile #15 with rotation 1 on H16 (Lancaster)
+[12:03] PRR passes place a token
+[12:03] PRR runs a 3 train for $90: H18-H16-H10
+[12:03] PRR pays out $90 = $9 per share ($54 to Norbert, $36 to PRR)
+[12:03] PRR's share price moves right from $75 to $80
+[12:03] PRR buys a 4 train for $300 from The Depot
+[12:03] PRR passes buy trains
+[12:03] PRR skips buy companies
+[12:03] Skollvaldr operates C&O
+[12:28] C&O lays tile #69 with rotation 2 on G17 (Reading & Allentown)
+[12:28] C&O places a token on H16 (Lancaster) for $40
+[12:28] C&O skips run routes
+[12:28] C&O does not run
+[12:28] C&O's share price moves left from $70 to $69
+[12:29] C&O buys a 4 train for $300 from The Depot
+[12:29] C&O passes buy trains
+[12:29] C&O skips buy companies
+[12:29] how49 operates NYNH
+[12:41] NYNH lays tile #7 with rotation 4 on F18
+[12:41] NYNH places a token on E19 (Albany) for $40
+[12:41] NYNH runs a 3 train for $100: G19-F20-E19
+[12:41] NYNH pays out $100 = $10 per share ($50 to how49, $40 to NYNH, $10 to Norbert)
+[12:41] NYNH's share price moves up from $70 to $75
+[12:43] NYNH passes buy trains
+[12:43] NYNH skips buy companies
+[12:43] -- Operating Round 5.2 (of 2) --
+[12:43] B&O collects $20 from Mohawk & Hudson
+[12:43] B&O collects $25 from Camden & Amboy
+[12:43] NYNH collects $10 from Champlain & St.Lawrence
+[12:43] C&O collects $5 from Schuylkill Valley
+[12:43] C&O collects $15 from Delaware & Hudson
+[12:43] Volker18xx operates B&O
+[12:50] B&O lays tile #23 with rotation 1 on H14
+[12:50] B&O places a token on H10 (Pittsburgh) for $40
+[12:50] B&O runs a 4 train for $110: I15-H10-G7-F6
+[12:50] B&O runs a 3 train for $100: I15-J14-K13
+[12:50] B&O pays out $210 = $21 per share ($126 to Volker18xx)
+[12:50] B&O's share price moves right from $100 to $112
+[12:51] B&O passes buy trains
+[12:51] B&O skips buy companies
+[12:51] Skollvaldr operates NYC
+[14:00] NYC lays tile #8 with rotation 5 on D18
+[14:00] NYC skips place a token
+[14:00] NYC runs a 3 train for $100: E19-F20-G19
+[14:00] NYC withholds $100
+[14:00] NYC's share price moves left from $90 to $82
+[14:00] NYC buys a 5 train for $450 from The Depot
+[14:00] -- Phase 5 (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[14:00] -- Event: Private companies close --
+[14:00] NYC skips buy companies
+[14:00] Volker18xx operates CPR
+[14:19] CPR lays tile #8 with rotation 0 on D20
+[14:19] CPR skips place a token
+[14:19] CPR runs a 3 train for $80: A19-B20-E19
+[14:19] CPR pays out $80 = $8 per share ($48 to Volker18xx)
+[14:19] CPR's share price moves right from $90 to $100
+[14:19] CPR buys a 5 train for $450 from The Depot
+[14:19] CPR skips buy companies
+[14:19] Norbert operates PRR
+[14:23] PRR lays tile #15 with rotation 1 on H10 (Pittsburgh)
+[14:23] PRR places a token on H10 (Pittsburgh) for $100
+[14:23] PRR runs a 4 train for $140: H16-G17-G19-H18
+[14:23] PRR runs a 3 train for $100: H10-H16-H18
+[14:23] PRR pays out $240 = $24 per share ($144 to Norbert, $96 to PRR)
+[14:23] PRR's share price moves up from $80 to $90
+[14:23] PRR skips buy trains
+[14:23] PRR skips buy companies
+[14:23] how49 operates NYNH
+[15:41] NYNH lays tile #62 with rotation 0 on G19 (New York & Newark)
+[15:41] NYNH skips place a token
+[15:41] NYNH runs a 3 train for $120: G19-F20-E19
+[15:41] NYNH pays out $120 = $12 per share ($60 to how49, $48 to NYNH, $12 to Norbert)
+[15:41] NYNH's share price moves right from $75 to $80
+[15:42] NYNH passes buy trains
+[15:42] NYNH skips buy companies
+[15:42] how49 operates ERIE
+[15:42] ERIE lays tile #8 with rotation 1 on E13
+[15:42] ERIE places a token on D14 (Rochester) for $40
+[15:43] ERIE runs a 4 train for $60: E11-D14
+[15:43] ERIE withholds $60
+[15:43] ERIE's share price moves left from $71 to $66
+[15:43] ERIE buys a 5 train for $450 from The Depot
+[15:43] ERIE skips buy companies
+[15:43] Skollvaldr operates C&O
+[16:13] C&O lays tile #66 with rotation 0 on H18 (Philadelphia & Trenton)
+[16:13] C&O skips place a token
+[16:14] C&O runs a 4 train for $170: G19-G17-H16-H18
+[16:14] C&O pays out $170 = $17 per share ($85 to Skollvaldr, $51 to C&O)
+[16:14] C&O's share price moves right from $69 to $70
+[16:14] C&O buys a 3 train for $92 from NYC
+[16:14] C&O skips buy companies
+[16:14] -- Stock Round 6 --
+[16:51] Volker18xx buys a 10% share of NYNH from the market for $80
+[16:51] Volker18xx declines to sell shares
+[16:58] Norbert buys a 10% share of B&O from the IPO for $100
+[16:59] Norbert declines to sell shares
+[19:10] Skollvaldr buys a 10% share of NYNH from the market for $80
+[19:10] Skollvaldr declines to sell shares
+[19:14] how49 buys a 10% share of NYNH from the market for $80
+[19:15] how49 declines to sell shares
+[20:41] Volker18xx buys a 10% share of C&O from the IPO for $67
+[20:41] Volker18xx declines to sell shares
+[20:46] Norbert buys a 10% share of C&O from the IPO for $67
+[20:46] Norbert declines to sell shares
+[20:46] Skollvaldr passes
+[20:48] how49 passes
+[21:06] Volker18xx buys a 10% share of NYC from the IPO for $100
+[21:06] Volker18xx declines to sell shares
+[21:44] Norbert buys a 10% share of CPR from the IPO for $100
+[21:44] Norbert declines to sell shares
+[21:44] Skollvaldr passes
+[21:46] how49 passes
+[21:46] Volker18xx passes
+[21:46] Norbert passes
+[21:46] Skollvaldr has priority deal
+[21:46] -- Operating Round 6.1 (of 3) --
+[21:46] Volker18xx operates B&O
+[22:29] B&O lays tile #63 with rotation 0 on H10 (Pittsburgh)
+[22:29] B&O skips place a token
+[22:41] B&O runs a 4 train for $130: I15-H10-G7-F6
+[22:41] B&O runs a 3 train for $110: I15-J14-K13
+[22:41] B&O withholds $240
+[22:41] B&O's share price moves left from $112 to $100
+[22:41] B&O skips buy trains
+[22:41] B&O skips buy companies
+[22:41] Volker18xx operates CPR
+[22:41] CPR spends $80 and lays tile #7 with rotation 2 on B18
+[22:41] CPR skips place a token
+[22:41] CPR runs a 3 train for $80: A19-B20-E19
+[22:41] CPR pays out $80 = $8 per share ($48 to Volker18xx, $8 to Norbert)
+[22:41] CPR's share price moves right from $100 to $112
+[22:41] CPR skips buy trains
+[22:41] CPR skips buy companies
+[22:41] Norbert operates PRR
+-- 2024-09-25 --
+[06:32] PRR lays tile #63 with rotation 0 on H16 (Lancaster)
+[06:32] PRR passes place a token
+[06:33] PRR runs a 4 train for $180: H16-G17-G19-H18
+[06:33] PRR runs a 3 train for $130: H10-H16-H18
+[06:33] PRR pays out $310 = $31 per share ($186 to Norbert, $124 to PRR)
+[06:33] PRR's share price moves right from $90 to $100
+[06:33] PRR skips buy trains
+[06:33] PRR skips buy companies
+[06:33] Skollvaldr operates NYC
+[09:07] NYC lays tile #63 with rotation 0 on E19 (Albany)
+[09:08] NYC passes place a token
+[09:08] NYC runs a 5 train for $180: G19-F20-E19-B20-A19
+[09:08] NYC withholds $180
+[09:08] NYC's share price moves left from $82 to $76
+[09:08] NYC buys a 6 train for $630 from The Depot
+[09:08] -- Phase 6 (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[09:08] -- Event: 3 trains rust ( B&O x1, PRR x1, NYNH x1, C&O x1, CPR x1) --
+[09:08] NYC skips buy companies
+[09:08] how49 operates NYNH
+[09:52] NYNH passes lay/upgrade track
+[09:52] NYNH skips place a token
+[09:52] NYNH skips run routes
+[09:52] NYNH does not run
+[09:52] NYNH's share price moves left from $80 to $75
+[09:53] NYNH buys a 5 train for $320 from ERIE
+[09:53] NYNH passes buy trains
+[09:53] NYNH skips buy companies
+[09:53] Skollvaldr operates C&O
+[10:17] C&O lays tile #61 with rotation 0 on I15 (Baltimore)
+[10:17] C&O skips place a token
+[10:17] C&O runs a 4 train for $190: G19-G17-H16-I15
+[10:17] C&O pays out $190 = $19 per share ($95 to Skollvaldr, $57 to C&O, $19 to Volker18xx, $19 to Norbert)
+[10:17] C&O's share price moves up from $70 to $75
+[10:18] C&O passes buy trains
+[10:18] C&O skips buy companies
+[10:18] how49 operates ERIE
+[10:19] ERIE lays tile #67 with rotation 0 on E11 (Dunkirk & Buffalo)
+[10:19] ERIE skips place a token
+[10:19] ERIE runs a 4 train for $70: E11-D14
+[10:19] ERIE pays out $70 = $7 per share ($42 to how49)
+[10:19] ERIE's share price moves right from $66 to $71
+[10:19] ERIE passes buy trains
+[10:19] ERIE skips buy companies
+[10:19] -- Operating Round 6.2 (of 3) --
+[10:19] Volker18xx operates CPR
+[10:56] CPR lays tile #57 with rotation 0 on B16 (Ottawa)
+[10:56] CPR skips place a token
+[10:56] CPR runs a 5 train for $120: E19-B20-A19-B16-C15
+[11:16] CPR withholds $120
+[11:16] CPR's share price moves left from $112 to $100
+[11:17] CPR passes buy trains
+[11:17] CPR skips buy companies
+[11:17] Norbert operates PRR
+[12:57] PRR lays tile #23 with rotation 4 on H8
+[12:57] PRR passes place a token
+[12:57] PRR runs a 4 train for $190: G19-G17-H16-I15
+[12:59] PRR withholds $190
+[12:59] PRR's share price moves left from $100 to $90
+[12:59] PRR buys a 6 train for $630 from The Depot
+[12:59] PRR skips buy companies
+[12:59] Volker18xx operates B&O
+[13:32] B&O spends $80 and lays tile #8 with rotation 1 on I17
+[13:32] B&O passes place a token
+[13:32] B&O runs a 4 train for $230: G19-H18-I15-H16
+[13:32] B&O withholds $230
+[13:32] B&O's share price moves left from $100 to $90
+[13:32] B&O passes buy trains
+[13:32] B&O skips buy companies
+[13:32] Skollvaldr operates NYC
+[14:29] NYC lays tile #28 with rotation 5 on F18
+[14:30] NYC passes place a token
+[14:30] NYC runs a 6 train for $120: E19-G19
+[14:30] NYC runs a 5 train for $180: G19-F20-E19-B20-A19
+[14:30] NYC pays out $300 = $30 per share ($180 to Skollvaldr, $30 to Volker18xx)
+[14:30] NYC's share price moves right from $76 to $82
+[14:30] NYC skips buy trains
+[14:30] NYC skips buy companies
+[14:30] how49 operates NYNH
+[14:57] NYNH lays tile #8 with rotation 4 on D16
+[14:57] NYNH skips place a token
+[14:57] NYNH runs a 5 train for $180: A19-B20-E19-G19-F20
+[14:57] NYNH pays out $180 = $18 per share ($108 to how49, $18 to Skollvaldr, $18 to Volker18xx, $18 to Norbert, $18 to NYNH)
+[14:57] NYNH's share price moves right from $75 to $80
+[14:57] NYNH passes buy trains
+[14:57] NYNH skips buy companies
+[14:57] Skollvaldr operates C&O
+[16:13] C&O lays tile #29 with rotation 2 on G3
+[16:13] C&O skips place a token
+[16:13] C&O runs a 4 train for $190: G19-G17-H16-I15
+[16:13] C&O pays out $190 = $19 per share ($95 to Skollvaldr, $57 to C&O, $19 to Volker18xx, $19 to Norbert)
+[16:13] C&O's share price moves right from $75 to $80
+[16:13] C&O passes buy trains
+[16:13] C&O skips buy companies
+[16:13] how49 operates ERIE
+[16:14] ERIE lays tile #8 with rotation 4 on D12
+[16:14] ERIE skips place a token
+[16:14] ERIE runs a 4 train for $120: E11-D14-E11
+[16:14] ERIE pays out $120 = $12 per share ($72 to how49)
+[16:14] ERIE's share price moves right from $71 to $76
+[16:15] ERIE passes buy trains
+[16:15] ERIE skips buy companies
+[16:15] -- Operating Round 6.3 (of 3) --
+[16:15] Volker18xx operates CPR
+[19:30] CPR lays tile #14 with rotation 0 on B16 (Ottawa)
+[19:30] CPR passes place a token
+[19:31] CPR runs a 5 train for $130: E19-B20-A19-B16-C15
+[19:33] CPR pays out $130 = $13 per share ($78 to Volker18xx, $13 to Norbert)
+[19:33] CPR's share price moves right from $100 to $112
+[19:33] CPR passes buy trains
+[19:33] CPR skips buy companies
+[19:33] Norbert operates PRR
+[21:16] PRR lays tile #9 with rotation 1 on H6
+[21:16] PRR skips place a token
+[21:16] PRR runs a 6 train for $280: H10-H16-G17-G19-H18-I15
+[21:16] PRR runs a 4 train for $160: I15-H16-H18-G17
+[21:16] PRR pays out $440 = $44 per share ($264 to Norbert, $176 to PRR)
+[21:16] PRR's share price moves right from $90 to $100
+[21:16] PRR skips buy trains
+[21:16] PRR skips buy companies
+[21:16] Volker18xx operates B&O
+[22:48] B&O lays tile #57 with rotation 1 on H4 (Columbus)
+[22:48] B&O passes place a token
+[22:49] B&O runs a 4 train for $230: G19-H18-I15-H16
+[22:49] B&O withholds $230
+[22:49] B&O's share price moves left from $90 to $82
+[22:49] B&O passes buy trains
+[22:49] B&O skips buy companies
+[22:49] Skollvaldr operates NYC
+-- 2024-09-26 --
+[01:34] NYC lays tile #9 with rotation 0 on E15
+[01:34] NYC passes place a token
+[01:34] NYC runs a 6 train for $120: E19-G19
+[01:34] NYC runs a 5 train for $180: G19-F20-E19-B20-A19
+[01:34] NYC pays out $300 = $30 per share ($180 to Skollvaldr, $30 to Volker18xx)
+[01:34] NYC's share price moves right from $82 to $90
+[01:34] NYC skips buy trains
+[01:34] NYC skips buy companies
+[01:34] how49 operates NYNH
+[06:59] NYNH lays tile #24 with rotation 4 on D16
+[06:59] NYNH skips place a token
+[06:59] NYNH runs a 5 train for $180: A19-B20-E19-G19-F20
+[07:00] NYNH pays out $180 = $18 per share ($108 to how49, $18 to Skollvaldr, $18 to Volker18xx, $18 to Norbert, $18 to NYNH)
+[07:00] NYNH's share price moves up from $80 to $90
+[07:00] NYNH passes buy trains
+[07:00] NYNH skips buy companies
+[07:00] Skollvaldr operates C&O
+[09:05] C&O lays tile #39 with rotation 2 on G3
+[09:05] C&O passes place a token
+[09:05] C&O runs a 4 train for $190: G19-G17-H16-I15
+[09:05] C&O pays out $190 = $19 per share ($95 to Skollvaldr, $57 to C&O, $19 to Volker18xx, $19 to Norbert)
+[09:05] C&O's share price moves up from $80 to $90
+[09:05] C&O passes buy trains
+[09:05] C&O skips buy companies
+[09:05] how49 operates ERIE
+[09:15] ERIE spends $80 and lays tile #59 with rotation 3 on D10 (Hamilton & Toronto)
+[09:16] ERIE passes place a token
+[09:16] ERIE runs a 4 train for $160: E11-D14-E11-D10
+[09:18] ERIE pays out $160 = $16 per share ($96 to how49)
+[09:18] ERIE's share price moves right from $76 to $82
+[09:19] ERIE passes buy trains
+[09:19] ERIE skips buy companies
+[09:19] -- Stock Round 7 --
+[10:44] Skollvaldr pars B&M at $100
+[10:44] Skollvaldr buys a 20% share of B&M from the IPO for $200
+[10:44] Skollvaldr becomes the president of B&M
+[10:44] Skollvaldr declines to sell shares
+[11:11] how49 buys a 10% share of B&O from the IPO for $100
+[11:11] how49 declines to sell shares
+[11:41] Volker18xx buys a 10% share of PRR from the market for $100
+[11:41] Volker18xx declines to sell shares
+[12:01] Norbert buys a 10% share of NYC from the IPO for $100
+[12:01] Norbert declines to sell shares
+[12:01] Skollvaldr buys a 10% share of B&M from the IPO for $100
+[12:01] Skollvaldr declines to sell shares
+[12:09] how49 buys a 10% share of PRR from the market for $100
+[12:09] how49 declines to sell shares
+[12:27] Volker18xx buys a 10% share of PRR from the market for $100
+[12:27] Volker18xx declines to sell shares
+[12:30] Norbert buys a 10% share of NYC from the IPO for $100
+[12:30] Norbert declines to sell shares
+[12:30] Skollvaldr buys a 10% share of B&M from the IPO for $100
+[12:30] Skollvaldr declines to sell shares
+[12:45] how49 buys a 10% share of NYC from the IPO for $100
+[12:45] how49 declines to sell shares
+[13:51] Volker18xx sells a 10% share of C&O and receives $90
+[13:51] C&O's share price moves down from $90 to $80
+[13:51] Volker18xx buys a 10% share of PRR from the market for $100
+[13:53] Norbert buys a 10% share of NYNH from the market for $90
+[13:53] Norbert declines to sell shares
+[14:55] Skollvaldr buys a 10% share of B&M from the IPO for $100
+[14:55] Skollvaldr declines to sell shares
+[14:59] how49 buys a 10% share of CPR from the IPO for $100
+[14:59] how49 declines to sell shares
+[14:59] Volker18xx passes
+[15:37] Norbert buys a 10% share of ERIE from the IPO for $76
+[15:37] Norbert declines to sell shares
+[19:33] Skollvaldr buys a 10% share of B&M from the IPO for $100
+[19:33] B&M floats
+[19:33] B&M receives $1000
+[19:34] Skollvaldr declines to sell shares
+[19:38] how49 buys a 10% share of C&O from the market for $80
+[19:38] how49 declines to sell shares
+[19:38] Volker18xx passes
+[20:55] Norbert buys a 10% share of B&M from the IPO for $100
+[20:56] Norbert declines to sell shares
+[20:58] Skollvaldr buys a 10% share of C&O from the market for $80
+[20:58] Skollvaldr declines to sell shares
+[21:46] how49 passes
+[21:46] Volker18xx passes
+[21:50] Norbert buys a 10% share of C&O from the market for $80
+[21:50] Norbert declines to sell shares
+[21:50] Skollvaldr passes
+[21:50] how49 passes
+[21:50] Volker18xx passes
+[21:50] Norbert passes
+[21:50] PRR's share price moves up from $100 to $110
+[21:50] NYNH's share price moves up from $90 to $100
+[21:50] Skollvaldr has priority deal
+[21:50] -- Operating Round 7.1 (of 3) --
+[21:50] Volker18xx operates CPR
+[22:38] CPR lays tile #8 with rotation 4 on B14
+[22:38] CPR passes place a token
+[22:38] CPR runs a 5 train for $130: E19-B20-A19-B16-C15
+[22:38] CPR pays out $130 = $13 per share ($78 to Volker18xx, $13 to how49, $13 to Norbert)
+[22:38] CPR's share price moves right from $112 to $126
+[22:39] CPR buys a 4 train for $140 from B&O
+[22:39] CPR skips buy companies
+[22:39] Norbert operates PRR
+-- 2024-09-27 --
+[07:05] PRR lays tile #14 with rotation 0 on H4 (Columbus)
+[07:05] PRR passes place a token
+[07:06] PRR runs a 6 train for $290: I15-H18-G19-G17-H16-H18
+[07:06] PRR runs a 4 train for $170: I15-H16-H10-H4
+[07:06] PRR pays out $460 = $46 per share ($276 to Norbert, $138 to Volker18xx, $46 to how49)
+[07:06] PRR's share price moves right from $110 to $120
+[07:06] PRR skips buy trains
+[07:06] PRR skips buy companies
+[07:06] how49 operates NYNH
+[08:44] NYNH lays tile #42 with rotation 1 on D16
+[08:44] NYNH skips place a token
+[08:45] NYNH runs a 5 train for $180: A19-B20-E19-G19-F20
+[08:45] NYNH pays out $180 = $18 per share ($108 to how49, $36 to Norbert, $18 to Skollvaldr, $18 to Volker18xx)
+[08:45] NYNH's share price moves right from $100 to $110
+[08:45] NYNH passes buy trains
+[08:45] NYNH skips buy companies
+[08:45] Skollvaldr operates B&M
+[08:45] B&M places a token on E23
+[10:01] B&M lays tile #53 with rotation 1 on E23 (Boston)
+[10:01] B&M skips place a token
+[10:01] B&M skips run routes
+[10:01] B&M does not run
+[10:01] B&M's share price moves left from $100 to $90
+[10:01] B&M buys a 4 train for $1 from C&O
+[10:01] B&M exchanges a 4 for a D train for $800 from The Depot
+[10:01] -- Phase D (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[10:01] -- Event: 4 trains rust ( CPR x1, ERIE x1, PRR x1, The Depot x1) --
+[10:01] B&M passes buy trains
+[10:01] B&M skips buy companies
+[10:01] Skollvaldr operates NYC
+[10:02] NYC lays tile #23 with rotation 5 on C19
+[10:02] NYC passes place a token
+[10:02] NYC runs a 6 train for $140: G19-E19-D14
+[10:02] NYC runs a 5 train for $180: G19-F20-E19-B20-A19
+[10:02] NYC pays out $320 = $32 per share ($192 to Skollvaldr, $64 to Norbert, $32 to how49, $32 to Volker18xx)
+[10:02] NYC's share price moves right from $90 to $100
+[10:02] NYC skips buy trains
+[10:02] NYC skips buy companies
+[10:02] how49 operates ERIE
+[10:18] ERIE lays tile #64 with rotation 5 on D10 (Hamilton & Toronto)
+[10:19] ERIE passes place a token
+[10:19] ERIE skips run routes
+[10:19] ERIE does not run
+[10:19] ERIE's share price moves left from $82 to $76
+[10:23] how49 sells a 10% share of CPR and receives $126
+[10:23] CPR's share price moves down from $126 to $112
+[10:24] how49 sells a 10% share of C&O and receives $80
+[10:25] how49 sells a 10% share of NYC and receives $100
+[10:25] NYC's share price moves down from $100 to $90
+[10:26] how49 sells a 10% share of PRR and receives $120
+[10:26] how49 sells 2 shares of NYNH and receives $220
+[10:26] NYNH's share price moves down from $110 to $100
+[10:27] how49 contributes $830
+[10:27] ERIE buys a D train for $1100 from The Depot
+[10:27] ERIE skips buy companies
+[10:27] Volker18xx operates B&O
+[10:29] B&O lays tile #16 with rotation 0 on G5
+[10:29] B&O passes place a token
+[10:29] B&O skips run routes
+[10:29] B&O does not run
+[10:29] B&O's share price moves left from $82 to $76
+[10:29] Volker18xx contributes $280
+[10:29] B&O buys a D train for $1100 from The Depot
+[10:29] B&O skips buy companies
+[10:29] Skollvaldr operates C&O
+[16:28] C&O spends $80 and lays tile #57 with rotation 0 on F4 (Toledo)
+[16:28] C&O skips place a token
+[16:28] C&O skips run routes
+[16:28] C&O does not run
+[16:28] C&O's share price moves left from $80 to $75
+[16:28] C&O buys a D train for $41 from B&M
+[16:28] C&O passes buy trains
+[16:28] C&O skips buy companies
+[16:28] -- Operating Round 7.2 (of 3) --
+[16:28] Norbert operates PRR
+[16:31] PRR lays tile #14 with rotation 2 on F4 (Toledo)
+[16:31] PRR passes place a token
+[16:31] PRR runs a 6 train for $290: I15-H18-G19-G17-H16-H18
+[16:31] PRR pays out $290 = $29 per share ($174 to Norbert, $87 to Volker18xx, $29 to PRR)
+[16:31] PRR's share price moves right from $120 to $130
+[16:32] PRR passes buy trains
+[16:32] PRR skips buy companies
+[16:32] Volker18xx operates CPR
+[18:33] CPR lays tile #8 with rotation 1 on C13
+[18:33] CPR skips place a token
+[18:33] CPR runs a 5 train for $130: E19-B20-A19-B16-C15
+[18:33] CPR pays out $130 = $13 per share ($78 to Volker18xx, $13 to Norbert, $13 to CPR)
+[18:33] CPR's share price moves right from $112 to $126
+[18:33] CPR passes buy trains
+[18:33] CPR skips buy companies
+[18:33] how49 operates NYNH
+[18:46] NYNH lays tile #27 with rotation 2 on B18
+[18:46] NYNH skips place a token
+[18:46] NYNH runs a 5 train for $180: A19-B20-E19-G19-F20
+[18:46] NYNH pays out $180 = $18 per share ($72 to how49, $36 to Norbert, $36 to NYNH, $18 to Skollvaldr, $18 to Volker18xx)
+[18:46] NYNH's share price moves up from $100 to $110
+[18:46] NYNH passes buy trains
+[18:46] NYNH skips buy companies
+[18:46] Skollvaldr operates NYC
+[19:01] NYC lays tile #8 with rotation 4 on C11
+[19:02] NYC places a token on D10 (Hamilton & Toronto) for $40
+[19:02] NYC runs a 6 train for $140: G19-E19-D14
+[19:02] NYC runs a 5 train for $210: D10-B16-E19-F20-G19
+[19:02] NYC pays out $350 = $35 per share ($210 to Skollvaldr, $70 to Norbert, $35 to Volker18xx, $35 to NYC)
+[19:02] NYC's share price moves right from $90 to $100
+[19:02] NYC skips buy trains
+[19:02] NYC skips buy companies
+[19:02] Skollvaldr operates B&M
+[19:02] B&M spends $120 and lays tile #9 with rotation 1 on E21
+[19:02] B&M skips place a token
+[19:02] B&M skips run routes
+[19:02] B&M does not run
+[19:02] B&M's share price moves left from $90 to $82
+[19:03] Skollvaldr contributes $53
+[19:03] B&M buys a 5 train for $173 from NYC
+[19:03] B&M skips buy companies
+[19:03] how49 operates ERIE
+[19:18] ERIE lays tile #4 with rotation 0 on F10 (Erie)
+[19:18] ERIE skips place a token
+[19:19] ERIE runs a D train for $180: D10-E11-D14-E11-F10
+[19:19] ERIE withholds $180
+[19:19] ERIE's share price moves left from $76 to $71
+[19:19] ERIE passes buy trains
+[19:19] ERIE skips buy companies
+[19:19] Volker18xx operates B&O
+[19:34] B&O lays tile #9 with rotation 2 on E3
+[19:34] B&O skips place a token
+[19:34] B&O runs a D train for $410: F2-F4-H4-H10-I15-H18-G19-G17-H16
+[19:34] B&O pays out $410 = $41 per share ($246 to Volker18xx, $41 to how49, $41 to Norbert)
+[19:34] B&O's share price moves right from $76 to $82
+[19:34] B&O skips buy trains
+[19:34] B&O skips buy companies
+[19:34] Skollvaldr operates C&O
+[19:41] C&O lays tile #58 with rotation 5 on D4 (Flint)
+[19:41] C&O skips place a token
+[19:41] C&O runs a D train for $300: I15-H18-G19-G17-H16-H18-G17
+[19:42] C&O pays out $300 = $30 per share ($180 to Skollvaldr, $60 to Norbert, $60 to C&O)
+[19:42] C&O's share price moves right from $75 to $80
+[19:42] C&O passes buy trains
+[19:42] C&O skips buy companies
+[19:42] -- Operating Round 7.3 (of 3) --
+[19:42] Norbert operates PRR
+[19:58] PRR passes lay/upgrade track
+[19:59] PRR places a token on G19 (New York & Newark) for $100
+[19:59] PRR runs a 6 train for $290: I15-H18-G19-G17-H16-H18
+[19:59] PRR pays out $290 = $29 per share ($174 to Norbert, $87 to Volker18xx, $29 to PRR)
+[19:59] PRR's share price moves up from $130 to $155
+[19:59] PRR passes buy trains
+[19:59] PRR skips buy companies
+[19:59] Volker18xx operates CPR
+[21:47] CPR lays tile #24 with rotation 4 on C11
+[21:47] CPR skips place a token
+[21:47] CPR runs a 5 train for $170: D10-B16-A19-B20-E19
+[21:47] CPR pays out $170 = $17 per share ($102 to Volker18xx, $17 to Norbert, $17 to CPR)
+[21:47] CPR's share price moves right from $126 to $142
+[21:47] CPR passes buy trains
+[21:47] CPR skips buy companies
+[21:47] how49 operates NYNH
+[22:39] NYNH lays tile #24 with rotation 4 on E21
+[22:39] NYNH skips place a token
+[22:40] NYNH runs a 5 train for $210: D10-B16-E19-G19-F20
+[22:40] NYNH pays out $210 = $21 per share ($84 to how49, $42 to Norbert, $42 to NYNH, $21 to Skollvaldr, $21 to Volker18xx)
+[22:40] NYNH's share price moves right from $110 to $120
+[22:40] NYNH passes buy trains
+[22:40] NYNH skips buy companies
+[22:40] Skollvaldr operates NYC
+-- 2024-09-28 --
+[00:36] NYC lays tile #7 with rotation 5 on C9
+[00:37] NYC passes place a token
+[00:37] NYC runs a 6 train for $220: E23-F20-G19-F20-E19-B16
+[00:37] NYC pays out $220 = $22 per share ($132 to Skollvaldr, $44 to Norbert, $22 to Volker18xx, $22 to NYC)
+[00:37] NYC's share price moves right from $100 to $112
+[00:37] NYC passes buy trains
+[00:37] NYC skips buy companies
+[00:37] Skollvaldr operates B&M
+[00:37] B&M lays tile #61 with rotation 3 on E23 (Boston)
+[00:37] B&M skips place a token
+[00:37] B&M runs a 5 train for $200: E23-F20-G19-F20-E19
+[00:37] B&M pays out $200 = $20 per share ($120 to Skollvaldr, $20 to Norbert)
+[00:37] B&M's share price moves right from $82 to $90
+[00:37] B&M skips buy trains
+[00:37] B&M skips buy companies
+[00:37] Volker18xx operates B&O
+[08:07] B&O lays tile #19 with rotation 2 on E3
+[08:07] B&O skips place a token
+[08:07] B&O runs a D train for $410: F2-F4-H4-H10-I15-H18-G19-G17-H16
+[08:08] B&O pays out $410 = $41 per share ($246 to Volker18xx, $41 to how49, $41 to Norbert)
+[08:08] B&O's share price moves right from $82 to $90
+[08:08] B&O skips buy trains
+[08:08] B&O skips buy companies
+[08:08] Skollvaldr operates C&O
+[08:20] C&O spends $80 and lays tile #59 with rotation 0 on E5 (Detroit & Windsor)
+[08:20] C&O skips place a token
+[08:20] C&O runs a D train for $300: I15-H18-G19-G17-H16-H18-G17
+[08:20] C&O pays out $300 = $30 per share ($180 to Skollvaldr, $60 to Norbert, $60 to C&O)
+[08:20] C&O's share price moves up from $80 to $90
+[08:20] C&O passes buy trains
+[08:20] C&O skips buy companies
+[08:20] how49 operates ERIE
+[08:28] ERIE lays tile #7 with rotation 3 on D8
+[08:28] ERIE places a token on D10 (Hamilton & Toronto) for $100
+[08:29] ERIE runs a D train for $230: D10-D10-E11-D14-E11-F10
+[08:29] ERIE pays out $230 = $23 per share ($138 to how49, $23 to Norbert)
+[08:29] ERIE's share price moves right from $71 to $76
+[08:29] ERIE passes buy trains
+[08:29] ERIE skips buy companies
+[08:29] -- Stock Round 8 --
+[13:14] Skollvaldr sells a 10% share of NYNH and receives $120
+[13:14] Skollvaldr buys a 10% share of PRR from the market for $155
+[13:57] how49 buys a 10% share of B&O from the IPO for $100
+[13:58] how49 declines to sell shares
+[14:53] Volker18xx buys a 10% share of C&O from the market for $90
+[14:53] Volker18xx declines to sell shares
+[15:04] Norbert sells a 10% share of CPR and receives $142
+[15:04] CPR's share price moves down from $142 to $125
+[15:04] Norbert buys a 10% share of B&O from the IPO for $100
+-- 2024-09-29 --
+[11:02] Skollvaldr passes
+[11:07] how49 buys a 10% share of C&O from the market for $90
+[11:07] how49 declines to sell shares
+[13:28] Volker18xx passes
+[13:35] Norbert buys a 10% share of ERIE from the IPO for $76
+[13:35] Norbert declines to sell shares
+[13:35] Skollvaldr passes
+[13:41] how49 buys a 10% share of NYNH from the market for $120
+[13:41] how49 declines to sell shares
+[13:41] Volker18xx passes
+[13:51] Norbert sells a 10% share of NYNH and receives $120
+[13:51] Norbert buys a 10% share of ERIE from the IPO for $76
+[16:51] Skollvaldr passes
+[16:59] how49 passes
+[18:27] Volker18xx sells a 10% share of NYNH and receives $120
+[18:27] Volker18xx buys a 10% share of NYC from the market for $112
+[19:14] Norbert sells a 10% share of NYNH and receives $120
+[19:14] Norbert buys a 10% share of ERIE from the IPO for $76
+[22:45] Skollvaldr passes
+[23:23] how49 passes
+-- 2024-09-30 --
+[07:16] Volker18xx sells a 10% share of PRR and receives $155
+[07:16] PRR's share price moves down from $155 to $130
+[07:16] Volker18xx buys a 10% share of B&M from the IPO for $100
+[07:17] Norbert passes
+[12:32] Skollvaldr passes
+[12:34] how49 passes
+[12:34] Volker18xx passes
+[12:34] NYC's share price moves up from $112 to $126
+[12:34] C&O's share price moves up from $90 to $100
+[12:34] ERIE's share price moves up from $76 to $82
+[12:34] Norbert has priority deal
+[12:34] -- Operating Round 8.1 (of 3) --
+[12:34] Norbert operates PRR
+[12:40] PRR passes lay/upgrade track
+[12:40] PRR skips place a token
+[12:41] PRR runs a 6 train for $290: I15-H18-G19-G17-H16-H18
+[12:41] PRR pays out $290 = $29 per share ($174 to Norbert, $58 to Volker18xx, $29 to Skollvaldr, $29 to PRR)
+[12:41] PRR's share price moves up from $130 to $155
+[12:41] PRR passes buy trains
+[12:41] PRR skips buy companies
+[12:41] Skollvaldr operates NYC
+[15:19] NYC lays tile #29 with rotation 5 on C9
+[15:19] NYC passes place a token
+[15:19] NYC runs a 6 train for $260: D10-D10-B16-E19-G19-F20
+[15:19] NYC pays out $260 = $26 per share ($156 to Skollvaldr, $52 to Norbert, $52 to Volker18xx)
+[15:19] NYC's share price moves right from $126 to $142
+[15:19] NYC passes buy trains
+[15:19] NYC skips buy companies
+[15:19] Volker18xx operates CPR
+[17:11] CPR lays tile #43 with rotation 4 on C9
+[17:11] CPR skips place a token
+[17:11] CPR runs a 5 train for $170: D10-B16-A19-B20-E19
+[17:11] CPR pays out $170 = $17 per share ($102 to Volker18xx, $34 to CPR)
+[17:11] CPR's share price moves right from $125 to $140
+[17:11] CPR passes buy trains
+[17:11] CPR skips buy companies
+[17:11] how49 operates NYNH
+[18:46] NYNH lays tile #25 with rotation 2 on D20
+[18:46] NYNH skips place a token
+[18:47] NYNH runs a 5 train for $210: D10-B16-E19-G19-F20
+[18:47] NYNH pays out $210 = $21 per share ($105 to how49, $105 to NYNH)
+[18:47] NYNH's share price moves right from $120 to $130
+[18:47] NYNH passes buy trains
+[18:47] NYNH skips buy companies
+[18:47] Skollvaldr operates C&O
+[20:49] C&O lays tile #65 with rotation 4 on E5 (Detroit & Windsor)
+[20:49] C&O skips place a token
+[20:49] C&O runs a D train for $300: I15-H18-G19-G17-H16-H18-G17
+[20:49] C&O pays out $300 = $30 per share ($180 to Skollvaldr, $60 to Norbert, $30 to how49, $30 to Volker18xx)
+[20:49] C&O's share price moves right from $100 to $110
+[20:49] C&O passes buy trains
+[20:49] C&O skips buy companies
+[20:49] Skollvaldr operates B&M
+[20:49] B&M passes lay/upgrade track
+[20:49] B&M skips place a token
+[20:49] B&M runs a 5 train for $200: E23-F20-G19-F20-E19
+[20:49] B&M pays out $200 = $20 per share ($120 to Skollvaldr, $20 to Norbert, $20 to Volker18xx)
+[20:49] B&M's share price moves right from $90 to $100
+[20:49] B&M skips buy trains
+[20:49] B&M skips buy companies
+[20:49] Volker18xx operates B&O
+[21:48] B&O lays tile #3 with rotation 1 on E7 (London)
+[21:48] B&O skips place a token
+[21:48] B&O runs a D train for $460: F2-E5-F4-H4-H10-I15-H18-G19-G17-H16
+[21:48] B&O pays out $460 = $46 per share ($276 to Volker18xx, $92 to Norbert, $92 to how49)
+[21:48] B&O's share price moves right from $90 to $100
+[21:48] B&O skips buy trains
+[21:48] B&O skips buy companies
+[21:48] how49 operates ERIE
+[21:55] ERIE lays tile #26 with rotation 4 on D8
+[21:55] ERIE skips place a token
+[21:56] ERIE runs a D train for $250: A19-B16-D10-E11-D14-E11-F10
+[21:56] ERIE pays out $250 = $25 per share ($150 to how49, $100 to Norbert)
+[21:56] ERIE's share price moves right from $82 to $90
+[21:56] ERIE passes buy trains
+[21:56] ERIE skips buy companies
+[21:56] -- Operating Round 8.2 (of 3) --
+[21:56] Norbert operates PRR
+[22:26] PRR passes lay/upgrade track
+[22:26] PRR skips place a token
+[22:26] PRR runs a 6 train for $290: I15-H18-G19-G17-H16-H18
+[22:26] PRR pays out $290 = $29 per share ($174 to Norbert, $58 to Volker18xx, $29 to Skollvaldr, $29 to PRR)
+[22:26] PRR's share price moves right from $155 to $170
+[22:26] PRR passes buy trains
+[22:26] PRR skips buy companies
+[22:26] Skollvaldr operates NYC
+-- 2024-10-01 --
+[00:08] NYC lays tile #42 with rotation 4 on D8
+[00:08] NYC passes place a token
+[00:08] NYC runs a 6 train for $260: D10-D10-B16-E19-G19-F20
+[00:08] NYC pays out $260 = $26 per share ($156 to Skollvaldr, $52 to Norbert, $52 to Volker18xx)
+[00:08] NYC's share price moves right from $142 to $160
+[00:08] NYC passes buy trains
+[00:08] NYC skips buy companies
+[00:08] Volker18xx operates CPR
+[07:56] CPR passes lay/upgrade track
+[07:56] CPR places a token on B16 (Ottawa) for $40
+[07:57] CPR runs a 5 train for $170: D10-B16-A19-B20-E19
+[07:57] CPR pays out $170 = $17 per share ($102 to Volker18xx, $34 to CPR)
+[07:57] CPR's share price moves right from $140 to $155
+[07:57] CPR passes buy trains
+[07:57] CPR skips buy companies
+[07:57] how49 operates NYNH
+[08:57] NYNH spends $80 and lays tile #7 with rotation 4 on D6
+[08:57] NYNH skips place a token
+[08:57] NYNH runs a 5 train for $210: D10-B16-E19-G19-F20
+[08:57] NYNH pays out $210 = $21 per share ($105 to how49, $105 to NYNH)
+[08:57] NYNH's share price moves up from $130 to $155
+[08:58] NYNH passes buy trains
+[08:58] NYNH skips buy companies
+[08:58] Skollvaldr operates C&O
+[10:20] C&O passes lay/upgrade track
+[10:20] C&O skips place a token
+[10:20] C&O runs a D train for $300: I15-H18-G19-G17-H16-H18-G17
+[10:20] C&O pays out $300 = $30 per share ($180 to Skollvaldr, $60 to Norbert, $30 to how49, $30 to Volker18xx)
+[10:20] C&O's share price moves right from $110 to $120
+[10:20] C&O passes buy trains
+[10:20] C&O skips buy companies
+[10:20] Skollvaldr operates B&M
+[10:20] B&M passes lay/upgrade track
+[10:20] B&M skips place a token
+[10:20] B&M runs a 5 train for $200: E23-F20-G19-F20-E19
+[10:20] B&M pays out $200 = $20 per share ($120 to Skollvaldr, $20 to Norbert, $20 to Volker18xx)
+[10:20] B&M's share price moves right from $100 to $112
+[10:20] B&M skips buy trains
+[10:20] B&M skips buy companies
+[10:20] Volker18xx operates B&O
+[10:27] B&O passes lay/upgrade track
+[10:27] B&O skips place a token
+[10:27] B&O runs a D train for $500: A19-B16-E7-E5-D4-D2-F4-H4-H10-I15-H18-G19-G17-H16
+[10:27] B&O pays out $500 = $50 per share ($300 to Volker18xx, $100 to Norbert, $100 to how49)
+[10:27] B&O's share price moves right from $100 to $112
+[10:27] B&O skips buy trains
+[10:27] B&O skips buy companies
+[10:27] how49 operates ERIE
+[10:28] ERIE lays tile #43 with rotation 1 on H8
+[10:28] ERIE skips place a token
+[10:28] ERIE runs a D train for $420: F2-E5-F4-D2-D4-E5-E7-D10-E11-D14-E11-F10
+[10:28] ERIE pays out $420 = $42 per share ($252 to how49, $168 to Norbert)
+[10:28] ERIE's share price moves right from $90 to $100
+[10:28] ERIE passes buy trains
+[10:28] ERIE skips buy companies
+[10:28] -- Operating Round 8.3 (of 3) --
+[10:28] Norbert operates PRR
+[10:31] PRR passes lay/upgrade track
+[10:31] PRR skips place a token
+[10:31] PRR runs a 6 train for $290: I15-H18-G19-G17-H16-H18
+[10:31] PRR pays out $290 = $29 per share ($174 to Norbert, $58 to Volker18xx, $29 to Skollvaldr, $29 to PRR)
+[10:31] PRR's share price moves right from $170 to $185
+[10:32] PRR passes buy trains
+[10:32] PRR skips buy companies
+[10:32] Skollvaldr operates NYC
+[17:26] NYC lays tile #46 with rotation 2 on E3
+[17:26] NYC passes place a token
+[17:27] NYC runs a 6 train for $260: D10-D10-B16-E19-G19-F20
+[17:27] NYC pays out $260 = $26 per share ($156 to Skollvaldr, $52 to Norbert, $52 to Volker18xx)
+[17:27] NYC's share price moves right from $160 to $180
+[17:27] NYC passes buy trains
+[17:27] NYC skips buy companies
+[17:27] Volker18xx operates CPR
+[17:28] CPR passes lay/upgrade track
+[17:28] CPR skips place a token
+[17:28] CPR runs a 5 train for $170: D10-B16-A19-B20-E19
+[17:28] CPR pays out $170 = $17 per share ($102 to Volker18xx, $34 to CPR)
+[17:28] CPR's share price moves right from $155 to $170
+[17:28] CPR passes buy trains
+[17:28] CPR skips buy companies
+[17:28] how49 operates NYNH
+[17:47] NYNH lays tile #9 with rotation 0 on G9
+[17:47] NYNH skips place a token
+[17:48] NYNH runs a 5 train for $210: D10-B16-E19-G19-F20
+[17:48] NYNH pays out $210 = $21 per share ($105 to how49, $105 to NYNH)
+[17:48] NYNH's share price moves right from $155 to $170
+[17:48] NYNH passes buy trains
+[17:48] NYNH skips buy companies
+[17:48] Skollvaldr operates C&O
+[23:46] C&O passes lay/upgrade track
+[23:46] C&O skips place a token
+[23:46] C&O runs a D train for $360: A19-B16-E7-E5-D4-D2-E5-F4-F6-G7-F10-E11-D14
+[23:46] C&O pays out $360 = $36 per share ($216 to Skollvaldr, $72 to Norbert, $36 to how49, $36 to Volker18xx)
+[23:46] C&O's share price moves right from $120 to $130
+[23:46] C&O passes buy trains
+[23:46] C&O skips buy companies
+[23:46] Skollvaldr operates B&M
+[23:47] B&M passes lay/upgrade track
+[23:47] B&M skips place a token
+[23:47] B&M runs a 5 train for $200: E23-F20-G19-F20-E19
+[23:47] B&M pays out $200 = $20 per share ($120 to Skollvaldr, $20 to Norbert, $20 to Volker18xx)
+[23:47] B&M's share price moves right from $112 to $126
+[23:47] B&M skips buy trains
+[23:47] B&M skips buy companies
+[23:47] Volker18xx operates B&O
+-- 2024-10-02 --
+[09:04] B&O passes lay/upgrade track
+[09:04] B&O skips place a token
+[09:04] B&O runs a D train for $500: A19-B16-E7-E5-D4-D2-F4-H4-H10-I15-H18-G19-G17-H16
+[09:04] B&O pays out $500 = $50 per share ($300 to Volker18xx, $100 to Norbert, $100 to how49)
+[09:04] B&O's share price moves right from $112 to $126
+[09:04] B&O skips buy trains
+[09:04] B&O skips buy companies
+[09:04] how49 operates ERIE
+[09:14] ERIE passes lay/upgrade track
+[09:14] ERIE skips place a token
+[09:18] ERIE runs a D train for $460: H10-H4-F4-E5-D2-D4-E5-E7-D10-E11-D14-E11-F10-G7-F6
+[09:18] ERIE pays out $460 = $46 per share ($276 to how49, $184 to Norbert)
+[09:18] ERIE's share price moves right from $100 to $111
+[09:18] ERIE passes buy trains
+[09:18] ERIE skips buy companies
+[09:18] -- Stock Round 9 --
+[09:56] Norbert passes
+[14:39] Skollvaldr passes
+[16:29] how49 buys a 10% share of CPR from the IPO for $100
+[16:30] how49 declines to sell shares
+[18:14] Volker18xx passes
+[18:14] Norbert passes
+[18:14] Skollvaldr passes
+[18:33] how49 buys a 10% share of CPR from the IPO for $100
+[18:33] how49 declines to sell shares
+[18:33] Volker18xx passes
+[18:33] Norbert passes
+[18:33] Skollvaldr passes
+[18:34] how49 buys a 10% share of PRR from the market for $185
+[18:34] how49 declines to sell shares
+[18:34] Volker18xx passes
+[18:34] Norbert passes
+[18:34] Skollvaldr passes
+[18:34] how49 buys a 10% share of NYNH from the market for $170
+[18:34] how49 declines to sell shares
+[18:34] Volker18xx passes
+[18:34] Norbert passes
+[18:34] Skollvaldr passes
+[18:35] how49 passes
+[18:35] PRR's share price moves up from $185 to $220
+[18:35] C&O's share price moves up from $130 to $155
+[18:35] ERIE's share price moves up from $111 to $126
+[18:35] Volker18xx has priority deal
+[18:35] -- Operating Round 9.1 (of 3) --
+[18:35] Norbert operates PRR
+[18:37] PRR passes lay/upgrade track
+[18:37] PRR skips place a token
+[18:38] PRR runs a 6 train for $290: I15-H18-G19-G17-H16-H18
+[18:38] PRR pays out $290 = $29 per share ($174 to Norbert, $58 to Volker18xx, $29 to Skollvaldr, $29 to how49)
+[18:38] PRR's share price moves right from $220 to $240
+[18:38] PRR passes buy trains
+[18:38] PRR skips buy companies
+[18:38] Skollvaldr operates NYC
+[21:21] NYC spends $120 and lays tile #9 with rotation 1 on D22
+[21:21] NYC passes place a token
+[21:21] NYC runs a 6 train for $260: D10-D10-B16-E19-G19-F20
+[21:21] NYC pays out $260 = $26 per share ($156 to Skollvaldr, $52 to Volker18xx, $52 to Norbert)
+[21:21] NYC's share price moves right from $180 to $200
+[21:21] NYC passes buy trains
+[21:21] NYC skips buy companies
+[21:21] Volker18xx operates CPR
+[22:00] CPR lays tile #26 with rotation 1 on D22
+[22:00] CPR skips place a token
+[22:00] CPR runs a 5 train for $190: E23-B20-A19-B16-D10
+[22:00] CPR pays out $190 = $19 per share ($114 to Volker18xx, $38 to how49, $38 to CPR)
+[22:00] CPR's share price moves right from $170 to $185
+[22:01] CPR passes buy trains
+[22:01] CPR skips buy companies
+[22:01] how49 operates NYNH
+[22:08] NYNH lays tile #8 with rotation 1 on F14
+[22:08] NYNH skips place a token
+[22:08] NYNH runs a 5 train for $210: D10-B16-E19-G19-F20
+[22:08] NYNH pays out $210 = $21 per share ($126 to how49, $84 to NYNH)
+[22:08] NYNH's share price moves right from $170 to $185
+[22:08] NYNH passes buy trains
+[22:08] NYNH skips buy companies
+[22:08] Skollvaldr operates C&O
+-- 2024-10-03 --
+[01:29] C&O passes lay/upgrade track
+[01:29] C&O skips place a token
+[01:29] C&O runs a D train for $380: E23-B16-E7-E5-D4-D2-E5-F4-F6-G7-F10-E11-D14
+[01:29] C&O pays out $380 = $38 per share ($228 to Skollvaldr, $76 to Norbert, $38 to Volker18xx, $38 to how49)
+[01:29] C&O's share price moves right from $155 to $170
+[01:29] C&O passes buy trains
+[01:29] C&O skips buy companies
+[01:29] how49 operates ERIE
+[01:46] ERIE lays tile #23 with rotation 0 on G9
+[01:46] ERIE skips place a token
+[01:46] ERIE runs a D train for $470: E23-B16-D10-E11-D14-E11-F10-H4-F4-E5-D2-D4-E5-E7
+[01:46] ERIE pays out $470 = $47 per share ($282 to how49, $188 to Norbert)
+[01:46] ERIE's share price moves right from $126 to $142
+[01:46] ERIE passes buy trains
+[01:46] ERIE skips buy companies
+[01:46] Skollvaldr operates B&M
+[14:42] B&M passes lay/upgrade track
+[14:42] B&M skips place a token
+[14:42] B&M runs a 5 train for $230: G19-F20-E23-B16-D10
+[14:42] -- The bank has broken --
+[14:42] B&M pays out $230 = $23 per share ($138 to Skollvaldr, $23 to Volker18xx, $23 to Norbert)
+[14:42] B&M's share price moves right from $126 to $142
+[14:42] B&M skips buy trains
+[14:42] B&M skips buy companies
+[14:42] Volker18xx operates B&O
+[15:49] B&O lays tile #47 with rotation 0 on E21
+[15:49] B&O skips place a token
+[15:49] B&O runs a D train for $650: E19-F20-G19-F20-B16-E7-E5-D4-D2-E5-F4-H4-H10-I15-H18-G19-G17-H16
+[15:49] B&O pays out $650 = $65 per share ($390 to Volker18xx, $130 to Norbert, $130 to how49)
+[15:49] B&O's share price moves right from $126 to $142
+[15:49] B&O skips buy trains
+[15:49] B&O skips buy companies
+[15:49] -- Operating Round 9.2 (of 3) --
+[15:49] Norbert operates PRR
+[15:53] PRR passes lay/upgrade track
+[15:53] PRR skips place a token
+[15:53] PRR runs a 6 train for $290: I15-H18-G19-G17-H16-H18
+[15:53] PRR pays out $290 = $29 per share ($174 to Norbert, $58 to Volker18xx, $29 to Skollvaldr, $29 to how49)
+[15:53] PRR's share price moves right from $240 to $260
+[15:53] PRR passes buy trains
+[15:53] PRR skips buy companies
+[15:53] Skollvaldr operates NYC
+[23:21] NYC lays tile #70 with rotation 0 on G5
+[23:21] NYC places a token on E11 (Dunkirk & Buffalo) for $100
+[23:21] NYC runs a 6 train for $260: D10-D10-B16-E19-G19-F20
+[23:21] NYC pays out $260 = $26 per share ($156 to Skollvaldr, $52 to Volker18xx, $52 to Norbert)
+[23:21] NYC's share price moves right from $200 to $225
+[23:21] NYC passes buy trains
+[23:21] NYC skips buy companies
+[23:21] Volker18xx operates CPR
+-- 2024-10-04 --
+[07:46] CPR passes lay/upgrade track
+[07:46] CPR passes place a token
+[07:46] CPR runs a 5 train for $190: E23-B20-A19-B16-D10
+[07:46] CPR pays out $190 = $19 per share ($114 to Volker18xx, $38 to how49, $38 to CPR)
+[07:46] CPR's share price moves right from $185 to $200
+[07:46] CPR passes buy trains
+[07:46] CPR skips buy companies
+[07:46] how49 operates NYNH
+[08:59] NYNH lays tile #8 with rotation 4 on F12
+[08:59] NYNH skips place a token
+[08:59] NYNH runs a 5 train for $210: D10-B16-E19-G19-F20
+[08:59] NYNH pays out $210 = $21 per share ($126 to how49, $84 to NYNH)
+[08:59] NYNH's share price moves right from $185 to $200
+[09:00] NYNH passes buy trains
+[09:00] NYNH skips buy companies
+[09:00] Skollvaldr operates C&O
+[09:50] C&O lays tile #16 with rotation 1 on I17
+[09:50] C&O skips place a token
+[09:51] C&O runs a D train for $440: E11-F10-G7-F6-F4-E5-D2-D4-E5-E7-B16-F20-G19-F20-E19
+[09:51] C&O pays out $440 = $44 per share ($264 to Skollvaldr, $88 to Norbert, $44 to Volker18xx, $44 to how49)
+[09:51] C&O's share price moves right from $170 to $185
+[09:51] C&O passes buy trains
+[09:51] C&O skips buy companies
+[09:51] how49 operates ERIE
+[09:52] ERIE lays tile #8 with rotation 1 on G11
+[09:52] ERIE skips place a token
+[09:53] ERIE runs a D train for $490: E19-F20-G19-F20-B16-D10-E11-D14-H4-F4-E5-D2-D4-E5-E7
+[09:54] ERIE pays out $490 = $49 per share ($294 to how49, $196 to Norbert)
+[09:54] ERIE's share price moves right from $142 to $160
+[09:54] ERIE passes buy trains
+[09:54] ERIE skips buy companies
+[09:54] Skollvaldr operates B&M
+[11:41] B&M passes lay/upgrade track
+[11:41] B&M skips place a token
+[11:41] B&M runs a 5 train for $230: G19-F20-E23-B16-D10
+[11:41] B&M pays out $230 = $23 per share ($138 to Skollvaldr, $23 to Volker18xx, $23 to Norbert)
+[11:41] B&M's share price moves right from $142 to $160
+[11:41] B&M skips buy trains
+[11:41] B&M skips buy companies
+[11:41] Volker18xx operates B&O
+[11:59] B&O passes lay/upgrade track
+[11:59] B&O skips place a token
+[12:00] B&O runs a D train for $650: E19-F20-G19-F20-B16-E7-E5-D4-D2-E5-F4-H4-H10-I15-H18-G19-G17-H16
+[12:00] B&O pays out $650 = $65 per share ($390 to Volker18xx, $130 to Norbert, $130 to how49)
+[12:00] B&O's share price moves right from $142 to $160
+[12:00] B&O skips buy trains
+[12:00] B&O skips buy companies
+[12:00] -- Operating Round 9.3 (of 3) --
+[12:00] Norbert operates PRR
+[13:02] PRR passes lay/upgrade track
+[13:02] PRR skips place a token
+[13:03] PRR runs a 6 train for $290: I15-H18-G19-G17-H16-H18
+[13:03] PRR pays out $290 = $29 per share ($174 to Norbert, $58 to Volker18xx, $29 to Skollvaldr, $29 to how49)
+[13:03] PRR's share price moves right from $260 to $280
+[13:03] PRR passes buy trains
+[13:03] PRR skips buy companies
+[13:03] Skollvaldr operates NYC
+[16:06] NYC passes lay/upgrade track
+[16:06] NYC skips place a token
+[16:06] NYC runs a 6 train for $300: F2-E5-F4-H4-E19-G19
+[16:06] NYC pays out $300 = $30 per share ($180 to Skollvaldr, $60 to Volker18xx, $60 to Norbert)
+[16:06] NYC's share price moves right from $225 to $250
+[16:06] NYC passes buy trains
+[16:06] NYC skips buy companies
+[16:06] Volker18xx operates CPR
+[18:02] CPR passes lay/upgrade track
+[18:02] CPR passes place a token
+[18:02] CPR runs a 5 train for $190: E23-B20-A19-B16-D10
+[18:02] CPR pays out $190 = $19 per share ($114 to Volker18xx, $38 to how49, $38 to CPR)
+[18:02] CPR's share price moves up from $200 to $240
+[18:02] CPR passes buy trains
+[18:02] CPR skips buy companies
+[18:02] how49 operates NYNH
+[18:32] NYNH passes lay/upgrade track
+[18:32] NYNH skips place a token
+[18:32] NYNH runs a 5 train for $250: G19-E19-H4-F4-F2
+[18:32] NYNH pays out $250 = $25 per share ($150 to how49, $100 to NYNH)
+[18:32] NYNH's share price moves up from $200 to $240
+[18:32] NYNH passes buy trains
+[18:32] NYNH skips buy companies
+[18:32] Skollvaldr operates C&O
+[22:22] C&O passes lay/upgrade track
+[22:22] C&O skips place a token
+[22:22] C&O runs a D train for $440: E11-F10-G7-F6-F4-E5-D2-D4-E5-E7-B16-F20-G19-F20-E19
+[22:22] C&O pays out $440 = $44 per share ($264 to Skollvaldr, $88 to Norbert, $44 to Volker18xx, $44 to how49)
+[22:22] C&O's share price moves right from $185 to $200
+[22:22] C&O passes buy trains
+[22:22] C&O skips buy companies
+[22:22] how49 operates ERIE
+[22:55] ERIE passes lay/upgrade track
+[22:55] ERIE skips place a token
+[22:55] ERIE runs a D train for $490: E19-F20-G19-F20-B16-D10-E11-D14-H4-F4-E5-D2-D4-E5-E7
+[22:55] ERIE pays out $490 = $49 per share ($294 to how49, $196 to Norbert)
+[22:55] ERIE's share price moves right from $160 to $180
+[22:55] ERIE passes buy trains
+[22:55] ERIE skips buy companies
+[22:55] Skollvaldr operates B&M
+[23:36] B&M passes lay/upgrade track
+[23:36] B&M skips place a token
+[23:36] B&M runs a 5 train for $230: G19-F20-E23-B16-D10
+[23:36] B&M pays out $230 = $23 per share ($138 to Skollvaldr, $23 to Volker18xx, $23 to Norbert)
+[23:36] B&M's share price moves right from $160 to $180
+[23:36] B&M skips buy trains
+[23:36] B&M skips buy companies
+[23:36] Volker18xx operates B&O
+-- 2024-10-05 --
+[11:09] B&O passes lay/upgrade track
+[11:09] B&O skips place a token
+[11:09] B&O runs a D train for $650: E19-F20-G19-F20-B16-E7-E5-D4-D2-E5-F4-H4-H10-I15-H18-G19-G17-H16
+[11:09] B&O pays out $650 = $65 per share ($390 to Volker18xx, $130 to Norbert, $130 to how49)
+[11:09] B&O's share price moves right from $160 to $180
+[11:09] B&O skips buy trains
+[11:09] B&O skips buy companies
+[11:09] -- Game over: Norbert ($8767), Volker18xx ($8648), Skollvaldr ($8292), how49 ($6740) --

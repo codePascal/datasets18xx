@@ -1,0 +1,1770 @@
+-- 2024-09-20 --
+[13:23] -- Phase 2 (Operating Rounds: 1 | Train Limit: 4 | Available Tiles: Yellow) --
+[13:23] cslkmaa bids $165 for Camden & Amboy
+-- 2024-09-22 --
+[09:21] Bibli bids $115 for Mohawk & Hudson
+[10:07] jrype bids $45 for Champlain & St.Lawrence
+[11:08] huffman123 bids $170 for Camden & Amboy
+[12:09] gershwyn bids $75 for Delaware & Hudson
+[15:15] Sherlocky bids $120 for Mohawk & Hudson
+[15:51] cslkmaa bids $175 for Camden & Amboy
+[19:24] Bibli bids $50 for Champlain & St.Lawrence
+[19:52] jrype bids $180 for Camden & Amboy
+-- 2024-09-23 --
+[01:03] huffman123 bids $80 for Delaware & Hudson
+[05:02] gershwyn buys Schuylkill Valley for $20
+[05:02] Champlain & St.Lawrence goes up for auction
+[09:45] jrype bids $55 for Champlain & St.Lawrence
+[11:26] Bibli bids $60 for Champlain & St.Lawrence
+[12:29] jrype passes on Champlain & St.Lawrence
+[12:29] Bibli wins the auction for Champlain & St.Lawrence with a bid of $60
+[12:29] Delaware & Hudson goes up for auction
+[12:44] gershwyn bids $85 for Delaware & Hudson
+[13:29] huffman123 bids $90 for Delaware & Hudson
+[13:53] gershwyn bids $95 for Delaware & Hudson
+[20:58] huffman123 bids $100 for Delaware & Hudson
+[21:10] gershwyn passes on Delaware & Hudson
+[21:10] huffman123 wins the auction for Delaware & Hudson with a bid of $100
+[21:10] Mohawk & Hudson goes up for auction
+[21:59] Bibli bids $125 for Mohawk & Hudson
+[22:01] Sherlocky passes on Mohawk & Hudson
+[22:01] Bibli wins the auction for Mohawk & Hudson with a bid of $125
+[22:01] Camden & Amboy goes up for auction
+[22:04] huffman123 bids $205 for Camden & Amboy
+-- 2024-09-24 --
+[01:08] cslkmaa passes on Camden & Amboy
+[08:39] jrype bids $210 for Camden & Amboy
+[10:07] huffman123 passes on Camden & Amboy
+[10:07] jrype wins the auction for Camden & Amboy with a bid of $210
+[10:07] jrype receives a 10% share of PRR
+[12:49] Sherlocky buys Baltimore & Ohio for $220
+[12:49] Sherlocky pars B&O at $100
+[12:49] Sherlocky receives a 20% share of B&O
+[12:49] Sherlocky becomes the president of B&O
+[12:49] cslkmaa has priority deal
+[12:49] -- Stock Round 1 --
+[14:24] cslkmaa buys a 10% share of B&O from the IPO for $100
+-- 2024-09-25 --
+[07:53] Bibli pars PRR at $71
+[07:53] Bibli buys a 20% share of PRR from the IPO for $142
+[07:53] Bibli becomes the president of PRR
+[08:53] jrype buys a 10% share of B&O from the IPO for $100
+[10:03] huffman123 buys a 10% share of PRR from the IPO for $71
+[11:24] gershwyn pars NYNH at $67
+[11:24] gershwyn buys a 20% share of NYNH from the IPO for $134
+[11:24] gershwyn becomes the president of NYNH
+[11:46] Sherlocky passes
+[13:28] cslkmaa buys a 10% share of B&O from the IPO for $100
+[20:49] Bibli buys a 10% share of PRR from the IPO for $71
+-- 2024-09-26 --
+[00:13] jrype buys a 10% share of NYNH from the IPO for $67
+[00:59] huffman123 buys a 10% share of NYNH from the IPO for $67
+[09:08] gershwyn buys a 10% share of NYNH from the IPO for $67
+[09:32] Sherlocky buys a 10% share of B&O from the IPO for $100
+[09:32] B&O floats
+[09:32] B&O receives $1000
+[11:17] cslkmaa buys a 10% share of B&O from the IPO for $100
+[11:17] Bibli has no valid actions and passes
+[11:17] jrype has no valid actions and passes
+[13:08] huffman123 buys a 10% share of NYNH from the IPO for $67
+[13:08] NYNH floats
+[13:08] NYNH receives $670
+[14:13] gershwyn buys a 10% share of NYNH from the IPO for $67
+[14:14] Sherlocky buys a 10% share of NYNH from the IPO for $67
+[14:21] cslkmaa buys a 10% share of B&O from the IPO for $100
+[14:21] cslkmaa becomes the president of B&O
+[14:21] Bibli has no valid actions and passes
+[14:21] jrype has no valid actions and passes
+[15:04] huffman123 buys a 10% share of NYNH from the IPO for $67
+[15:24] gershwyn buys a 10% share of NYNH from the IPO for $67
+[15:24] Sherlocky has no valid actions and passes
+[15:24] cslkmaa has no valid actions and passes
+[15:24] Bibli has no valid actions and passes
+[15:24] jrype has no valid actions and passes
+[15:24] huffman123 has no valid actions and passes
+[15:24] gershwyn has no valid actions and passes
+[15:24] NYNH's share price moves up from $67 to $71
+[15:24] Sherlocky has priority deal
+[15:24] -- Operating Round 1.1 (of 1) --
+[15:24] Sherlocky collects $30 from Baltimore & Ohio
+[15:24] Bibli collects $10 from Champlain & St.Lawrence
+[15:24] Bibli collects $20 from Mohawk & Hudson
+[15:24] jrype collects $25 from Camden & Amboy
+[15:24] huffman123 collects $15 from Delaware & Hudson
+[15:24] gershwyn collects $5 from Schuylkill Valley
+[15:24] cslkmaa operates B&O
+[15:24] B&O places a token on I15
+[15:42] B&O spends $80 and lays tile #57 with rotation 0 on J14 (Washington)
+[15:42] B&O places a token on J14 (Washington) for $40
+[15:42] B&O skips run routes
+[15:42] B&O does not run
+[15:42] B&O's share price moves left from $100 to $90
+[15:42] B&O buys a 2 train for $80 from The Depot
+[15:42] Baltimore & Ohio closes
+[15:42] B&O buys a 2 train for $80 from The Depot
+[15:42] B&O buys a 2 train for $80 from The Depot
+[15:43] B&O passes buy trains
+[15:43] B&O skips buy companies
+[15:43] gershwyn operates NYNH
+[15:43] NYNH places a token on G19
+[17:21] NYNH lays tile #56 with rotation 0 on F20 (New Haven & Hartford)
+[17:21] NYNH skips place a token
+[17:21] NYNH skips run routes
+[17:21] NYNH does not run
+[17:21] NYNH's share price moves left from $71 to $67
+[17:21] NYNH buys a 2 train for $80 from The Depot
+[17:22] NYNH passes buy trains
+[17:22] NYNH skips buy companies
+[17:22] -- Stock Round 2 --
+[17:29] Sherlocky passes
+[18:31] cslkmaa passes
+[22:18] Bibli passes
+[23:11] jrype passes
+[23:57] huffman123 passes
+-- 2024-09-27 --
+[00:46] gershwyn passes
+[00:46] NYNH's share price moves up from $67 to $71
+[00:46] Sherlocky has priority deal
+[00:46] -- Operating Round 2.1 (of 1) --
+[00:46] Bibli collects $10 from Champlain & St.Lawrence
+[00:46] Bibli collects $20 from Mohawk & Hudson
+[00:46] jrype collects $25 from Camden & Amboy
+[00:46] huffman123 collects $15 from Delaware & Hudson
+[00:46] gershwyn collects $5 from Schuylkill Valley
+[00:46] cslkmaa operates B&O
+[02:42] B&O spends $80 and lays tile #9 with rotation 1 on I17
+[02:42] B&O skips place a token
+[02:43] B&O runs a 2 train for $40: I15-I19
+[02:43] B&O runs a 2 train for $50: I15-J14
+[02:43] B&O runs a 2 train for $50: J14-K13
+[02:43] B&O pays out $140 = $14 per share ($56 to cslkmaa, $42 to Sherlocky, $14 to jrype)
+[02:43] B&O's share price moves right from $90 to $100
+[02:43] B&O passes buy trains
+[02:43] B&O skips buy companies
+[02:43] gershwyn operates NYNH
+[07:03] NYNH lays tile #57 with rotation 2 on E19 (Albany)
+[07:03] NYNH skips place a token
+[07:03] NYNH runs a 2 train for $50: F20-G19
+[07:03] NYNH pays out $50 = $5 per share ($25 to gershwyn, $15 to huffman123, $5 to Sherlocky, $5 to jrype)
+[07:03] NYNH's share price moves right from $71 to $76
+[07:04] NYNH passes buy trains
+[07:04] NYNH skips buy companies
+[07:04] -- Stock Round 3 --
+[08:19] Sherlocky passes
+[10:49] cslkmaa passes
+[18:21] Bibli passes
+[23:15] jrype buys a 10% share of PRR from the IPO for $71
+[23:15] PRR floats
+[23:15] PRR receives $710
+[23:15] jrype sells 2 shares of PRR and receives $142
+[23:15] PRR's share price moves down from $71 to $67
+-- 2024-09-28 --
+[00:28] huffman123 buys a 10% share of PRR from the market for $67
+[00:28] huffman123 declines to sell shares
+[04:14] gershwyn passes
+[08:34] Sherlocky passes
+[10:02] cslkmaa passes
+[14:44] Bibli passes
+[20:17] jrype buys a 10% share of B&O from the IPO for $100
+[20:17] jrype declines to sell shares
+[20:22] huffman123 passes
+-- 2024-09-29 --
+[11:00] gershwyn buys a 10% share of PRR from the market for $67
+[11:00] gershwyn declines to sell shares
+[12:11] Sherlocky passes
+[12:41] cslkmaa passes
+[19:04] Bibli passes
+[21:19] jrype passes
+[21:44] huffman123 passes
+[21:54] gershwyn passes
+[21:54] NYNH's share price moves up from $76 to $82
+[21:54] Sherlocky has priority deal
+[21:54] -- Operating Round 3.1 (of 1) --
+[21:54] Bibli collects $10 from Champlain & St.Lawrence
+[21:54] Bibli collects $20 from Mohawk & Hudson
+[21:54] jrype collects $25 from Camden & Amboy
+[21:54] huffman123 collects $15 from Delaware & Hudson
+[21:54] gershwyn collects $5 from Schuylkill Valley
+[21:54] cslkmaa operates B&O
+-- 2024-09-30 --
+[02:16] B&O passes lay/upgrade track
+[02:16] B&O skips place a token
+[02:19] B&O runs a 2 train for $40: I15-I19
+[02:19] B&O runs a 2 train for $50: I15-J14
+[02:19] B&O runs a 2 train for $50: J14-K13
+[02:19] B&O withholds $140
+[02:19] B&O's share price moves left from $100 to $90
+[02:19] B&O passes buy trains
+[02:19] B&O skips buy companies
+[02:19] gershwyn operates NYNH
+[05:16] NYNH passes lay/upgrade track
+[05:16] NYNH skips place a token
+[05:16] NYNH runs a 2 train for $50: G19-F20
+[05:16] NYNH pays out $50 = $5 per share ($25 to gershwyn, $15 to huffman123, $5 to Sherlocky, $5 to jrype)
+[05:16] NYNH's share price moves right from $82 to $90
+[05:16] NYNH passes buy trains
+[05:16] NYNH skips buy companies
+[05:16] Bibli operates PRR
+[05:16] PRR places a token on H12
+[13:51] PRR lays tile #9 with rotation 1 on H14
+[13:51] PRR skips place a token
+[13:51] PRR skips run routes
+[13:51] PRR does not run
+[13:51] PRR's share price moves left from $67 to $63
+[13:51] PRR buys a 2 train for $80 from The Depot
+[13:51] PRR passes buy trains
+[13:51] PRR skips buy companies
+[13:51] -- Stock Round 4 --
+[16:43] Sherlocky buys a 10% share of PRR from the IPO for $71
+[16:43] Sherlocky declines to sell shares
+[17:41] cslkmaa passes
+[18:17] Bibli buys a 10% share of PRR from the IPO for $71
+[18:17] Bibli declines to sell shares
+[19:20] jrype buys a 10% share of PRR from the IPO for $71
+[19:20] jrype declines to sell shares
+[19:52] huffman123 passes
+[20:21] gershwyn sells 5 shares of NYNH and receives $450
+[20:21] huffman123 becomes the president of NYNH
+[20:21] NYNH's share price moves down from $90 to $68
+[20:21] gershwyn sells a 10% share of PRR and receives $63
+[20:21] PRR's share price moves down from $63 to $60
+[20:22] gershwyn pars NYC at $90
+[20:22] gershwyn buys a 20% share of NYC from the IPO for $180
+[20:22] gershwyn becomes the president of NYC
+[23:49] Sherlocky passes
+-- 2024-10-01 --
+[02:05] cslkmaa passes
+[09:05] Bibli passes
+[09:29] jrype sells a 10% share of B&O and receives $90
+[09:29] B&O's share price moves down from $90 to $82
+[09:29] jrype buys a 10% share of NYC from the IPO for $90
+[13:27] huffman123 passes
+[13:39] gershwyn buys a 10% share of NYC from the IPO for $90
+[13:39] gershwyn declines to sell shares
+[14:36] Sherlocky sells a 10% share of PRR and receives $60
+[14:36] PRR's share price moves down from $60 to $50
+[14:36] Sherlocky buys a 10% share of B&O from the market for $82
+[15:39] cslkmaa passes
+[22:18] Bibli passes
+[22:56] jrype passes
+[23:46] huffman123 passes
+[23:51] gershwyn buys a 10% share of NYC from the IPO for $90
+[23:51] gershwyn declines to sell shares
+-- 2024-10-02 --
+[07:29] Sherlocky passes
+[08:39] cslkmaa passes
+[08:39] Bibli passes
+[08:39] jrype passes
+[09:50] huffman123 passes
+[10:01] gershwyn buys a 10% share of NYC from the IPO for $90
+[10:01] NYC floats
+[10:01] NYC receives $900
+[10:02] gershwyn declines to sell shares
+[10:37] Sherlocky passes
+[16:09] cslkmaa passes
+[16:09] Bibli passes
+[16:09] jrype passes
+[16:22] huffman123 passes
+[16:23] gershwyn buys a 10% share of NYC from the IPO for $90
+[16:23] gershwyn declines to sell shares
+[16:45] Sherlocky passes
+[17:36] cslkmaa passes
+[17:36] Bibli passes
+[17:36] jrype passes
+[18:38] huffman123 passes
+[18:41] gershwyn passes
+[18:41] Sherlocky has priority deal
+[18:41] -- Operating Round 4.1 (of 1) --
+[18:41] Bibli collects $10 from Champlain & St.Lawrence
+[18:41] Bibli collects $20 from Mohawk & Hudson
+[18:41] jrype collects $25 from Camden & Amboy
+[18:41] huffman123 collects $15 from Delaware & Hudson
+[18:41] gershwyn collects $5 from Schuylkill Valley
+[18:41] gershwyn operates NYC
+[18:41] NYC places a token on E19
+[18:41] NYC passes lay/upgrade track
+[18:41] NYC skips place a token
+[18:41] NYC skips run routes
+[18:41] NYC does not run
+[18:41] NYC's share price moves left from $90 to $82
+[18:41] NYC buys a 2 train for $80 from The Depot
+[18:41] NYC buys a 3 train for $180 from The Depot
+[18:41] -- Phase 3 (Operating Rounds: 2 | Train Limit: 4 | Available Tiles: Yellow, Green) --
+[18:41] NYC buys a 3 train for $180 from The Depot
+[18:41] NYC buys Schuylkill Valley from gershwyn for $40
+[18:42] NYC passes buy trains
+[18:42] NYC passes buy companies
+[18:42] cslkmaa operates B&O
+-- 2024-10-03 --
+[03:22] B&O lays tile #53 with rotation 0 on I15 (Baltimore)
+[03:22] B&O skips place a token
+[03:22] B&O runs a 2 train for $60: I15-I19
+[03:22] B&O runs a 2 train for $70: I15-J14
+[03:22] B&O runs a 2 train for $50: J14-K13
+[03:22] B&O pays out $180 = $18 per share ($72 to Sherlocky, $72 to cslkmaa, $18 to jrype)
+[03:22] B&O's share price moves right from $82 to $90
+[03:22] B&O buys a 3 train for $180 from The Depot
+[03:23] B&O passes buy companies
+[03:23] huffman123 operates NYNH
+[03:33] NYNH spends $80 and lays tile #54 with rotation 0 on G19 (New York & Newark)
+[03:33] NYNH skips place a token
+[03:33] NYNH runs a 2 train for $70: G19-F20
+[03:34] NYNH pays out $70 = $7 per share ($35 to NYNH, $21 to huffman123, $7 to Sherlocky, $7 to jrype)
+[03:34] NYNH's share price moves up from $68 to $69
+[03:34] NYNH buys a 3 train for $180 from The Depot
+[03:34] NYNH passes buy trains
+[03:34] NYNH buys Delaware & Hudson from huffman123 for $140
+[03:34] NYNH passes buy companies
+[03:34] Bibli operates PRR
+[13:37] PRR lays tile #57 with rotation 1 on H16 (Lancaster)
+-- 2024-10-05 --
+[09:40] PRR passes place a token
+[09:40] PRR runs a 2 train for $30: H12-H16
+[09:40] PRR pays out $30 = $3 per share ($12 to Bibli, $6 to huffman123, $6 to PRR, $3 to jrype)
+[09:40] PRR's share price moves right from $50 to $60
+[09:40] PRR passes buy trains
+[09:41] PRR buys Champlain & St.Lawrence from Bibli for $80
+[09:42] PRR passes buy companies
+[09:42] -- Stock Round 5 --
+[19:34] Sherlocky buys a 10% share of PRR from the market for $60
+[19:34] Sherlocky declines to sell shares
+[20:56] cslkmaa buys a 10% share of B&O from the IPO for $100
+[20:57] cslkmaa declines to sell shares
+-- 2024-10-06 --
+[15:17] Bibli buys a 10% share of PRR from the market for $60
+[15:17] Bibli declines to sell shares
+[16:07] jrype buys a 10% share of NYNH from the market for $69
+[16:07] jrype declines to sell shares
+[17:06] huffman123 buys a 10% share of NYNH from the market for $69
+[17:06] huffman123 declines to sell shares
+[18:06] gershwyn passes
+[22:31] Sherlocky passes
+-- 2024-10-07 --
+[02:08] cslkmaa passes
+-- 2024-10-08 --
+[14:25] Bibli buys a 10% share of NYNH from the market for $69
+[14:25] Bibli declines to sell shares
+[16:52] jrype passes
+[16:55] huffman123 buys a 10% share of PRR from the IPO for $71
+[16:55] huffman123 declines to sell shares
+[17:36] gershwyn passes
+[17:36] Sherlocky passes
+[19:36] cslkmaa passes
+-- 2024-10-09 --
+[14:55] Bibli passes
+[14:55] jrype passes
+[15:13] huffman123 buys a 10% share of NYNH from the market for $69
+[15:13] huffman123 declines to sell shares
+[15:13] gershwyn passes
+[15:13] Sherlocky passes
+[15:48] cslkmaa passes
+-- 2024-10-10 --
+[06:55] Bibli passes
+[06:55] jrype passes
+[09:18] huffman123 passes
+[09:18] B&O's share price moves up from $90 to $100
+[09:18] PRR's share price moves up from $60 to $67
+[09:18] gershwyn has priority deal
+[09:18] -- Operating Round 5.1 (of 2) --
+[09:18] Bibli collects $20 from Mohawk & Hudson
+[09:18] jrype collects $25 from Camden & Amboy
+[09:18] NYC collects $5 from Schuylkill Valley
+[09:18] NYNH collects $15 from Delaware & Hudson
+[09:18] PRR collects $10 from Champlain & St.Lawrence
+[09:18] cslkmaa operates B&O
+[10:01] B&O lays tile #23 with rotation 1 on H14
+[10:01] B&O skips place a token
+[10:02] B&O runs a 2 train for $60: I15-I19
+[10:02] B&O runs a 2 train for $70: I15-J14
+[10:02] B&O runs a 2 train for $50: J14-K13
+[10:02] B&O runs a 3 train for $60: H12-I15
+[10:02] B&O pays out $240 = $24 per share ($120 to cslkmaa, $96 to Sherlocky, $24 to jrype)
+[10:02] B&O's share price moves right from $100 to $112
+[10:02] B&O skips buy trains
+[10:04] B&O passes buy companies
+[10:04] gershwyn operates NYC
+[10:11] NYC lays tile #14 with rotation 2 on E19 (Albany)
+[10:11] NYC skips place a token
+[10:12] NYC runs a 3 train for $100: G19-F20-E19
+[10:12] NYC pays out $100 = $10 per share ($60 to gershwyn, $10 to jrype)
+[10:12] NYC's share price moves right from $82 to $90
+[10:12] NYC passes buy trains
+[10:12] NYC passes buy companies
+[10:12] huffman123 operates NYNH
+[12:59] NYNH lays tile #7 with rotation 5 on F18
+[12:59] NYNH places a token on E19 (Albany) for $40
+[12:59] NYNH runs a 3 train for $40: E19-F20
+[12:59] NYNH runs a 2 train for $70: G19-F20
+[13:00] NYNH pays out $110 = $11 per share ($55 to huffman123, $22 to jrype, $11 to Sherlocky, $11 to Bibli, $11 to NYNH)
+[13:00] NYNH's share price moves right from $69 to $70
+[13:00] NYNH passes buy trains
+[13:00] NYNH passes buy companies
+[13:00] Bibli operates PRR
+[16:48] PRR lays tile #57 with rotation 1 on H10 (Pittsburgh)
+-- 2024-10-11 --
+[12:50] PRR places a token on H16 (Lancaster) for $40
+[12:51] PRR runs a 2 train for $60: H12-I15
+[12:51] PRR pays out $60 = $6 per share ($30 to Bibli, $18 to huffman123, $6 to Sherlocky, $6 to jrype)
+[12:51] PRR's share price moves right from $67 to $68
+[12:51] PRR buys a 3 train for $180 from The Depot
+[12:51] PRR buys Mohawk & Hudson from Bibli for $220
+[12:51] PRR passes buy trains
+[12:51] PRR passes buy companies
+[12:51] -- Operating Round 5.2 (of 2) --
+[12:51] jrype collects $25 from Camden & Amboy
+[12:51] NYC collects $5 from Schuylkill Valley
+[12:51] NYNH collects $15 from Delaware & Hudson
+[12:51] PRR collects $10 from Champlain & St.Lawrence
+[12:51] PRR collects $20 from Mohawk & Hudson
+[12:51] cslkmaa operates B&O
+[13:12] B&O lays tile #14 with rotation 2 on J14 (Washington)
+[13:12] B&O passes place a token
+[13:16] B&O runs a 3 train for $80: K13-J14-K15
+[13:16] B&O runs a 2 train for $60: I15-I19
+[13:16] B&O runs a 2 train for $70: I15-H10
+[13:16] B&O runs a 2 train for $80: I15-J14
+[13:16] B&O pays out $290 = $29 per share ($145 to cslkmaa, $116 to Sherlocky, $29 to jrype)
+[13:16] B&O's share price moves right from $112 to $126
+[13:16] B&O skips buy trains
+[13:16] B&O passes buy companies
+[13:16] gershwyn operates NYC
+[13:23] NYC lays tile #26 with rotation 0 on F18
+[13:23] NYC skips place a token
+[13:24] NYC runs a 3 train for $100: G19-F20-E19
+[13:24] NYC pays out $100 = $10 per share ($60 to gershwyn, $10 to jrype)
+[13:24] NYC's share price moves right from $90 to $100
+[13:25] NYC buys a 4 train for $300 from The Depot
+[13:25] -- Phase 4 (Operating Rounds: 2 | Train Limit: 3 | Available Tiles: Yellow, Green) --
+[13:25] -- Event: 2 trains rust ( B&O x3, NYNH x1, PRR x1, NYC x1) --
+[13:25] NYC passes buy companies
+[13:25] huffman123 operates NYNH
+[14:08] NYNH lays tile #2 with rotation 2 on G17 (Reading & Allentown)
+[14:08] NYNH skips place a token
+[14:09] NYNH runs a 3 train for $130: G19-G17-G19
+[14:09] NYNH pays out $130 = $13 per share ($65 to huffman123, $26 to jrype, $13 to Sherlocky, $13 to Bibli, $13 to NYNH)
+[14:09] NYNH's share price moves up from $70 to $75
+[14:09] NYNH passes buy trains
+[14:09] NYNH passes buy companies
+[14:09] Bibli operates PRR
+-- 2024-10-12 --
+[09:06] PRR lays tile #14 with rotation 0 on H16 (Lancaster)
+[09:06] PRR passes place a token
+[09:06] PRR runs a 3 train for $80: I15-H12-H10
+[09:06] PRR pays out $80 = $8 per share ($40 to Bibli, $24 to huffman123, $8 to Sherlocky, $8 to jrype)
+[09:06] PRR's share price moves up from $68 to $69
+[09:06] PRR passes buy trains
+[09:07] PRR passes buy companies
+[09:07] -- Stock Round 6 --
+[13:41] gershwyn buys a 10% share of NYNH from the market for $75
+[13:41] gershwyn declines to sell shares
+[15:26] Sherlocky buys a 10% share of NYC from the IPO for $90
+[15:26] Sherlocky declines to sell shares
+[18:42] cslkmaa buys a 10% share of NYC from the IPO for $90
+[18:43] cslkmaa declines to sell shares
+-- 2024-10-19 --
+[07:41] Bibli sells 5 shares of PRR and receives $345
+[07:41] huffman123 becomes the president of PRR
+[07:41] PRR's share price moves down from $69 to $68
+[07:42] Bibli pars ERIE at $100
+[07:42] Bibli buys a 20% share of ERIE from the IPO for $200
+[07:42] Bibli becomes the president of ERIE
+[11:24] jrype sells a 10% share of B&O and receives $126
+[11:24] B&O's share price moves down from $126 to $112
+[11:24] jrype sells a 10% share of NYC and receives $100
+[11:24] NYC's share price moves down from $100 to $90
+[11:24] jrype sells 2 shares of NYNH and receives $150
+[11:24] NYNH's share price moves down from $75 to $70
+[11:25] jrype pars C&O at $90
+[11:25] jrype buys a 20% share of C&O from the IPO for $180
+[11:25] jrype becomes the president of C&O
+[14:21] huffman123 sells 3 shares of NYNH and receives $210
+[14:22] huffman123 buys a 10% share of B&O from the market for $112
+[20:08] gershwyn buys a 10% share of ERIE from the IPO for $100
+[20:08] gershwyn sells a 10% share of ERIE and receives $100
+[20:08] ERIE's share price moves down from $100 to $90
+-- 2024-10-20 --
+[00:10] Sherlocky buys a 10% share of ERIE from the market for $90
+[00:10] Sherlocky declines to sell shares
+[03:04] cslkmaa buys a 10% share of NYNH from the market for $70
+[03:04] cslkmaa declines to sell shares
+[07:45] Bibli buys a 10% share of ERIE from the IPO for $100
+[07:45] Bibli declines to sell shares
+[09:58] jrype buys a 10% share of C&O from the IPO for $90
+[09:58] jrype declines to sell shares
+[10:14] huffman123 pars B&M at $100
+[10:14] huffman123 buys a 20% share of B&M from the IPO for $200
+[10:14] huffman123 becomes the president of B&M
+[10:14] huffman123 declines to sell shares
+[10:46] gershwyn buys a 10% share of PRR from the market for $68
+[10:46] gershwyn declines to sell shares
+[15:25] Sherlocky passes
+[15:49] cslkmaa buys a 10% share of PRR from the market for $68
+[15:50] cslkmaa declines to sell shares
+[16:14] Bibli buys a 10% share of ERIE from the IPO for $100
+[16:14] Bibli declines to sell shares
+[17:46] jrype buys a 10% share of C&O from the IPO for $90
+[17:46] jrype declines to sell shares
+-- 2024-10-21 --
+[02:06] huffman123 sells a 10% share of PRR and receives $68
+[02:07] huffman123 buys a 10% share of B&M from the IPO for $100
+[08:21] gershwyn passes
+[11:50] Sherlocky passes
+[11:52] cslkmaa passes
+-- 2024-10-22 --
+[06:15] Bibli buys a 10% share of NYC from the market for $90
+[06:16] Bibli declines to sell shares
+[09:49] jrype buys a 10% share of C&O from the IPO for $90
+[09:49] jrype declines to sell shares
+[15:17] huffman123 passes
+[15:17] gershwyn passes
+[15:17] Sherlocky passes
+[16:23] cslkmaa passes
+[23:01] Bibli buys a 10% share of NYC from the IPO for $90
+[23:01] Bibli declines to sell shares
+[23:27] jrype buys a 10% share of C&O from the IPO for $90
+[23:27] C&O floats
+[23:27] C&O receives $900
+[23:28] jrype declines to sell shares
+[23:28] huffman123 passes
+[23:28] gershwyn passes
+[23:28] Sherlocky passes
+-- 2024-10-23 --
+[05:38] cslkmaa passes
+[16:25] Bibli buys a 10% share of ERIE from the IPO for $100
+[16:25] ERIE floats
+[16:25] ERIE receives $1000
+[16:25] Bibli declines to sell shares
+[20:01] jrype passes
+[20:01] huffman123 passes
+[20:01] gershwyn passes
+[20:01] Sherlocky passes
+-- 2024-10-24 --
+[01:57] cslkmaa passes
+[11:06] Bibli passes
+[11:06] B&O's share price moves up from $112 to $126
+[11:06] NYC's share price moves up from $90 to $100
+[11:06] jrype has priority deal
+[11:06] -- Operating Round 6.1 (of 2) --
+[11:06] jrype collects $25 from Camden & Amboy
+[11:06] NYC collects $5 from Schuylkill Valley
+[11:06] NYNH collects $15 from Delaware & Hudson
+[11:06] PRR collects $10 from Champlain & St.Lawrence
+[11:06] PRR collects $20 from Mohawk & Hudson
+[11:06] cslkmaa operates B&O
+[16:55] B&O lays tile #7 with rotation 4 on H8
+[16:55] B&O passes place a token
+[17:03] B&O runs a 3 train for $80: K13-J14-K15
+[17:03] B&O pays out $80 = $8 per share ($40 to cslkmaa, $32 to Sherlocky, $8 to huffman123)
+[17:03] B&O's share price moves right from $126 to $142
+[17:04] B&O passes buy trains
+[17:04] B&O passes buy companies
+[17:04] gershwyn operates NYC
+[17:15] NYC lays tile #8 with rotation 5 on D18
+[17:15] NYC passes place a token
+[17:15] NYC runs a 3 train for $100: G19-F20-E19
+[17:15] NYC runs a 3 train for $100: G19-G17-E19
+[17:15] NYC pays out $200 = $20 per share ($120 to gershwyn, $40 to Bibli, $20 to Sherlocky, $20 to cslkmaa)
+[17:15] NYC's share price moves right from $100 to $112
+[17:15] NYC skips buy trains
+[17:16] NYC passes buy companies
+[17:16] jrype operates C&O
+[17:16] C&O places a token on F6
+-- 2024-10-25 --
+[00:24] C&O lays tile #69 with rotation 4 on G7 (Akron & Canton)
+[00:24] C&O skips place a token
+[00:24] C&O skips run routes
+[00:24] C&O does not run
+[00:24] C&O's share price moves left from $90 to $82
+[00:24] C&O buys a 4 train for $300 from The Depot
+[00:25] C&O passes buy trains
+[00:25] C&O buys Camden & Amboy from jrype for $320
+[00:25] C&O skips buy companies
+[00:25] Bibli operates ERIE
+[00:25] ERIE places a token on E11
+[08:24] ERIE lays tile #59 with rotation 4 on E11 (Dunkirk & Buffalo)
+[08:24] ERIE must choose city for token
+[08:24] ERIE places a token on E11 (Dunkirk & Buffalo)
+[08:24] ERIE skips place a token
+[08:24] ERIE skips run routes
+[08:24] ERIE does not run
+[08:24] ERIE's share price moves left from $90 to $82
+[08:24] ERIE buys a 4 train for $300 from The Depot
+[08:25] ERIE passes buy trains
+[08:25] ERIE skips buy companies
+[08:25] huffman123 operates NYNH
+[09:01] NYNH lays tile #59 with rotation 1 on H18 (Philadelphia & Trenton)
+[09:01] NYNH skips place a token
+[09:02] NYNH runs a 3 train for $130: G19-G17-G19
+[09:02] NYNH pays out $130 = $13 per share ($52 to NYNH, $26 to huffman123, $13 to gershwyn, $13 to Sherlocky, $13 to cslkmaa, $13 to Bibli)
+[09:02] NYNH's share price moves up from $70 to $75
+[09:02] NYNH passes buy trains
+[09:02] NYNH skips buy companies
+[09:02] huffman123 operates PRR
+[09:02] PRR (CS) lays tile #58 with rotation 0 on B20 (Burlington)
+[09:03] PRR lays tile #15 with rotation 4 on H10 (Pittsburgh)
+[09:03] PRR passes place a token
+[09:03] PRR runs a 3 train for $100: H18-H16-H10
+[09:04] PRR pays out $100 = $10 per share ($40 to PRR, $20 to huffman123, $10 to jrype, $10 to gershwyn, $10 to Sherlocky, $10 to cslkmaa)
+[09:04] PRR's share price moves up from $68 to $69
+[09:04] PRR passes buy trains
+[09:04] PRR skips buy companies
+[09:04] -- Operating Round 6.2 (of 2) --
+[09:04] NYC collects $5 from Schuylkill Valley
+[09:04] C&O collects $25 from Camden & Amboy
+[09:04] NYNH collects $15 from Delaware & Hudson
+[09:04] PRR collects $10 from Champlain & St.Lawrence
+[09:04] PRR collects $20 from Mohawk & Hudson
+[09:04] cslkmaa operates B&O
+[11:50] B&O lays tile #8 with rotation 0 on I9
+[13:34] B&O passes place a token
+[13:34] B&O runs a 3 train for $110: J14-I15-H10
+[13:34] B&O pays out $110 = $11 per share ($55 to cslkmaa, $44 to Sherlocky, $11 to huffman123)
+[13:34] B&O's share price moves right from $142 to $160
+[13:34] B&O passes buy trains
+[13:34] B&O skips buy companies
+[13:34] gershwyn operates NYC
+[13:35] NYC lays tile #9 with rotation 1 on D16
+[13:35] NYC places a token on D14 (Rochester) for $40
+[13:36] NYC runs a 3 train for $100: G19-F20-E19
+[13:36] NYC runs a 3 train for $50: E19-D14
+[13:36] NYC runs a 4 train for $140: H18-G19-G17-E19
+[13:36] NYC pays out $290 = $29 per share ($174 to gershwyn, $58 to Bibli, $29 to Sherlocky, $29 to cslkmaa)
+[13:36] NYC's share price moves right from $112 to $126
+[13:36] NYC skips buy trains
+[13:36] NYC skips buy companies
+[13:36] jrype operates C&O
+[14:56] C&O lays tile #7 with rotation 3 on G5
+[14:56] C&O skips place a token
+[14:56] C&O runs a 4 train for $50: G7-F6-G7
+[14:56] C&O pays out $50 = $5 per share ($30 to jrype)
+[14:56] C&O's share price moves right from $82 to $90
+[14:56] C&O passes buy trains
+[14:56] C&O skips buy companies
+[14:56] Bibli operates ERIE
+-- 2024-10-26 --
+[11:11] ERIE lays tile #8 with rotation 1 on E13
+[11:11] ERIE skips place a token
+[11:11] ERIE runs a 4 train for $60: E11-D14
+[11:11] ERIE pays out $60 = $6 per share ($30 to Bibli, $6 to Sherlocky)
+[11:11] ERIE's share price moves right from $82 to $90
+[11:11] ERIE passes buy trains
+[11:11] ERIE skips buy companies
+[11:11] huffman123 operates NYNH
+[12:17] NYNH lays tile #25 with rotation 5 on D18
+[12:17] NYNH skips place a token
+[12:17] NYNH runs a 3 train for $130: G19-G17-G19
+[12:18] NYNH pays out $130 = $13 per share ($52 to NYNH, $26 to huffman123, $13 to gershwyn, $13 to Sherlocky, $13 to cslkmaa, $13 to Bibli)
+[12:18] NYNH's share price moves right from $75 to $80
+[12:18] NYNH passes buy trains
+[12:18] NYNH skips buy companies
+[12:18] huffman123 operates PRR
+[12:18] PRR lays tile #29 with rotation 4 on H8
+[12:18] PRR passes place a token
+[12:19] PRR runs a 3 train for $100: H18-H16-H10
+[12:19] PRR pays out $100 = $10 per share ($40 to PRR, $20 to huffman123, $10 to jrype, $10 to gershwyn, $10 to Sherlocky, $10 to cslkmaa)
+[12:19] PRR's share price moves right from $69 to $70
+[12:19] PRR passes buy trains
+[12:19] PRR skips buy companies
+[12:19] -- Stock Round 7 --
+[13:38] jrype sells a 10% share of C&O and receives $90
+[13:38] C&O's share price moves down from $90 to $82
+[13:38] jrype sells a 10% share of PRR and receives $70
+[13:39] jrype pars CPR at $90
+[13:39] jrype buys a 20% share of CPR from the IPO for $180
+[13:39] jrype becomes the president of CPR
+[16:51] huffman123 sells a 10% share of B&O and receives $160
+[16:51] B&O's share price moves down from $160 to $142
+[16:51] huffman123 buys a 10% share of B&M from the IPO for $100
+[17:41] gershwyn buys a 10% share of B&O from the market for $142
+[17:42] gershwyn declines to sell shares
+-- 2024-10-27 --
+[13:03] Sherlocky buys a 10% share of NYNH from the market for $80
+[13:03] Sherlocky declines to sell shares
+[13:32] cslkmaa sells 5 shares of B&O and receives $710
+[13:32] Sherlocky becomes the president of B&O
+[13:32] B&O's share price moves down from $142 to $100
+[13:32] cslkmaa buys a 10% share of NYNH from the market for $80
+-- 2024-10-28 --
+[07:09] Bibli buys a 10% share of ERIE from the IPO for $100
+[07:09] Bibli declines to sell shares
+[09:13] jrype buys a 10% share of CPR from the IPO for $90
+[09:13] jrype declines to sell shares
+[11:25] huffman123 buys a 10% share of B&M from the IPO for $100
+[11:25] huffman123 declines to sell shares
+[13:27] gershwyn buys a 10% share of C&O from the market for $82
+[13:28] gershwyn declines to sell shares
+[13:29] Sherlocky buys a 10% share of NYNH from the market for $80
+[13:29] Sherlocky becomes the president of NYNH
+[13:29] Sherlocky declines to sell shares
+[15:17] cslkmaa buys a 10% share of NYNH from the market for $80
+[15:17] cslkmaa declines to sell shares
+-- 2024-10-29 --
+[13:06] Bibli passes
+[13:11] jrype buys a 10% share of CPR from the IPO for $90
+[13:12] jrype declines to sell shares
+[19:54] huffman123 buys a 10% share of B&M from the IPO for $100
+[19:54] B&M floats
+[19:54] B&M receives $1000
+[19:54] huffman123 declines to sell shares
+[20:43] gershwyn buys a 10% share of B&M from the IPO for $100
+[20:44] gershwyn sells a 10% share of B&M and receives $100
+[20:44] B&M's share price moves down from $100 to $90
+[23:38] Sherlocky buys a 10% share of B&O from the market for $100
+[23:39] Sherlocky declines to sell shares
+-- 2024-10-30 --
+[01:20] cslkmaa buys a 10% share of ERIE from the IPO for $100
+-- 2024-10-31 --
+[07:11] cslkmaa declines to sell shares
+[09:11] Bibli passes
+[11:10] jrype buys a 10% share of CPR from the IPO for $90
+[11:10] jrype declines to sell shares
+[14:33] huffman123 passes
+[15:47] gershwyn buys a 10% share of ERIE from the IPO for $100
+[15:47] gershwyn declines to sell shares
+[22:00] Sherlocky passes
+-- 2024-11-01 --
+[03:22] cslkmaa buys a 10% share of ERIE from the IPO for $100
+[03:22] cslkmaa declines to sell shares
+[08:34] Bibli passes
+[10:10] jrype buys a 10% share of CPR from the IPO for $90
+[10:10] CPR floats
+[10:10] CPR receives $900
+[10:10] jrype declines to sell shares
+[11:06] huffman123 sells a 10% share of NYNH and receives $80
+[11:06] huffman123 buys a 10% share of PRR from the market for $70
+[11:21] gershwyn passes
+[11:37] Sherlocky passes
+[14:30] cslkmaa buys a 10% share of B&M from the IPO for $100
+[14:30] cslkmaa declines to sell shares
+[15:23] Bibli passes
+[16:02] jrype sells a 10% share of CPR and receives $90
+[16:02] CPR's share price moves down from $90 to $82
+[16:02] jrype buys a 10% share of B&O from the market for $100
+[16:30] huffman123 passes
+-- 2024-11-02 --
+[00:30] gershwyn passes
+[17:28] Sherlocky sells a 10% share of ERIE and receives $90
+[17:28] ERIE's share price moves down from $90 to $82
+[17:28] Sherlocky buys a 10% share of NYNH from the market for $80
+[17:28] Sherlocky sells a 10% share of NYC and receives $126
+[17:28] NYC's share price moves down from $126 to $111
+[18:37] cslkmaa buys a 10% share of NYC from the market for $111
+-- 2024-11-03 --
+[07:03] cslkmaa declines to sell shares
+[09:52] Bibli passes
+[11:46] jrype passes
+[15:02] huffman123 passes
+[15:24] gershwyn passes
+-- 2024-11-04 --
+[13:10] Sherlocky passes
+[13:16] cslkmaa buys a 10% share of ERIE from the market for $82
+[13:16] cslkmaa declines to sell shares
+[14:20] Bibli passes
+[14:20] jrype passes
+[14:20] huffman123 passes
+[14:26] gershwyn passes
+[14:26] Sherlocky passes
+[15:05] cslkmaa buys a 10% share of C&O from the IPO for $90
+[15:05] cslkmaa declines to sell shares
+[21:30] Bibli passes
+[21:30] jrype passes
+[21:30] huffman123 passes
+[21:30] gershwyn passes
+[21:30] Sherlocky passes
+-- 2024-11-05 --
+[00:07] cslkmaa passes
+[00:07] NYC's share price moves up from $111 to $126
+[00:07] ERIE's share price moves up from $82 to $90
+[00:07] NYNH's share price moves up from $80 to $90
+[00:07] Bibli has priority deal
+[00:07] -- Operating Round 7.1 (of 2) --
+[00:07] NYC collects $5 from Schuylkill Valley
+[00:07] NYNH collects $15 from Delaware & Hudson
+[00:07] C&O collects $25 from Camden & Amboy
+[00:07] PRR collects $10 from Champlain & St.Lawrence
+[00:07] PRR collects $20 from Mohawk & Hudson
+[00:07] gershwyn operates NYC
+[00:15] NYC lays tile #9 with rotation 1 on D12
+[00:16] NYC places a token on H18 (Philadelphia & Trenton) for $100
+[00:16] NYC runs a 3 train for $100: G19-F20-E19
+[00:16] NYC runs a 3 train for $90: E11-D14-E19
+[00:16] NYC runs a 4 train for $140: H18-G19-G17-E19
+[00:16] NYC pays out $330 = $33 per share ($198 to gershwyn, $66 to Bibli, $66 to cslkmaa)
+[00:16] NYC's share price moves right from $126 to $142
+[00:16] NYC skips buy trains
+[00:16] NYC skips buy companies
+[00:16] Sherlocky operates B&O
+[07:23] B&O lays tile #8 with rotation 1 on I7
+[07:24] B&O places a token on H10 (Pittsburgh) for $100
+[07:24] B&O runs a 3 train for $110: J14-I15-H10
+[07:24] B&O pays out $110 = $11 per share ($55 to Sherlocky, $33 to B&O, $11 to jrype, $11 to gershwyn)
+[07:24] B&O's share price moves up from $100 to $110
+[07:24] B&O passes buy trains
+[07:24] B&O skips buy companies
+[07:24] Sherlocky operates NYNH
+[07:24] NYNH lays tile #24 with rotation 4 on D16
+[07:24] NYNH skips place a token
+[07:24] NYNH runs a 3 train for $130: G19-G17-G19
+[07:25] NYNH withholds $130
+[07:25] NYNH's share price moves left from $90 to $82
+[07:25] NYNH passes buy trains
+[07:25] NYNH skips buy companies
+[07:25] huffman123 operates B&M
+[07:25] B&M places a token on E23
+[07:32] B&M spends $120 and lays tile #9 with rotation 1 on D22
+[07:32] B&M skips place a token
+[07:32] B&M skips run routes
+[07:32] B&M does not run
+[07:32] B&M's share price moves left from $90 to $82
+[07:33] B&M buys a 3 train for $130 from PRR
+[07:33] B&M buys a 4 train for $300 from The Depot
+[07:33] B&M buys a 5 train for $450 from The Depot
+[07:33] -- Phase 5 (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[07:33] -- Event: Private companies close --
+[07:33] B&M discards 3
+[09:00] NYC discards 3
+[09:00] B&M skips buy companies
+[09:00] Bibli operates ERIE
+-- 2024-11-08 --
+[09:29] ERIE lays tile #67 with rotation 0 on E11 (Dunkirk & Buffalo)
+[09:29] ERIE skips place a token
+[09:29] ERIE runs a 4 train for $70: E11-D14
+[09:29] ERIE pays out $70 = $7 per share ($42 to Bibli, $21 to cslkmaa, $7 to gershwyn)
+[09:29] ERIE's share price moves right from $90 to $100
+[09:29] ERIE buys a 5 train for $450 from The Depot
+[09:29] ERIE skips buy companies
+[09:29] jrype operates C&O
+[11:53] C&O lays tile #9 with rotation 0 on H6
+[11:53] C&O skips place a token
+[11:53] C&O runs a 4 train for $50: G7-F6-G7
+[11:53] C&O pays out $50 = $5 per share ($25 to jrype, $5 to gershwyn, $5 to cslkmaa)
+[11:53] C&O's share price moves right from $82 to $90
+[11:53] C&O passes buy trains
+[11:53] C&O skips buy companies
+[11:53] jrype operates CPR
+[11:53] CPR places a token on A19
+[11:54] CPR spends $80 and lays tile #9 with rotation 0 on C19
+[11:54] CPR skips place a token
+[11:54] CPR skips run routes
+[11:54] CPR does not run
+[11:54] CPR's share price moves left from $82 to $76
+[11:54] CPR buys a 5 train for $450 from The Depot
+[11:54] CPR passes buy trains
+[11:54] CPR skips buy companies
+[11:54] huffman123 operates PRR
+[13:15] PRR lays tile #65 with rotation 5 on H18 (Philadelphia & Trenton)
+[13:16] PRR passes place a token
+[13:16] PRR skips run routes
+[13:16] PRR does not run
+[13:16] PRR's share price moves left from $70 to $69
+[13:17] PRR buys a 5 train for $456 from B&M
+[13:17] PRR skips buy companies
+[13:17] -- Operating Round 7.2 (of 2) --
+[13:17] gershwyn operates NYC
+[13:33] NYC lays tile #24 with rotation 4 on D12
+[13:33] NYC skips place a token
+[13:33] NYC runs a 3 train for $100: E11-D14-E19
+[13:33] NYC runs a 4 train for $150: H18-G19-G17-E19
+[13:33] NYC pays out $250 = $25 per share ($150 to gershwyn, $50 to Bibli, $50 to cslkmaa)
+[13:33] NYC's share price moves right from $142 to $160
+[13:33] NYC skips buy trains
+[13:33] NYC skips buy companies
+[13:33] Sherlocky operates B&O
+[15:45] B&O lays tile #61 with rotation 0 on I15 (Baltimore)
+[15:45] B&O skips place a token
+[15:45] B&O runs a 3 train for $140: I15-H16-H18
+[15:45] B&O withholds $140
+[15:45] B&O's share price moves left from $110 to $100
+[15:46] B&O passes buy trains
+[15:46] B&O skips buy companies
+[15:46] Bibli operates ERIE
+[16:22] ERIE spends $80 and lays tile #59 with rotation 5 on D10 (Hamilton & Toronto)
+[16:23] ERIE passes place a token
+[16:23] ERIE runs a 5 train for $70: E11-D14
+[16:23] ERIE runs a 4 train for $90: E11-D10
+[16:23] ERIE pays out $160 = $16 per share ($96 to Bibli, $48 to cslkmaa, $16 to gershwyn)
+[16:23] ERIE's share price moves right from $100 to $112
+[16:23] ERIE skips buy trains
+[16:23] ERIE skips buy companies
+[16:23] jrype operates C&O
+-- 2024-11-09 --
+[02:52] C&O lays tile #7 with rotation 3 on I5
+[02:53] C&O places a token on H18 (Philadelphia & Trenton) for $40
+[02:53] C&O runs a 4 train for $150: I15-H16-H18-G17
+[02:53] C&O pays out $150 = $15 per share ($75 to jrype, $15 to gershwyn, $15 to cslkmaa)
+[02:53] C&O's share price moves right from $90 to $100
+[02:53] C&O buys a 5 train for $289 from CPR
+[02:53] C&O skips buy companies
+[02:53] Sherlocky operates NYNH
+[03:02] NYNH lays tile #9 with rotation 0 on E15
+[03:02] NYNH skips place a token
+[03:02] NYNH runs a 3 train for $130: G19-G17-G19
+[03:02] NYNH withholds $130
+[03:02] NYNH's share price moves left from $82 to $76
+[03:02] NYNH buys a 6 train for $630 from The Depot
+[03:02] -- Phase 6 (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[03:02] -- Event: 3 trains rust ( The Depot x2, NYC x1, B&O x1, NYNH x1) --
+[03:02] NYNH passes buy trains
+[03:02] NYNH skips buy companies
+[03:02] huffman123 operates B&M
+[03:08] B&M lays tile #8 with rotation 4 on D20
+[03:08] B&M skips place a token
+[03:08] B&M runs a 4 train for $70: E19-E23-F24
+[03:08] B&M pays out $70 = $7 per share ($42 to huffman123, $7 to cslkmaa, $7 to B&M)
+[03:08] B&M's share price moves right from $82 to $90
+[03:11] B&M passes buy trains
+[03:11] B&M skips buy companies
+[03:11] jrype operates CPR
+-- 2024-11-10 --
+[01:07] CPR lays tile #63 with rotation 0 on E19 (Albany)
+[01:07] CPR skips place a token
+[01:07] CPR skips run routes
+[01:07] CPR does not run
+[01:07] CPR's share price moves left from $76 to $70
+[01:07] CPR buys a 6 train for $630 from The Depot
+[01:07] CPR passes buy trains
+[01:07] CPR skips buy companies
+[01:07] huffman123 operates PRR
+[03:27] PRR lays tile #28 with rotation 4 on I5
+[03:27] PRR skips place a token
+[03:27] PRR runs a 5 train for $160: I15-H16-H10-G7-F6
+[03:27] PRR pays out $160 = $16 per share ($64 to PRR, $48 to huffman123, $16 to gershwyn, $16 to Sherlocky, $16 to cslkmaa)
+[03:27] PRR's share price moves right from $69 to $70
+[03:27] PRR passes buy trains
+[03:27] PRR skips buy companies
+[03:27] -- Stock Round 8 --
+-- 2024-11-14 --
+[09:40] Bibli buys a 10% share of PRR from the market for $70
+[09:40] Bibli declines to sell shares
+[09:53] jrype buys a 10% share of C&O from the IPO for $90
+[09:54] jrype declines to sell shares
+[11:08] huffman123 buys a 10% share of PRR from the market for $70
+[11:08] huffman123 sells 4 shares of B&M and receives $360
+[11:08] B&M's share price moves down from $90 to $67
+[14:10] gershwyn buys a 10% share of CPR from the market for $70
+[14:10] gershwyn declines to sell shares
+[14:27] Sherlocky buys a 10% share of C&O from the IPO for $90
+[14:27] Sherlocky declines to sell shares
+-- 2024-11-15 --
+[01:15] cslkmaa sells 2 shares of NYNH and receives $152
+[01:15] NYNH's share price moves down from $76 to $69
+[01:16] cslkmaa buys a 10% share of C&O from the IPO for $90
+[01:18] cslkmaa sells a 10% share of NYC and receives $160
+[01:18] NYC's share price moves down from $160 to $140
+[20:06] Bibli buys a 10% share of PRR from the market for $70
+[20:06] Bibli declines to sell shares
+-- 2024-11-16 --
+[00:21] jrype sells a 10% share of B&O and receives $100
+[00:21] B&O's share price moves down from $100 to $90
+[00:21] jrype buys a 10% share of NYNH from the market for $69
+[00:30] huffman123 buys a 10% share of PRR from the market for $70
+[00:31] huffman123 declines to sell shares
+[08:35] gershwyn passes
+[14:22] Sherlocky buys a 10% share of NYNH from the market for $69
+[14:22] Sherlocky declines to sell shares
+[15:14] cslkmaa buys a 10% share of CPR from the IPO for $90
+[15:15] cslkmaa declines to sell shares
+[16:33] Bibli sells 2 shares of NYC and receives $280
+[16:33] NYC's share price moves down from $140 to $120
+[16:34] Bibli buys a 10% share of CPR from the IPO for $90
+[17:41] jrype buys a 10% share of B&M from the market for $67
+[17:41] jrype declines to sell shares
+[18:02] huffman123 buys a 10% share of CPR from the IPO for $90
+[18:02] huffman123 declines to sell shares
+[20:10] gershwyn passes
+[23:31] Sherlocky passes
+-- 2024-11-17 --
+[03:30] cslkmaa buys a 10% share of CPR from the IPO for $90
+[03:30] cslkmaa declines to sell shares
+-- 2024-11-19 --
+[14:27] Bibli passes
+[15:07] jrype passes
+[16:19] huffman123 buys a 10% share of B&O from the market for $90
+[16:20] huffman123 declines to sell shares
+[16:36] gershwyn passes
+[17:10] Sherlocky passes
+[17:17] cslkmaa passes
+-- 2024-11-21 --
+[13:08] Bibli passes
+[13:08] jrype passes
+[13:21] huffman123 buys a 10% share of NYC from the market for $120
+[13:21] huffman123 declines to sell shares
+[13:21] gershwyn passes
+[13:21] Sherlocky passes
+[13:40] cslkmaa passes
+[13:40] Bibli passes
+[13:40] jrype passes
+[16:33] huffman123 passes
+[16:33] ERIE's share price moves up from $112 to $126
+[16:33] C&O's share price moves up from $100 to $112
+[16:33] PRR's share price moves up from $70 to $75
+[16:33] CPR's share price moves up from $70 to $76
+[16:33] NYNH's share price moves up from $69 to $71
+[16:33] gershwyn has priority deal
+[16:33] -- Operating Round 8.1 (of 3) --
+[16:33] Bibli operates ERIE
+-- 2024-11-22 --
+[15:13] ERIE lays tile #66 with rotation 5 on D10 (Hamilton & Toronto)
+[15:13] ERIE passes place a token
+[15:13] ERIE runs a 5 train for $70: E11-D14
+[15:13] ERIE runs a 4 train for $100: E11-D10
+[15:13] ERIE pays out $170 = $17 per share ($102 to Bibli, $51 to cslkmaa, $17 to gershwyn)
+[15:13] ERIE's share price moves right from $126 to $142
+[15:13] ERIE skips buy trains
+[15:13] ERIE skips buy companies
+[15:13] gershwyn operates NYC
+[16:03] NYC lays tile #23 with rotation 4 on I17
+[16:03] NYC skips place a token
+[16:04] NYC runs a 4 train for $160: H18-G19-G17-E19
+[16:04] NYC pays out $160 = $16 per share ($96 to gershwyn, $32 to NYC, $16 to cslkmaa, $16 to huffman123)
+[16:04] NYC's share price moves right from $120 to $130
+[16:06] NYC passes buy trains
+[16:06] NYC skips buy companies
+[16:06] jrype operates C&O
+[16:51] C&O lays tile #57 with rotation 2 on H4 (Columbus)
+[16:51] C&O skips place a token
+[16:51] C&O runs a 5 train for $140: I15-H10-G7-F6-G7
+[16:51] C&O runs a 4 train for $150: I15-H16-H18-G17
+[16:52] C&O pays out $290 = $29 per share ($174 to jrype, $58 to cslkmaa, $29 to gershwyn, $29 to Sherlocky)
+[16:52] C&O's share price moves right from $112 to $126
+[16:52] C&O skips buy trains
+[16:52] C&O skips buy companies
+[16:52] Sherlocky operates B&O
+[17:23] B&O lays tile #63 with rotation 0 on H10 (Pittsburgh)
+[17:23] B&O skips place a token
+[17:23] B&O skips run routes
+[17:23] B&O does not run
+[17:23] B&O's share price moves left from $90 to $82
+[17:23] Sherlocky sells a 10% share of PRR and receives $75
+[17:23] PRR's share price moves down from $75 to $70
+[17:23] Sherlocky sells a 10% share of C&O and receives $126
+[17:23] C&O's share price moves down from $126 to $111
+[17:23] Sherlocky sells 3 shares of NYNH and receives $213
+[17:23] NYNH's share price moves down from $71 to $68
+[17:24] Sherlocky sells a 10% share of B&O and receives $82
+[17:24] B&O's share price moves down from $82 to $75
+[17:24] Sherlocky contributes $507
+[17:24] B&O buys a D train for $1100 from The Depot
+[17:24] -- Phase D (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[17:24] -- Event: 4 trains rust ( NYC x1, C&O x1, ERIE x1, B&M x1) --
+[17:24] B&O skips buy companies
+[17:24] jrype operates CPR
+[18:02] CPR lays tile #40 with rotation 1 on D18
+[18:02] CPR skips place a token
+[18:02] CPR runs a 6 train for $90: A19-B20-E19
+[18:03] CPR withholds $90
+[18:03] CPR's share price moves left from $76 to $70
+[18:03] CPR passes buy trains
+[18:03] CPR skips buy companies
+[18:03] huffman123 operates PRR
+[19:49] PRR lays tile #9 with rotation 2 on G3
+[19:49] PRR skips place a token
+[19:49] PRR runs a 5 train for $220: F2-H4-H10-H16-I15
+[19:49] PRR pays out $220 = $22 per share ($110 to huffman123, $44 to Bibli, $22 to gershwyn, $22 to cslkmaa, $22 to PRR)
+[19:49] PRR's share price moves up from $70 to $75
+[19:49] PRR passes buy trains
+[19:49] PRR skips buy companies
+[19:49] Sherlocky operates NYNH
+[22:24] NYNH lays tile #62 with rotation 0 on G19 (New York & Newark)
+[22:24] NYNH skips place a token
+[22:24] NYNH runs a 6 train for $270: E19-F20-G19-G17-G19-H18
+[22:25] NYNH pays out $270 = $27 per share ($81 to NYNH, $54 to Sherlocky, $27 to gershwyn, $27 to cslkmaa, $27 to Bibli, $27 to jrype, $27 to huffman123)
+[22:25] NYNH's share price moves up from $68 to $69
+[22:25] NYNH passes buy trains
+[22:25] NYNH skips buy companies
+[22:25] huffman123 operates B&M
+-- 2024-11-23 --
+[01:14] B&M lays tile #25 with rotation 4 on D20
+[01:14] B&M skips place a token
+[01:14] B&M skips run routes
+[01:14] B&M does not run
+[01:14] B&M's share price moves left from $67 to $65
+[01:15] huffman123 sells a 10% share of NYC and receives $130
+[01:15] huffman123 sells a 10% share of CPR and receives $70
+[01:15] CPR's share price moves down from $70 to $65
+[01:15] huffman123 sells a 10% share of B&O and receives $75
+[01:15] B&O's share price moves down from $75 to $70
+[01:15] huffman123 sells a 10% share of NYNH and receives $69
+[01:15] NYNH's share price moves down from $69 to $68
+[01:16] huffman123 sells 2 shares of PRR and receives $150
+[01:16] PRR's share price moves down from $75 to $70
+[01:16] huffman123 contributes $637
+[01:16] B&M buys a D train for $1100 from The Depot
+[01:16] B&M skips buy companies
+[01:16] -- Operating Round 8.2 (of 3) --
+[01:16] Bibli operates ERIE
+-- 2024-11-25 --
+[22:04] ERIE lays tile #7 with rotation 5 on C9
+[22:04] ERIE passes place a token
+[22:04] ERIE runs a 5 train for $120: D10-E11-D14
+[22:04] ERIE pays out $120 = $12 per share ($72 to Bibli, $36 to cslkmaa, $12 to gershwyn)
+[22:04] ERIE's share price moves right from $142 to $160
+[22:05] ERIE passes buy trains
+[22:05] ERIE skips buy companies
+[22:05] gershwyn operates NYC
+-- 2024-11-26 --
+[08:27] NYC lays tile #63 with rotation 0 on H16 (Lancaster)
+[08:27] NYC skips place a token
+[08:27] NYC skips run routes
+[08:27] NYC does not run
+[08:27] NYC's share price moves left from $130 to $120
+[08:28] gershwyn sells a 10% share of CPR and receives $65
+[08:28] CPR's share price moves down from $65 to $60
+[08:28] gershwyn sells a 10% share of C&O and receives $111
+[08:28] C&O's share price moves down from $111 to $100
+[08:28] gershwyn sells a 10% share of ERIE and receives $160
+[08:28] ERIE's share price moves down from $160 to $142
+[08:28] gershwyn sells a 10% share of PRR and receives $70
+[08:28] gershwyn sells a 10% share of NYNH and receives $68
+[08:28] gershwyn contributes $1063
+[08:28] NYC buys a D train for $1100 from The Depot
+[08:28] NYC skips buy companies
+[08:28] jrype operates C&O
+[10:50] C&O lays tile #9 with rotation 0 on G11
+[10:50] C&O skips place a token
+[10:50] C&O runs a 5 train for $220: H18-H16-H10-H4-F2
+[10:50] C&O pays out $220 = $22 per share ($132 to jrype, $44 to cslkmaa, $44 to C&O)
+[10:50] C&O's share price moves right from $100 to $110
+[10:51] C&O passes buy trains
+[10:51] C&O skips buy companies
+[10:51] Sherlocky operates B&O
+[12:28] B&O lays tile #8 with rotation 4 on F12
+[12:28] B&O skips place a token
+[12:28] B&O runs a D train for $300: F2-H4-H10-H16-I15-J14-K13
+[12:28] B&O pays out $300 = $30 per share ($150 to B&O, $120 to Sherlocky, $30 to gershwyn)
+[12:28] B&O's share price moves up from $70 to $75
+[12:28] B&O passes buy trains
+[12:28] B&O skips buy companies
+[12:28] huffman123 operates PRR
+[13:20] PRR lays tile #14 with rotation 1 on H4 (Columbus)
+[13:20] PRR skips place a token
+[13:20] PRR runs a 5 train for $240: F2-H4-H10-H16-I15
+[13:20] PRR pays out $240 = $24 per share ($96 to PRR, $72 to huffman123, $48 to Bibli, $24 to cslkmaa)
+[13:20] PRR's share price moves up from $70 to $75
+[13:20] PRR passes buy trains
+[13:20] PRR skips buy companies
+[13:20] Sherlocky operates NYNH
+[13:29] NYNH lays tile #45 with rotation 3 on F18
+[13:29] NYNH skips place a token
+[13:30] NYNH runs a 6 train for $270: E19-F20-G19-G17-G19-H18
+[13:30] NYNH pays out $270 = $27 per share ($135 to NYNH, $54 to Sherlocky, $27 to cslkmaa, $27 to Bibli, $27 to jrype)
+[13:30] NYNH's share price moves up from $68 to $69
+[13:30] NYNH passes buy trains
+[13:30] NYNH skips buy companies
+[13:30] huffman123 operates B&M
+[15:23] B&M lays tile #26 with rotation 0 on C19
+[15:23] B&M skips place a token
+[15:23] B&M runs a D train for $80: E19-E23-F24
+[15:23] B&M pays out $80 = $8 per share ($32 to B&M, $16 to huffman123, $8 to cslkmaa, $8 to jrype)
+[15:23] B&M's share price moves right from $65 to $67
+[15:23] B&M passes buy trains
+[15:23] B&M skips buy companies
+[15:23] jrype operates CPR
+[15:41] CPR lays tile #8 with rotation 1 on F14
+[15:41] CPR passes place a token
+[15:41] CPR runs a 6 train for $190: A19-B20-H10-H16-I19-H18
+[15:41] CPR pays out $190 = $19 per share ($95 to jrype, $38 to cslkmaa, $38 to CPR, $19 to Bibli)
+[15:41] CPR's share price moves right from $60 to $66
+[15:42] CPR passes buy trains
+[15:42] CPR skips buy companies
+[15:42] -- Operating Round 8.3 (of 3) --
+[15:42] Bibli operates ERIE
+-- 2024-11-27 --
+[09:42] ERIE lays tile #9 with rotation 0 on D8
+[09:42] ERIE passes place a token
+[09:42] ERIE runs a 5 train for $120: D10-E11-D14
+[09:42] ERIE pays out $120 = $12 per share ($72 to Bibli, $36 to cslkmaa, $12 to ERIE)
+[09:42] ERIE's share price moves right from $142 to $160
+[09:42] ERIE passes buy trains
+[09:42] ERIE skips buy companies
+[09:42] gershwyn operates NYC
+[11:11] NYC lays tile #8 with rotation 3 on G9
+[11:11] NYC skips place a token
+[11:11] NYC runs a D train for $530: E11-D14-E19-F20-G19-G17-G19-H18-I19-H16-H10-H4-F2
+[11:11] NYC pays out $530 = $53 per share ($318 to gershwyn, $159 to NYC, $53 to cslkmaa)
+[11:11] NYC's share price moves right from $120 to $130
+[11:11] NYC passes buy trains
+[11:11] NYC skips buy companies
+[11:11] jrype operates C&O
+[11:53] C&O lays tile #58 with rotation 4 on F10 (Erie)
+[11:53] C&O skips place a token
+[11:54] C&O runs a 5 train for $230: H18-H16-H10-H4-F2
+[11:54] C&O pays out $230 = $23 per share ($138 to jrype, $46 to cslkmaa, $46 to C&O)
+[11:54] C&O's share price moves right from $110 to $120
+[11:54] C&O passes buy trains
+[11:54] C&O skips buy companies
+[11:54] Sherlocky operates B&O
+[11:56] B&O lays tile #24 with rotation 1 on F14
+[11:56] B&O skips place a token
+[11:57] B&O runs a D train for $310: F2-H4-H10-H16-I15-J14-K13
+[11:57] B&O pays out $310 = $31 per share ($155 to B&O, $124 to Sherlocky, $31 to gershwyn)
+[11:57] B&O's share price moves right from $75 to $80
+[11:57] B&O passes buy trains
+[11:57] B&O skips buy companies
+[11:57] huffman123 operates PRR
+[13:28] PRR lays tile #44 with rotation 2 on C19
+[13:28] PRR places a token on H4 (Columbus) for $100
+[13:28] PRR runs a 5 train for $240: F2-H4-H10-H16-I15
+[13:28] PRR pays out $240 = $24 per share ($96 to PRR, $72 to huffman123, $48 to Bibli, $24 to cslkmaa)
+[13:28] PRR's share price moves right from $75 to $80
+[13:28] PRR passes buy trains
+[13:28] PRR skips buy companies
+[13:28] Sherlocky operates NYNH
+[13:32] NYNH lays tile #43 with rotation 4 on H14
+[13:32] NYNH skips place a token
+[13:32] NYNH runs a 6 train for $280: I15-H10-E19-G17-G19-H18
+[13:32] NYNH pays out $280 = $28 per share ($140 to NYNH, $56 to Sherlocky, $28 to cslkmaa, $28 to Bibli, $28 to jrype)
+[13:32] NYNH's share price moves right from $69 to $70
+[13:32] NYNH passes buy trains
+[13:32] NYNH skips buy companies
+[13:32] huffman123 operates B&M
+[14:41] B&M lays tile #7 with rotation 3 on J8
+[14:41] B&M skips place a token
+[14:41] B&M runs a D train for $180: H18-I19-H16-H10-E23-F24
+[14:41] B&M pays out $180 = $18 per share ($72 to B&M, $36 to huffman123, $18 to cslkmaa, $18 to jrype)
+[14:41] B&M's share price moves right from $67 to $71
+[14:41] B&M passes buy trains
+[14:41] B&M skips buy companies
+[14:41] jrype operates CPR
+[15:14] CPR lays tile #42 with rotation 4 on F14
+[15:14] CPR passes place a token
+[15:15] CPR runs a 6 train for $190: A19-B20-H10-H16-I19-H18
+[15:15] CPR pays out $190 = $19 per share ($95 to jrype, $38 to cslkmaa, $38 to CPR, $19 to Bibli)
+[15:15] CPR's share price moves right from $66 to $71
+[15:15] CPR passes buy trains
+[15:15] CPR skips buy companies
+[15:15] -- Stock Round 9 --
+[15:20] gershwyn buys a 10% share of NYNH from the market for $70
+[15:20] gershwyn declines to sell shares
+[15:24] Sherlocky buys a 10% share of B&O from the market for $80
+[15:24] Sherlocky declines to sell shares
+[16:18] cslkmaa sells a 10% share of CPR and receives $71
+[16:18] CPR's share price moves down from $71 to $67
+[16:18] cslkmaa buys a 10% share of NYC from the market for $130
+-- 2024-11-29 --
+[13:20] Bibli buys a 10% share of NYC from the market for $130
+[13:20] Bibli declines to sell shares
+[15:06] jrype sells a 10% share of B&M and receives $71
+[15:06] B&M's share price moves down from $71 to $69
+[15:07] jrype buys a 10% share of NYC from the market for $130
+[19:04] huffman123 buys a 10% share of B&M from the market for $69
+[19:04] huffman123 declines to sell shares
+[19:06] gershwyn buys a 10% share of NYNH from the market for $70
+[19:06] gershwyn declines to sell shares
+-- 2024-11-30 --
+[09:53] Sherlocky buys a 10% share of NYNH from the market for $70
+[09:53] Sherlocky declines to sell shares
+[09:54] cslkmaa sells a 10% share of CPR and receives $67
+[09:54] CPR's share price moves down from $67 to $65
+[09:54] cslkmaa buys a 10% share of NYNH from the market for $70
+[19:11] Bibli buys a 10% share of B&O from the market for $80
+[19:11] Bibli declines to sell shares
+[19:31] jrype passes
+[19:57] huffman123 buys a 10% share of PRR from the market for $80
+[19:57] huffman123 declines to sell shares
+-- 2024-12-01 --
+[07:12] gershwyn buys a 10% share of PRR from the market for $80
+[07:12] gershwyn declines to sell shares
+[09:32] Sherlocky buys a 10% share of NYNH from the market for $70
+[09:32] Sherlocky declines to sell shares
+[10:39] cslkmaa sells 2 shares of C&O and receives $240
+[10:39] cslkmaa buys a 10% share of ERIE from the market for $160
+-- 2024-12-02 --
+[15:59] Bibli sells a 10% share of CPR and receives $65
+[15:59] CPR's share price moves down from $65 to $63
+[15:59] Bibli buys a 10% share of C&O from the market for $120
+[16:34] jrype passes
+[18:14] huffman123 buys a 10% share of PRR from the market for $80
+[18:14] huffman123 declines to sell shares
+[20:40] gershwyn buys a 10% share of B&O from the market for $80
+[20:40] gershwyn declines to sell shares
+[21:42] Sherlocky buys a 10% share of B&O from the market for $80
+[21:43] Sherlocky declines to sell shares
+-- 2024-12-03 --
+[01:28] cslkmaa buys a 10% share of B&O from the market for $80
+[01:28] cslkmaa declines to sell shares
+[14:34] Bibli sells a 10% share of NYNH and receives $70
+[14:34] Bibli buys a 10% share of C&O from the market for $120
+[22:51] jrype passes
+-- 2024-12-04 --
+[00:08] huffman123 passes
+[06:53] gershwyn buys a 10% share of NYNH from the market for $70
+[06:53] gershwyn declines to sell shares
+[07:09] Sherlocky buys a 10% share of PRR from the market for $80
+[07:09] Sherlocky declines to sell shares
+[07:15] cslkmaa passes
+[08:59] Bibli sells a 10% share of PRR and receives $80
+[08:59] Bibli buys a 10% share of C&O from the market for $120
+[23:40] jrype passes
+-- 2024-12-05 --
+[00:04] huffman123 passes
+[06:04] gershwyn passes
+[07:36] Sherlocky buys a 10% share of B&M from the market for $69
+[07:36] Sherlocky declines to sell shares
+[09:35] cslkmaa passes
+[10:43] Bibli sells a 10% share of PRR and receives $80
+[10:43] Bibli buys a 10% share of C&O from the market for $120
+[11:19] jrype passes
+[13:18] huffman123 passes
+[13:22] gershwyn passes
+[21:12] Sherlocky passes
+-- 2024-12-06 --
+[00:51] cslkmaa passes
+[07:49] Bibli passes
+[07:49] ERIE's share price moves up from $160 to $180
+[07:49] NYC's share price moves up from $130 to $155
+[07:49] C&O's share price moves up from $120 to $140
+[07:49] B&O's share price moves up from $80 to $90
+[07:49] NYNH's share price moves up from $70 to $75
+[07:49] jrype has priority deal
+[07:49] -- Operating Round 9.1 (of 3) --
+[07:49] Bibli operates ERIE
+[07:52] ERIE lays tile #24 with rotation 1 on E13
+[07:53] ERIE passes place a token
+[07:53] ERIE runs a 5 train for $120: D10-E11-D14
+[07:53] ERIE pays out $120 = $12 per share ($72 to Bibli, $48 to cslkmaa)
+[07:53] ERIE's share price moves right from $180 to $200
+[07:53] ERIE passes buy trains
+[07:53] ERIE skips buy companies
+[07:53] gershwyn operates NYC
+[07:55] NYC lays tile #23 with rotation 5 on G3
+[07:55] NYC places a token on H10 (Pittsburgh) for $100
+[07:55] NYC runs a D train for $530: E11-D14-E19-F20-G19-G17-G19-H18-I19-H16-H10-H4-F2
+[07:55] NYC pays out $530 = $53 per share ($318 to gershwyn, $106 to cslkmaa, $53 to jrype, $53 to Bibli)
+[07:55] NYC's share price moves right from $155 to $170
+[07:55] NYC passes buy trains
+[07:55] NYC skips buy companies
+[07:55] jrype operates C&O
+[11:55] C&O lays tile #8 with rotation 3 on I13
+[11:55] C&O skips place a token
+[11:55] C&O runs a 5 train for $190: I15-J14-H16-H18-G17
+[11:55] C&O pays out $190 = $19 per share ($114 to jrype, $76 to Bibli)
+[11:55] C&O's share price moves right from $140 to $155
+[11:55] C&O passes buy trains
+[11:55] C&O skips buy companies
+[11:55] Sherlocky operates B&O
+[14:38] B&O lays tile #27 with rotation 0 on E15
+[14:38] B&O skips place a token
+[14:39] B&O runs a D train for $330: F2-H4-H10-I15-J14-H16-I19-H18
+[14:39] B&O pays out $330 = $33 per share ($198 to Sherlocky, $66 to gershwyn, $33 to cslkmaa, $33 to Bibli)
+[14:39] B&O's share price moves right from $90 to $100
+[14:39] B&O passes buy trains
+[14:39] B&O skips buy companies
+[14:39] huffman123 operates PRR
+[15:33] PRR lays tile #43 with rotation 3 on H8
+[15:34] PRR passes place a token
+[15:34] PRR runs a 5 train for $190: I15-J14-H16-I19-H18
+[15:34] PRR pays out $190 = $19 per share ($95 to huffman123, $38 to PRR, $19 to gershwyn, $19 to Sherlocky, $19 to cslkmaa)
+[15:34] PRR's share price moves up from $80 to $90
+[15:34] PRR passes buy trains
+[15:34] PRR skips buy companies
+[15:34] Sherlocky operates NYNH
+[16:31] NYNH lays tile #41 with rotation 0 on E15
+[16:31] NYNH skips place a token
+[16:31] NYNH runs a 6 train for $270: G19-G17-G19-F20-E19-E11
+[16:31] NYNH pays out $270 = $27 per share ($108 to Sherlocky, $81 to gershwyn, $54 to cslkmaa, $27 to jrype)
+[16:31] NYNH's share price moves right from $75 to $80
+[16:31] NYNH passes buy trains
+[16:31] NYNH skips buy companies
+[16:31] huffman123 operates B&M
+[16:51] B&M lays tile #47 with rotation 0 on D16
+[16:51] B&M skips place a token
+[16:51] B&M runs a D train for $90: E11-E23-F24
+[16:51] B&M pays out $90 = $9 per share ($27 to huffman123, $27 to B&M, $9 to Sherlocky, $9 to cslkmaa)
+[16:51] B&M's share price moves right from $69 to $70
+[16:52] B&M passes buy trains
+[16:52] B&M skips buy companies
+[16:52] jrype operates CPR
+-- 2024-12-07 --
+[00:25] CPR spends $120 and lays tile #57 with rotation 1 on F16 (Scranton)
+[00:25] CPR places a token on G19 (New York & Newark) for $40
+[00:25] CPR runs a 6 train for $270: H18-G19-G17-G19-F20-E19
+[00:25] CPR pays out $270 = $27 per share ($135 to jrype, $135 to CPR)
+[00:25] CPR's share price moves right from $63 to $67
+[00:25] CPR passes buy trains
+[00:25] CPR skips buy companies
+[00:25] -- Operating Round 9.2 (of 3) --
+[00:25] Bibli operates ERIE
+[09:24] ERIE lays tile #23 with rotation 3 on D8
+[09:24] ERIE places a token on F16 (Scranton) for $40
+[09:25] ERIE runs a 5 train for $200: G19-F16-E11-D10
+[09:25] ERIE pays out $200 = $20 per share ($120 to Bibli, $80 to cslkmaa)
+[09:25] ERIE's share price moves right from $200 to $225
+[09:25] ERIE passes buy trains
+[09:25] ERIE skips buy companies
+[09:25] gershwyn operates NYC
+[11:15] NYC lays tile #15 with rotation 1 on F16 (Scranton)
+[11:15] NYC skips place a token
+[11:15] NYC runs a D train for $480: F2-H4-H10-H16-I19-H18-G19-G17-E19-F16-G19
+[11:16] NYC pays out $480 = $48 per share ($288 to gershwyn, $96 to cslkmaa, $48 to jrype, $48 to Bibli)
+[11:16] NYC's share price moves right from $170 to $185
+[11:16] NYC passes buy trains
+[11:16] NYC skips buy companies
+[11:16] jrype operates C&O
+[11:41] C&O lays tile #41 with rotation 1 on I17
+[11:41] C&O skips place a token
+[11:42] C&O runs a 5 train for $190: I15-J14-H16-H18-G17
+[11:42] C&O pays out $190 = $19 per share ($114 to jrype, $76 to Bibli)
+[11:42] C&O's share price moves right from $155 to $170
+[11:42] C&O passes buy trains
+[11:42] C&O skips buy companies
+[11:42] Sherlocky operates B&O
+[16:19] B&O spends $80 and lays tile #57 with rotation 0 on F4 (Toledo)
+[16:19] B&O skips place a token
+[16:19] B&O runs a D train for $340: G19-F16-H10-I15-J14-H16-I19-H18
+[16:19] B&O pays out $340 = $34 per share ($204 to Sherlocky, $68 to gershwyn, $34 to cslkmaa, $34 to Bibli)
+[16:19] B&O's share price moves up from $100 to $110
+[16:19] B&O passes buy trains
+[16:19] B&O skips buy companies
+[16:19] huffman123 operates PRR
+[18:27] PRR lays tile #16 with rotation 3 on G9
+[18:27] PRR passes place a token
+[18:27] PRR runs a 5 train for $190: I15-J14-H16-I19-H18
+[18:28] PRR pays out $190 = $19 per share ($95 to huffman123, $38 to PRR, $19 to gershwyn, $19 to Sherlocky, $19 to cslkmaa)
+[18:28] PRR's share price moves right from $90 to $100
+[18:28] PRR passes buy trains
+[18:28] PRR skips buy companies
+[18:28] Sherlocky operates NYNH
+[23:38] NYNH lays tile #23 with rotation 3 on G11
+[23:38] NYNH skips place a token
+[23:38] NYNH runs a 6 train for $290: G19-F16-E19-G17-G19-H18
+[23:38] NYNH pays out $290 = $29 per share ($116 to Sherlocky, $87 to gershwyn, $58 to cslkmaa, $29 to jrype)
+[23:38] NYNH's share price moves up from $80 to $90
+[23:38] NYNH passes buy trains
+[23:38] NYNH skips buy companies
+[23:38] huffman123 operates B&M
+-- 2024-12-08 --
+[00:22] B&M lays tile #53 with rotation 1 on E23 (Boston)
+[00:23] B&M places a token on H4 (Columbus) for $40
+[00:23] B&M runs a D train for $210: F2-H4-F16-G19
+[00:23] B&M pays out $210 = $21 per share ($63 to huffman123, $63 to B&M, $21 to Sherlocky, $21 to cslkmaa)
+[00:23] B&M's share price moves up from $70 to $75
+[00:23] B&M passes buy trains
+[00:23] B&M skips buy companies
+[00:23] jrype operates CPR
+[00:36] CPR lays tile #70 with rotation 3 on G9
+[00:36] CPR places a token on F16 (Scranton) for $100
+[00:36] CPR runs a 6 train for $270: H18-G19-G17-G19-F20-E19
+[00:36] CPR pays out $270 = $27 per share ($135 to jrype, $135 to CPR)
+[00:36] CPR's share price moves right from $67 to $69
+[00:36] CPR passes buy trains
+[00:36] CPR skips buy companies
+[00:36] -- Operating Round 9.3 (of 3) --
+[00:36] Bibli operates ERIE
+[08:51] ERIE spends $80 and lays tile #8 with rotation 4 on D6
+[08:51] ERIE skips place a token
+[08:51] ERIE runs a 5 train for $210: G19-F16-E11-D10
+[08:51] ERIE pays out $210 = $21 per share ($126 to Bibli, $84 to cslkmaa)
+[08:51] ERIE's share price moves right from $225 to $250
+[08:51] ERIE passes buy trains
+[08:51] ERIE skips buy companies
+[08:51] gershwyn operates NYC
+[09:54] NYC passes lay/upgrade track
+[09:54] NYC skips place a token
+[09:55] NYC runs a D train for $400: G19-F20-E19-G17-G19-H18-I19-H16-H10-G7-F6
+[09:55] NYC pays out $400 = $40 per share ($240 to gershwyn, $80 to cslkmaa, $40 to jrype, $40 to Bibli)
+[09:55] NYC's share price moves right from $185 to $200
+[09:55] NYC passes buy trains
+[09:55] NYC skips buy companies
+[09:55] jrype operates C&O
+[10:00] C&O lays tile #18 with rotation 2 on G5
+[10:00] C&O skips place a token
+[10:00] C&O runs a 5 train for $190: I15-J14-H16-H18-G17
+[10:00] C&O pays out $190 = $19 per share ($114 to jrype, $76 to Bibli)
+[10:00] C&O's share price moves right from $170 to $185
+[10:01] C&O passes buy trains
+[10:01] C&O skips buy companies
+[10:01] Sherlocky operates B&O
+[14:59] B&O lays tile #24 with rotation 0 on H6
+[14:59] B&O skips place a token
+[15:00] B&O runs a D train for $280: H18-I19-H16-J14-I15-H10-E11
+[15:00] B&O pays out $280 = $28 per share ($168 to Sherlocky, $56 to gershwyn, $28 to cslkmaa, $28 to Bibli)
+[15:00] B&O's share price moves right from $110 to $120
+[15:00] B&O passes buy trains
+[15:00] B&O skips buy companies
+[15:00] huffman123 operates PRR
+[18:26] PRR lays tile #16 with rotation 4 on F12
+[18:26] PRR passes place a token
+[18:27] PRR runs a 5 train for $190: I15-J14-H16-I19-H18
+[18:27] PRR pays out $190 = $19 per share ($95 to huffman123, $38 to PRR, $19 to gershwyn, $19 to Sherlocky, $19 to cslkmaa)
+[18:27] PRR's share price moves up from $100 to $110
+[18:27] PRR passes buy trains
+[18:27] PRR skips buy companies
+[18:27] Sherlocky operates NYNH
+[23:02] NYNH lays tile #14 with rotation 2 on F4 (Toledo)
+[23:02] NYNH skips place a token
+[23:03] NYNH runs a 6 train for $270: G19-G17-G19-F20-E19-E23
+[23:03] NYNH pays out $270 = $27 per share ($108 to Sherlocky, $81 to gershwyn, $54 to cslkmaa, $27 to jrype)
+[23:03] NYNH's share price moves right from $90 to $100
+[23:03] NYNH passes buy trains
+[23:03] NYNH skips buy companies
+[23:03] huffman123 operates B&M
+-- 2024-12-09 --
+[00:28] B&M spends $120 and lays tile #8 with rotation 2 on G13
+[00:28] B&M skips place a token
+[00:28] B&M runs a D train for $160: F2-H4-E23-F24
+[00:28] B&M pays out $160 = $16 per share ($48 to huffman123, $48 to B&M, $16 to Sherlocky, $16 to cslkmaa)
+[00:28] B&M's share price moves right from $75 to $80
+[00:28] B&M passes buy trains
+[00:28] B&M skips buy companies
+[00:28] jrype operates CPR
+[01:22] CPR lays tile #42 with rotation 3 on H6
+[01:23] CPR passes place a token
+[01:23] CPR runs a 6 train for $270: H18-G19-G17-G19-F20-E19
+[01:23] CPR pays out $270 = $27 per share ($135 to jrype, $135 to CPR)
+[01:23] CPR's share price moves right from $69 to $70
+[01:23] CPR passes buy trains
+[01:23] CPR skips buy companies
+[01:23] -- Stock Round 10 --
+[01:23] jrype passes
+[02:01] huffman123 buys a 10% share of PRR from the market for $110
+[02:01] huffman123 declines to sell shares
+[06:37] gershwyn passes
+[08:56] Sherlocky buys a 10% share of CPR from the market for $70
+[08:56] Sherlocky declines to sell shares
+[10:32] cslkmaa sells 4 shares of ERIE and receives $1000
+[10:32] ERIE's share price moves down from $250 to $185
+[10:33] cslkmaa buys a 10% share of CPR from the market for $70
+[12:54] Bibli sells a 10% share of ERIE and receives $185
+[12:54] Bibli buys a 10% share of PRR from the market for $110
+[14:39] jrype passes
+[20:43] huffman123 buys a 10% share of ERIE from the market for $185
+[20:43] huffman123 declines to sell shares
+[21:06] gershwyn sells a 10% share of PRR and receives $110
+[21:06] PRR's share price moves down from $110 to $100
+[21:06] gershwyn buys a 10% share of CPR from the market for $70
+[23:27] Sherlocky passes
+-- 2024-12-11 --
+[17:31] cslkmaa buys a 10% share of CPR from the market for $70
+[17:31] cslkmaa declines to sell shares
+[21:13] Bibli passes
+[23:56] jrype sells a 10% share of NYNH and receives $100
+[23:56] jrype buys a 10% share of CPR from the market for $70
+-- 2024-12-12 --
+[02:44] huffman123 buys a 10% share of NYNH from the market for $100
+[02:44] huffman123 declines to sell shares
+[08:02] gershwyn passes
+[09:16] Sherlocky passes
+[12:49] cslkmaa buys a 10% share of PRR from the market for $100
+[12:49] cslkmaa declines to sell shares
+[18:28] Bibli passes
+-- 2024-12-13 --
+[00:31] jrype passes
+[03:46] huffman123 passes
+[09:04] gershwyn passes
+[09:04] Sherlocky passes
+[20:44] cslkmaa buys a 10% share of B&M from the market for $80
+[20:44] cslkmaa declines to sell shares
+-- 2024-12-14 --
+[06:56] Bibli passes
+[06:56] jrype passes
+[09:00] huffman123 passes
+[17:50] gershwyn passes
+[17:50] Sherlocky passes
+[17:50] cslkmaa passes
+[17:50] NYC's share price moves up from $200 to $240
+[17:50] C&O's share price moves up from $185 to $220
+[17:50] B&O's share price moves up from $120 to $140
+[17:50] NYNH's share price moves up from $100 to $110
+[17:50] PRR's share price moves up from $100 to $110
+[17:50] CPR's share price moves up from $70 to $75
+[17:50] Bibli has priority deal
+[17:50] -- Operating Round 10.1 (of 3) --
+[17:50] gershwyn operates NYC
+[17:50] NYC lays tile #7 with rotation 5 on E3
+[17:50] NYC skips place a token
+[17:50] NYC runs a D train for $460: G19-F20-E19-G17-G19-H18-I19-H16-H10-F4-F2
+[17:51] NYC pays out $460 = $46 per share ($276 to gershwyn, $92 to cslkmaa, $46 to Bibli, $46 to jrype)
+[17:51] NYC's share price moves right from $240 to $260
+[17:51] NYC passes buy trains
+[17:51] NYC skips buy companies
+[17:51] jrype operates C&O
+-- 2024-12-15 --
+[02:26] C&O spends $80 and lays tile #59 with rotation 0 on E5 (Detroit & Windsor)
+[02:26] C&O skips place a token
+[02:26] C&O runs a 5 train for $190: I15-J14-H16-H18-G17
+[02:26] C&O pays out $190 = $19 per share ($114 to jrype, $76 to Bibli)
+[02:26] C&O's share price moves right from $220 to $240
+[02:26] C&O passes buy trains
+[02:26] C&O skips buy companies
+[02:26] Bibli operates ERIE
+[09:16] ERIE lays tile #3 with rotation 2 on E7 (London)
+[09:16] ERIE skips place a token
+[09:17] ERIE runs a 5 train for $220: G19-F16-E11-D10-E7
+[09:17] ERIE pays out $220 = $22 per share ($110 to Bibli, $88 to ERIE, $22 to huffman123)
+[09:17] ERIE's share price moves right from $185 to $200
+[09:17] ERIE passes buy trains
+[09:17] ERIE skips buy companies
+[09:17] Sherlocky operates B&O
+[16:43] B&O lays tile #27 with rotation 5 on E3
+[16:43] B&O skips place a token
+[16:44] B&O runs a D train for $330: F2-F4-H10-I15-J14-H16-I19-H18
+[16:44] B&O pays out $330 = $33 per share ($198 to Sherlocky, $66 to gershwyn, $33 to Bibli, $33 to cslkmaa)
+[16:44] B&O's share price moves right from $140 to $155
+[16:44] B&O passes buy trains
+[16:44] B&O skips buy companies
+[16:44] Sherlocky operates NYNH
+[16:44] NYNH lays tile #4 with rotation 1 on D4 (Flint)
+[16:44] NYNH skips place a token
+[16:44] NYNH runs a 6 train for $280: F2-F4-E19-G17-G19-H18
+[16:44] NYNH pays out $280 = $28 per share ($112 to Sherlocky, $84 to gershwyn, $56 to cslkmaa, $28 to huffman123)
+[16:44] NYNH's share price moves right from $110 to $120
+[16:44] NYNH passes buy trains
+[16:44] NYNH skips buy companies
+[16:44] huffman123 operates PRR
+[21:31] PRR lays tile #24 with rotation 4 on D6
+[21:31] PRR places a token on D10 (Hamilton & Toronto) for $100
+[21:32] PRR runs a 5 train for $190: I15-J14-H16-I19-H18
+[21:32] PRR pays out $190 = $19 per share ($114 to huffman123, $38 to cslkmaa, $19 to Bibli, $19 to Sherlocky)
+[21:32] PRR's share price moves right from $110 to $120
+[21:32] PRR passes buy trains
+[21:32] PRR skips buy companies
+[21:32] huffman123 operates B&M
+[21:32] B&M lays tile #64 with rotation 4 on E5 (Detroit & Windsor)
+[21:32] B&M skips place a token
+[21:32] B&M runs a D train for $200: D10-D4-D2-F4-H4-E23-F24
+[21:32] B&M pays out $200 = $20 per share ($60 to huffman123, $40 to cslkmaa, $40 to B&M, $20 to Sherlocky)
+[21:32] B&M's share price moves up from $80 to $90
+[21:32] B&M passes buy trains
+[21:32] B&M skips buy companies
+[21:32] jrype operates CPR
+[21:54] CPR lays tile #46 with rotation 1 on E13
+[21:54] CPR places a token on F4 (Toledo) for $100
+[21:54] CPR runs a 6 train for $270: H18-G19-G17-G19-F20-E19
+[21:54] CPR pays out $270 = $27 per share ($162 to jrype, $54 to cslkmaa, $27 to gershwyn, $27 to Sherlocky)
+[21:54] CPR's share price moves right from $75 to $80
+[21:54] CPR passes buy trains
+[21:54] CPR skips buy companies
+[21:54] -- Operating Round 10.2 (of 3) --
+[21:54] gershwyn operates NYC
+[22:55] NYC lays tile #45 with rotation 3 on D8
+[22:55] NYC skips place a token
+[22:56] NYC runs a D train for $470: G19-F20-E19-G17-G19-H18-I19-H16-H10-F4-D2-D4-D10
+[22:56] NYC pays out $470 = $47 per share ($282 to gershwyn, $94 to cslkmaa, $47 to Bibli, $47 to jrype)
+[22:56] NYC's share price moves right from $260 to $280
+[22:56] NYC passes buy trains
+[22:56] NYC skips buy companies
+[22:56] jrype operates C&O
+[23:52] C&O lays tile #46 with rotation 0 on I5
+[23:52] C&O skips place a token
+[23:53] C&O runs a 5 train for $190: I15-J14-H16-H18-G17
+[23:53] -- The bank has broken --
+[23:53] C&O pays out $190 = $19 per share ($114 to jrype, $76 to Bibli)
+[23:53] C&O's share price moves right from $240 to $260
+[23:53] C&O passes buy trains
+[23:53] C&O skips buy companies
+[23:53] Bibli operates ERIE
+-- 2024-12-16 --
+[07:58] ERIE passes lay/upgrade track
+[07:59] ERIE passes place a token
+[07:59] ERIE runs a 5 train for $210: G19-F16-E11-D10
+[07:59] ERIE pays out $210 = $21 per share ($105 to Bibli, $84 to ERIE, $21 to huffman123)
+[07:59] ERIE's share price moves up from $200 to $240
+[07:59] ERIE passes buy trains
+[07:59] ERIE skips buy companies
+[07:59] Sherlocky operates B&O
+[10:05] B&O lays tile #26 with rotation 0 on C9
+[10:05] B&O skips place a token
+[10:05] B&O runs a D train for $340: H18-I19-H16-J14-I15-H10-F4-D2-D4-D10
+[10:05] B&O pays out $340 = $34 per share ($204 to Sherlocky, $68 to gershwyn, $34 to Bibli, $34 to cslkmaa)
+[10:05] B&O's share price moves right from $155 to $170
+[10:05] B&O passes buy trains
+[10:05] B&O skips buy companies
+[10:05] Sherlocky operates NYNH
+[10:05] NYNH lays tile #57 with rotation 0 on B10 (Barrie)
+[10:05] NYNH skips place a token
+[10:05] NYNH runs a 6 train for $280: F2-F4-E19-G17-G19-H18
+[10:05] NYNH pays out $280 = $28 per share ($112 to Sherlocky, $84 to gershwyn, $56 to cslkmaa, $28 to huffman123)
+[10:05] NYNH's share price moves right from $120 to $130
+[10:05] NYNH passes buy trains
+[10:05] NYNH skips buy companies
+[10:05] huffman123 operates PRR
+[11:01] PRR lays tile #15 with rotation 3 on B10 (Barrie)
+[11:01] PRR skips place a token
+[11:01] PRR runs a 5 train for $190: I15-J14-H16-I19-H18
+[11:01] PRR pays out $190 = $19 per share ($114 to huffman123, $38 to cslkmaa, $19 to Bibli, $19 to Sherlocky)
+[11:01] PRR's share price moves right from $120 to $130
+[11:01] PRR passes buy trains
+[11:01] PRR skips buy companies
+[11:01] huffman123 operates B&M
+[11:01] B&M lays tile #8 with rotation 2 on C11
+[11:01] B&M skips place a token
+[11:02] B&M runs a D train for $230: A11-B10-D4-D2-F4-H4-E23-F24
+[11:02] B&M pays out $230 = $23 per share ($69 to huffman123, $46 to cslkmaa, $46 to B&M, $23 to Sherlocky)
+[11:02] B&M's share price moves right from $90 to $100
+[11:02] B&M passes buy trains
+[11:02] B&M skips buy companies
+[11:02] jrype operates CPR
+[11:15] CPR lays tile #23 with rotation 3 on I7
+[11:15] CPR skips place a token
+[11:15] CPR runs a 6 train for $270: H18-G19-G17-G19-F20-E19
+[11:15] CPR pays out $270 = $27 per share ($162 to jrype, $54 to cslkmaa, $27 to gershwyn, $27 to Sherlocky)
+[11:15] CPR's share price moves up from $80 to $90
+[11:15] CPR passes buy trains
+[11:15] CPR skips buy companies
+[11:15] -- Operating Round 10.3 (of 3) --
+[11:15] gershwyn operates NYC
+[11:16] NYC lays tile #9 with rotation 1 on C13
+[11:16] NYC skips place a token
+[11:16] NYC runs a D train for $500: G19-F20-E19-G17-G19-H18-I19-H16-H10-F4-D2-D4-B10-A11
+[11:16] NYC pays out $500 = $50 per share ($300 to gershwyn, $100 to cslkmaa, $50 to Bibli, $50 to jrype)
+[11:16] NYC's share price moves right from $280 to $300
+[11:17] NYC passes buy trains
+[11:17] NYC skips buy companies
+[11:17] jrype operates C&O
+[11:45] C&O lays tile #24 with rotation 3 on I13
+[11:45] C&O skips place a token
+[11:45] C&O runs a 5 train for $190: I15-J14-H16-H18-G17
+[11:45] C&O pays out $190 = $19 per share ($114 to jrype, $76 to Bibli)
+[11:45] C&O's share price moves right from $260 to $280
+[11:46] C&O passes buy trains
+[11:46] C&O skips buy companies
+[11:46] Bibli operates ERIE
+[15:00] ERIE passes lay/upgrade track
+[15:00] ERIE passes place a token
+[15:00] ERIE runs a 5 train for $210: G19-F16-E11-D10
+[15:00] ERIE pays out $210 = $21 per share ($105 to Bibli, $84 to ERIE, $21 to huffman123)
+[15:00] ERIE's share price moves right from $240 to $260
+[15:00] ERIE passes buy trains
+[15:00] ERIE skips buy companies
+[15:00] Sherlocky operates B&O
+[15:11] B&O spends $120 and lays tile #9 with rotation 2 on I11
+[15:11] B&O skips place a token
+[15:12] B&O runs a D train for $370: A11-B10-D4-D2-F4-H10-I15-J14-H16-I19-H18
+[15:12] B&O pays out $370 = $37 per share ($222 to Sherlocky, $74 to gershwyn, $37 to Bibli, $37 to cslkmaa)
+[15:12] B&O's share price moves right from $170 to $185
+[15:12] B&O passes buy trains
+[15:12] B&O skips buy companies
+[15:12] Sherlocky operates NYNH
+[15:12] NYNH passes lay/upgrade track
+[15:12] NYNH skips place a token
+[15:12] NYNH runs a 6 train for $280: F2-F4-E19-G17-G19-H18
+[15:12] NYNH pays out $280 = $28 per share ($112 to Sherlocky, $84 to gershwyn, $56 to cslkmaa, $28 to huffman123)
+[15:12] NYNH's share price moves up from $130 to $155
+[15:12] NYNH passes buy trains
+[15:12] NYNH skips buy companies
+[15:12] huffman123 operates PRR
+[17:02] PRR lays tile #57 with rotation 0 on B16 (Ottawa)
+[17:02] PRR skips place a token
+[17:02] PRR runs a 5 train for $190: I15-J14-H16-I19-H18
+[17:02] PRR pays out $190 = $19 per share ($114 to huffman123, $38 to cslkmaa, $19 to Bibli, $19 to Sherlocky)
+[17:02] PRR's share price moves up from $130 to $155
+[17:02] PRR passes buy trains
+[17:02] PRR skips buy companies
+[17:02] huffman123 operates B&M
+[17:02] B&M spends $80 and lays tile #9 with rotation 2 on B18
+[17:02] B&M skips place a token
+[17:02] B&M runs a D train for $260: A19-B20-B16-C15-B10-D4-D2-F4-H4-E23-F24
+[17:02] B&M pays out $260 = $26 per share ($78 to huffman123, $52 to cslkmaa, $52 to B&M, $26 to Sherlocky)
+[17:02] B&M's share price moves up from $100 to $110
+[17:03] B&M passes buy trains
+[17:03] B&M skips buy companies
+[17:03] jrype operates CPR
+[18:27] CPR lays tile #19 with rotation 0 on C11
+[18:27] CPR skips place a token
+[18:28] CPR runs a 6 train for $270: H18-G19-G17-G19-F20-E19
+[18:28] CPR pays out $270 = $27 per share ($162 to jrype, $54 to cslkmaa, $27 to gershwyn, $27 to Sherlocky)
+[18:28] CPR's share price moves right from $90 to $100
+[18:28] CPR passes buy trains
+[18:28] CPR skips buy companies
+[18:28] -- Game over: gershwyn ($5541), cslkmaa ($5359), jrype ($5252), Bibli ($5251), Sherlocky ($4230), huffman123 ($2405) --

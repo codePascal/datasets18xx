@@ -1,0 +1,239 @@
+{
+  "game": "1830",
+  "id": "179263",
+  "num_players": 4,
+  "mapping": {
+    "JGould": "player1",
+    "Larryp1960": "player2",
+    "sferreira": "player3",
+    "huffman123": "player4"
+  },
+  "finished": "PlayerGoesBankrupt",
+  "result": {
+    "player1": 1545,
+    "player2": 1312,
+    "player4": 823,
+    "player3": 272
+  },
+  "winner": "player1",
+  "final_state": {
+    "players": {
+      "player1": {
+        "name": "player1",
+        "cash": 298.0,
+        "privates": {},
+        "value": 1545.0,
+        "shares": {
+          "B&M": 6,
+          "B&O": 0,
+          "C&O": 5,
+          "CPR": 0,
+          "ERIE": 0,
+          "NYC": 0,
+          "NYNH": 5,
+          "PRR": 1
+        },
+        "priority_deal": false,
+        "is_bankrupt": false
+      },
+      "player2": {
+        "name": "player2",
+        "cash": 160.0,
+        "privates": {},
+        "value": 1312.0,
+        "shares": {
+          "B&M": 0,
+          "B&O": 0,
+          "C&O": 0,
+          "CPR": 0,
+          "ERIE": 6,
+          "NYC": 0,
+          "NYNH": 0,
+          "PRR": 6
+        },
+        "priority_deal": false,
+        "is_bankrupt": false
+      },
+      "player3": {
+        "name": "player3",
+        "cash": 0,
+        "privates": {},
+        "value": 272.0,
+        "shares": {
+          "B&M": 0,
+          "B&O": 0,
+          "C&O": 0,
+          "CPR": 2,
+          "ERIE": 0,
+          "NYC": 2,
+          "NYNH": 0,
+          "PRR": 0
+        },
+        "priority_deal": false,
+        "is_bankrupt": true
+      },
+      "player4": {
+        "name": "player4",
+        "cash": 35.0,
+        "privates": {},
+        "value": 823.0,
+        "shares": {
+          "B&M": 1,
+          "B&O": 3,
+          "C&O": 0,
+          "CPR": 0,
+          "ERIE": 0,
+          "NYC": 0,
+          "NYNH": 1,
+          "PRR": 3
+        },
+        "priority_deal": true,
+        "is_bankrupt": false
+      }
+    },
+    "companies": {
+      "B&M": {
+        "name": "B&M",
+        "cash": 177.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "D": 0
+        },
+        "ipo": 0,
+        "market": 3,
+        "president": "player1",
+        "share_price": 67.0
+      },
+      "B&O": {
+        "name": "B&O",
+        "cash": 0.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "D": 1
+        },
+        "ipo": 2,
+        "market": 5,
+        "president": "player4",
+        "share_price": 90.0
+      },
+      "C&O": {
+        "name": "C&O",
+        "cash": 0.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 1,
+          "D": 1
+        },
+        "ipo": 0,
+        "market": 5,
+        "president": "player1",
+        "share_price": 68.0
+      },
+      "CPR": {
+        "name": "CPR",
+        "cash": 0.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "D": 1
+        },
+        "ipo": 4,
+        "market": 4,
+        "president": "player3",
+        "share_price": 67.0
+      },
+      "ERIE": {
+        "name": "ERIE",
+        "cash": 90.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 2,
+          "6": 0,
+          "D": 0
+        },
+        "ipo": 0,
+        "market": 4,
+        "president": "player2",
+        "share_price": 67.0
+      },
+      "NYC": {
+        "name": "NYC",
+        "cash": 1.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "D": 0
+        },
+        "ipo": 3,
+        "market": 5,
+        "president": "player3",
+        "share_price": 69.0
+      },
+      "NYNH": {
+        "name": "NYNH",
+        "cash": 1.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0,
+          "D": 0
+        },
+        "ipo": 2,
+        "market": 2,
+        "president": "player1",
+        "share_price": 76.0
+      },
+      "PRR": {
+        "name": "PRR",
+        "cash": 0.0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 1,
+          "D": 0
+        },
+        "ipo": 0,
+        "market": 0,
+        "president": "player2",
+        "share_price": 125.0
+      }
+    }
+  },
+  "verification": {
+    "success": true,
+    "diffs": {}
+  },
+  "unprocessed_lines": [],
+  "parse_result": "SUCCESS"
+}

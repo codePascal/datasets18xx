@@ -1,0 +1,237 @@
+{
+  "game": "1830",
+  "id": "179455",
+  "num_players": 3,
+  "mapping": {
+    "Skollvaldr": "player1",
+    "Alberic": "player2",
+    "DAK (UTC+8)": "player3"
+  },
+  "finished": "GameEndedManually",
+  "result": {
+    "beardurham": 600,
+    "player3": 600,
+    "player2": 600,
+    "player1": 600
+  },
+  "winner": "beardurham",
+  "final_state": {
+    "players": {
+      "player1": {
+        "name": "player1",
+        "cash": 800,
+        "privates": {},
+        "value": 800,
+        "shares": {
+          "B&M": 0,
+          "B&O": 0,
+          "C&O": 0,
+          "CPR": 0,
+          "ERIE": 0,
+          "NYC": 0,
+          "NYNH": 0,
+          "PRR": 0
+        },
+        "priority_deal": false,
+        "is_bankrupt": false
+      },
+      "player2": {
+        "name": "player2",
+        "cash": 800,
+        "privates": {},
+        "value": 800,
+        "shares": {
+          "B&M": 0,
+          "B&O": 0,
+          "C&O": 0,
+          "CPR": 0,
+          "ERIE": 0,
+          "NYC": 0,
+          "NYNH": 0,
+          "PRR": 0
+        },
+        "priority_deal": false,
+        "is_bankrupt": false
+      },
+      "player3": {
+        "name": "player3",
+        "cash": 800,
+        "privates": {},
+        "value": 800,
+        "shares": {
+          "B&M": 0,
+          "B&O": 0,
+          "C&O": 0,
+          "CPR": 0,
+          "ERIE": 0,
+          "NYC": 0,
+          "NYNH": 0,
+          "PRR": 0
+        },
+        "priority_deal": false,
+        "is_bankrupt": false
+      }
+    },
+    "companies": {
+      "B&M": {
+        "name": "B&M",
+        "cash": 0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "D": 0
+        },
+        "ipo": 10,
+        "market": 0,
+        "president": null,
+        "share_price": 0
+      },
+      "B&O": {
+        "name": "B&O",
+        "cash": 0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "D": 0
+        },
+        "ipo": 10,
+        "market": 0,
+        "president": null,
+        "share_price": 0
+      },
+      "C&O": {
+        "name": "C&O",
+        "cash": 0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "D": 0
+        },
+        "ipo": 10,
+        "market": 0,
+        "president": null,
+        "share_price": 0
+      },
+      "CPR": {
+        "name": "CPR",
+        "cash": 0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "D": 0
+        },
+        "ipo": 10,
+        "market": 0,
+        "president": null,
+        "share_price": 0
+      },
+      "ERIE": {
+        "name": "ERIE",
+        "cash": 0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "D": 0
+        },
+        "ipo": 10,
+        "market": 0,
+        "president": null,
+        "share_price": 0
+      },
+      "NYC": {
+        "name": "NYC",
+        "cash": 0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "D": 0
+        },
+        "ipo": 10,
+        "market": 0,
+        "president": null,
+        "share_price": 0
+      },
+      "NYNH": {
+        "name": "NYNH",
+        "cash": 0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "D": 0
+        },
+        "ipo": 10,
+        "market": 0,
+        "president": null,
+        "share_price": 0
+      },
+      "PRR": {
+        "name": "PRR",
+        "cash": 0,
+        "privates": {},
+        "trains": {
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "D": 0
+        },
+        "ipo": 10,
+        "market": 0,
+        "president": null,
+        "share_price": 0
+      }
+    }
+  },
+  "verification": {
+    "success": false,
+    "diffs": {
+      "beardurham": [
+        "<missing>",
+        600
+      ],
+      "player1": [
+        800,
+        600
+      ],
+      "player2": [
+        800,
+        600
+      ],
+      "player3": [
+        800,
+        600
+      ]
+    }
+  },
+  "unprocessed_lines": [],
+  "parse_result": "SUCCESS"
+}

@@ -1,0 +1,1543 @@
+-- 2024-09-21 --
+[12:12] -- Phase 2 (Operating Rounds: 1 | Train Limit: 4 | Available Tiles: Yellow) --
+[12:12] leesin bids $165 for Camden & Amboy
+[12:12] AntonioDG bids $170 for Camden & Amboy
+[12:13] Eepi bids $75 for Delaware & Hudson
+[12:17] Hahn bids $175 for Camden & Amboy
+[12:17] leesin bids $115 for Mohawk & Hudson
+[12:21] AntonioDG bids $120 for Mohawk & Hudson
+[12:21] Eepi bids $45 for Champlain & St.Lawrence
+[12:21] Hahn bids $80 for Delaware & Hudson
+[12:21] leesin buys Schuylkill Valley for $20
+[12:21] Eepi wins the auction for Champlain & St.Lawrence with the only bid of $45
+[12:21] Delaware & Hudson goes up for auction
+[12:21] Eepi bids $85 for Delaware & Hudson
+[12:21] Hahn bids $90 for Delaware & Hudson
+[12:22] Eepi bids $95 for Delaware & Hudson
+[12:22] Hahn passes on Delaware & Hudson
+[12:22] Eepi wins the auction for Delaware & Hudson with a bid of $95
+[12:22] Mohawk & Hudson goes up for auction
+[12:22] leesin bids $125 for Mohawk & Hudson
+[12:22] AntonioDG bids $130 for Mohawk & Hudson
+[12:22] leesin bids $135 for Mohawk & Hudson
+[12:22] AntonioDG bids $140 for Mohawk & Hudson
+[12:22] leesin bids $145 for Mohawk & Hudson
+[12:22] AntonioDG passes on Mohawk & Hudson
+[12:22] leesin wins the auction for Mohawk & Hudson with a bid of $145
+[12:22] Camden & Amboy goes up for auction
+[12:22] leesin bids $180 for Camden & Amboy
+[12:22] AntonioDG bids $185 for Camden & Amboy
+[12:22] Hahn bids $190 for Camden & Amboy
+[12:22] leesin bids $195 for Camden & Amboy
+[12:22] AntonioDG bids $200 for Camden & Amboy
+[12:23] Hahn passes on Camden & Amboy
+[12:23] leesin bids $205 for Camden & Amboy
+[12:23] AntonioDG bids $210 for Camden & Amboy
+[12:23] leesin bids $215 for Camden & Amboy
+[12:23] AntonioDG bids $220 for Camden & Amboy
+[12:23] leesin bids $225 for Camden & Amboy
+[12:23] AntonioDG passes on Camden & Amboy
+[12:23] leesin wins the auction for Camden & Amboy with a bid of $225
+[12:23] leesin receives a 10% share of PRR
+[12:23] AntonioDG buys Baltimore & Ohio for $220
+[12:23] AntonioDG pars B&O at $90
+[12:23] AntonioDG receives a 20% share of B&O
+[12:23] AntonioDG becomes the president of B&O
+[12:23] Eepi has priority deal
+[12:23] -- Stock Round 1 --
+[12:25] Eepi pars CPR at $71
+[12:25] Eepi buys a 20% share of CPR from the IPO for $142
+[12:25] Eepi becomes the president of CPR
+[12:25] Hahn pars NYNH at $100
+[12:25] Hahn buys a 20% share of NYNH from the IPO for $200
+[12:25] Hahn becomes the president of NYNH
+[12:25] leesin passes
+[12:25] AntonioDG buys a 10% share of B&O from the IPO for $90
+[12:25] Eepi buys a 10% share of CPR from the IPO for $71
+[12:25] Hahn buys a 10% share of NYNH from the IPO for $100
+[12:25] leesin passes
+[12:25] AntonioDG buys a 10% share of B&O from the IPO for $90
+[12:25] Eepi buys a 10% share of CPR from the IPO for $71
+[12:25] Hahn buys a 10% share of NYNH from the IPO for $100
+[12:25] leesin passes
+[12:25] AntonioDG buys a 10% share of B&O from the IPO for $90
+[12:25] Eepi buys a 10% share of CPR from the IPO for $71
+[12:25] Hahn buys a 10% share of NYNH from the IPO for $100
+[12:25] leesin passes
+[12:25] AntonioDG buys a 10% share of B&O from the IPO for $90
+[12:25] B&O floats
+[12:25] B&O receives $900
+[12:26] Eepi buys a 10% share of CPR from the IPO for $71
+[12:26] CPR floats
+[12:26] CPR receives $710
+[12:26] Hahn buys a 10% share of NYNH from the IPO for $100
+[12:26] NYNH floats
+[12:26] NYNH receives $1000
+[12:26] leesin buys a 10% share of B&O from the IPO for $90
+[12:26] AntonioDG has no valid actions and passes
+[12:26] Eepi has no valid actions and passes
+[12:26] Hahn has no valid actions and passes
+[12:26] leesin passes
+[12:26] AntonioDG has priority deal
+[12:26] -- Operating Round 1.1 (of 1) --
+[12:26] AntonioDG collects $30 from Baltimore & Ohio
+[12:26] Eepi collects $10 from Champlain & St.Lawrence
+[12:26] Eepi collects $15 from Delaware & Hudson
+[12:26] leesin collects $5 from Schuylkill Valley
+[12:26] leesin collects $20 from Mohawk & Hudson
+[12:26] leesin collects $25 from Camden & Amboy
+[12:26] Hahn operates NYNH
+[12:26] NYNH places a token on G19
+[12:27] NYNH lays tile #1 with rotation 0 on F20 (New Haven & Hartford)
+[12:27] NYNH skips place a token
+[12:27] NYNH skips run routes
+[12:27] NYNH does not run
+[12:27] NYNH's share price moves left from $100 to $90
+[12:27] NYNH buys a 2 train for $80 from The Depot
+[12:27] NYNH passes buy trains
+[12:27] NYNH skips buy companies
+[12:27] AntonioDG operates B&O
+[12:27] B&O places a token on I15
+[12:27] B&O spends $80 and lays tile #57 with rotation 0 on J14 (Washington)
+[12:27] B&O passes place a token
+[12:27] B&O skips run routes
+[12:27] B&O does not run
+[12:27] B&O's share price moves left from $90 to $82
+[12:27] B&O buys a 2 train for $80 from The Depot
+[12:27] Baltimore & Ohio closes
+[12:27] B&O buys a 2 train for $80 from The Depot
+[12:27] B&O buys a 2 train for $80 from The Depot
+[12:27] B&O passes buy trains
+[12:27] B&O skips buy companies
+[12:27] Eepi operates CPR
+[12:27] CPR places a token on A19
+[12:28] CPR spends $80 and lays tile #8 with rotation 3 on B18
+[12:28] CPR skips place a token
+[12:28] CPR skips run routes
+[12:28] CPR does not run
+[12:28] CPR's share price moves left from $71 to $67
+[12:28] CPR passes buy trains
+[12:28] CPR skips buy companies
+[12:28] -- Stock Round 2 --
+[12:29] AntonioDG passes
+[12:29] Eepi sells a 10% share of CPR and receives $67
+[12:29] CPR's share price moves down from $67 to $65
+[12:29] Eepi buys a 10% share of B&O from the IPO for $90
+[12:29] Hahn passes
+[12:30] leesin buys a 10% share of B&O from the IPO for $90
+[12:30] leesin declines to sell shares
+[12:31] AntonioDG passes
+[12:31] Eepi sells a 10% share of CPR and receives $65
+[12:31] CPR's share price moves down from $65 to $63
+[12:31] Eepi buys a 10% share of B&O from the IPO for $90
+[12:31] Hahn passes
+[12:31] leesin passes
+[12:31] AntonioDG passes
+[12:32] Eepi passes
+[12:32] B&O's share price moves up from $82 to $90
+[12:32] Hahn has priority deal
+[12:32] -- Operating Round 2.1 (of 1) --
+[12:32] leesin collects $5 from Schuylkill Valley
+[12:32] leesin collects $20 from Mohawk & Hudson
+[12:32] leesin collects $25 from Camden & Amboy
+[12:32] Eepi collects $10 from Champlain & St.Lawrence
+[12:32] Eepi collects $15 from Delaware & Hudson
+[12:32] Hahn operates NYNH
+[12:32] NYNH spends $80 and lays tile #57 with rotation 1 on F22 (Providence)
+[12:32] NYNH passes place a token
+[12:32] NYNH runs a 2 train for $50: G19-F20
+[12:32] NYNH pays out $50 = $5 per share ($30 to Hahn)
+[12:32] NYNH's share price moves right from $90 to $100
+[12:32] NYNH passes buy trains
+[12:32] NYNH skips buy companies
+[12:32] AntonioDG operates B&O
+[12:32] B&O spends $80 and lays tile #9 with rotation 1 on I17
+[12:32] B&O places a token on J14 (Washington) for $40
+[12:32] B&O runs a 2 train for $40: I15-I19
+[12:32] B&O runs a 2 train for $50: I15-J14
+[12:32] B&O runs a 2 train for $50: J14-K13
+[12:32] B&O pays out $140 = $14 per share ($84 to AntonioDG, $28 to leesin, $28 to Eepi)
+[12:32] B&O's share price moves right from $90 to $100
+[12:32] B&O buys a 2 train for $80 from The Depot
+[12:32] B&O skips buy companies
+[12:32] Eepi operates CPR
+[12:33] CPR spends $80 and lays tile #9 with rotation 2 on C19
+[12:33] CPR skips place a token
+[12:33] CPR skips run routes
+[12:33] CPR does not run
+[12:33] CPR's share price moves left from $63 to $54
+[12:33] CPR passes buy trains
+[12:33] CPR skips buy companies
+[12:33] -- Stock Round 3 --
+[12:33] Hahn passes
+[12:33] leesin sells 2 shares of B&O and receives $200
+[12:33] B&O's share price moves down from $100 to $82
+[12:33] leesin pars PRR at $71
+[12:33] leesin buys a 20% share of PRR from the IPO for $142
+[12:33] leesin becomes the president of PRR
+[12:33] AntonioDG buys a 10% share of NYNH from the IPO for $100
+[12:33] AntonioDG declines to sell shares
+[12:34] Eepi buys a 10% share of CPR from the market for $54
+[12:34] Eepi declines to sell shares
+[12:35] • Action(pass) via Master Mode by: AntonioDG
+[12:35] Hahn passes
+[12:35] leesin buys a 10% share of PRR from the IPO for $71
+[12:35] leesin declines to sell shares
+[12:35] AntonioDG passes
+[12:35] Eepi passes
+[12:35] • Action(pass) via Master Mode by: AntonioDG
+[12:35] Hahn passes
+[12:35] leesin buys a 10% share of PRR from the IPO for $71
+[12:35] leesin declines to sell shares
+[12:35] AntonioDG passes
+[12:36] Eepi passes
+[12:42] Hahn passes
+[12:42] leesin buys a 10% share of PRR from the IPO for $71
+[12:42] PRR floats
+[12:42] PRR receives $710
+[12:42] leesin declines to sell shares
+[12:43] AntonioDG passes
+[12:43] Eepi passes
+[12:44] Hahn passes
+[12:44] leesin passes
+[12:44] AntonioDG has priority deal
+[12:44] -- Operating Round 3.1 (of 1) --
+[12:44] Eepi collects $10 from Champlain & St.Lawrence
+[12:44] Eepi collects $15 from Delaware & Hudson
+[12:44] leesin collects $5 from Schuylkill Valley
+[12:44] leesin collects $20 from Mohawk & Hudson
+[12:44] leesin collects $25 from Camden & Amboy
+[12:44] Hahn operates NYNH
+[12:44] NYNH passes lay/upgrade track
+[12:44] NYNH passes place a token
+[12:44] NYNH runs a 2 train for $50: G19-F20
+[12:44] NYNH pays out $50 = $5 per share ($30 to Hahn, $5 to AntonioDG)
+[12:44] NYNH's share price moves right from $100 to $112
+[12:44] NYNH passes buy trains
+[12:44] NYNH skips buy companies
+[12:44] AntonioDG operates B&O
+[12:44] B&O passes lay/upgrade track
+[12:44] B&O skips place a token
+[12:44] B&O runs a 2 train for $40: I15-I19
+[12:44] B&O runs a 2 train for $50: I15-J14
+[12:44] B&O runs a 2 train for $50: J14-K13
+[12:44] B&O pays out $140 = $14 per share ($84 to AntonioDG, $28 to Eepi, $28 to B&O)
+[12:44] B&O's share price moves right from $82 to $90
+[12:44] B&O skips buy trains
+[12:44] B&O skips buy companies
+[12:44] leesin operates PRR
+[12:44] PRR places a token on H12
+[12:45] PRR lays tile #9 with rotation 1 on H14
+[12:45] PRR skips place a token
+[12:45] PRR skips run routes
+[12:45] PRR does not run
+[12:45] PRR's share price moves left from $71 to $67
+[12:45] PRR buys a 2 train for $80 from The Depot
+[12:45] PRR buys a 3 train for $180 from The Depot
+[12:45] -- Phase 3 (Operating Rounds: 2 | Train Limit: 4 | Available Tiles: Yellow, Green) --
+[12:45] PRR buys Mohawk & Hudson from leesin for $220
+[12:45] PRR buys Schuylkill Valley from leesin for $40
+[12:45] PRR passes buy trains
+[12:45] PRR passes buy companies
+[12:45] Eepi operates CPR
+[12:46] CPR buys Delaware & Hudson from Eepi for $140
+[12:47] CPR buys Champlain & St.Lawrence from Eepi for $80
+[12:49] CPR (DH) spends $120 and lays tile #57 with rotation 2 on F16 (Scranton)
+[12:49] CPR (DH) places a token on F16 (Scranton)
+[12:49] CPR skips lay track
+[12:49] CPR skips place a token
+[12:49] CPR skips run routes
+[12:49] CPR does not run
+[12:49] CPR's share price moves left from $54 to $45
+[12:49] CPR buys a 3 train for $180 from The Depot
+[12:50] CPR passes buy trains
+[12:50] CPR passes buy companies
+[12:50] -- Stock Round 4 --
+[12:50] AntonioDG buys a 10% share of CPR from the market for $45
+[12:50] AntonioDG declines to sell shares
+[12:50] Eepi sells 2 shares of B&O and receives $180
+[12:50] B&O's share price moves down from $90 to $76
+[12:51] Eepi pars B&M at $76
+[12:51] Eepi buys a 20% share of B&M from the IPO for $152
+[12:51] Eepi becomes the president of B&M
+[12:51] Hahn passes
+[12:51] leesin buys a 10% share of B&O from the market for $76
+[12:51] leesin declines to sell shares
+[12:51] AntonioDG passes
+[12:52] Eepi buys a 10% share of B&M from the IPO for $76
+[12:52] Eepi declines to sell shares
+[12:52] Hahn passes
+[12:52] leesin buys a 10% share of B&O from the market for $76
+[12:52] leesin sells a 10% share of B&O and receives $76
+[12:52] B&O's share price moves down from $76 to $71
+[12:52] AntonioDG passes
+[12:52] Eepi buys a 10% share of B&M from the IPO for $76
+[12:52] Eepi declines to sell shares
+[12:52] Hahn passes
+[12:52] leesin buys a 10% share of NYNH from the IPO for $100
+[12:52] leesin declines to sell shares
+[12:52] AntonioDG passes
+[12:53] Eepi buys a 10% share of B&M from the IPO for $76
+[12:53] Eepi declines to sell shares
+[12:53] Hahn passes
+[12:53] leesin buys a 10% share of NYNH from the IPO for $100
+[12:53] leesin declines to sell shares
+[12:53] AntonioDG passes
+[12:53] Eepi buys a 10% share of B&M from the IPO for $76
+[12:53] B&M floats
+[12:53] B&M receives $760
+[12:53] Eepi declines to sell shares
+[12:53] Hahn passes
+[12:53] leesin passes
+[12:53] AntonioDG sells a 10% share of NYNH and receives $112
+[12:53] NYNH's share price moves down from $112 to $100
+[12:53] AntonioDG buys a 10% share of B&M from the IPO for $76
+[12:53] Eepi passes
+[12:53] Hahn passes
+[12:54] leesin passes
+[12:54] AntonioDG buys a 10% share of B&M from the IPO for $76
+[12:54] AntonioDG sells 2 shares of B&M and receives $152
+[12:54] B&M's share price moves down from $76 to $67
+[12:54] Eepi passes
+[12:54] Hahn passes
+[12:54] leesin passes
+[12:55] AntonioDG buys a 10% share of PRR from the IPO for $71
+[12:55] AntonioDG declines to sell shares
+[12:55] Eepi passes
+[12:55] Hahn passes
+[12:55] leesin passes
+[12:55] AntonioDG passes
+[12:55] Eepi has priority deal
+[12:55] -- Operating Round 4.1 (of 2) --
+[12:55] leesin collects $25 from Camden & Amboy
+[12:55] PRR collects $5 from Schuylkill Valley
+[12:55] PRR collects $20 from Mohawk & Hudson
+[12:55] CPR collects $10 from Champlain & St.Lawrence
+[12:55] CPR collects $15 from Delaware & Hudson
+[12:55] Hahn operates NYNH
+[12:55] NYNH spends $80 and lays tile #54 with rotation 0 on G19 (New York & Newark)
+[12:55] NYNH passes place a token
+[12:55] NYNH runs a 2 train for $70: G19-F20
+[12:55] NYNH pays out $70 = $7 per share ($42 to Hahn, $14 to leesin, $7 to NYNH)
+[12:55] NYNH's share price moves right from $100 to $112
+[12:55] NYNH buys a 3 train for $180 from The Depot
+[12:55] NYNH passes buy trains
+[12:55] NYNH passes buy companies
+[12:55] AntonioDG operates B&O
+[12:55] B&O lays tile #14 with rotation 2 on J14 (Washington)
+[12:55] B&O passes place a token
+[12:55] B&O runs a 2 train for $40: I15-I19
+[12:55] B&O runs a 2 train for $50: J14-K15
+[12:55] B&O runs a 2 train for $60: J14-I15
+[12:55] B&O runs a 2 train for $60: J14-K13
+[12:55] B&O pays out $210 = $21 per share ($126 to AntonioDG, $63 to B&O, $21 to leesin)
+[12:55] B&O's share price moves right from $71 to $75
+[12:55] B&O skips buy trains
+[12:56] B&O passes buy companies
+[12:56] Eepi operates B&M
+[12:56] B&M places a token on E23
+[12:56] B&M lays tile #53 with rotation 1 on E23 (Boston)
+[12:57] B&M places a token on F22 (Providence) for $40
+[12:57] B&M skips run routes
+[12:57] B&M does not run
+[12:57] B&M's share price moves left from $67 to $65
+[12:57] B&M buys a 3 train for $180 from The Depot
+[12:57] B&M buys a 3 train for $180 from The Depot
+[12:57] B&M passes buy trains
+[12:57] B&M passes buy companies
+[12:57] leesin operates PRR
+[12:57] PRR lays tile #57 with rotation 1 on H16 (Lancaster)
+[12:58] PRR passes place a token
+[12:58] PRR runs a 3 train for $30: H12-H16
+[12:58] PRR pays out $30 = $3 per share ($18 to leesin, $3 to AntonioDG)
+[12:58] PRR's share price moves right from $67 to $71
+[12:58] PRR passes buy trains
+[12:58] PRR passes buy companies
+[12:58] Eepi operates CPR
+[13:00] CPR lays tile #56 with rotation 1 on G17 (Reading & Allentown)
+[13:00] CPR skips place a token
+[13:00] CPR runs a 3 train for $90: F16-G17-G19
+[13:00] CPR withholds $90
+[13:00] CPR's share price moves left from $45 to $36
+[13:00] CPR passes buy trains
+[13:00] CPR passes buy companies
+[13:00] -- Operating Round 4.2 (of 2) --
+[13:00] leesin collects $25 from Camden & Amboy
+[13:00] PRR collects $5 from Schuylkill Valley
+[13:00] PRR collects $20 from Mohawk & Hudson
+[13:00] CPR collects $10 from Champlain & St.Lawrence
+[13:00] CPR collects $15 from Delaware & Hudson
+[13:00] Hahn operates NYNH
+[13:01] NYNH lays tile #7 with rotation 5 on F18
+[13:01] NYNH skips place a token
+[13:01] NYNH runs a 3 train for $90: G19-F20-F22
+[13:01] NYNH runs a 2 train for $70: G19-G17
+[13:01] NYNH pays out $160 = $16 per share ($96 to Hahn, $32 to leesin, $16 to NYNH)
+[13:01] NYNH's share price moves right from $112 to $126
+[13:01] NYNH passes buy trains
+[13:01] NYNH passes buy companies
+[13:01] AntonioDG operates B&O
+[13:01] B&O lays tile #53 with rotation 0 on I15 (Baltimore)
+[13:01] B&O passes place a token
+[13:01] B&O runs a 2 train for $50: J14-K15
+[13:01] B&O runs a 2 train for $60: I15-I19
+[13:01] B&O runs a 2 train for $60: J14-K13
+[13:01] B&O runs a 2 train for $80: I15-J14
+[13:01] B&O pays out $250 = $25 per share ($150 to AntonioDG, $75 to B&O, $25 to leesin)
+[13:01] B&O's share price moves right from $75 to $80
+[13:01] B&O skips buy trains
+[13:01] B&O passes buy companies
+[13:01] leesin operates PRR
+[13:02] PRR buys Camden & Amboy from leesin for $240
+[13:02] PRR lays tile #59 with rotation 5 on H18 (Philadelphia & Trenton)
+[13:02] PRR skips place a token
+[13:02] PRR runs a 3 train for $70: H12-H16-H18
+[13:02] PRR pays out $70 = $7 per share ($42 to leesin, $7 to AntonioDG)
+[13:02] PRR's share price moves right from $71 to $76
+[13:02] PRR skips buy trains
+[13:02] PRR skips buy companies
+[13:02] Eepi operates B&M
+[13:04] B&M lays tile #15 with rotation 1 on F22 (Providence)
+[13:04] B&M skips place a token
+[13:04] B&M runs a 3 train for $90: E23-F24-F22
+[13:04] B&M runs a 3 train for $100: F22-F20-G19
+[13:04] B&M pays out $190 = $19 per share ($114 to Eepi, $38 to B&M)
+[13:04] B&M's share price moves right from $65 to $67
+[13:05] B&M passes buy trains
+[13:05] B&M skips buy companies
+[13:05] Eepi operates CPR
+[13:05] CPR lays tile #15 with rotation 2 on F16 (Scranton)
+[13:06] CPR passes place a token
+[13:06] CPR runs a 3 train for $100: F16-G17-G19
+[13:06] CPR withholds $100
+[13:06] CPR's share price moves left from $36 to $27
+[13:06] CPR passes buy trains
+[13:06] CPR passes buy companies
+[13:06] -- Stock Round 5 --
+[13:07] Eepi buys a 10% share of B&O from the market for $80
+[13:07] Eepi declines to sell shares
+[13:08] Hahn buys a 10% share of B&M from the market for $67
+[13:08] Hahn declines to sell shares
+[13:08] leesin sells 4 shares of PRR and receives $304
+[13:08] PRR's share price moves down from $76 to $68
+[13:08] leesin pars NYC at $100
+[13:08] leesin buys a 20% share of NYC from the IPO for $200
+[13:08] leesin becomes the president of NYC
+[13:08] AntonioDG buys a 10% share of NYNH from the IPO for $100
+[13:08] AntonioDG sells a 10% share of NYNH and receives $126
+[13:08] NYNH's share price moves down from $126 to $111
+[13:08] Eepi passes
+[13:09] Hahn buys a 10% share of B&O from the market for $80
+[13:09] Hahn declines to sell shares
+[13:09] leesin buys a 10% share of B&M from the market for $67
+[13:09] leesin declines to sell shares
+[13:10] AntonioDG sells a 10% share of PRR and receives $68
+[13:10] AntonioDG sells a 10% share of B&O and receives $80
+[13:10] AntonioDG pars C&O at $90
+[13:10] AntonioDG buys a 20% share of C&O from the IPO for $180
+[13:10] AntonioDG becomes the president of C&O
+[13:11] Eepi passes
+[13:11] Hahn passes
+[13:11] leesin buys a 10% share of NYC from the IPO for $100
+[13:11] leesin declines to sell shares
+[13:11] AntonioDG buys a 10% share of C&O from the IPO for $90
+[13:11] AntonioDG declines to sell shares
+[13:11] Eepi passes
+[13:12] Hahn passes
+[13:12] leesin buys a 10% share of NYC from the IPO for $100
+[13:12] leesin declines to sell shares
+[13:12] AntonioDG buys a 10% share of C&O from the IPO for $90
+[13:12] AntonioDG declines to sell shares
+[13:12] Eepi passes
+[13:12] Hahn passes
+[13:12] leesin buys a 10% share of NYC from the IPO for $100
+[13:12] leesin declines to sell shares
+[13:12] AntonioDG buys a 10% share of C&O from the IPO for $90
+[13:12] AntonioDG declines to sell shares
+[13:13] Eepi passes
+[13:13] Hahn passes
+[13:13] leesin buys a 10% share of NYC from the IPO for $100
+[13:13] NYC floats
+[13:13] NYC receives $1000
+[13:13] leesin declines to sell shares
+[13:13] AntonioDG buys a 10% share of NYC from the IPO for $100
+[13:13] AntonioDG sells a 10% share of NYC and receives $100
+[13:13] NYC's share price moves down from $100 to $90
+[13:13] Eepi passes
+[13:13] Hahn passes
+[13:14] leesin buys a 10% share of NYNH from the market for $111
+[13:14] leesin declines to sell shares
+[13:14] AntonioDG buys a 10% share of C&O from the IPO for $90
+[13:14] C&O floats
+[13:14] C&O receives $900
+[13:14] AntonioDG declines to sell shares
+[13:14] Eepi passes
+[13:14] Hahn passes
+[13:14] leesin passes
+[13:14] AntonioDG passes
+[13:14] Eepi has priority deal
+[13:14] -- Operating Round 5.1 (of 2) --
+[13:14] PRR collects $5 from Schuylkill Valley
+[13:14] PRR collects $20 from Mohawk & Hudson
+[13:14] PRR collects $25 from Camden & Amboy
+[13:14] CPR collects $10 from Champlain & St.Lawrence
+[13:14] CPR collects $15 from Delaware & Hudson
+[13:14] Hahn operates NYNH
+[13:15] NYNH passes lay/upgrade track
+[13:15] NYNH passes place a token
+[13:15] NYNH runs a 3 train for $100: G19-F20-F22
+[13:15] NYNH runs a 2 train for $70: G19-G17
+[13:15] NYNH pays out $170 = $17 per share ($102 to Hahn, $51 to leesin, $17 to NYNH)
+[13:15] NYNH's share price moves right from $111 to $125
+[13:15] NYNH passes buy trains
+[13:15] NYNH skips buy companies
+[13:15] AntonioDG operates C&O
+[13:15] C&O places a token on F6
+[13:16] C&O lays tile #55 with rotation 1 on G7 (Akron & Canton)
+[13:16] C&O skips place a token
+[13:16] C&O skips run routes
+[13:16] C&O does not run
+[13:16] C&O's share price moves left from $90 to $82
+[13:16] C&O buys a 2 train for $305 from B&O
+[13:16] C&O buys a 4 train for $300 from The Depot
+[13:16] -- Phase 4 (Operating Rounds: 2 | Train Limit: 3 | Available Tiles: Yellow, Green) --
+[13:16] -- Event: 2 trains rust ( NYNH x1, C&O x1, B&O x3, PRR x1) --
+[13:16] C&O passes buy trains
+[13:16] C&O skips buy companies
+[13:16] leesin operates NYC
+[13:16] NYC places a token on E19
+[13:17] NYC lays tile #57 with rotation 0 on E19 (Albany)
+[13:17] NYC skips place a token
+[13:17] NYC skips run routes
+[13:17] NYC does not run
+[13:17] NYC's share price moves left from $90 to $82
+[13:17] NYC buys a 4 train for $300 from The Depot
+[13:17] NYC passes buy trains
+[13:17] NYC skips buy companies
+[13:17] AntonioDG operates B&O
+[13:17] B&O lays tile #27 with rotation 4 on H14
+[13:17] B&O places a token on H18 (Philadelphia & Trenton) for $100
+[13:17] B&O skips run routes
+[13:17] B&O does not run
+[13:17] B&O's share price moves left from $80 to $75
+[13:17] B&O buys a 4 train for $300 from The Depot
+[13:17] B&O passes buy trains
+[13:17] B&O skips buy companies
+[13:17] leesin operates PRR
+[13:17] PRR lays tile #14 with rotation 4 on H16 (Lancaster)
+[13:18] PRR places a token on H16 (Lancaster) for $40
+[13:18] PRR runs a 3 train for $120: I15-H16-H18
+[13:18] PRR withholds $120
+[13:18] PRR's share price moves left from $68 to $67
+[13:18] PRR passes buy trains
+[13:18] PRR skips buy companies
+[13:18] Eepi operates B&M
+[13:19] B&M passes lay/upgrade track
+[13:19] B&M skips place a token
+[13:19] B&M runs a 3 train for $90: E23-F24-F22
+[13:19] B&M runs a 3 train for $100: F22-F20-G19
+[13:19] B&M withholds $190
+[13:19] B&M's share price moves left from $67 to $65
+[13:19] B&M passes buy trains
+[13:19] B&M skips buy companies
+[13:19] Eepi operates CPR
+[13:20] CPR lays tile #29 with rotation 5 on F18
+[13:21] CPR passes place a token
+[13:21] CPR runs a 3 train for $100: G19-F16-G17
+[13:21] CPR withholds $100
+[13:21] CPR's share price moves left from $27 to $18
+[13:21] CPR buys a 3 train for $1 from B&M
+[13:21] CPR passes buy trains
+[13:21] CPR passes buy companies
+[13:21] -- Operating Round 5.2 (of 2) --
+[13:21] PRR collects $5 from Schuylkill Valley
+[13:21] PRR collects $20 from Mohawk & Hudson
+[13:21] PRR collects $25 from Camden & Amboy
+[13:21] CPR collects $10 from Champlain & St.Lawrence
+[13:21] CPR collects $15 from Delaware & Hudson
+[13:21] Hahn operates NYNH
+[13:22] NYNH passes lay/upgrade track
+[13:22] NYNH passes place a token
+[13:22] NYNH runs a 3 train for $100: F16-G19-F20
+[13:22] NYNH pays out $100 = $10 per share ($60 to Hahn, $30 to leesin, $10 to NYNH)
+[13:22] NYNH's share price moves right from $125 to $140
+[13:22] NYNH passes buy trains
+[13:22] NYNH skips buy companies
+[13:22] AntonioDG operates C&O
+[13:23] C&O lays tile #8 with rotation 2 on H8
+[13:23] C&O skips place a token
+[13:23] C&O runs a 4 train for $40: F6-G7
+[13:23] C&O pays out $40 = $4 per share ($24 to AntonioDG)
+[13:23] C&O's share price moves right from $82 to $90
+[13:23] C&O passes buy trains
+[13:23] C&O skips buy companies
+[13:23] leesin operates NYC
+[13:24] NYC lays tile #8 with rotation 0 on D20
+[13:24] NYC skips place a token
+[13:24] NYC runs a 4 train for $60: E19-A19
+[13:24] NYC pays out $60 = $6 per share ($36 to leesin, $6 to NYC)
+[13:24] NYC's share price moves right from $82 to $90
+[13:24] NYC passes buy trains
+[13:24] NYC skips buy companies
+[13:24] AntonioDG operates B&O
+[13:24] B&O lays tile #57 with rotation 1 on H10 (Pittsburgh)
+[13:24] B&O skips place a token
+[13:24] B&O runs a 4 train for $150: H18-H16-I15-J14
+[13:25] B&O pays out $150 = $15 per share ($75 to AntonioDG, $30 to B&O, $15 to Eepi, $15 to Hahn, $15 to leesin)
+[13:25] B&O's share price moves right from $75 to $80
+[13:25] B&O passes buy trains
+[13:25] B&O skips buy companies
+[13:25] leesin operates PRR
+[13:25] PRR lays tile #14 with rotation 0 on H10 (Pittsburgh)
+[13:25] PRR passes place a token
+[13:25] PRR runs a 3 train for $120: I15-H16-H18
+[13:25] PRR withholds $120
+[13:25] PRR's share price moves left from $67 to $60
+[13:25] PRR passes buy trains
+[13:25] PRR skips buy companies
+[13:25] Eepi operates B&M
+[13:26] B&M passes lay/upgrade track
+[13:26] B&M skips place a token
+[13:26] B&M runs a 3 train for $90: E23-F24-F22
+[13:26] B&M withholds $90
+[13:26] B&M's share price moves left from $65 to $58
+[13:30] B&M buys a 4 train for $300 from The Depot
+[13:30] B&M buys a 3 train for $378 from CPR
+[13:30] B&M skips buy companies
+[13:30] Eepi operates CPR
+[13:32] CPR lays tile #8 with rotation 3 on E15
+[13:32] CPR passes place a token
+[13:32] CPR runs a 3 train for $100: G19-F16-G17
+[13:32] CPR withholds $100
+[13:32] CPR's share price moves down from $18 to $10
+[13:34] CPR buys a 3 train for $446 from B&M
+[13:34] CPR buys a 5 train for $450 from The Depot
+[13:34] -- Phase 5 (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[13:34] -- Event: Private companies close --
+[13:34] CPR discards 3
+[13:34] CPR skips buy companies
+[13:34] -- Stock Round 6 --
+[13:35] Eepi passes
+[13:36] Hahn buys a 10% share of CPR from the IPO for $71
+[13:36] Hahn declines to sell shares
+[13:36] leesin buys a 10% share of B&O from the market for $80
+[13:36] leesin declines to sell shares
+[13:36] AntonioDG buys a 10% share of NYC from the market for $90
+[13:37] AntonioDG declines to sell shares
+[13:37] Eepi passes
+[13:37] Hahn buys a 10% share of PRR from the market for $60
+[13:37] Hahn declines to sell shares
+[13:37] leesin passes
+[13:38] AntonioDG sells 2 shares of C&O and receives $180
+[13:38] C&O's share price moves down from $90 to $76
+[13:38] AntonioDG declines to buy shares
+[13:39] Eepi passes
+[13:39] Hahn buys a 10% share of C&O from the market for $76
+[13:39] Hahn declines to sell shares
+[13:39] leesin passes
+[13:39] AntonioDG buys a 10% share of NYC from the IPO for $100
+[13:39] AntonioDG sells 2 shares of NYC and receives $180
+[13:39] NYC's share price moves down from $90 to $76
+[13:39] Eepi passes
+[13:40] Hahn passes
+[13:40] leesin passes
+[13:40] AntonioDG buys a 10% share of PRR from the market for $60
+[13:41] AntonioDG declines to sell shares
+[13:41] Eepi passes
+[13:41] Hahn passes
+[13:41] leesin passes
+[13:41] AntonioDG buys a 10% share of NYNH from the market for $140
+[13:41] AntonioDG declines to sell shares
+[13:41] Eepi passes
+[13:41] Hahn passes
+[13:41] leesin passes
+[13:42] AntonioDG buys a 10% share of B&M from the IPO for $76
+[13:42] AntonioDG declines to sell shares
+[13:42] Eepi passes
+[13:42] Hahn passes
+[13:42] leesin passes
+[13:42] AntonioDG passes
+[13:42] NYNH's share price moves up from $140 to $160
+[13:42] Eepi has priority deal
+[13:42] -- Operating Round 6.1 (of 3) --
+[13:42] Hahn operates NYNH
+[13:44] NYNH lays tile #65 with rotation 5 on H18 (Philadelphia & Trenton)
+[13:44] NYNH places a token on H18 (Philadelphia & Trenton) for $40
+[13:44] NYNH runs a 3 train for $120: G19-H18-I19
+[13:44] NYNH pays out $120 = $12 per share ($72 to Hahn, $36 to leesin, $12 to AntonioDG)
+[13:44] NYNH's share price moves right from $160 to $180
+[13:44] NYNH buys a 5 train for $450 from The Depot
+[13:44] NYNH skips buy companies
+[13:44] AntonioDG operates B&O
+[13:44] B&O lays tile #61 with rotation 0 on I15 (Baltimore)
+[13:44] B&O skips place a token
+[13:45] B&O runs a 4 train for $170: H18-H16-I15-J14
+[13:45] B&O pays out $170 = $17 per share ($85 to AntonioDG, $34 to leesin, $17 to Eepi, $17 to Hahn, $17 to B&O)
+[13:45] B&O's share price moves up from $80 to $90
+[13:45] B&O buys a 5 train for $450 from The Depot
+[13:45] B&O skips buy companies
+[13:45] AntonioDG operates C&O
+[13:45] C&O lays tile #63 with rotation 0 on H10 (Pittsburgh)
+[13:45] C&O places a token on H16 (Lancaster) for $40
+[13:45] C&O runs a 4 train for $140: I15-H16-H18
+[13:46] C&O withholds $140
+[13:46] C&O's share price moves left from $76 to $71
+[13:46] C&O passes buy trains
+[13:46] C&O skips buy companies
+[13:46] leesin operates NYC
+[13:46] NYC lays tile #45 with rotation 3 on F18
+[13:46] NYC places a token on G19 (New York & Newark) for $40
+[13:46] NYC runs a 4 train for $160: G19-G17-F16-G19
+[13:46] NYC pays out $160 = $16 per share ($96 to leesin, $32 to NYC)
+[13:46] NYC's share price moves right from $76 to $82
+[13:47] NYC passes buy trains
+[13:47] NYC skips buy companies
+[13:47] leesin operates PRR
+[13:47] PRR lays tile #63 with rotation 0 on H16 (Lancaster)
+[13:47] PRR passes place a token
+[13:47] PRR runs a 3 train for $150: I15-H16-H18
+[13:47] PRR withholds $150
+[13:47] PRR's share price moves left from $60 to $50
+[13:48] PRR passes buy trains
+[13:48] PRR skips buy companies
+[13:48] Eepi operates B&M
+[13:48] B&M lays tile #61 with rotation 3 on E23 (Boston)
+[13:48] B&M skips place a token
+[13:48] B&M runs a 4 train for $160: E23-F22-F20-G19
+[13:48] B&M runs a 3 train for $100: E23-F24-F22
+[13:51] B&M withholds $260
+[13:51] B&M's share price moves left from $58 to $50
+[13:51] B&M skips buy trains
+[13:51] B&M skips buy companies
+[13:51] Eepi operates CPR
+[13:51] CPR lays tile #62 with rotation 0 on G19 (New York & Newark)
+[13:51] CPR skips place a token
+[13:51] CPR runs a 5 train for $210: F16-G19-F20-F22-E23
+[13:51] CPR runs a 3 train for $120: F16-G17-G19
+[13:52] CPR pays out $330 = $33 per share ($165 to Eepi, $33 to Hahn, $33 to AntonioDG)
+[13:52] CPR's share price moves right from $10 to $20
+[13:52] CPR skips buy trains
+[13:52] CPR skips buy companies
+[13:52] -- Operating Round 6.2 (of 3) --
+[13:52] Hahn operates NYNH
+[13:52] NYNH lays tile #63 with rotation 0 on F16 (Scranton)
+[13:52] NYNH skips place a token
+[13:52] NYNH runs a 5 train for $260: G19-F16-G17-G19-H18
+[13:52] NYNH runs a 3 train for $120: H18-I19-I15
+[13:52] NYNH pays out $380 = $38 per share ($228 to Hahn, $114 to leesin, $38 to AntonioDG)
+[13:52] NYNH's share price moves right from $180 to $200
+[13:52] NYNH skips buy trains
+[13:52] NYNH skips buy companies
+[13:52] AntonioDG operates B&O
+[13:52] B&O lays tile #41 with rotation 4 on H14
+[13:52] B&O skips place a token
+[13:52] B&O runs a 5 train for $170: H18-I19-I15-H10-G7
+[13:52] B&O runs a 4 train for $170: K13-J14-I15-H16
+[13:53] B&O withholds $340
+[13:53] B&O's share price moves left from $90 to $82
+[13:53] B&O skips buy trains
+[13:53] B&O skips buy companies
+[13:53] leesin operates NYC
+[13:53] NYC lays tile #7 with rotation 0 on D16
+[13:53] NYC places a token on D14 (Rochester) for $100
+[13:53] NYC runs a 4 train for $210: G19-G17-F16-G19
+[13:54] NYC pays out $210 = $21 per share ($126 to leesin, $42 to NYC)
+[13:54] NYC's share price moves right from $82 to $90
+[13:54] NYC buys a 6 train for $630 from The Depot
+[13:54] -- Phase 6 (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[13:54] -- Event: 3 trains rust ( PRR x1, The Depot x1, NYNH x1, CPR x1, B&M x1) --
+[13:54] NYC skips buy companies
+[13:54] AntonioDG operates C&O
+[13:54] C&O lays tile #23 with rotation 4 on H8
+[13:54] C&O passes place a token
+[13:54] C&O runs a 4 train for $150: I15-H16-H18
+[13:54] C&O pays out $150 = $15 per share ($60 to AntonioDG, $15 to Hahn, $15 to C&O)
+[13:54] C&O's share price moves right from $71 to $76
+[13:55] C&O buys a 5 train for $410 from B&O
+[13:55] C&O skips buy companies
+[13:55] leesin operates PRR
+[13:55] PRR lays tile #9 with rotation 1 on H6
+[13:55] PRR passes place a token
+[13:55] PRR skips run routes
+[13:55] PRR does not run
+[13:55] PRR's share price moves left from $50 to $40
+[13:55] leesin contributes $180
+[13:55] PRR buys a 6 train for $630 from The Depot
+[13:55] PRR skips buy companies
+[13:55] Eepi operates B&M
+[13:55] B&M passes lay/upgrade track
+[13:55] B&M skips place a token
+[13:55] B&M runs a 4 train for $180: E23-F22-F20-G19
+[13:55] B&M withholds $180
+[13:55] B&M's share price moves left from $50 to $42
+[13:55] B&M exchanges a 4 for a D train for $800 from The Depot
+[13:55] -- Phase D (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[13:55] -- Event: 4 trains rust ( C&O x1, NYC x1, B&O x1, The Depot x1) --
+[13:56] B&M passes buy trains
+[13:56] B&M skips buy companies
+[13:56] Eepi operates CPR
+[13:56] CPR lays tile #26 with rotation 1 on D16
+[13:56] CPR skips place a token
+[13:56] CPR runs a 5 train for $260: G19-F16-G17-G19-H18
+[13:56] CPR pays out $260 = $26 per share ($130 to Eepi, $26 to Hahn, $26 to AntonioDG)
+[13:56] CPR's share price moves right from $20 to $30
+[13:57] CPR passes buy trains
+[13:57] CPR skips buy companies
+[13:57] -- Operating Round 6.3 (of 3) --
+[13:57] Hahn operates NYNH
+[13:57] NYNH lays tile #9 with rotation 1 on F14
+[13:57] NYNH skips place a token
+[13:57] NYNH runs a 5 train for $260: G19-F16-G17-G19-H18
+[13:57] NYNH pays out $260 = $26 per share ($156 to Hahn, $78 to leesin, $26 to AntonioDG)
+[13:57] NYNH's share price moves right from $200 to $220
+[13:57] NYNH passes buy trains
+[13:57] NYNH skips buy companies
+[13:57] leesin operates NYC
+[13:57] NYC lays tile #14 with rotation 3 on E19 (Albany)
+[13:57] NYC skips place a token
+[13:57] NYC runs a 6 train for $270: H18-G19-G17-F16-G19-F20
+[13:58] NYC pays out $270 = $27 per share ($162 to leesin, $54 to NYC)
+[13:58] NYC's share price moves right from $90 to $100
+[13:58] NYC passes buy trains
+[13:58] NYC skips buy companies
+[13:58] AntonioDG operates B&O
+[13:58] B&O lays tile #57 with rotation 1 on H4 (Columbus)
+[13:58] B&O skips place a token
+[13:58] B&O skips run routes
+[13:58] B&O does not run
+[13:58] B&O's share price moves left from $82 to $76
+[13:58] AntonioDG contributes $302
+[13:58] B&O buys a D train for $1100 from The Depot
+[13:58] B&O skips buy companies
+[13:58] AntonioDG operates C&O
+[13:58] C&O lays tile #15 with rotation 1 on H4 (Columbus)
+[13:58] C&O skips place a token
+[13:58] C&O runs a 5 train for $180: F6-G7-H10-H16-I15
+[13:58] C&O pays out $180 = $18 per share ($72 to AntonioDG, $18 to Hahn, $18 to C&O)
+[13:58] C&O's share price moves right from $76 to $82
+[13:58] C&O passes buy trains
+[13:58] C&O skips buy companies
+[13:58] Eepi operates B&M
+[13:59] B&M lays tile #42 with rotation 1 on D16
+[13:59] B&M skips place a token
+[13:59] B&M runs a D train for $370: H18-G19-G17-F16-G19-F20-F22-E23-F24
+[13:59] B&M pays out $370 = $37 per share ($222 to Eepi, $37 to Hahn, $37 to leesin, $37 to AntonioDG)
+[13:59] B&M's share price moves right from $42 to $50
+[13:59] B&M passes buy trains
+[13:59] B&M skips buy companies
+[13:59] leesin operates PRR
+[13:59] PRR lays tile #9 with rotation 2 on G3
+[13:59] PRR skips place a token
+[13:59] PRR runs a 6 train for $250: F2-H4-H10-H12-H16-I15
+[13:59] PRR pays out $250 = $25 per share ($75 to PRR, $50 to leesin, $25 to Hahn, $25 to AntonioDG)
+[13:59] PRR's share price moves right from $40 to $50
+[13:59] PRR passes buy trains
+[13:59] PRR skips buy companies
+[13:59] Eepi operates CPR
+[14:00] CPR lays tile #7 with rotation 3 on F12
+[14:00] CPR skips place a token
+[14:00] CPR runs a 5 train for $260: G19-F16-G17-G19-H18
+[14:00] CPR pays out $260 = $26 per share ($130 to Eepi, $26 to Hahn, $26 to AntonioDG)
+[14:00] CPR's share price moves right from $30 to $40
+[14:00] CPR passes buy trains
+[14:00] CPR skips buy companies
+[14:00] -- Stock Round 7 --
+[14:01] Eepi buys a 10% share of CPR from the IPO for $71
+[14:01] Eepi declines to sell shares
+[14:01] Hahn pars ERIE at $100
+[14:01] Hahn buys a 20% share of ERIE from the IPO for $200
+[14:01] Hahn becomes the president of ERIE
+[14:01] Hahn declines to sell shares
+[14:01] leesin buys a 10% share of PRR from the market for $50
+[14:01] leesin declines to sell shares
+[14:01] AntonioDG sells a 10% share of NYNH and receives $220
+[14:01] NYNH's share price moves down from $220 to $185
+[14:01] AntonioDG buys a 10% share of B&M from the IPO for $76
+[14:02] Eepi buys a 10% share of B&O from the market for $76
+[14:02] Eepi declines to sell shares
+[14:02] Hahn buys a 10% share of ERIE from the IPO for $100
+[14:02] Hahn declines to sell shares
+[14:02] leesin buys a 10% share of PRR from the market for $50
+[14:02] leesin declines to sell shares
+[14:02] AntonioDG buys a 10% share of PRR from the market for $50
+[14:02] AntonioDG declines to sell shares
+[14:03] Eepi buys a 10% share of NYNH from the market for $185
+[14:03] Eepi declines to sell shares
+[14:03] Hahn buys a 10% share of ERIE from the IPO for $100
+[14:03] Hahn declines to sell shares
+[14:03] leesin buys a 10% share of CPR from the IPO for $71
+[14:03] leesin declines to sell shares
+[14:04] AntonioDG buys a 10% share of PRR from the IPO for $71
+[14:04] AntonioDG declines to sell shares
+[14:04] Eepi buys a 10% share of PRR from the IPO for $71
+[14:04] Eepi declines to sell shares
+[14:04] Hahn buys a 10% share of ERIE from the IPO for $100
+[14:04] Hahn declines to sell shares
+[14:04] leesin buys a 10% share of PRR from the IPO for $71
+[14:04] leesin declines to sell shares
+[14:04] AntonioDG buys a 10% share of C&O from the market for $82
+[14:04] AntonioDG declines to sell shares
+[14:05] Eepi buys a 10% share of C&O from the IPO for $90
+[14:05] Eepi declines to sell shares
+[14:05] Hahn buys a 10% share of ERIE from the IPO for $100
+[14:05] ERIE floats
+[14:05] ERIE receives $1000
+[14:05] Hahn declines to sell shares
+[14:05] leesin buys a 10% share of CPR from the IPO for $71
+[14:05] leesin declines to sell shares
+[14:05] AntonioDG buys a 10% share of NYC from the IPO for $100
+[14:05] AntonioDG declines to sell shares
+[14:06] Eepi buys a 10% share of NYC from the market for $100
+[14:06] Eepi declines to sell shares
+[14:06] Hahn passes
+[14:06] leesin buys a 10% share of C&O from the IPO for $90
+[14:06] leesin declines to sell shares
+[14:06] AntonioDG passes
+[14:06] Eepi buys a 10% share of ERIE from the IPO for $100
+[14:06] Eepi declines to sell shares
+[14:06] Hahn passes
+[14:07] leesin buys a 10% share of C&O from the IPO for $90
+[14:07] leesin sells a 10% share of NYNH and receives $185
+[14:07] AntonioDG passes
+[14:07] Eepi passes
+[14:07] Hahn sells a 10% share of C&O and receives $82
+[14:07] C&O's share price moves down from $82 to $76
+[14:07] Hahn buys a 10% share of NYC from the market for $100
+[14:08] leesin passes
+[14:08] AntonioDG passes
+[14:09] Eepi passes
+[14:09] Hahn passes
+[14:09] B&O's share price moves up from $76 to $82
+[14:09] PRR's share price moves up from $50 to $54
+[14:09] B&M's share price moves up from $50 to $55
+[14:09] CPR's share price moves up from $40 to $45
+[14:09] leesin has priority deal
+[14:09] -- Operating Round 7.1 (of 3) --
+[14:09] Hahn operates NYNH
+[14:09] NYNH lays tile #7 with rotation 0 on E13
+[14:09] NYNH skips place a token
+[14:09] NYNH runs a 5 train for $260: G19-F16-G17-G19-H18
+[14:09] NYNH pays out $260 = $26 per share ($156 to Hahn, $52 to leesin, $26 to Eepi, $26 to NYNH)
+[14:09] NYNH's share price moves right from $185 to $200
+[14:09] NYNH passes buy trains
+[14:09] NYNH skips buy companies
+[14:09] leesin operates NYC
+[14:10] NYC lays tile #23 with rotation 5 on B18
+[14:10] NYC skips place a token
+[14:10] NYC runs a 6 train for $270: H18-G19-G17-F16-G19-F20
+[14:10] NYC pays out $270 = $27 per share ($162 to leesin, $27 to AntonioDG, $27 to Eepi, $27 to Hahn)
+[14:10] NYC's share price moves right from $100 to $110
+[14:10] NYC passes buy trains
+[14:10] NYC skips buy companies
+[14:10] Hahn operates ERIE
+[14:10] ERIE places a token on E11
+[14:10] ERIE lays tile #59 with rotation 2 on E11 (Dunkirk & Buffalo)
+[14:10] ERIE must choose city for token
+[14:10] ERIE places a token on E11 (Dunkirk & Buffalo)
+[14:11] ERIE places a token on G19 (New York & Newark) for $40
+[14:11] ERIE skips run routes
+[14:11] ERIE does not run
+[14:11] ERIE's share price moves left from $100 to $90
+[14:11] Hahn contributes $140
+[14:11] ERIE buys a D train for $1100 from The Depot
+[14:11] ERIE skips buy companies
+[14:11] AntonioDG operates B&O
+[14:11] B&O lays tile #7 with rotation 0 on G11
+[14:11] B&O skips place a token
+[14:11] B&O runs a D train for $270: F2-H4-H10-I15-J14-K13
+[14:11] B&O pays out $270 = $27 per share ($135 to AntonioDG, $54 to leesin, $54 to Eepi, $27 to Hahn)
+[14:11] B&O's share price moves right from $82 to $90
+[14:11] B&O skips buy trains
+[14:11] B&O skips buy companies
+[14:11] AntonioDG operates C&O
+[14:11] C&O lays tile #9 with rotation 1 on G9
+[14:11] C&O skips place a token
+[14:12] C&O runs a 5 train for $240: F2-H4-H10-H16-I15
+[14:12] C&O pays out $240 = $24 per share ($120 to AntonioDG, $48 to leesin, $24 to Eepi, $24 to C&O)
+[14:12] C&O's share price moves right from $76 to $82
+[14:12] C&O passes buy trains
+[14:12] C&O skips buy companies
+[14:12] Eepi operates B&M
+[14:12] B&M passes lay/upgrade track
+[14:12] B&M skips place a token
+[14:12] B&M runs a D train for $190: G19-F20-F22-E23-F24
+[14:13] B&M pays out $190 = $19 per share ($114 to Eepi, $38 to AntonioDG, $19 to leesin, $19 to Hahn)
+[14:13] B&M's share price moves right from $55 to $62
+[14:13] B&M passes buy trains
+[14:13] B&M skips buy companies
+[14:13] leesin operates PRR
+[14:13] PRR lays tile #27 with rotation 0 on G11
+[14:13] PRR skips place a token
+[14:13] PRR runs a 6 train for $250: F2-H4-H10-H12-H16-I15
+[14:13] PRR withholds $250
+[14:13] PRR's share price moves left from $54 to $45
+[14:13] PRR passes buy trains
+[14:13] PRR skips buy companies
+[14:13] Eepi operates CPR
+[14:14] CPR lays tile #26 with rotation 4 on F12
+[14:14] CPR skips place a token
+[14:14] CPR runs a 5 train for $260: G19-F16-G17-G19-H18
+[14:14] CPR pays out $260 = $26 per share ($156 to Eepi, $52 to leesin, $26 to AntonioDG, $26 to Hahn)
+[14:14] CPR's share price moves right from $45 to $54
+[14:14] CPR passes buy trains
+[14:14] CPR skips buy companies
+[14:14] -- Operating Round 7.2 (of 3) --
+[14:14] Hahn operates NYNH
+[14:16] NYNH lays tile #64 with rotation 0 on E11 (Dunkirk & Buffalo)
+[14:16] NYNH skips place a token
+[14:16] NYNH runs a 5 train for $260: G19-F16-G17-G19-H18
+[14:16] NYNH pays out $260 = $26 per share ($156 to Hahn, $52 to leesin, $26 to Eepi, $26 to NYNH)
+[14:16] NYNH's share price moves up from $200 to $240
+[14:16] NYNH passes buy trains
+[14:16] NYNH skips buy companies
+[14:16] leesin operates NYC
+[14:16] NYC lays tile #8 with rotation 4 on D12
+[14:16] NYC skips place a token
+[14:17] NYC runs a 6 train for $260: G19-F16-G17-G19-H18
+[14:17] NYC pays out $260 = $26 per share ($156 to leesin, $26 to AntonioDG, $26 to Eepi, $26 to Hahn)
+[14:17] NYC's share price moves right from $110 to $120
+[14:17] NYC passes buy trains
+[14:17] NYC skips buy companies
+[14:17] AntonioDG operates B&O
+[14:17] B&O lays tile #8 with rotation 4 on G5
+[14:17] B&O skips place a token
+[14:17] B&O runs a D train for $280: F2-H4-G7-H10-I15-J14-K13
+[14:17] B&O pays out $280 = $28 per share ($140 to AntonioDG, $56 to leesin, $56 to Eepi, $28 to Hahn)
+[14:17] B&O's share price moves right from $90 to $100
+[14:17] B&O skips buy trains
+[14:17] B&O skips buy companies
+[14:17] Hahn operates ERIE
+[14:18] ERIE lays tile #24 with rotation 4 on D12
+[14:18] ERIE skips place a token
+[14:19] ERIE runs a D train for $370: E23-F24-F22-F20-G19-F16-G17-G19-H18
+[14:19] ERIE pays out $370 = $37 per share ($222 to Hahn, $37 to Eepi)
+[14:19] ERIE's share price moves right from $90 to $100
+[14:19] ERIE skips buy trains
+[14:19] ERIE skips buy companies
+[14:19] AntonioDG operates C&O
+[14:19] C&O lays tile #44 with rotation 0 on F12
+[14:19] C&O skips place a token
+[14:19] C&O runs a 5 train for $240: F2-H4-H10-H16-I15
+[14:19] C&O pays out $240 = $24 per share ($120 to AntonioDG, $48 to leesin, $24 to Eepi, $24 to C&O)
+[14:19] C&O's share price moves right from $82 to $90
+[14:19] C&O passes buy trains
+[14:19] C&O skips buy companies
+[14:19] Eepi operates B&M
+[14:20] B&M passes lay/upgrade track
+[14:20] B&M skips place a token
+[14:20] B&M runs a D train for $190: G19-F20-F22-E23-F24
+[14:20] B&M pays out $190 = $19 per share ($114 to Eepi, $38 to AntonioDG, $19 to leesin, $19 to Hahn)
+[14:20] B&M's share price moves right from $62 to $67
+[14:20] B&M passes buy trains
+[14:20] B&M skips buy companies
+[14:20] Eepi operates CPR
+[14:20] CPR lays tile #3 with rotation 4 on F10 (Erie)
+[14:20] CPR skips place a token
+[14:20] CPR runs a 5 train for $260: G19-F16-G17-G19-H18
+[14:20] CPR pays out $260 = $26 per share ($156 to Eepi, $52 to leesin, $26 to AntonioDG, $26 to Hahn)
+[14:20] CPR's share price moves right from $54 to $63
+[14:20] CPR passes buy trains
+[14:20] CPR skips buy companies
+[14:20] leesin operates PRR
+[14:20] PRR spends $120 and lays tile #8 with rotation 3 on G15
+[14:20] PRR places a token on G19 (New York & Newark) for $100
+[14:20] PRR runs a 6 train for $300: F2-H4-H10-H16-F16-G19
+[14:20] PRR pays out $300 = $30 per share ($150 to leesin, $90 to AntonioDG, $30 to Eepi, $30 to Hahn)
+[14:20] PRR's share price moves right from $45 to $54
+[14:20] PRR passes buy trains
+[14:20] PRR skips buy companies
+[14:20] -- Operating Round 7.3 (of 3) --
+[14:20] Hahn operates NYNH
+[14:21] NYNH passes lay/upgrade track
+[14:21] NYNH skips place a token
+[14:22] NYNH runs a 5 train for $220: E23-F22-F20-G19-F16
+[14:22] NYNH pays out $220 = $22 per share ($132 to Hahn, $44 to leesin, $22 to Eepi, $22 to NYNH)
+[14:22] NYNH's share price moves right from $240 to $260
+[14:22] NYNH passes buy trains
+[14:22] NYNH skips buy companies
+[14:22] leesin operates NYC
+[14:22] NYC lays tile #57 with rotation 0 on B16 (Ottawa)
+[14:22] NYC skips place a token
+[14:22] NYC runs a 6 train for $260: G19-F16-G17-G19-H18
+[14:22] NYC pays out $260 = $26 per share ($156 to leesin, $26 to AntonioDG, $26 to Eepi, $26 to Hahn)
+[14:22] NYC's share price moves right from $120 to $130
+[14:22] NYC passes buy trains
+[14:22] NYC skips buy companies
+[14:22] AntonioDG operates B&O
+[14:22] B&O lays tile #23 with rotation 5 on G3
+[14:22] B&O skips place a token
+[14:22] B&O runs a D train for $280: F2-H4-G7-H10-I15-J14-K13
+[14:22] B&O pays out $280 = $28 per share ($140 to AntonioDG, $56 to leesin, $56 to Eepi, $28 to Hahn)
+[14:22] B&O's share price moves right from $100 to $110
+[14:22] B&O skips buy trains
+[14:22] B&O skips buy companies
+[14:22] Hahn operates ERIE
+[14:23] ERIE lays tile #42 with rotation 1 on D12
+[14:23] ERIE skips place a token
+[14:23] ERIE runs a D train for $320: G19-G17-F16-G19-F20-F22-F24-E23
+[14:23] ERIE pays out $320 = $32 per share ($192 to Hahn, $32 to Eepi)
+[14:23] ERIE's share price moves right from $100 to $112
+[14:23] ERIE skips buy trains
+[14:23] ERIE skips buy companies
+[14:23] AntonioDG operates C&O
+[14:23] C&O lays tile #18 with rotation 1 on I17
+[14:23] C&O skips place a token
+[14:23] C&O runs a 5 train for $250: G19-F16-H16-H10-E11
+[14:23] C&O pays out $250 = $25 per share ($125 to AntonioDG, $50 to leesin, $25 to Eepi, $25 to C&O)
+[14:23] C&O's share price moves right from $90 to $100
+[14:23] C&O passes buy trains
+[14:23] C&O skips buy companies
+[14:23] Eepi operates B&M
+[14:24] B&M passes lay/upgrade track
+[14:24] B&M skips place a token
+[14:24] B&M runs a D train for $190: G19-F20-F22-E23-F24
+[14:24] B&M withholds $190
+[14:24] B&M's share price moves left from $67 to $62
+[14:24] B&M passes buy trains
+[14:24] B&M skips buy companies
+[14:24] Eepi operates CPR
+[14:24] CPR lays tile #7 with rotation 1 on D18
+[14:24] CPR skips place a token
+[14:24] CPR runs a 5 train for $210: G19-F16-G17-G19
+[14:24] CPR pays out $210 = $21 per share ($126 to Eepi, $42 to leesin, $21 to AntonioDG, $21 to Hahn)
+[14:24] CPR's share price moves right from $63 to $67
+[14:24] CPR passes buy trains
+[14:24] CPR skips buy companies
+[14:24] leesin operates PRR
+[14:25] PRR lays tile #14 with rotation 0 on B16 (Ottawa)
+[14:25] PRR passes place a token
+[14:25] PRR runs a 6 train for $300: F2-H4-H10-H16-F16-G19
+[14:25] PRR withholds $300
+[14:25] PRR's share price moves left from $54 to $45
+[14:25] PRR passes buy trains
+[14:25] PRR skips buy companies
+[14:25] -- Stock Round 8 --
+[14:25] leesin buys a 10% share of ERIE from the IPO for $100
+[14:25] leesin declines to sell shares
+[14:26] AntonioDG buys a 10% share of ERIE from the IPO for $100
+[14:26] AntonioDG declines to sell shares
+[14:26] Eepi passes
+[14:26] Hahn buys a 10% share of C&O from the IPO for $90
+[14:26] Hahn declines to sell shares
+[14:27] leesin buys a 10% share of ERIE from the IPO for $100
+[14:27] leesin declines to sell shares
+[14:27] AntonioDG buys a 10% share of C&O from the market for $100
+[14:27] AntonioDG declines to sell shares
+[14:27] Eepi passes
+[14:28] Hahn buys a 10% share of NYC from the IPO for $100
+[14:28] Hahn declines to sell shares
+[14:28] leesin passes
+[14:28] AntonioDG buys a 10% share of NYNH from the market for $260
+[14:28] AntonioDG declines to sell shares
+[14:28] Eepi passes
+[14:28] Hahn passes
+[14:28] leesin passes
+[14:28] AntonioDG passes
+[14:28] NYNH's share price moves up from $260 to $300
+[14:28] NYC's share price moves up from $130 to $155
+[14:28] B&O's share price moves up from $110 to $125
+[14:28] C&O's share price moves up from $100 to $110
+[14:28] CPR's share price moves up from $67 to $67
+[14:28] B&M's share price moves up from $62 to $66
+[14:28] PRR's share price moves up from $45 to $50
+[14:28] Eepi has priority deal
+[14:28] -- Operating Round 8.1 (of 3) --
+[14:28] Hahn operates NYNH
+[14:29] NYNH passes lay/upgrade track
+[14:29] NYNH skips place a token
+[14:29] NYNH runs a 5 train for $220: E23-F22-F20-G19-F16
+[14:29] NYNH pays out $220 = $22 per share ($132 to Hahn, $44 to leesin, $22 to Eepi, $22 to AntonioDG)
+[14:29] NYNH's share price moves right from $300 to $325
+[14:29] NYNH passes buy trains
+[14:29] NYNH skips buy companies
+[14:29] leesin operates NYC
+[14:29] NYC lays tile #9 with rotation 1 on C13
+[14:29] NYC skips place a token
+[14:29] NYC runs a 6 train for $260: G19-F16-G17-G19-H18
+[14:29] NYC pays out $260 = $26 per share ($156 to leesin, $52 to Hahn, $26 to Eepi, $26 to AntonioDG)
+[14:29] NYC's share price moves right from $155 to $170
+[14:29] NYC passes buy trains
+[14:29] NYC skips buy companies
+[14:29] AntonioDG operates B&O
+[14:29] B&O passes lay/upgrade track
+[14:29] B&O skips place a token
+[14:30] B&O runs a D train for $280: F2-H4-G7-H10-I15-J14-K13
+[14:30] B&O pays out $280 = $28 per share ($140 to AntonioDG, $56 to Eepi, $56 to leesin, $28 to Hahn)
+[14:30] B&O's share price moves right from $125 to $140
+[14:30] B&O skips buy trains
+[14:30] B&O skips buy companies
+[14:30] Hahn operates ERIE
+[14:30] ERIE passes lay/upgrade track
+[14:30] ERIE skips place a token
+[14:30] ERIE runs a D train for $320: G19-G17-F16-G19-F20-F22-F24-E23
+[14:30] ERIE pays out $320 = $32 per share ($192 to Hahn, $64 to leesin, $32 to Eepi, $32 to AntonioDG)
+[14:30] ERIE's share price moves right from $112 to $126
+[14:30] ERIE skips buy trains
+[14:30] ERIE skips buy companies
+[14:30] AntonioDG operates C&O
+[14:30] C&O passes lay/upgrade track
+[14:30] C&O skips place a token
+[14:30] C&O runs a 5 train for $250: G19-F16-H16-H10-E11
+[14:30] C&O pays out $250 = $25 per share ($150 to AntonioDG, $50 to leesin, $25 to Eepi, $25 to Hahn)
+[14:30] C&O's share price moves right from $110 to $120
+[14:30] C&O passes buy trains
+[14:30] C&O skips buy companies
+[14:30] Eepi operates CPR
+[14:31] CPR lays tile #58 with rotation 2 on B20 (Burlington)
+[14:31] CPR skips place a token
+[14:31] CPR runs a 5 train for $210: G19-F16-G17-G19
+[14:31] CPR pays out $210 = $21 per share ($126 to Eepi, $42 to leesin, $21 to Hahn, $21 to AntonioDG)
+[14:31] CPR's share price moves right from $67 to $71
+[14:31] CPR passes buy trains
+[14:31] CPR skips buy companies
+[14:31] Eepi operates B&M
+[14:31] B&M spends $120 and lays tile #9 with rotation 1 on E21
+[14:31] B&M skips place a token
+[14:32] B&M runs a D train for $350: G19-F20-F22-F24-E23-E19-F16-G17-G19
+[14:32] B&M pays out $350 = $35 per share ($210 to Eepi, $70 to AntonioDG, $35 to Hahn, $35 to leesin)
+[14:32] B&M's share price moves right from $66 to $71
+[14:32] B&M passes buy trains
+[14:32] B&M skips buy companies
+[14:32] leesin operates PRR
+[14:32] PRR lays tile #8 with rotation 4 on C11
+[14:32] PRR passes place a token
+[14:32] PRR runs a 6 train for $300: F2-H4-H10-H16-F16-G19
+[14:32] PRR pays out $300 = $30 per share ($150 to leesin, $90 to AntonioDG, $30 to Eepi, $30 to Hahn)
+[14:32] PRR's share price moves right from $50 to $58
+[14:32] PRR passes buy trains
+[14:32] PRR skips buy companies
+[14:32] -- Operating Round 8.2 (of 3) --
+[14:32] Hahn operates NYNH
+[14:32] NYNH passes lay/upgrade track
+[14:32] NYNH skips place a token
+[14:32] NYNH runs a 5 train for $220: E23-F22-F20-G19-F16
+[14:32] NYNH pays out $220 = $22 per share ($132 to Hahn, $44 to leesin, $22 to Eepi, $22 to AntonioDG)
+[14:32] NYNH's share price moves right from $325 to $350
+[14:32] NYNH passes buy trains
+[14:32] NYNH skips buy companies
+[14:32] leesin operates NYC
+[14:33] NYC lays tile #24 with rotation 4 on C11
+[14:33] NYC skips place a token
+[14:33] NYC runs a 6 train for $270: E23-E19-F16-G17-G19-H18
+[14:33] NYC pays out $270 = $27 per share ($162 to leesin, $54 to Hahn, $27 to Eepi, $27 to AntonioDG)
+[14:33] NYC's share price moves right from $170 to $185
+[14:33] NYC passes buy trains
+[14:33] NYC skips buy companies
+[14:33] AntonioDG operates B&O
+[14:33] B&O passes lay/upgrade track
+[14:33] B&O skips place a token
+[14:33] B&O runs a D train for $280: F2-H4-G7-H10-I15-J14-K13
+[14:33] B&O pays out $280 = $28 per share ($140 to AntonioDG, $56 to Eepi, $56 to leesin, $28 to Hahn)
+[14:33] B&O's share price moves right from $140 to $155
+[14:33] B&O skips buy trains
+[14:33] B&O skips buy companies
+[14:33] Hahn operates ERIE
+[14:34] ERIE lays tile #46 with rotation 4 on C11
+[14:34] ERIE skips place a token
+[14:34] ERIE runs a D train for $320: G19-G17-F16-G19-F20-F22-F24-E23
+[14:34] ERIE pays out $320 = $32 per share ($192 to Hahn, $64 to leesin, $32 to Eepi, $32 to AntonioDG)
+[14:34] ERIE's share price moves right from $126 to $142
+[14:34] ERIE skips buy trains
+[14:34] ERIE skips buy companies
+[14:34] AntonioDG operates C&O
+[14:34] C&O passes lay/upgrade track
+[14:34] C&O skips place a token
+[14:34] C&O runs a 5 train for $250: G19-F16-H16-H10-E11
+[14:34] C&O pays out $250 = $25 per share ($150 to AntonioDG, $50 to leesin, $25 to Eepi, $25 to Hahn)
+[14:34] C&O's share price moves right from $120 to $130
+[14:34] C&O passes buy trains
+[14:34] C&O skips buy companies
+[14:34] Eepi operates CPR
+[14:34] CPR lays tile #9 with rotation 1 on B22
+[14:34] CPR skips place a token
+[14:34] CPR runs a 5 train for $220: G19-G17-F16-E19-E23
+[14:34] CPR pays out $220 = $22 per share ($132 to Eepi, $44 to leesin, $22 to Hahn, $22 to AntonioDG)
+[14:34] CPR's share price moves right from $71 to $75
+[14:34] CPR passes buy trains
+[14:34] CPR skips buy companies
+[14:34] Eepi operates B&M
+[14:35] B&M passes lay/upgrade track
+[14:35] B&M skips place a token
+[14:35] B&M runs a D train for $350: G19-F20-F22-F24-E23-E19-F16-G17-G19
+[14:35] B&M pays out $350 = $35 per share ($210 to Eepi, $70 to AntonioDG, $35 to Hahn, $35 to leesin)
+[14:35] B&M's share price moves right from $71 to $76
+[14:35] B&M passes buy trains
+[14:35] B&M skips buy companies
+[14:35] leesin operates PRR
+[14:35] PRR spends $80 and lays tile #59 with rotation 1 on D10 (Hamilton & Toronto)
+[14:36] PRR passes place a token
+[14:36] PRR runs a 6 train for $300: F2-H4-H10-H16-F16-G19
+[14:36] PRR pays out $300 = $30 per share ($150 to leesin, $90 to AntonioDG, $30 to Eepi, $30 to Hahn)
+[14:36] PRR's share price moves right from $58 to $65
+[14:36] PRR passes buy trains
+[14:36] PRR skips buy companies
+[14:36] -- Operating Round 8.3 (of 3) --
+[14:36] Hahn operates NYNH
+[14:36] NYNH passes lay/upgrade track
+[14:36] NYNH skips place a token
+[14:36] NYNH runs a 5 train for $220: E23-F22-F20-G19-F16
+[14:36] NYNH pays out $220 = $22 per share ($132 to Hahn, $44 to leesin, $22 to Eepi, $22 to AntonioDG)
+[14:36] NYNH passes buy trains
+[14:36] NYNH skips buy companies
+[14:36] leesin operates NYC
+[14:36] NYC lays tile #68 with rotation 0 on D10 (Hamilton & Toronto)
+[14:36] NYC skips place a token
+[14:36] NYC runs a 6 train for $270: E23-E19-F16-G17-G19-H18
+[14:36] NYC pays out $270 = $27 per share ($162 to leesin, $54 to Hahn, $27 to Eepi, $27 to AntonioDG)
+[14:36] NYC's share price moves right from $185 to $200
+[14:37] NYC passes buy trains
+[14:37] NYC skips buy companies
+[14:37] AntonioDG operates B&O
+[14:37] B&O passes lay/upgrade track
+[14:37] B&O skips place a token
+[14:37] B&O runs a D train for $280: F2-H4-G7-H10-I15-J14-K13
+[14:37] B&O pays out $280 = $28 per share ($140 to AntonioDG, $56 to Eepi, $56 to leesin, $28 to Hahn)
+[14:37] B&O's share price moves right from $155 to $170
+[14:37] B&O skips buy trains
+[14:37] B&O skips buy companies
+[14:37] Hahn operates ERIE
+[14:37] ERIE lays tile #7 with rotation 4 on D8
+[14:37] ERIE skips place a token
+[14:37] ERIE runs a D train for $490: F2-H4-H10-E11-D10-D10-C15-B16-E19-F16-G17-G19
+[14:37] ERIE pays out $490 = $49 per share ($294 to Hahn, $98 to leesin, $49 to Eepi, $49 to AntonioDG)
+[14:37] ERIE's share price moves right from $142 to $160
+[14:37] ERIE skips buy trains
+[14:37] ERIE skips buy companies
+[14:37] AntonioDG operates C&O
+[14:37] C&O passes lay/upgrade track
+[14:37] C&O skips place a token
+[14:37] C&O runs a 5 train for $250: G19-F16-H16-H10-E11
+[14:37] C&O pays out $250 = $25 per share ($150 to AntonioDG, $50 to leesin, $25 to Eepi, $25 to Hahn)
+[14:37] C&O's share price moves up from $130 to $155
+[14:37] C&O passes buy trains
+[14:37] C&O skips buy companies
+[14:37] Eepi operates B&M
+[14:38] B&M lays tile #7 with rotation 4 on C9
+[14:38] B&M skips place a token
+[14:38] B&M runs a D train for $410: G19-F20-F22-F24-E23-E19-B16-C15-D10-D10-E11
+[14:38] B&M pays out $410 = $41 per share ($246 to Eepi, $82 to AntonioDG, $41 to Hahn, $41 to leesin)
+[14:38] B&M's share price moves right from $76 to $82
+[14:38] B&M passes buy trains
+[14:38] B&M skips buy companies
+[14:38] Eepi operates CPR
+[14:38] CPR passes lay/upgrade track
+[14:38] CPR skips place a token
+[14:39] CPR runs a 5 train for $220: G19-G17-F16-E19-E23
+[14:39] CPR pays out $220 = $22 per share ($132 to Eepi, $44 to leesin, $22 to Hahn, $22 to AntonioDG)
+[14:39] CPR's share price moves right from $75 to $80
+[14:39] CPR passes buy trains
+[14:39] CPR skips buy companies
+[14:39] leesin operates PRR
+[14:39] PRR lays tile #28 with rotation 5 on D8
+[14:39] PRR passes place a token
+[14:39] PRR runs a 6 train for $300: F2-H4-H10-H16-F16-G19
+[14:39] PRR withholds $300
+[14:39] PRR's share price moves left from $65 to $58
+[14:39] PRR passes buy trains
+[14:39] PRR skips buy companies
+[14:39] -- Stock Round 9 --
+[14:39] Eepi passes
+[14:39] Hahn passes
+[14:39] leesin passes
+[14:40] AntonioDG passes
+[14:40] NYC's share price moves up from $200 to $240
+[14:40] B&O's share price moves up from $170 to $200
+[14:40] C&O's share price moves up from $155 to $180
+[14:40] B&M's share price moves up from $82 to $90
+[14:40] CPR's share price moves up from $80 to $90
+[14:40] PRR's share price moves up from $58 to $62
+[14:40] Eepi has priority deal
+[14:40] -- Operating Round 9.1 (of 3) --
+[14:40] Hahn operates NYNH
+[14:40] NYNH passes lay/upgrade track
+[14:40] NYNH skips place a token
+[14:40] NYNH runs a 5 train for $220: E23-F22-F20-G19-F16
+[14:40] -- The bank has broken --
+[14:40] NYNH pays out $220 = $22 per share ($132 to Hahn, $44 to leesin, $22 to Eepi, $22 to AntonioDG)
+[14:40] NYNH passes buy trains
+[14:40] NYNH skips buy companies
+[14:40] leesin operates NYC
+[14:40] NYC lays tile #29 with rotation 4 on C9
+[14:40] NYC skips place a token
+[14:40] NYC runs a 6 train for $270: E23-E19-F16-G17-G19-H18
+[14:40] NYC pays out $270 = $27 per share ($162 to leesin, $54 to Hahn, $27 to Eepi, $27 to AntonioDG)
+[14:40] NYC's share price moves right from $240 to $260
+[14:40] NYC passes buy trains
+[14:40] NYC skips buy companies
+[14:40] AntonioDG operates B&O
+[14:40] B&O lays tile #43 with rotation 1 on I17
+[14:40] B&O skips place a token
+[14:40] B&O runs a D train for $280: F2-H4-G7-H10-I15-J14-K13
+[14:40] B&O pays out $280 = $28 per share ($140 to AntonioDG, $56 to Eepi, $56 to leesin, $28 to Hahn)
+[14:40] B&O's share price moves right from $200 to $220
+[14:40] B&O skips buy trains
+[14:40] B&O skips buy companies
+[14:40] AntonioDG operates C&O
+[14:41] C&O passes lay/upgrade track
+[14:41] C&O skips place a token
+[14:41] C&O runs a 5 train for $250: G19-F16-H16-H10-E11
+[14:41] C&O pays out $250 = $25 per share ($150 to AntonioDG, $50 to leesin, $25 to Eepi, $25 to Hahn)
+[14:41] C&O's share price moves right from $180 to $200
+[14:41] C&O passes buy trains
+[14:41] C&O skips buy companies
+[14:41] Hahn operates ERIE
+[14:41] ERIE passes lay/upgrade track
+[14:41] ERIE skips place a token
+[14:41] ERIE runs a D train for $490: F2-H4-H10-E11-D10-D10-C15-B16-E19-F16-G17-G19
+[14:41] ERIE pays out $490 = $49 per share ($294 to Hahn, $98 to leesin, $49 to Eepi, $49 to AntonioDG)
+[14:41] ERIE's share price moves right from $160 to $180
+[14:41] ERIE skips buy trains
+[14:41] ERIE skips buy companies
+[14:41] Eepi operates CPR
+[14:42] CPR passes lay/upgrade track
+[14:42] CPR skips place a token
+[14:42] CPR runs a 5 train for $220: G19-G17-F16-E19-E23
+[14:42] CPR pays out $220 = $22 per share ($132 to Eepi, $44 to leesin, $22 to Hahn, $22 to AntonioDG)
+[14:42] CPR's share price moves right from $90 to $100
+[14:42] CPR passes buy trains
+[14:42] CPR skips buy companies
+[14:42] Eepi operates B&M
+[14:42] B&M passes lay/upgrade track
+[14:42] B&M skips place a token
+[14:42] B&M runs a D train for $410: G19-F20-F22-F24-E23-E19-B16-C15-D10-D10-E11
+[14:42] B&M pays out $410 = $41 per share ($246 to Eepi, $82 to AntonioDG, $41 to Hahn, $41 to leesin)
+[14:42] B&M's share price moves right from $90 to $100
+[14:42] B&M passes buy trains
+[14:42] B&M skips buy companies
+[14:42] leesin operates PRR
+[14:42] PRR passes lay/upgrade track
+[14:42] PRR places a token on E19 (Albany) for $100
+[14:42] PRR runs a 6 train for $300: F2-H4-H10-H16-F16-G19
+[14:42] PRR pays out $300 = $30 per share ($150 to leesin, $90 to AntonioDG, $30 to Eepi, $30 to Hahn)
+[14:42] PRR's share price moves right from $62 to $67
+[14:42] PRR passes buy trains
+[14:42] PRR skips buy companies
+[14:42] -- Operating Round 9.2 (of 3) --
+[14:42] Hahn operates NYNH
+[14:43] NYNH passes lay/upgrade track
+[14:43] NYNH skips place a token
+[14:43] NYNH runs a 5 train for $220: E23-F22-F20-G19-F16
+[14:43] NYNH pays out $220 = $22 per share ($132 to Hahn, $44 to leesin, $22 to Eepi, $22 to AntonioDG)
+[14:43] NYNH passes buy trains
+[14:43] NYNH skips buy companies
+[14:43] leesin operates NYC
+[14:43] NYC passes lay/upgrade track
+[14:43] NYC skips place a token
+[14:43] NYC runs a 6 train for $270: E23-E19-F16-G17-G19-H18
+[14:43] NYC pays out $270 = $27 per share ($162 to leesin, $54 to Hahn, $27 to Eepi, $27 to AntonioDG)
+[14:43] NYC's share price moves right from $260 to $280
+[14:43] NYC passes buy trains
+[14:43] NYC skips buy companies
+[14:43] AntonioDG operates B&O
+[14:43] B&O passes lay/upgrade track
+[14:43] B&O skips place a token
+[14:43] B&O runs a D train for $280: F2-H4-G7-H10-I15-J14-K13
+[14:43] B&O pays out $280 = $28 per share ($140 to AntonioDG, $56 to Eepi, $56 to leesin, $28 to Hahn)
+[14:43] B&O's share price moves right from $220 to $240
+[14:43] B&O skips buy trains
+[14:43] B&O skips buy companies
+[14:43] AntonioDG operates C&O
+[14:43] C&O passes lay/upgrade track
+[14:43] C&O skips place a token
+[14:43] C&O runs a 5 train for $250: G19-F16-H16-H10-E11
+[14:43] C&O pays out $250 = $25 per share ($150 to AntonioDG, $50 to leesin, $25 to Eepi, $25 to Hahn)
+[14:43] C&O's share price moves right from $200 to $220
+[14:43] C&O passes buy trains
+[14:43] C&O skips buy companies
+[14:43] Hahn operates ERIE
+[14:45] ERIE passes lay/upgrade track
+[14:45] ERIE skips place a token
+[14:45] ERIE runs a D train for $450: E23-F24-F22-F20-G19-F16-E11-D10-D10-C15-B16-E19
+[14:45] ERIE pays out $450 = $45 per share ($270 to Hahn, $90 to leesin, $45 to Eepi, $45 to AntonioDG)
+[14:45] ERIE's share price moves right from $180 to $200
+[14:45] ERIE skips buy trains
+[14:45] ERIE skips buy companies
+[14:45] Eepi operates CPR
+[14:45] CPR passes lay/upgrade track
+[14:45] CPR skips place a token
+[14:45] CPR runs a 5 train for $210: G19-F16-G17-G19
+[14:45] CPR pays out $210 = $21 per share ($126 to Eepi, $42 to leesin, $21 to Hahn, $21 to AntonioDG)
+[14:45] CPR's share price moves up from $100 to $110
+[14:45] CPR passes buy trains
+[14:45] CPR skips buy companies
+[14:45] Eepi operates B&M
+[14:45] B&M passes lay/upgrade track
+[14:45] B&M skips place a token
+[14:45] B&M runs a D train for $220: G19-F20-F22-F24-E23-E19
+[14:45] B&M pays out $220 = $22 per share ($132 to Eepi, $44 to AntonioDG, $22 to Hahn, $22 to leesin)
+[14:45] B&M's share price moves right from $100 to $111
+[14:45] B&M passes buy trains
+[14:45] B&M skips buy companies
+[14:45] leesin operates PRR
+[14:45] PRR passes lay/upgrade track
+[14:45] PRR skips place a token
+[14:46] PRR runs a 6 train for $300: F2-H4-H10-H16-F16-G19
+[14:46] PRR pays out $300 = $30 per share ($150 to leesin, $90 to AntonioDG, $30 to Eepi, $30 to Hahn)
+[14:46] PRR's share price moves right from $67 to $71
+[14:46] PRR passes buy trains
+[14:46] PRR skips buy companies
+[14:46] -- Operating Round 9.3 (of 3) --
+[14:46] Hahn operates NYNH
+[14:46] NYNH passes lay/upgrade track
+[14:46] NYNH skips place a token
+[14:46] NYNH runs a 5 train for $220: E23-F22-F20-G19-F16
+[14:46] NYNH pays out $220 = $22 per share ($132 to Hahn, $44 to leesin, $22 to Eepi, $22 to AntonioDG)
+[14:46] NYNH passes buy trains
+[14:46] NYNH skips buy companies
+[14:46] leesin operates NYC
+[14:46] NYC passes lay/upgrade track
+[14:46] NYC skips place a token
+[14:46] NYC runs a 6 train for $270: E23-E19-F16-G17-G19-H18
+[14:46] NYC pays out $270 = $27 per share ($162 to leesin, $54 to Hahn, $27 to Eepi, $27 to AntonioDG)
+[14:46] NYC's share price moves right from $280 to $300
+[14:46] NYC passes buy trains
+[14:46] NYC skips buy companies
+[14:46] AntonioDG operates B&O
+[14:47] B&O passes lay/upgrade track
+[14:47] B&O skips place a token
+[14:47] B&O runs a D train for $280: F2-H4-G7-H10-I15-J14-K13
+[14:47] B&O pays out $280 = $28 per share ($140 to AntonioDG, $56 to Eepi, $56 to leesin, $28 to Hahn)
+[14:47] B&O's share price moves right from $240 to $260
+[14:47] B&O skips buy trains
+[14:47] B&O skips buy companies
+[14:47] AntonioDG operates C&O
+[14:47] C&O passes lay/upgrade track
+[14:47] C&O skips place a token
+[14:47] C&O runs a 5 train for $250: G19-F16-H16-H10-E11
+[14:47] C&O pays out $250 = $25 per share ($150 to AntonioDG, $50 to leesin, $25 to Eepi, $25 to Hahn)
+[14:47] C&O's share price moves right from $220 to $240
+[14:47] C&O passes buy trains
+[14:47] C&O skips buy companies
+[14:47] Hahn operates ERIE
+[14:47] ERIE lays tile #57 with rotation 2 on B10 (Barrie)
+[14:47] ERIE skips place a token
+[14:47] ERIE runs a D train for $450: E23-F24-F22-F20-G19-F16-E11-D10-D10-C15-B16-E19
+[14:47] ERIE pays out $450 = $45 per share ($270 to Hahn, $90 to leesin, $45 to Eepi, $45 to AntonioDG)
+[14:47] ERIE's share price moves right from $200 to $225
+[14:47] ERIE skips buy trains
+[14:47] ERIE skips buy companies
+[14:47] Eepi operates B&M
+[14:47] B&M passes lay/upgrade track
+[14:47] B&M skips place a token
+[14:47] B&M runs a D train for $220: G19-F20-F22-F24-E23-E19
+[14:47] B&M pays out $220 = $22 per share ($132 to Eepi, $44 to AntonioDG, $22 to Hahn, $22 to leesin)
+[14:47] B&M's share price moves right from $111 to $125
+[14:47] B&M passes buy trains
+[14:47] B&M skips buy companies
+[14:47] Eepi operates CPR
+[14:48] CPR passes lay/upgrade track
+[14:48] CPR skips place a token
+[14:48] CPR runs a 5 train for $210: G19-F16-G17-G19
+[14:48] CPR pays out $210 = $21 per share ($126 to Eepi, $42 to leesin, $21 to Hahn, $21 to AntonioDG)
+[14:48] CPR's share price moves right from $110 to $120
+[14:48] CPR passes buy trains
+[14:48] CPR skips buy companies
+[14:48] leesin operates PRR
+[14:48] PRR passes lay/upgrade track
+[14:48] PRR skips place a token
+[14:48] PRR runs a 6 train for $300: F2-H4-H10-H16-F16-G19
+[14:48] PRR pays out $300 = $30 per share ($150 to leesin, $90 to AntonioDG, $30 to Eepi, $30 to Hahn)
+[14:48] PRR's share price moves right from $71 to $76
+[14:48] PRR passes buy trains
+[14:48] PRR skips buy companies
+[14:48] -- Game over: leesin ($9639), Hahn ($9177), AntonioDG ($8118), Eepi ($7496) --

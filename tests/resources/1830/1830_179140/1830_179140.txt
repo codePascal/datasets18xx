@@ -1,0 +1,897 @@
+-- 2024-09-22 --
+[01:09] -- Phase 2 (Operating Rounds: 1 | Train Limit: 4 | Available Tiles: Yellow) --
+[01:09] halcyonsusurrus bids $75 for Delaware & Hudson
+[04:42] speter22 bids $165 for Camden & Amboy
+[06:11] Quercus_marilandica bids $80 for Delaware & Hudson
+[08:05] Larryp1960 bids $115 for Mohawk & Hudson
+[11:31] halcyonsusurrus bids $45 for Champlain & St.Lawrence
+[15:14] speter22 bids $50 for Champlain & St.Lawrence
+[16:09] Quercus_marilandica bids $120 for Mohawk & Hudson
+[17:33] Larryp1960 bids $85 for Delaware & Hudson
+[20:17] halcyonsusurrus bids $170 for Camden & Amboy
+[21:07] speter22 bids $175 for Camden & Amboy
+[21:17] Quercus_marilandica buys Schuylkill Valley for $20
+[21:17] Champlain & St.Lawrence goes up for auction
+[21:19] halcyonsusurrus bids $55 for Champlain & St.Lawrence
+[22:01] speter22 passes on Champlain & St.Lawrence
+[22:01] halcyonsusurrus wins the auction for Champlain & St.Lawrence with a bid of $55
+[22:01] Delaware & Hudson goes up for auction
+[22:03] halcyonsusurrus passes on Delaware & Hudson
+[23:55] Quercus_marilandica bids $90 for Delaware & Hudson
+-- 2024-09-23 --
+[02:23] Larryp1960 bids $95 for Delaware & Hudson
+[03:17] Quercus_marilandica passes on Delaware & Hudson
+[03:17] Larryp1960 wins the auction for Delaware & Hudson with a bid of $95
+[03:17] Mohawk & Hudson goes up for auction
+[04:51] Larryp1960 bids $125 for Mohawk & Hudson
+[05:24] Quercus_marilandica bids $130 for Mohawk & Hudson
+[13:14] Larryp1960 passes on Mohawk & Hudson
+[13:14] Quercus_marilandica wins the auction for Mohawk & Hudson with a bid of $130
+[13:14] Camden & Amboy goes up for auction
+-- 2024-09-24 --
+[00:05] halcyonsusurrus bids $180 for Camden & Amboy
+[05:32] speter22 bids $185 for Camden & Amboy
+[11:19] halcyonsusurrus bids $190 for Camden & Amboy
+[14:53] speter22 bids $195 for Camden & Amboy
+[18:31] halcyonsusurrus passes on Camden & Amboy
+[18:31] speter22 wins the auction for Camden & Amboy with a bid of $195
+[18:31] speter22 receives a 10% share of PRR
+[19:34] Larryp1960 passes bidding
+-- 2024-09-25 --
+[00:49] halcyonsusurrus passes bidding
+[03:40] speter22 passes bidding
+[04:00] Quercus_marilandica passes bidding
+[04:00] halcyonsusurrus collects $10 from Champlain & St.Lawrence
+[04:00] speter22 collects $25 from Camden & Amboy
+[04:00] Quercus_marilandica collects $5 from Schuylkill Valley
+[04:00] Quercus_marilandica collects $20 from Mohawk & Hudson
+[04:00] Larryp1960 collects $15 from Delaware & Hudson
+[04:03] • Action(pass) via Master Mode by: halcyonsusurrus
+[04:03] Larryp1960 passes bidding
+[04:03] halcyonsusurrus buys Baltimore & Ohio for $220
+[04:06] halcyonsusurrus pars B&O at $76
+[04:06] halcyonsusurrus receives a 20% share of B&O
+[04:06] halcyonsusurrus becomes the president of B&O
+[04:06] speter22 has priority deal
+[04:06] -- Stock Round 1 --
+[06:50] speter22 pars PRR at $76
+[06:50] speter22 buys a 20% share of PRR from the IPO for $152
+[06:50] speter22 becomes the president of PRR
+[07:59] Quercus_marilandica pars NYNH at $67
+[07:59] Quercus_marilandica buys a 20% share of NYNH from the IPO for $134
+[07:59] Quercus_marilandica becomes the president of NYNH
+[14:04] Larryp1960 pars C&O at $82
+[14:04] Larryp1960 buys a 20% share of C&O from the IPO for $164
+[14:04] Larryp1960 becomes the president of C&O
+-- 2024-09-26 --
+[00:46] halcyonsusurrus buys a 10% share of B&O from the IPO for $76
+[15:29] speter22 buys a 10% share of PRR from the IPO for $76
+[15:29] Quercus_marilandica buys a 10% share of NYNH from the IPO for $67
+[15:29] Larryp1960 buys a 10% share of C&O from the IPO for $82
+[18:28] halcyonsusurrus buys a 10% share of B&O from the IPO for $76
+[18:28] speter22 buys a 10% share of PRR from the IPO for $76
+[18:28] Quercus_marilandica buys a 10% share of NYNH from the IPO for $67
+[18:28] Larryp1960 buys a 10% share of C&O from the IPO for $82
+[18:28] halcyonsusurrus buys a 10% share of B&O from the IPO for $76
+[18:28] speter22 buys a 10% share of PRR from the IPO for $76
+[18:28] PRR floats
+[18:28] PRR receives $760
+[18:28] Quercus_marilandica buys a 10% share of NYNH from the IPO for $67
+[18:28] Larryp1960 buys a 10% share of C&O from the IPO for $82
+[18:28] halcyonsusurrus buys a 10% share of B&O from the IPO for $76
+[18:28] B&O floats
+[18:28] B&O receives $760
+[18:28] speter22 has no valid actions and passes
+[18:28] Quercus_marilandica buys a 10% share of NYNH from the IPO for $67
+[18:28] NYNH floats
+[18:28] NYNH receives $670
+[18:28] Larryp1960 buys a 10% share of C&O from the IPO for $82
+[18:28] C&O floats
+[18:28] C&O receives $820
+[18:28] halcyonsusurrus has no valid actions and passes
+[18:28] speter22 has no valid actions and passes
+[18:28] Quercus_marilandica has no valid actions and passes
+[18:28] Larryp1960 has no valid actions and passes
+[18:28] halcyonsusurrus has priority deal
+[18:28] -- Operating Round 1.1 (of 1) --
+[18:28] halcyonsusurrus collects $10 from Champlain & St.Lawrence
+[18:28] halcyonsusurrus collects $30 from Baltimore & Ohio
+[18:28] speter22 collects $25 from Camden & Amboy
+[18:28] Quercus_marilandica collects $5 from Schuylkill Valley
+[18:28] Quercus_marilandica collects $20 from Mohawk & Hudson
+[18:28] Larryp1960 collects $15 from Delaware & Hudson
+[18:28] Larryp1960 operates C&O
+[18:28] C&O places a token on F6
+[18:30] C&O lays tile #2 with rotation 2 on G7 (Akron & Canton)
+[18:30] C&O skips place a token
+[18:30] C&O skips run routes
+[18:30] C&O does not run
+[18:30] C&O's share price moves left from $82 to $76
+[18:30] C&O buys a 2 train for $80 from The Depot
+[18:30] C&O passes buy trains
+[18:30] C&O skips buy companies
+[18:30] halcyonsusurrus operates B&O
+[18:30] B&O places a token on I15
+[18:31] B&O spends $80 and lays tile #57 with rotation 0 on J14 (Washington)
+[18:31] B&O passes place a token
+[18:31] B&O skips run routes
+[18:31] B&O does not run
+[18:31] B&O's share price moves left from $76 to $71
+[18:32] B&O buys a 2 train for $80 from The Depot
+[18:32] Baltimore & Ohio closes
+[18:32] B&O buys a 2 train for $80 from The Depot
+[18:33] B&O passes buy trains
+[18:33] B&O skips buy companies
+[18:33] speter22 operates PRR
+[18:33] PRR places a token on H12
+[18:56] PRR lays tile #9 with rotation 1 on H14
+[18:56] PRR skips place a token
+[18:56] PRR skips run routes
+[18:56] PRR does not run
+[18:56] PRR's share price moves left from $76 to $71
+[18:56] PRR buys a 2 train for $80 from The Depot
+[18:56] PRR passes buy trains
+[18:56] PRR skips buy companies
+[18:56] Quercus_marilandica operates NYNH
+[18:56] NYNH places a token on G19
+[19:05] NYNH lays tile #56 with rotation 0 on F20 (New Haven & Hartford)
+[19:05] NYNH skips place a token
+[19:05] NYNH skips run routes
+[19:05] NYNH does not run
+[19:05] NYNH's share price moves left from $67 to $65
+[19:05] NYNH buys a 2 train for $80 from The Depot
+[19:05] NYNH buys a 2 train for $80 from The Depot
+[19:05] NYNH buys a 3 train for $180 from The Depot
+[19:05] -- Phase 3 (Operating Rounds: 2 | Train Limit: 4 | Available Tiles: Yellow, Green) --
+[19:05] NYNH passes buy trains
+[19:05] NYNH buys Schuylkill Valley from Quercus_marilandica for $40
+[19:05] NYNH buys Mohawk & Hudson from Quercus_marilandica for $220
+[19:06] NYNH passes buy companies
+[19:06] -- Stock Round 2 --
+-- 2024-09-27 --
+[04:00] halcyonsusurrus buys a 10% share of NYNH from the IPO for $67
+[04:00] halcyonsusurrus declines to sell shares
+[04:09] speter22 buys a 10% share of NYNH from the IPO for $67
+[04:10] speter22 declines to sell shares
+[04:10] Quercus_marilandica sells 4 shares of NYNH and receives $260
+[04:10] NYNH's share price moves down from $65 to $40
+[04:10] Quercus_marilandica pars NYC at $67
+[04:10] Quercus_marilandica buys a 20% share of NYC from the IPO for $134
+[04:10] Quercus_marilandica becomes the president of NYC
+[15:31] Larryp1960 passes
+-- 2024-09-28 --
+[00:15] halcyonsusurrus passes
+[04:10] speter22 passes
+[04:10] Quercus_marilandica buys a 10% share of NYC from the IPO for $67
+[04:10] Quercus_marilandica declines to sell shares
+[04:10] Larryp1960 passes
+[04:10] halcyonsusurrus passes
+[04:10] speter22 passes
+[04:10] Quercus_marilandica buys a 10% share of NYC from the IPO for $67
+[04:10] Quercus_marilandica declines to sell shares
+[04:10] Larryp1960 passes
+[04:10] halcyonsusurrus passes
+[04:10] speter22 passes
+[04:10] Quercus_marilandica buys a 10% share of NYC from the IPO for $67
+[04:10] Quercus_marilandica declines to sell shares
+[04:10] Larryp1960 passes
+[04:10] halcyonsusurrus passes
+[04:10] speter22 passes
+[04:10] Quercus_marilandica buys a 10% share of NYC from the IPO for $67
+[04:10] NYC floats
+[04:10] NYC receives $670
+[04:58] Quercus_marilandica declines to sell shares
+[04:58] Larryp1960 passes
+[04:58] halcyonsusurrus passes
+[04:58] speter22 passes
+[04:59] Quercus_marilandica sells 2 shares of NYC and receives $134
+[04:59] NYC's share price moves down from $67 to $67
+[04:59] Quercus_marilandica buys a 10% share of B&O from the IPO for $76
+[14:48] Larryp1960 passes
+[15:49] halcyonsusurrus passes
+[16:45] speter22 passes
+[16:45] Quercus_marilandica buys a 10% share of B&O from the IPO for $76
+[16:45] Quercus_marilandica declines to sell shares
+[16:45] Larryp1960 passes
+[16:45] halcyonsusurrus passes
+[16:45] speter22 passes
+[16:45] Quercus_marilandica buys a 10% share of B&O from the IPO for $76
+[16:45] Quercus_marilandica declines to sell shares
+[16:45] Larryp1960 passes
+[16:45] halcyonsusurrus passes
+[16:45] speter22 passes
+[16:45] Quercus_marilandica buys a 10% share of B&O from the IPO for $76
+[18:40] Quercus_marilandica declines to sell shares
+[18:40] Larryp1960 passes
+[18:40] halcyonsusurrus passes
+[18:40] speter22 passes
+[18:40] Quercus_marilandica passes
+[18:40] B&O's share price moves up from $71 to $76
+[18:40] Larryp1960 has priority deal
+[18:40] -- Operating Round 2.1 (of 2) --
+[18:40] Larryp1960 collects $15 from Delaware & Hudson
+[18:40] halcyonsusurrus collects $10 from Champlain & St.Lawrence
+[18:40] speter22 collects $25 from Camden & Amboy
+[18:40] NYNH collects $5 from Schuylkill Valley
+[18:40] NYNH collects $20 from Mohawk & Hudson
+[18:40] Larryp1960 operates C&O
+[19:08] C&O lays tile #8 with rotation 2 on H8
+[19:08] C&O skips place a token
+[19:08] C&O runs a 2 train for $40: F6-G7
+[19:08] C&O pays out $40 = $4 per share ($24 to Larryp1960)
+[19:08] C&O's share price moves right from $76 to $82
+[19:08] C&O buys a 3 train for $180 from The Depot
+[19:09] C&O passes buy trains
+[19:09] C&O buys Delaware & Hudson from Larryp1960 for $140
+[19:10] C&O passes buy companies
+[19:10] halcyonsusurrus operates B&O
+[19:23] B&O lays tile #53 with rotation 0 on I15 (Baltimore)
+[19:24] B&O places a token on J14 (Washington) for $40
+[19:25] B&O runs a 2 train for $50: J14-K13
+[19:25] B&O runs a 2 train for $70: I15-J14
+[19:25] B&O pays out $120 = $12 per share ($72 to halcyonsusurrus, $48 to Quercus_marilandica)
+[19:25] B&O's share price moves right from $76 to $82
+[19:26] B&O passes buy trains
+[19:26] B&O passes buy companies
+[19:26] speter22 operates PRR
+[19:32] PRR lays tile #57 with rotation 1 on H16 (Lancaster)
+[19:33] PRR passes place a token
+[19:33] PRR runs a 2 train for $30: H12-H16
+[19:33] PRR pays out $30 = $3 per share ($18 to speter22)
+[19:33] PRR's share price moves right from $71 to $76
+[19:33] PRR buys a 3 train for $180 from The Depot
+[19:34] PRR buys a 3 train for $180 from The Depot
+[19:34] PRR passes buy trains
+[19:34] PRR buys Camden & Amboy from speter22 for $320
+[19:34] PRR skips buy companies
+[19:34] Quercus_marilandica operates NYC
+[19:34] NYC places a token on E19
+[19:38] NYC lays tile #57 with rotation 5 on E19 (Albany)
+[19:38] NYC skips place a token
+[19:38] NYC skips run routes
+[19:38] NYC does not run
+[19:38] NYC's share price moves left from $67 to $60
+[19:38] NYC buys a 3 train for $180 from The Depot
+[19:39] NYC passes buy trains
+[19:39] NYC passes buy companies
+[19:39] Quercus_marilandica operates NYNH
+[19:40] NYNH lays tile #14 with rotation 2 on E19 (Albany)
+[19:40] NYNH places a token on E19 (Albany) for $40
+[19:40] NYNH runs a 3 train for $40: E19-F20
+[19:40] NYNH runs a 2 train for $50: G19-F20
+[19:40] NYNH pays out $90 = $9 per share ($36 to NYNH, $18 to Quercus_marilandica, $9 to halcyonsusurrus, $9 to speter22)
+[19:40] NYNH's share price moves right from $40 to $50
+[19:40] NYNH passes buy trains
+[19:41] NYNH passes buy companies
+[19:41] -- Operating Round 2.2 (of 2) --
+[19:41] halcyonsusurrus collects $10 from Champlain & St.Lawrence
+[19:41] C&O collects $15 from Delaware & Hudson
+[19:41] PRR collects $25 from Camden & Amboy
+[19:41] NYNH collects $5 from Schuylkill Valley
+[19:41] NYNH collects $20 from Mohawk & Hudson
+[19:41] Larryp1960 operates C&O
+-- 2024-09-29 --
+[01:34] C&O lays tile #57 with rotation 1 on H10 (Pittsburgh)
+[01:34] C&O places a token on H16 (Lancaster) for $40
+[01:35] C&O runs a 3 train for $50: H16-H10-G7
+[01:35] C&O runs a 2 train for $40: F6-G7
+[01:35] C&O pays out $90 = $9 per share ($54 to Larryp1960)
+[01:35] C&O's share price moves right from $82 to $90
+[01:35] C&O passes buy trains
+[01:35] C&O passes buy companies
+[01:35] halcyonsusurrus operates B&O
+[02:12] B&O spends $80 and lays tile #9 with rotation 1 on I17
+[02:12] B&O skips place a token
+[02:12] B&O runs a 2 train for $60: I15-I19
+[02:12] B&O runs a 2 train for $70: I15-J14
+[02:12] B&O pays out $130 = $13 per share ($78 to halcyonsusurrus, $52 to Quercus_marilandica)
+[02:12] B&O's share price moves right from $82 to $90
+[02:12] B&O buys Champlain & St.Lawrence from halcyonsusurrus for $80
+[02:13] B&O buys a 4 train for $300 from The Depot
+[02:13] -- Phase 4 (Operating Rounds: 2 | Train Limit: 3 | Available Tiles: Yellow, Green) --
+[02:13] -- Event: 2 trains rust ( C&O x1, B&O x2, PRR x1, NYNH x2) --
+[02:13] B&O (CS) lays tile #3 with rotation 1 on B20 (Burlington)
+[02:14] B&O passes buy trains
+[02:14] B&O skips buy companies
+[02:14] speter22 operates PRR
+[03:10] PRR lays tile #15 with rotation 1 on H16 (Lancaster)
+[03:10] PRR skips place a token
+[04:03] PRR runs a 3 train for $40: H12-H10-G7
+[04:03] PRR runs a 3 train for $40: H12-H16
+[04:04] PRR pays out $80 = $8 per share ($48 to speter22)
+[04:04] PRR's share price moves right from $76 to $82
+[04:04] PRR passes buy trains
+[04:04] PRR skips buy companies
+[04:04] Quercus_marilandica operates NYC
+[04:04] NYC lays tile #9 with rotation 0 on F18
+[04:04] NYC skips place a token
+[04:04] NYC runs a 3 train for $80: E19-F20-G19
+[04:04] NYC pays out $80 = $8 per share ($32 to Quercus_marilandica, $16 to NYC)
+[04:04] NYC's share price moves right from $60 to $67
+[04:05] NYC passes buy trains
+[04:05] NYC skips buy companies
+[04:05] Quercus_marilandica operates NYNH
+[04:05] NYNH lays tile #1 with rotation 2 on G17 (Reading & Allentown)
+[04:05] NYNH skips place a token
+[04:05] NYNH runs a 3 train for $80: G19-F20-E19
+[04:06] NYNH withholds $80
+[04:06] NYNH's share price moves left from $50 to $40
+[04:06] NYNH passes buy trains
+[04:06] NYNH skips buy companies
+[04:06] -- Stock Round 3 --
+[04:59] Larryp1960 buys a 10% share of PRR from the IPO for $76
+[05:00] Larryp1960 declines to sell shares
+[12:55] halcyonsusurrus sells 5 shares of B&O and receives $450
+[12:55] Quercus_marilandica becomes the president of B&O
+[12:55] B&O's share price moves down from $90 to $68
+[12:58] halcyonsusurrus buys a 10% share of PRR from the IPO for $76
+[15:23] speter22 buys a 10% share of B&O from the market for $68
+[15:23] speter22 declines to sell shares
+[15:50] Quercus_marilandica pars ERIE at $67
+[15:50] Quercus_marilandica buys a 20% share of ERIE from the IPO for $134
+[15:50] Quercus_marilandica becomes the president of ERIE
+[15:50] Quercus_marilandica declines to sell shares
+[17:28] Larryp1960 buys a 10% share of NYC from the market for $67
+[17:28] Larryp1960 declines to sell shares
+[19:37] halcyonsusurrus buys a 10% share of NYC from the market for $67
+[19:37] halcyonsusurrus declines to sell shares
+-- 2024-09-30 --
+[01:39] speter22 buys a 10% share of C&O from the IPO for $82
+[01:39] speter22 sells a 10% share of C&O and receives $90
+[01:39] C&O's share price moves down from $90 to $82
+[02:03] Quercus_marilandica sells a 10% share of B&O and receives $68
+[02:03] Quercus_marilandica buys a 10% share of NYC from the IPO for $67
+[02:09] Larryp1960 buys a 10% share of NYNH from the market for $40
+[02:09] Larryp1960 declines to sell shares
+[03:33] halcyonsusurrus buys a 10% share of ERIE from the IPO for $67
+[03:33] halcyonsusurrus declines to sell shares
+[03:49] speter22 buys a 10% share of NYC from the IPO for $67
+[03:49] speter22 declines to sell shares
+[04:22] Quercus_marilandica passes
+[05:05] Larryp1960 buys a 10% share of ERIE from the IPO for $67
+[05:06] Larryp1960 declines to sell shares
+[05:06] halcyonsusurrus buys a 10% share of ERIE from the IPO for $67
+[05:06] halcyonsusurrus declines to sell shares
+[13:20] speter22 buys a 10% share of B&O from the market for $68
+[13:20] speter22 declines to sell shares
+[14:15] Quercus_marilandica sells 2 shares of ERIE and receives $134
+[14:15] halcyonsusurrus becomes the president of ERIE
+[14:15] ERIE's share price moves down from $67 to $67
+[14:15] Quercus_marilandica buys a 10% share of NYNH from the IPO for $67
+[15:55] Quercus_marilandica sells a 10% share of B&O and receives $68
+[19:33] Larryp1960 passes
+-- 2024-10-01 --
+[02:28] halcyonsusurrus buys a 10% share of ERIE from the IPO for $67
+[02:28] ERIE floats
+[02:28] ERIE receives $670
+[02:29] halcyonsusurrus declines to sell shares
+[04:18] speter22 buys a 10% share of ERIE from the IPO for $67
+[04:19] speter22 declines to sell shares
+[04:26] Quercus_marilandica buys a 10% share of NYNH from the IPO for $67
+[04:26] Quercus_marilandica declines to sell shares
+[04:26] Larryp1960 passes
+[11:32] halcyonsusurrus buys a 10% share of NYC from the IPO for $67
+[11:32] halcyonsusurrus declines to sell shares
+[15:03] speter22 buys a 10% share of NYC from the IPO for $67
+[15:03] speter22 declines to sell shares
+[15:03] Quercus_marilandica buys a 10% share of NYNH from the market for $40
+[15:03] Quercus_marilandica declines to sell shares
+[15:03] Larryp1960 passes
+-- 2024-10-02 --
+[02:15] halcyonsusurrus passes
+[14:30] speter22 passes
+[14:30] Quercus_marilandica buys a 10% share of NYNH from the market for $40
+[14:30] Quercus_marilandica declines to sell shares
+[14:30] Larryp1960 passes
+-- 2024-10-03 --
+[14:27] halcyonsusurrus buys a 10% share of C&O from the IPO for $82
+[14:27] halcyonsusurrus declines to sell shares
+[20:39] speter22 passes
+[20:39] Quercus_marilandica buys a 10% share of NYNH from the market for $40
+[20:39] Quercus_marilandica declines to sell shares
+[20:39] Larryp1960 passes
+-- 2024-10-04 --
+[01:42] halcyonsusurrus passes
+[04:48] speter22 passes
+[04:48] Quercus_marilandica passes
+[04:48] NYC's share price moves up from $67 to $67
+[04:48] NYNH's share price moves up from $40 to $50
+[04:48] Larryp1960 has priority deal
+[04:48] -- Operating Round 3.1 (of 2) --
+[04:48] PRR collects $25 from Camden & Amboy
+[04:48] C&O collects $15 from Delaware & Hudson
+[04:48] B&O collects $10 from Champlain & St.Lawrence
+[04:48] NYNH collects $5 from Schuylkill Valley
+[04:48] NYNH collects $20 from Mohawk & Hudson
+[04:48] speter22 operates PRR
+[04:49] PRR lays tile #59 with rotation 1 on H18 (Philadelphia & Trenton)
+[04:49] PRR places a token on H16 (Lancaster) for $40
+[04:50] PRR runs a 3 train for $60: H16-H10-G7
+[04:50] PRR runs a 3 train for $80: H18-H16-G17
+[04:50] PRR pays out $140 = $14 per share ($84 to speter22, $14 to Larryp1960, $14 to halcyonsusurrus)
+[04:50] PRR's share price moves right from $82 to $90
+[04:52] PRR passes buy trains
+[04:52] PRR skips buy companies
+[04:52] Larryp1960 operates C&O
+[05:02] C&O lays tile #8 with rotation 1 on G5
+[05:02] C&O passes place a token
+[05:02] C&O runs a 3 train for $90: H18-H16-H10
+[05:02] C&O withholds $90
+[05:02] C&O's share price moves left from $82 to $76
+[05:02] C&O passes buy trains
+[05:02] C&O skips buy companies
+[05:02] Quercus_marilandica operates B&O
+[05:16] B&O lays tile #27 with rotation 4 on H14
+[05:16] B&O skips place a token
+[05:17] B&O runs a 4 train for $130: K13-J14-I15-H16
+[05:17] B&O pays out $130 = $13 per share ($65 to B&O, $26 to speter22, $26 to Quercus_marilandica, $13 to halcyonsusurrus)
+[05:17] B&O's share price moves up from $68 to $69
+[05:17] B&O passes buy trains
+[05:17] B&O skips buy companies
+[05:17] Quercus_marilandica operates NYC
+[05:17] NYC spends $80 and lays tile #54 with rotation 0 on G19 (New York & Newark)
+[05:17] NYC skips place a token
+[05:18] NYC runs a 3 train for $100: E19-F20-G19
+[05:18] NYC pays out $100 = $10 per share ($50 to Quercus_marilandica, $20 to halcyonsusurrus, $20 to speter22, $10 to Larryp1960)
+[05:18] NYC's share price moves right from $67 to $69
+[05:18] NYC passes buy trains
+[05:18] NYC skips buy companies
+[05:18] halcyonsusurrus operates ERIE
+[05:18] ERIE places a token on E11
+[12:50] ERIE lays tile #59 with rotation 2 on E11 (Dunkirk & Buffalo)
+[12:50] ERIE must choose city for token
+[12:50] ERIE places a token on E11 (Dunkirk & Buffalo)
+[12:50] ERIE skips place a token
+[12:50] ERIE skips run routes
+[12:50] ERIE does not run
+[12:50] ERIE's share price moves left from $67 to $60
+[12:50] ERIE buys a 4 train for $300 from The Depot
+[12:50] ERIE passes buy trains
+[12:50] ERIE skips buy companies
+[12:50] Quercus_marilandica operates NYNH
+[13:08] NYNH lays tile #8 with rotation 5 on D18
+[13:08] NYNH skips place a token
+[13:08] NYNH runs a 3 train for $100: G19-F20-E19
+[13:08] NYNH pays out $100 = $10 per share ($70 to Quercus_marilandica, $10 to Larryp1960, $10 to halcyonsusurrus, $10 to speter22)
+[13:08] NYNH's share price moves right from $50 to $60
+[13:08] NYNH passes buy trains
+[13:08] NYNH skips buy companies
+[13:08] -- Operating Round 3.2 (of 2) --
+[13:08] PRR collects $25 from Camden & Amboy
+[13:08] C&O collects $15 from Delaware & Hudson
+[13:08] B&O collects $10 from Champlain & St.Lawrence
+[13:08] NYNH collects $5 from Schuylkill Valley
+[13:08] NYNH collects $20 from Mohawk & Hudson
+[13:08] speter22 operates PRR
+[13:39] PRR lays tile #15 with rotation 1 on H10 (Pittsburgh)
+[13:39] PRR skips place a token
+[13:42] PRR runs a 3 train for $50: H12-H10-G7
+[13:42] PRR runs a 3 train for $120: I15-H16-H18
+[13:42] PRR pays out $170 = $17 per share ($102 to speter22, $17 to Larryp1960, $17 to halcyonsusurrus)
+[13:42] PRR's share price moves right from $90 to $100
+[13:42] PRR passes buy trains
+[13:42] PRR skips buy companies
+[13:42] Larryp1960 operates C&O
+[14:03] C&O lays tile #8 with rotation 2 on G3
+[14:03] C&O passes place a token
+[14:03] C&O runs a 3 train for $120: I15-H16-H18
+[14:03] C&O pays out $120 = $12 per share ($72 to Larryp1960, $12 to halcyonsusurrus, $12 to C&O)
+[14:03] C&O's share price moves right from $76 to $82
+[14:03] C&O passes buy trains
+[14:03] C&O skips buy companies
+[14:03] Quercus_marilandica operates B&O
+[14:11] B&O lays tile #14 with rotation 2 on J14 (Washington)
+[14:11] B&O passes place a token
+[14:12] B&O runs a 4 train for $140: K13-J14-I15-H16
+[14:12] B&O pays out $140 = $14 per share ($70 to B&O, $28 to speter22, $28 to Quercus_marilandica, $14 to halcyonsusurrus)
+[14:12] B&O's share price moves right from $69 to $70
+[14:12] B&O passes buy trains
+[14:12] B&O skips buy companies
+[14:12] Quercus_marilandica operates NYC
+[14:12] NYC lays tile #9 with rotation 1 on D16
+[14:12] NYC places a token on D14 (Rochester) for $40
+[14:13] NYC runs a 3 train for $100: E19-F20-G19
+[14:13] NYC pays out $100 = $10 per share ($50 to Quercus_marilandica, $20 to halcyonsusurrus, $20 to speter22, $10 to Larryp1960)
+[14:13] NYC's share price moves right from $69 to $70
+[14:13] NYC passes buy trains
+[14:13] NYC skips buy companies
+[14:13] Quercus_marilandica operates NYNH
+[14:14] NYNH lays tile #24 with rotation 3 on F18
+[14:14] NYNH skips place a token
+[14:14] NYNH runs a 3 train for $110: G19-E19-D14
+[14:14] NYNH pays out $110 = $11 per share ($77 to Quercus_marilandica, $11 to Larryp1960, $11 to halcyonsusurrus, $11 to speter22)
+[14:14] NYNH's share price moves up from $60 to $67
+[14:16] NYNH passes buy trains
+[14:16] NYNH skips buy companies
+[14:16] halcyonsusurrus operates ERIE
+-- 2024-10-05 --
+[04:50] ERIE lays tile #8 with rotation 1 on E13
+[04:50] ERIE skips place a token
+[04:50] ERIE runs a 4 train for $60: E11-D14
+[04:50] ERIE pays out $60 = $6 per share ($18 to halcyonsusurrus, $12 to ERIE, $6 to Larryp1960, $6 to speter22)
+[04:50] ERIE's share price moves right from $60 to $67
+[04:50] ERIE passes buy trains
+[04:50] ERIE skips buy companies
+[04:50] -- Stock Round 4 --
+[05:03] Larryp1960 sells a 10% share of NYC and receives $70
+[05:03] Larryp1960 sells a 10% share of NYNH and receives $67
+[05:03] NYNH's share price moves down from $67 to $60
+[05:04] Larryp1960 sells a 10% share of ERIE and receives $67
+[05:04] ERIE's share price moves down from $67 to $60
+[05:05] Larryp1960 sells a 10% share of PRR and receives $100
+[05:05] PRR's share price moves down from $100 to $90
+[05:06] Larryp1960 sells a 10% share of C&O and receives $82
+[05:06] C&O's share price moves down from $82 to $76
+[05:07] Larryp1960 pars CPR at $90
+[05:07] Larryp1960 buys a 20% share of CPR from the IPO for $180
+[05:07] Larryp1960 becomes the president of CPR
+[18:42] halcyonsusurrus buys a 10% share of PRR from the IPO for $76
+[18:42] halcyonsusurrus declines to sell shares
+[20:13] speter22 pars B&M at $90
+[20:13] speter22 buys a 20% share of B&M from the IPO for $180
+[20:13] speter22 becomes the president of B&M
+[20:13] speter22 declines to sell shares
+[20:31] Quercus_marilandica sells 4 shares of NYNH and receives $240
+[20:31] NYNH's share price moves down from $60 to $40
+[20:32] Quercus_marilandica buys a 10% share of NYC from the market for $70
+[22:56] Larryp1960 buys a 10% share of CPR from the IPO for $90
+[22:56] Larryp1960 declines to sell shares
+-- 2024-10-06 --
+[04:36] halcyonsusurrus buys a 10% share of PRR from the IPO for $76
+[04:36] halcyonsusurrus declines to sell shares
+[17:43] speter22 buys a 10% share of B&M from the IPO for $90
+[17:43] speter22 declines to sell shares
+[17:55] Quercus_marilandica buys a 10% share of C&O from the market for $76
+[17:55] Quercus_marilandica declines to sell shares
+[17:55] Larryp1960 buys a 10% share of CPR from the IPO for $90
+[17:55] Larryp1960 declines to sell shares
+[20:02] halcyonsusurrus buys a 10% share of PRR from the market for $90
+[20:02] halcyonsusurrus declines to sell shares
+[20:02] speter22 buys a 10% share of B&M from the IPO for $90
+[20:02] speter22 declines to sell shares
+[20:11] Quercus_marilandica buys a 10% share of B&O from the market for $70
+[20:11] Quercus_marilandica declines to sell shares
+[20:11] Larryp1960 buys a 10% share of CPR from the IPO for $90
+[20:11] Larryp1960 declines to sell shares
+[22:28] halcyonsusurrus passes
+[23:12] speter22 sells a 10% share of B&O and receives $70
+[23:13] speter22 sells a 10% share of NYC and receives $70
+[23:55] speter22 buys a 10% share of B&M from the IPO for $90
+[23:56] Quercus_marilandica buys a 10% share of ERIE from the market for $60
+[23:57] Quercus_marilandica declines to sell shares
+-- 2024-10-07 --
+[03:12] Larryp1960 buys a 10% share of CPR from the IPO for $90
+[03:12] CPR floats
+[03:12] CPR receives $900
+[03:13] Larryp1960 declines to sell shares
+[04:47] halcyonsusurrus buys a 10% share of NYC from the market for $70
+[04:47] halcyonsusurrus declines to sell shares
+[15:21] speter22 buys a 10% share of B&M from the IPO for $90
+[15:21] B&M floats
+[15:21] B&M receives $900
+[15:21] speter22 declines to sell shares
+[17:12] Quercus_marilandica passes
+[21:44] Larryp1960 passes
+[22:00] halcyonsusurrus passes
+-- 2024-10-08 --
+[02:42] speter22 passes
+[02:42] PRR's share price moves up from $90 to $100
+[02:42] NYC's share price moves up from $70 to $75
+[02:42] Quercus_marilandica has priority deal
+[02:42] -- Operating Round 4.1 (of 2) --
+[02:42] PRR collects $25 from Camden & Amboy
+[02:42] C&O collects $15 from Delaware & Hudson
+[02:42] B&O collects $10 from Champlain & St.Lawrence
+[02:42] NYNH collects $5 from Schuylkill Valley
+[02:42] NYNH collects $20 from Mohawk & Hudson
+[02:42] speter22 operates PRR
+[03:19] PRR lays tile #9 with rotation 0 on G11
+[03:19] PRR skips place a token
+[03:40] PRR runs a 3 train for $50: H12-H10-G7
+[03:40] PRR runs a 3 train for $120: I15-H16-H18
+[03:40] PRR pays out $170 = $17 per share ($102 to speter22, $68 to halcyonsusurrus)
+[03:40] PRR's share price moves right from $100 to $110
+[03:40] PRR passes buy trains
+[03:40] PRR skips buy companies
+[03:40] Larryp1960 operates CPR
+[03:40] CPR places a token on A19
+[05:53] CPR spends $80 and lays tile #7 with rotation 2 on B18
+[05:53] CPR skips place a token
+[05:53] CPR skips run routes
+[05:53] CPR does not run
+[05:53] CPR's share price moves left from $90 to $82
+[05:53] CPR buys a 4 train for $300 from The Depot
+[05:53] CPR passes buy trains
+[05:53] CPR skips buy companies
+[05:53] speter22 operates B&M
+[05:53] B&M places a token on E23
+[14:47] B&M spends $120 and lays tile #9 with rotation 1 on D22
+[14:47] B&M skips place a token
+[14:47] B&M skips run routes
+[14:47] B&M does not run
+[14:47] B&M's share price moves left from $90 to $82
+[20:09] B&M buys a 3 train for $490 from PRR
+[20:10] B&M passes buy trains
+[20:10] B&M skips buy companies
+[20:10] Larryp1960 operates C&O
+[21:20] C&O lays tile #28 with rotation 4 on G3
+[21:20] C&O passes place a token
+[21:20] C&O runs a 3 train for $120: I15-H16-H18
+[21:20] C&O pays out $120 = $12 per share ($60 to Larryp1960, $12 to Quercus_marilandica, $12 to halcyonsusurrus, $12 to C&O)
+[21:20] C&O's share price moves right from $76 to $82
+[21:20] C&O passes buy trains
+[21:20] C&O skips buy companies
+[21:20] Quercus_marilandica operates NYC
+[21:35] NYC lays tile #8 with rotation 4 on D20
+[21:35] NYC skips place a token
+[21:35] NYC runs a 3 train for $120: G19-E19-E23
+[21:37] NYC withholds $120
+[21:37] NYC's share price moves left from $75 to $71
+[21:37] NYC passes buy trains
+[21:37] NYC skips buy companies
+[21:37] Quercus_marilandica operates B&O
+[21:37] B&O lays tile #24 with rotation 1 on I17
+[21:37] B&O passes place a token
+[21:37] B&O runs a 4 train for $140: K13-J14-I15-H16
+[21:37] B&O pays out $140 = $14 per share ($70 to B&O, $42 to Quercus_marilandica, $14 to halcyonsusurrus, $14 to speter22)
+[21:37] B&O's share price moves up from $70 to $75
+[21:37] B&O passes buy trains
+[21:37] B&O skips buy companies
+[21:37] halcyonsusurrus operates ERIE
+[23:58] ERIE lays tile #29 with rotation 1 on E13
+[23:58] ERIE skips place a token
+[23:59] ERIE runs a 4 train for $60: E11-D14
+[23:59] ERIE pays out $60 = $6 per share ($18 to halcyonsusurrus, $12 to ERIE, $6 to Quercus_marilandica, $6 to speter22)
+[23:59] ERIE's share price moves up from $60 to $67
+[23:59] ERIE passes buy trains
+[23:59] ERIE skips buy companies
+[23:59] Quercus_marilandica operates NYNH
+-- 2024-10-09 --
+[00:06] NYNH lays tile #53 with rotation 3 on E23 (Boston)
+[00:06] NYNH skips place a token
+[00:06] NYNH runs a 3 train for $140: G19-E19-E23
+[00:06] NYNH withholds $140
+[00:06] NYNH's share price moves left from $40 to $30
+[00:06] NYNH passes buy trains
+[00:06] NYNH skips buy companies
+[00:06] -- Operating Round 4.2 (of 2) --
+[00:06] PRR collects $25 from Camden & Amboy
+[00:06] C&O collects $15 from Delaware & Hudson
+[00:06] B&O collects $10 from Champlain & St.Lawrence
+[00:06] NYNH collects $5 from Schuylkill Valley
+[00:06] NYNH collects $20 from Mohawk & Hudson
+[00:06] speter22 operates PRR
+[06:03] PRR lays tile #9 with rotation 0 on F12
+[06:04] PRR passes place a token
+[06:04] PRR runs a 3 train for $120: I15-H16-H18
+[06:04] PRR pays out $120 = $12 per share ($72 to speter22, $48 to halcyonsusurrus)
+[06:04] PRR's share price moves right from $110 to $120
+[06:04] PRR passes buy trains
+[06:04] PRR skips buy companies
+[06:04] Larryp1960 operates C&O
+[09:00] C&O lays tile #23 with rotation 0 on F12
+[09:00] C&O places a token on H10 (Pittsburgh) for $100
+[09:00] C&O runs a 3 train for $120: I15-H16-H18
+[09:00] C&O pays out $120 = $12 per share ($60 to Larryp1960, $12 to Quercus_marilandica, $12 to halcyonsusurrus, $12 to C&O)
+[09:00] C&O's share price moves right from $82 to $90
+[09:00] C&O passes buy trains
+[09:00] C&O skips buy companies
+[09:00] Larryp1960 operates CPR
+[09:01] CPR lays tile #57 with rotation 0 on B16 (Ottawa)
+[09:01] CPR passes place a token
+[09:01] CPR runs a 4 train for $80: B20-A19-B16-C15
+[09:01] CPR pays out $80 = $8 per share ($48 to Larryp1960)
+[09:01] CPR's share price moves right from $82 to $90
+[09:01] CPR passes buy trains
+[09:01] CPR skips buy companies
+[09:01] speter22 operates B&M
+[14:29] B&M passes lay/upgrade track
+[14:29] B&M skips place a token
+[14:30] B&M runs a 3 train for $90: E19-E23-F24
+[14:33] B&M withholds $90
+[14:33] B&M's share price moves left from $82 to $76
+[14:33] B&M passes buy trains
+[14:33] B&M skips buy companies
+[14:33] Quercus_marilandica operates B&O
+[14:47] B&O passes lay/upgrade track
+[14:47] B&O passes place a token
+[14:48] B&O runs a 4 train for $140: K13-J14-I15-H16
+[14:48] B&O pays out $140 = $14 per share ($70 to B&O, $42 to Quercus_marilandica, $14 to halcyonsusurrus, $14 to speter22)
+[14:48] B&O's share price moves right from $75 to $80
+[14:48] B&O buys a 3 train for $245 from NYC
+[14:48] B&O passes buy trains
+[14:48] B&O skips buy companies
+[14:48] Quercus_marilandica operates NYC
+[14:49] NYC lays tile #9 with rotation 1 on D12
+[14:49] NYC skips place a token
+[14:49] NYC skips run routes
+[14:49] NYC does not run
+[14:49] NYC's share price moves left from $71 to $67
+[14:49] NYC buys a 4 train for $300 from The Depot
+[14:49] NYC buys a 5 train for $450 from The Depot
+[14:49] -- Phase 5 (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[14:49] -- Event: Private companies close --
+[14:49] NYC skips buy companies
+[14:49] halcyonsusurrus operates ERIE
+[15:27] ERIE lays tile #23 with rotation 1 on D12
+[15:27] ERIE skips place a token
+[15:27] ERIE runs a 4 train for $60: E11-D14
+[15:27] ERIE withholds $60
+[15:27] ERIE's share price moves left from $67 to $60
+[15:27] ERIE buys a 5 train for $450 from The Depot
+[15:27] ERIE skips buy companies
+[15:27] Quercus_marilandica operates NYNH
+[16:04] NYNH lays tile #64 with rotation 5 on H18 (Philadelphia & Trenton)
+[16:04] NYNH skips place a token
+[16:04] NYNH runs a 3 train for $140: G19-E19-E23
+[16:04] NYNH withholds $140
+[16:04] NYNH's share price moves left from $30 to $20
+[16:04] NYNH buys a 5 train for $450 from The Depot
+[16:04] NYNH skips buy companies
+[16:04] -- Stock Round 5 --
+[16:04] Quercus_marilandica buys a 10% share of NYNH from the market for $20
+[16:04] Quercus_marilandica buys a 10% share of NYNH from the market for $20
+[16:04] Quercus_marilandica buys a 10% share of NYNH from the market for $20
+[16:04] Quercus_marilandica buys a 10% share of NYNH from the market for $20
+[16:04] Quercus_marilandica buys a 10% share of NYNH from the market for $20
+[16:05] Quercus_marilandica declines to sell shares
+[16:59] Larryp1960 buys a 10% share of ERIE from the market for $60
+[16:59] Larryp1960 declines to sell shares
+[19:21] halcyonsusurrus buys a 10% share of CPR from the IPO for $90
+[19:21] halcyonsusurrus declines to sell shares
+[20:08] speter22 buys a 10% share of ERIE from the market for $60
+[20:09] speter22 declines to sell shares
+[21:39] Quercus_marilandica buys a 10% share of CPR from the IPO for $90
+[21:39] Quercus_marilandica declines to sell shares
+-- 2024-10-10 --
+[01:49] Larryp1960 buys a 10% share of ERIE from the IPO for $67
+[01:49] Larryp1960 declines to sell shares
+[18:56] halcyonsusurrus buys a 10% share of ERIE from the IPO for $67
+[18:56] halcyonsusurrus declines to sell shares
+[19:49] speter22 buys a 10% share of ERIE from the IPO for $67
+[19:50] speter22 declines to sell shares
+[19:55] Quercus_marilandica passes
+-- 2024-10-11 --
+[20:29] Larryp1960 passes
+[21:35] halcyonsusurrus passes
+[21:47] speter22 buys a 10% share of C&O from the IPO for $82
+[21:47] speter22 declines to sell shares
+[21:50] Quercus_marilandica buys a 10% share of B&O from the market for $80
+[21:50] Quercus_marilandica declines to sell shares
+[21:50] Larryp1960 passes
+[23:21] halcyonsusurrus buys a 10% share of C&O from the IPO for $82
+[23:21] halcyonsusurrus declines to sell shares
+[23:21] speter22 passes
+[23:27] Quercus_marilandica buys a 10% share of B&O from the market for $80
+[23:27] Quercus_marilandica declines to sell shares
+[23:27] Larryp1960 passes
+-- 2024-10-12 --
+[00:29] halcyonsusurrus sells 2 shares of C&O and receives $180
+[00:29] C&O's share price moves down from $90 to $80
+[00:32] halcyonsusurrus buys a 10% share of CPR from the IPO for $90
+[02:49] speter22 passes
+[03:04] Quercus_marilandica passes
+[03:38] Larryp1960 passes
+[17:50] halcyonsusurrus buys a 10% share of CPR from the IPO for $90
+[17:50] halcyonsusurrus declines to sell shares
+[17:50] speter22 passes
+[19:45] Quercus_marilandica passes
+[19:45] Larryp1960 passes
+[19:45] halcyonsusurrus passes
+[19:45] PRR's share price moves up from $120 to $140
+[19:45] CPR's share price moves up from $90 to $100
+[19:45] NYC's share price moves up from $67 to $71
+[19:45] ERIE's share price moves up from $60 to $63
+[19:45] NYNH's share price moves up from $20 to $30
+[19:45] speter22 has priority deal
+[19:45] -- Operating Round 5.1 (of 3) --
+[19:45] speter22 operates PRR
+[21:13] PRR lays tile #63 with rotation 0 on H16 (Lancaster)
+[21:14] PRR passes place a token
+[21:14] PRR runs a 3 train for $140: I15-H16-H18
+[21:14] PRR withholds $140
+[21:14] PRR's share price moves left from $140 to $125
+[21:24] PRR buys a 6 train for $630 from The Depot
+[21:24] -- Phase 6 (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[21:24] -- Event: 3 trains rust ( NYNH x1, C&O x1, B&M x1, PRR x1, B&O x1) --
+[21:24] PRR passes buy trains
+[21:24] PRR skips buy companies
+[21:24] Larryp1960 operates CPR
+[23:25] CPR lays tile #14 with rotation 0 on B16 (Ottawa)
+[23:25] CPR passes place a token
+[23:25] CPR runs a 4 train for $90: B20-A19-B16-C15
+[23:25] CPR pays out $90 = $9 per share ($54 to Larryp1960, $27 to halcyonsusurrus, $9 to Quercus_marilandica)
+[23:25] CPR's share price moves right from $100 to $112
+[23:26] CPR passes buy trains
+[23:26] CPR skips buy companies
+[23:26] Quercus_marilandica operates B&O
+-- 2024-10-13 --
+[01:07] B&O lays tile #61 with rotation 0 on I15 (Baltimore)
+[01:07] B&O skips place a token
+[01:07] B&O runs a 4 train for $170: K13-J14-I15-H16
+[01:07] B&O pays out $170 = $17 per share ($85 to Quercus_marilandica, $51 to B&O, $17 to speter22, $17 to halcyonsusurrus)
+[01:07] B&O's share price moves up from $80 to $90
+[01:09] B&O buys a 5 train for $140 from NYNH
+[01:09] B&O skips buy companies
+[01:09] Larryp1960 operates C&O
+[02:10] C&O lays tile #63 with rotation 0 on H10 (Pittsburgh)
+[02:10] C&O skips place a token
+[02:10] C&O skips run routes
+[02:10] C&O does not run
+[02:10] C&O's share price moves left from $80 to $75
+[02:20] Larryp1960 sells a 10% share of ERIE and receives $63
+[02:20] ERIE's share price moves down from $63 to $60
+[02:20] Larryp1960 contributes $149
+[02:20] C&O buys a 6 train for $630 from The Depot
+[02:20] C&O skips buy companies
+[02:20] speter22 operates B&M
+[19:13] B&M passes lay/upgrade track
+[19:13] B&M skips place a token
+[19:13] B&M skips run routes
+[19:13] B&M does not run
+[19:13] B&M's share price moves left from $76 to $70
+[19:13] speter22 sells a 10% share of B&O and receives $90
+[19:13] B&O's share price moves down from $90 to $80
+[19:13] speter22 sells a 10% share of C&O and receives $75
+[19:13] C&O's share price moves down from $75 to $70
+[19:13] speter22 sells a 10% share of NYC and receives $71
+[19:13] NYC's share price moves down from $71 to $67
+[19:14] speter22 contributes $188
+[19:14] B&M buys a 6 train for $568 from PRR
+[19:14] B&M skips buy companies
+[19:14] Quercus_marilandica operates NYC
+[19:32] NYC lays tile #42 with rotation 0 on F18
+[19:32] NYC skips place a token
+[19:32] NYC runs a 5 train for $170: D14-E19-G17-H18-G19
+[19:32] NYC runs a 4 train for $150: G19-F20-E19-E23
+[19:36] NYC withholds $320
+[19:36] NYC's share price moves left from $67 to $65
+[19:36] NYC skips buy trains
+[19:36] NYC skips buy companies
+[19:36] halcyonsusurrus operates ERIE
+[22:48] ERIE lays tile #43 with rotation 0 on E13
+[22:48] ERIE skips place a token
+[22:48] ERIE runs a 5 train for $60: E11-D14
+[22:48] ERIE withholds $60
+[22:48] ERIE's share price moves left from $60 to $50
+[22:48] ERIE skips buy trains
+[22:48] ERIE skips buy companies
+[22:48] Quercus_marilandica operates NYNH
+[23:16] NYNH lays tile #63 with rotation 0 on E19 (Albany)
+[23:16] NYNH skips place a token
+[23:16] NYNH skips run routes
+[23:16] NYNH does not run
+[23:16] NYNH's share price moves left from $30 to $20
+[23:19] NYNH buys a 5 train for $265 from NYC
+[23:19] NYNH passes buy trains
+[23:19] NYNH skips buy companies
+[23:19] -- Operating Round 5.2 (of 3) --
+[23:19] speter22 operates PRR
+[23:30] PRR lays tile #43 with rotation 1 on I17
+[23:30] PRR passes place a token
+[23:30] PRR skips run routes
+[23:30] PRR does not run
+[23:30] PRR's share price moves left from $125 to $111
+[23:37] speter22 sells 2 shares of B&M and receives $140
+[23:37] B&M's share price moves down from $70 to $60
+[23:38] speter22 sells 2 shares of B&M and receives $120
+[23:38] B&M's share price moves down from $60 to $50
+[23:38] speter22 sells 3 shares of ERIE and receives $150
+[23:38] ERIE's share price moves down from $50 to $20
+[23:38] speter22 contributes $447
+[23:38] PRR buys a D train for $1100 from The Depot
+[23:38] -- Phase D (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[23:38] -- Event: 4 trains rust ( B&O x1, ERIE x1, CPR x1, NYC x1) --
+[23:38] PRR skips buy companies
+[23:38] Larryp1960 operates CPR
+[23:56] CPR lays tile #9 with rotation 1 on C13
+[23:56] CPR passes place a token
+[23:56] CPR skips run routes
+[23:56] CPR does not run
+[23:56] CPR's share price moves left from $112 to $100
+[23:57] Larryp1960 sells a 10% share of ERIE and receives $20
+[23:57] Larryp1960 sells a 10% share of C&O and receives $70
+[23:57] -- Larryp1960 goes bankrupt and sells remaining shares --
+[23:57] Larryp1960 sells 3 shares of CPR and receives $300
+[23:57] CPR's share price moves down from $100 to $76
+[23:57] -- Game over: Quercus_marilandica ($1250), halcyonsusurrus ($1095), speter22 ($819), Larryp1960 ($508) --

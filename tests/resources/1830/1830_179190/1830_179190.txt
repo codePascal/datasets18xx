@@ -1,0 +1,1727 @@
+-- 2024-09-22 --
+[00:56] -- Phase 2 (Operating Rounds: 1 | Train Limit: 4 | Available Tiles: Yellow) --
+[00:56] ChillHoroz bids $45 for Champlain & St.Lawrence
+[09:02] this is not a train bids $165 for Camden & Amboy
+[10:29] Skarmazh bids $115 for Mohawk & Hudson
+[15:51] Leventix bids $170 for Camden & Amboy
+[15:57] ChillHoroz bids $75 for Delaware & Hudson
+[16:15] this is not a train bids $120 for Mohawk & Hudson
+[21:25] Skarmazh bids $50 for Champlain & St.Lawrence
+-- 2024-09-23 --
+[16:48] Leventix buys Schuylkill Valley for $20
+[16:48] Champlain & St.Lawrence goes up for auction
+[18:06] ChillHoroz bids $55 for Champlain & St.Lawrence
+[23:07] Skarmazh bids $60 for Champlain & St.Lawrence
+-- 2024-09-24 --
+[07:45] ChillHoroz bids $65 for Champlain & St.Lawrence
+[07:46] Skarmazh passes on Champlain & St.Lawrence
+[07:46] ChillHoroz wins the auction for Champlain & St.Lawrence with a bid of $65
+[07:46] ChillHoroz wins the auction for Delaware & Hudson with the only bid of $75
+[07:46] Mohawk & Hudson goes up for auction
+[07:46] Skarmazh bids $125 for Mohawk & Hudson
+[08:11] this is not a train bids $130 for Mohawk & Hudson
+[08:15] Skarmazh bids $135 for Mohawk & Hudson
+[08:50] this is not a train bids $140 for Mohawk & Hudson
+[08:50] Skarmazh bids $145 for Mohawk & Hudson
+[08:50] this is not a train bids $150 for Mohawk & Hudson
+[08:51] Skarmazh passes on Mohawk & Hudson
+[08:51] this is not a train wins the auction for Mohawk & Hudson with a bid of $150
+[08:51] Camden & Amboy goes up for auction
+[08:53] this is not a train bids $175 for Camden & Amboy
+[19:21] Leventix passes on Camden & Amboy
+[19:21] this is not a train wins the auction for Camden & Amboy with a bid of $175
+[19:21] this is not a train receives a 10% share of PRR
+[20:15] ChillHoroz passes bidding
+[20:19] this is not a train passes bidding
+[21:36] Skarmazh buys Baltimore & Ohio for $220
+[21:37] Skarmazh pars B&O at $100
+[21:37] Skarmazh receives a 20% share of B&O
+[21:37] Skarmazh becomes the president of B&O
+[21:37] Leventix has priority deal
+[21:37] -- Stock Round 1 --
+-- 2024-09-25 --
+[07:02] Leventix pars NYNH at $90
+[07:02] Leventix buys a 20% share of NYNH from the IPO for $180
+[07:02] Leventix becomes the president of NYNH
+-- 2024-09-26 --
+[07:55] ChillHoroz pars B&M at $76
+[07:55] ChillHoroz buys a 20% share of B&M from the IPO for $152
+[07:55] ChillHoroz becomes the president of B&M
+[08:16] this is not a train passes
+[08:17] Skarmazh buys a 10% share of B&M from the IPO for $76
+[08:17] Leventix buys a 10% share of NYNH from the IPO for $90
+[08:19] ChillHoroz buys a 10% share of B&M from the IPO for $76
+[08:19] this is not a train passes
+[08:53] Skarmazh buys a 10% share of NYNH from the IPO for $90
+[08:53] Leventix buys a 10% share of NYNH from the IPO for $90
+[18:19] ChillHoroz buys a 10% share of B&M from the IPO for $76
+[18:19] this is not a train passes
+-- 2024-09-28 --
+[00:05] Skarmazh buys a 10% share of B&O from the IPO for $100
+[00:05] Leventix buys a 10% share of NYNH from the IPO for $90
+[00:05] NYNH floats
+[00:05] NYNH receives $900
+[09:25] ChillHoroz buys a 10% share of B&M from the IPO for $76
+[09:25] B&M floats
+[09:25] B&M receives $760
+[09:25] this is not a train passes
+[09:58] Skarmazh passes
+[09:58] Leventix passes
+[11:09] ChillHoroz buys a 10% share of B&M from the IPO for $76
+[11:09] this is not a train passes
+[11:09] Skarmazh passes
+[11:09] Leventix passes
+[11:09] ChillHoroz has no valid actions and passes
+[11:09] this is not a train has priority deal
+[11:09] -- Operating Round 1.1 (of 1) --
+[11:09] this is not a train collects $20 from Mohawk & Hudson
+[11:09] this is not a train collects $25 from Camden & Amboy
+[11:09] Skarmazh collects $30 from Baltimore & Ohio
+[11:09] Leventix collects $5 from Schuylkill Valley
+[11:09] ChillHoroz collects $10 from Champlain & St.Lawrence
+[11:09] ChillHoroz collects $15 from Delaware & Hudson
+[11:09] Leventix operates NYNH
+[11:09] NYNH places a token on G19
+[12:24] NYNH lays tile #69 with rotation 4 on F20 (New Haven & Hartford)
+[12:24] NYNH skips place a token
+[12:24] NYNH skips run routes
+[12:24] NYNH does not run
+[12:24] NYNH's share price moves left from $90 to $82
+[12:25] NYNH buys a 2 train for $80 from The Depot
+[12:25] NYNH buys a 2 train for $80 from The Depot
+[12:25] NYNH passes buy trains
+[12:25] NYNH skips buy companies
+[12:25] ChillHoroz operates B&M
+[12:25] B&M places a token on E23
+[12:26] B&M spends $80 and lays tile #57 with rotation 1 on F22 (Providence)
+[12:28] B&M places a token on F22 (Providence) for $40
+[12:28] B&M skips run routes
+[12:28] B&M does not run
+[12:28] B&M's share price moves left from $76 to $71
+[12:28] B&M buys a 2 train for $80 from The Depot
+[12:28] B&M buys a 2 train for $80 from The Depot
+[12:28] B&M buys a 2 train for $80 from The Depot
+[12:29] B&M passes buy trains
+[12:29] B&M skips buy companies
+[12:29] -- Stock Round 2 --
+-- 2024-09-29 --
+[11:44] this is not a train buys a 10% share of B&M from the IPO for $76
+[11:44] this is not a train declines to sell shares
+[14:39] Skarmazh passes
+-- 2024-10-01 --
+[20:22] Leventix passes
+[22:58] ChillHoroz passes
+-- 2024-10-02 --
+[08:15] this is not a train buys a 10% share of NYNH from the IPO for $90
+[08:15] this is not a train declines to sell shares
+[08:15] Skarmazh passes
+[13:36] Leventix passes
+[18:10] ChillHoroz passes
+[18:39] this is not a train passes
+[18:39] Skarmazh has priority deal
+[18:39] -- Operating Round 2.1 (of 1) --
+[18:39] Skarmazh collects $30 from Baltimore & Ohio
+[18:39] Leventix collects $5 from Schuylkill Valley
+[18:39] ChillHoroz collects $10 from Champlain & St.Lawrence
+[18:39] ChillHoroz collects $15 from Delaware & Hudson
+[18:39] this is not a train collects $20 from Mohawk & Hudson
+[18:39] this is not a train collects $25 from Camden & Amboy
+[18:39] Leventix operates NYNH
+[19:32] NYNH lays tile #57 with rotation 2 on E19 (Albany)
+[19:32] NYNH skips place a token
+[19:33] NYNH runs a 2 train for $50: G19-F20
+[19:33] NYNH pays out $50 = $5 per share ($25 to Leventix, $5 to Skarmazh, $5 to this is not a train)
+[19:33] NYNH's share price moves right from $82 to $90
+[19:33] NYNH passes buy trains
+[19:33] NYNH skips buy companies
+[19:33] ChillHoroz operates B&M
+[20:39] B&M lays tile #8 with rotation 4 on F18
+[20:39] B&M skips place a token
+[20:40] B&M runs a 2 train for $30: F22-F20
+[20:40] B&M runs a 2 train for $30: F22-F24
+[20:40] B&M runs a 2 train for $40: E23-F24
+[20:40] B&M pays out $100 = $10 per share ($60 to ChillHoroz, $10 to Skarmazh, $10 to this is not a train)
+[20:40] B&M's share price moves right from $71 to $76
+[20:41] B&M passes buy trains
+[20:41] B&M skips buy companies
+[20:41] -- Stock Round 3 --
+[22:03] Skarmazh sells a 10% share of NYNH and receives $90
+[22:03] NYNH's share price moves down from $90 to $82
+[22:03] Skarmazh buys a 10% share of B&O from the IPO for $100
+[22:03] Skarmazh sells a 10% share of B&M and receives $76
+[22:03] B&M's share price moves down from $76 to $71
+-- 2024-10-03 --
+[08:39] Leventix buys a 10% share of NYNH from the market for $82
+[08:40] Leventix declines to sell shares
+[09:20] ChillHoroz passes
+[10:21] this is not a train sells a 10% share of B&M and receives $71
+[10:21] B&M's share price moves down from $71 to $67
+[10:21] this is not a train sells a 10% share of NYNH and receives $82
+[10:21] NYNH's share price moves down from $82 to $76
+[10:21] this is not a train pars PRR at $67
+[10:21] this is not a train buys a 20% share of PRR from the IPO for $134
+[10:21] this is not a train becomes the president of PRR
+[10:22] Skarmazh buys a 10% share of B&O from the IPO for $100
+[10:22] Skarmazh declines to sell shares
+[13:04] Leventix passes
+[17:04] ChillHoroz buys a 10% share of NYNH from the market for $76
+[17:04] ChillHoroz declines to sell shares
+[17:04] this is not a train buys a 10% share of PRR from the IPO for $67
+[17:04] this is not a train declines to sell shares
+[19:25] Skarmazh buys a 10% share of B&O from the IPO for $100
+[19:25] B&O floats
+[19:25] B&O receives $1000
+[19:26] Skarmazh declines to sell shares
+-- 2024-10-04 --
+[07:47] Leventix passes
+[08:04] ChillHoroz passes
+[08:04] this is not a train buys a 10% share of PRR from the IPO for $67
+[08:04] this is not a train declines to sell shares
+[10:04] Skarmazh passes
+[10:04] Leventix passes
+[11:54] ChillHoroz passes
+[11:54] this is not a train buys a 10% share of PRR from the IPO for $67
+[11:54] PRR floats
+[11:54] PRR receives $670
+[12:59] this is not a train declines to sell shares
+[12:59] Skarmazh passes
+[12:59] Leventix passes
+[13:38] ChillHoroz passes
+[13:38] this is not a train passes
+[13:38] Skarmazh has priority deal
+[13:38] -- Operating Round 3.1 (of 1) --
+[13:38] Skarmazh collects $30 from Baltimore & Ohio
+[13:38] Leventix collects $5 from Schuylkill Valley
+[13:38] ChillHoroz collects $10 from Champlain & St.Lawrence
+[13:38] ChillHoroz collects $15 from Delaware & Hudson
+[13:38] this is not a train collects $20 from Mohawk & Hudson
+[13:38] this is not a train collects $25 from Camden & Amboy
+[13:38] Skarmazh operates B&O
+[13:38] B&O places a token on I15
+-- 2024-10-07 --
+[13:37] B&O spends $80 and lays tile #57 with rotation 0 on J14 (Washington)
+[13:37] B&O passes place a token
+[13:37] B&O skips run routes
+[13:37] B&O does not run
+[13:37] B&O's share price moves left from $100 to $90
+[13:37] B&O buys a 2 train for $80 from The Depot
+[13:37] Baltimore & Ohio closes
+[13:37] B&O buys a 3 train for $180 from The Depot
+[13:37] -- Phase 3 (Operating Rounds: 2 | Train Limit: 4 | Available Tiles: Yellow, Green) --
+[13:37] B&O passes buy trains
+[13:38] B&O passes buy companies
+[13:38] Leventix operates NYNH
+[16:50] NYNH spends $80 and lays tile #54 with rotation 0 on G19 (New York & Newark)
+[16:50] NYNH skips place a token
+[16:51] NYNH runs a 2 train for $70: G19-F20
+[16:51] NYNH pays out $70 = $7 per share ($42 to Leventix, $7 to ChillHoroz)
+[16:51] NYNH's share price moves right from $76 to $82
+[16:51] NYNH buys a 3 train for $180 from The Depot
+[16:52] NYNH passes buy trains
+[16:52] NYNH passes buy companies
+[16:52] ChillHoroz operates B&M
+[17:57] B&M lays tile #53 with rotation 1 on E23 (Boston)
+[17:57] B&M skips place a token
+[17:59] B&M runs a 2 train for $30: F22-F20
+[17:59] B&M runs a 2 train for $30: F22-F24
+[17:59] B&M runs a 2 train for $60: E23-F24
+[17:59] B&M pays out $120 = $12 per share ($72 to ChillHoroz, $24 to B&M)
+[17:59] B&M's share price moves right from $67 to $71
+[17:59] B&M passes buy trains
+[18:00] B&M passes buy companies
+[18:00] this is not a train operates PRR
+[18:00] PRR places a token on H12
+[20:50] PRR lays tile #9 with rotation 1 on H14
+[20:50] PRR skips place a token
+[20:50] PRR skips run routes
+[20:50] PRR does not run
+[20:50] PRR's share price moves left from $67 to $65
+[20:50] PRR buys a 3 train for $180 from The Depot
+[20:50] PRR buys Camden & Amboy from this is not a train for $320
+[20:51] PRR passes buy trains
+[20:51] PRR passes buy companies
+[20:51] -- Stock Round 4 --
+[20:52] Skarmazh buys a 10% share of B&M from the market for $71
+[20:52] Skarmazh declines to sell shares
+-- 2024-10-08 --
+[12:55] Leventix buys a 10% share of PRR from the IPO for $67
+[12:55] Leventix declines to sell shares
+[20:20] ChillHoroz buys a 10% share of PRR from the IPO for $67
+[20:21] ChillHoroz declines to sell shares
+-- 2024-10-09 --
+[15:26] this is not a train buys a 10% share of B&M from the market for $71
+[15:26] this is not a train declines to sell shares
+-- 2024-10-10 --
+[08:40] Skarmazh passes
+[08:47] Leventix passes
+[18:23] ChillHoroz passes
+[23:07] this is not a train buys a 10% share of NYNH from the IPO for $90
+[23:07] this is not a train declines to sell shares
+[23:07] Skarmazh passes
+[23:07] Leventix passes
+-- 2024-10-11 --
+[07:31] ChillHoroz sells a 10% share of PRR and receives $65
+[07:31] PRR's share price moves down from $65 to $63
+[07:31] ChillHoroz buys a 10% share of B&O from the IPO for $100
+[09:29] this is not a train passes
+[09:36] Skarmazh passes
+[09:36] Leventix passes
+[17:57] ChillHoroz passes
+[17:57] this is not a train has priority deal
+[17:57] -- Operating Round 4.1 (of 2) --
+[17:57] this is not a train collects $20 from Mohawk & Hudson
+[17:57] Leventix collects $5 from Schuylkill Valley
+[17:57] ChillHoroz collects $10 from Champlain & St.Lawrence
+[17:57] ChillHoroz collects $15 from Delaware & Hudson
+[17:57] PRR collects $25 from Camden & Amboy
+[17:57] Skarmazh operates B&O
+-- 2024-10-12 --
+[19:45] B&O spends $80 and lays tile #9 with rotation 1 on I17
+[19:45] B&O passes place a token
+[19:45] B&O runs a 3 train for $80: I15-J14-K13
+[19:45] B&O runs a 2 train for $40: I15-I19
+[19:46] B&O pays out $120 = $12 per share ($72 to Skarmazh, $12 to ChillHoroz)
+[19:46] B&O's share price moves right from $90 to $100
+[19:46] B&O passes buy trains
+[19:46] B&O passes buy companies
+[19:46] Leventix operates NYNH
+-- 2024-10-13 --
+[12:54] NYNH lays tile #29 with rotation 4 on F18
+[12:54] NYNH skips place a token
+[12:55] NYNH runs a 3 train for $90: G19-F20-F22
+[12:55] NYNH runs a 2 train for $70: G19-F20
+[12:55] NYNH pays out $160 = $16 per share ($96 to Leventix, $16 to this is not a train, $16 to ChillHoroz)
+[12:55] NYNH's share price moves right from $82 to $90
+[12:56] NYNH buys a 3 train for $180 from The Depot
+[12:56] NYNH passes buy companies
+[12:56] ChillHoroz operates B&M
+[13:37] B&M lays tile #15 with rotation 1 on F22 (Providence)
+[13:37] B&M skips place a token
+[13:39] B&M runs a 2 train for $40: F22-F20
+[13:39] B&M runs a 2 train for $40: F22-F24
+[13:39] B&M runs a 2 train for $60: E23-F24
+[13:39] B&M pays out $140 = $14 per share ($84 to ChillHoroz, $14 to this is not a train, $14 to Skarmazh)
+[13:39] B&M's share price moves right from $71 to $75
+[13:39] B&M passes buy trains
+[13:39] B&M passes buy companies
+[13:39] this is not a train operates PRR
+[16:04] PRR lays tile #57 with rotation 1 on H16 (Lancaster)
+[16:05] PRR passes place a token
+[16:05] PRR runs a 3 train for $30: H12-H16
+[16:05] PRR pays out $30 = $3 per share ($18 to this is not a train, $3 to Leventix, $3 to PRR)
+[16:05] PRR's share price moves right from $63 to $67
+[16:05] PRR passes buy trains
+[16:06] PRR passes buy companies
+[16:06] -- Operating Round 4.2 (of 2) --
+[16:06] this is not a train collects $20 from Mohawk & Hudson
+[16:06] Leventix collects $5 from Schuylkill Valley
+[16:06] ChillHoroz collects $10 from Champlain & St.Lawrence
+[16:06] ChillHoroz collects $15 from Delaware & Hudson
+[16:06] PRR collects $25 from Camden & Amboy
+[16:06] Skarmazh operates B&O
+-- 2024-10-14 --
+[12:02] B&O lays tile #59 with rotation 3 on H18 (Philadelphia & Trenton)
+[12:02] B&O passes place a token
+[12:02] B&O runs a 3 train for $80: I15-I19-H18
+[12:02] B&O runs a 2 train for $50: I15-J14
+[12:02] B&O pays out $130 = $13 per share ($78 to Skarmazh, $13 to ChillHoroz)
+[12:02] B&O's share price moves right from $100 to $112
+[12:02] B&O passes buy trains
+[12:02] B&O passes buy companies
+[12:02] Leventix operates NYNH
+[21:08] NYNH spends $120 and lays tile #7 with rotation 4 on E21
+[21:08] NYNH places a token on F22 (Providence) for $40
+[21:08] NYNH runs a 3 train for $90: F22-F24-E23
+[21:08] NYNH runs a 3 train for $100: G19-F20-F22
+[21:08] NYNH runs a 2 train for $70: G19-F20
+[21:08] NYNH runs a 2 train for $80: F22-E23
+[21:08] NYNH pays out $340 = $34 per share ($204 to Leventix, $34 to this is not a train, $34 to ChillHoroz)
+[21:08] NYNH's share price moves right from $90 to $100
+[21:08] NYNH skips buy trains
+[21:09] NYNH passes buy companies
+[21:09] ChillHoroz operates B&M
+[21:31] B&M lays tile #2 with rotation 1 on G17 (Reading & Allentown)
+[21:31] B&M skips place a token
+[21:31] B&M runs a 2 train for $40: F22-F24
+[21:31] B&M runs a 2 train for $60: E23-F24
+[21:31] B&M runs a 2 train for $80: E23-F22
+[21:31] B&M pays out $180 = $18 per share ($108 to ChillHoroz, $18 to this is not a train, $18 to Skarmazh)
+[21:31] B&M's share price moves right from $75 to $80
+[21:31] B&M passes buy trains
+[21:31] B&M passes buy companies
+[21:31] this is not a train operates PRR
+[23:20] PRR lays tile #57 with rotation 1 on H10 (Pittsburgh)
+[23:20] PRR passes place a token
+[23:20] PRR runs a 3 train for $50: H10-H12-H16
+[23:20] PRR pays out $50 = $5 per share ($30 to this is not a train, $5 to Leventix, $5 to PRR)
+[23:20] PRR's share price moves right from $67 to $69
+[23:20] PRR passes buy trains
+[23:20] PRR buys Mohawk & Hudson from this is not a train for $220
+[23:20] PRR skips buy companies
+[23:20] -- Stock Round 5 --
+-- 2024-10-15 --
+[20:50] this is not a train sells 4 shares of PRR and receives $276
+[20:50] PRR's share price moves down from $69 to $68
+[20:51] this is not a train pars NYC at $100
+[20:51] this is not a train buys a 20% share of NYC from the IPO for $200
+[20:51] this is not a train becomes the president of NYC
+[21:33] Skarmazh sells a 10% share of B&M and receives $80
+[21:33] Skarmazh buys a 10% share of NYNH from the IPO for $90
+[22:15] Leventix buys a 10% share of B&O from the IPO for $100
+[22:16] Leventix declines to sell shares
+-- 2024-10-16 --
+[00:05] ChillHoroz sells a 10% share of B&O and receives $112
+[00:05] B&O's share price moves down from $112 to $100
+[00:06] ChillHoroz sells a 10% share of NYNH and receives $100
+[00:06] NYNH's share price moves down from $100 to $90
+[00:07] ChillHoroz pars C&O at $90
+[00:07] ChillHoroz buys a 20% share of C&O from the IPO for $180
+[00:07] ChillHoroz becomes the president of C&O
+[06:56] this is not a train buys a 10% share of B&O from the market for $100
+[06:56] this is not a train declines to sell shares
+[08:49] Skarmazh passes
+[08:59] Leventix buys a 10% share of B&O from the IPO for $100
+[08:59] Leventix declines to sell shares
+[20:51] ChillHoroz buys a 10% share of C&O from the IPO for $90
+[20:51] ChillHoroz declines to sell shares
+[21:02] this is not a train buys a 10% share of NYC from the IPO for $100
+[21:02] this is not a train declines to sell shares
+-- 2024-10-17 --
+[09:17] Skarmazh buys a 10% share of NYNH from the market for $90
+[09:17] Skarmazh declines to sell shares
+[09:18] Leventix buys a 10% share of B&O from the IPO for $100
+[09:18] Leventix declines to sell shares
+[18:04] ChillHoroz buys a 10% share of C&O from the IPO for $90
+[18:04] ChillHoroz declines to sell shares
+[18:04] this is not a train buys a 10% share of NYC from the IPO for $100
+[18:04] this is not a train declines to sell shares
+[20:01] Skarmazh buys a 10% share of NYNH from the IPO for $90
+[20:01] Skarmazh declines to sell shares
+[23:00] Leventix passes
+-- 2024-10-18 --
+[08:00] ChillHoroz buys a 10% share of C&O from the IPO for $90
+[08:00] ChillHoroz declines to sell shares
+[08:00] this is not a train buys a 10% share of NYC from the IPO for $100
+[08:00] this is not a train declines to sell shares
+-- 2024-10-21 --
+[17:55] Skarmazh passes
+-- 2024-10-22 --
+[21:01] Leventix passes
+-- 2024-10-23 --
+[08:15] ChillHoroz buys a 10% share of C&O from the IPO for $90
+[08:15] C&O floats
+[08:15] C&O receives $900
+[08:15] ChillHoroz declines to sell shares
+[08:15] this is not a train buys a 10% share of NYC from the IPO for $100
+[08:15] NYC floats
+[08:15] NYC receives $1000
+[09:01] this is not a train declines to sell shares
+[09:01] Skarmazh passes
+[09:01] Leventix passes
+[10:01] ChillHoroz passes
+[10:16] this is not a train pars ERIE at $100
+[10:16] this is not a train buys a 20% share of ERIE from the IPO for $200
+[10:16] this is not a train becomes the president of ERIE
+[10:16] this is not a train declines to sell shares
+[21:25] Skarmazh passes
+-- 2024-10-24 --
+[07:23] Leventix buys a 10% share of B&M from the IPO for $76
+-- 2024-10-25 --
+[14:05] Leventix declines to sell shares
+[18:38] ChillHoroz passes
+[18:54] this is not a train passes
+[18:54] Skarmazh passes
+[18:54] Leventix passes
+[18:54] B&O's share price moves up from $100 to $112
+[18:54] NYNH's share price moves up from $90 to $100
+[18:54] ChillHoroz has priority deal
+[18:54] -- Operating Round 5.1 (of 2) --
+[18:54] ChillHoroz collects $10 from Champlain & St.Lawrence
+[18:54] ChillHoroz collects $15 from Delaware & Hudson
+[18:54] Leventix collects $5 from Schuylkill Valley
+[18:54] PRR collects $20 from Mohawk & Hudson
+[18:54] PRR collects $25 from Camden & Amboy
+[18:54] Skarmazh operates B&O
+-- 2024-10-26 --
+[10:38] B&O lays tile #53 with rotation 2 on I15 (Baltimore)
+[10:38] B&O passes place a token
+[10:38] B&O runs a 3 train for $100: I15-I19-H18
+[10:38] B&O runs a 2 train for $70: I15-J14
+[10:38] B&O pays out $170 = $17 per share ($102 to Skarmazh, $51 to Leventix, $17 to this is not a train)
+[10:38] B&O's share price moves right from $112 to $126
+[10:38] B&O passes buy trains
+[10:38] B&O passes buy companies
+[10:38] Leventix operates NYNH
+[18:10] NYNH lays tile #8 with rotation 5 on D18
+[18:10] NYNH skips place a token
+[18:10] NYNH runs a 3 train for $90: F22-F24-E23
+[18:10] NYNH runs a 3 train for $100: G19-F20-F22
+[18:10] NYNH runs a 2 train for $70: G19-F20
+[18:10] NYNH runs a 2 train for $80: F22-E23
+[18:11] NYNH pays out $340 = $34 per share ($204 to Leventix, $102 to Skarmazh, $34 to this is not a train)
+[18:11] NYNH's share price moves right from $100 to $110
+[18:11] NYNH skips buy trains
+[18:11] NYNH passes buy companies
+[18:11] this is not a train operates NYC
+[18:11] NYC places a token on E19
+[18:16] NYC lays tile #9 with rotation 1 on D16
+[18:17] NYC passes place a token
+[18:17] NYC skips run routes
+[18:17] NYC does not run
+[18:17] NYC's share price moves left from $100 to $90
+[18:17] NYC buys a 3 train for $180 from The Depot
+[18:17] NYC buys a 4 train for $300 from The Depot
+[18:17] -- Phase 4 (Operating Rounds: 2 | Train Limit: 3 | Available Tiles: Yellow, Green) --
+[18:17] -- Event: 2 trains rust ( NYNH x2, B&M x3, B&O x1) --
+[18:17] NYC passes buy trains
+[18:17] NYC passes buy companies
+[18:17] ChillHoroz operates C&O
+[18:17] C&O places a token on F6
+[23:19] C&O lays tile #7 with rotation 2 on G5
+[23:19] C&O skips place a token
+[23:19] C&O skips run routes
+[23:19] C&O does not run
+[23:19] C&O's share price moves left from $90 to $82
+[23:19] C&O buys a 4 train for $300 from The Depot
+[23:19] C&O passes buy trains
+[23:19] C&O buys Champlain & St.Lawrence from ChillHoroz for $80
+[23:19] C&O buys Delaware & Hudson from ChillHoroz for $140
+[23:20] C&O passes buy companies
+[23:20] ChillHoroz operates B&M
+[23:22] B&M lays tile #27 with rotation 4 on E21
+[23:22] B&M skips place a token
+[23:22] B&M skips run routes
+[23:22] B&M does not run
+[23:22] B&M's share price moves left from $80 to $75
+[23:22] B&M buys a 4 train for $300 from The Depot
+[23:22] B&M passes buy trains
+[23:22] B&M passes buy companies
+[23:22] this is not a train operates PRR
+-- 2024-10-27 --
+[11:55] PRR lays tile #23 with rotation 1 on H14
+[11:55] PRR passes place a token
+[11:55] PRR runs a 3 train for $80: I15-H12-H10
+[11:55] PRR withholds $80
+[11:55] PRR's share price moves left from $68 to $67
+[11:55] PRR passes buy trains
+[11:55] PRR passes buy companies
+[11:55] -- Operating Round 5.2 (of 2) --
+[11:55] Leventix collects $5 from Schuylkill Valley
+[11:55] C&O collects $10 from Champlain & St.Lawrence
+[11:55] C&O collects $15 from Delaware & Hudson
+[11:55] PRR collects $20 from Mohawk & Hudson
+[11:55] PRR collects $25 from Camden & Amboy
+[11:55] Skarmazh operates B&O
+[11:57] B&O lays tile #9 with rotation 1 on H8
+[11:58] B&O places a token on H10 (Pittsburgh) for $40
+[11:58] B&O runs a 3 train for $100: I15-I19-H18
+[11:58] B&O pays out $100 = $10 per share ($60 to Skarmazh, $30 to Leventix, $10 to this is not a train)
+[11:58] B&O's share price moves right from $126 to $142
+[11:58] B&O passes buy trains
+[11:58] B&O passes buy companies
+[11:58] Leventix operates NYNH
+[14:29] NYNH lays tile #14 with rotation 2 on E19 (Albany)
+[14:29] NYNH skips place a token
+[14:29] NYNH runs a 3 train for $100: G19-F20-F22
+[14:29] NYNH runs a 3 train for $100: G19-F20-E19
+[14:33] NYNH withholds $200
+[14:33] NYNH's share price moves left from $110 to $100
+[14:33] NYNH buys a 4 train for $300 from The Depot
+[14:33] NYNH passes buy companies
+[14:33] this is not a train operates NYC
+[14:49] NYC lays tile #8 with rotation 1 on E13
+[14:49] NYC passes place a token
+[14:49] NYC runs a 4 train for $50: E19-D14
+[14:49] NYC runs a 3 train for $100: E19-F20-G19
+[14:49] NYC pays out $150 = $15 per share ($90 to this is not a train)
+[14:49] NYC's share price moves right from $90 to $100
+[14:50] NYC buys a 5 train for $450 from The Depot
+[14:50] -- Phase 5 (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[14:50] -- Event: Private companies close --
+[14:50] NYC discards 3
+[14:53] NYNH discards 3
+[14:53] NYC skips buy companies
+[14:53] ChillHoroz operates C&O
+[15:24] C&O spends $80 and lays tile #57 with rotation 2 on F4 (Toledo)
+[15:24] C&O passes place a token
+[15:24] C&O runs a 4 train for $50: F6-F4
+[15:24] C&O pays out $50 = $5 per share ($30 to ChillHoroz)
+[15:24] C&O's share price moves right from $82 to $90
+[15:26] C&O buys a 3 train for $180 from The Discard
+[15:26] C&O skips buy companies
+[15:26] ChillHoroz operates B&M
+[15:27] B&M lays tile #61 with rotation 3 on E23 (Boston)
+[15:27] B&M skips place a token
+[15:27] B&M runs a 4 train for $160: E23-F22-F20-G19
+[15:27] B&M withholds $160
+[15:27] B&M's share price moves left from $75 to $71
+[15:27] B&M buys a 3 train for $180 from The Discard
+[15:27] B&M skips buy companies
+[15:27] this is not a train operates PRR
+[15:42] PRR lays tile #15 with rotation 1 on H10 (Pittsburgh)
+[15:42] PRR places a token on H10 (Pittsburgh) for $40
+[15:43] PRR runs a 3 train for $90: H10-H12-I15
+[15:44] PRR pays out $90 = $9 per share ($45 to PRR, $18 to this is not a train, $9 to Leventix)
+[15:44] PRR's share price moves right from $67 to $68
+[15:45] PRR passes buy trains
+[15:45] PRR skips buy companies
+[15:45] -- Stock Round 6 --
+[17:00] ChillHoroz buys a 10% share of NYC from the IPO for $100
+[17:00] ChillHoroz declines to sell shares
+[17:38] this is not a train sells a 10% share of B&O and receives $142
+[17:38] B&O's share price moves down from $142 to $126
+[17:38] this is not a train sells a 10% share of NYNH and receives $100
+[17:38] NYNH's share price moves down from $100 to $90
+[17:38] this is not a train buys a 10% share of ERIE from the IPO for $100
+-- 2024-10-30 --
+[22:09] Skarmazh passes
+-- 2024-10-31 --
+[17:22] Leventix buys a 10% share of B&M from the market for $71
+[17:22] Leventix declines to sell shares
+[23:23] ChillHoroz buys a 10% share of NYNH from the market for $90
+[23:23] ChillHoroz declines to sell shares
+-- 2024-11-01 --
+[07:10] this is not a train buys a 10% share of ERIE from the IPO for $100
+[07:10] this is not a train declines to sell shares
+[07:10] Skarmazh passes
+[07:16] Leventix buys a 10% share of B&M from the IPO for $76
+[07:16] Leventix declines to sell shares
+[08:01] ChillHoroz buys a 10% share of PRR from the IPO for $67
+[08:02] ChillHoroz declines to sell shares
+[08:37] this is not a train buys a 10% share of ERIE from the IPO for $100
+[08:37] this is not a train declines to sell shares
+[08:37] Skarmazh passes
+[10:02] Leventix buys a 10% share of NYC from the IPO for $100
+[10:02] Leventix declines to sell shares
+[18:23] ChillHoroz passes
+[19:19] this is not a train buys a 10% share of ERIE from the IPO for $100
+[19:19] ERIE floats
+[19:19] ERIE receives $1000
+[19:19] this is not a train declines to sell shares
+[19:19] Skarmazh passes
+[19:40] Leventix sells a 10% share of NYC and receives $100
+[19:40] NYC's share price moves down from $100 to $90
+[19:41] Leventix buys a 10% share of ERIE from the IPO for $100
+[19:42] Leventix sells 3 shares of B&M and receives $213
+[19:42] B&M's share price moves down from $71 to $68
+-- 2024-11-02 --
+[11:08] ChillHoroz passes
+[19:06] this is not a train passes
+[19:12] Skarmazh buys a 10% share of NYC from the market for $90
+[19:12] Skarmazh declines to sell shares
+[19:12] Leventix buys a 10% share of ERIE from the IPO for $100
+[19:12] Leventix declines to sell shares
+[19:55] ChillHoroz passes
+[19:55] this is not a train passes
+[19:59] Skarmazh buys a 10% share of NYC from the IPO for $100
+[19:59] Skarmazh declines to sell shares
+[19:59] Leventix buys a 10% share of ERIE from the IPO for $100
+[19:59] Leventix declines to sell shares
+[20:12] ChillHoroz passes
+[20:12] this is not a train passes
+[20:12] Skarmazh sells 3 shares of NYNH and receives $270
+[20:12] NYNH's share price moves down from $90 to $80
+[20:12] Skarmazh buys a 10% share of NYC from the IPO for $100
+[20:17] Leventix sells 3 shares of B&O and receives $378
+[20:17] B&O's share price moves down from $126 to $90
+[20:17] Leventix buys a 10% share of ERIE from the IPO for $100
+[20:17] Leventix sells 4 shares of ERIE and receives $400
+[20:17] ERIE's share price moves down from $100 to $71
+[20:19] ChillHoroz passes
+[21:31] this is not a train passes
+-- 2024-11-03 --
+[21:17] Skarmazh passes
+[21:18] Leventix pars CPR at $100
+[21:18] Leventix buys a 20% share of CPR from the IPO for $200
+[21:18] Leventix becomes the president of CPR
+[21:18] Leventix declines to sell shares
+-- 2024-11-04 --
+[10:26] ChillHoroz passes
+[10:33] this is not a train passes
+-- 2024-11-05 --
+[08:24] Skarmazh passes
+[08:24] Leventix buys a 10% share of CPR from the IPO for $100
+[08:24] Leventix declines to sell shares
+[10:19] ChillHoroz passes
+[10:41] this is not a train passes
+[10:41] Skarmazh passes
+[10:41] Leventix buys a 10% share of CPR from the IPO for $100
+[10:41] Leventix declines to sell shares
+[11:17] ChillHoroz passes
+[22:15] this is not a train passes
+[22:15] Skarmazh passes
+[22:15] Leventix buys a 10% share of CPR from the IPO for $100
+[22:15] Leventix declines to sell shares
+[22:16] ChillHoroz passes
+[22:18] this is not a train passes
+[22:18] Skarmazh passes
+[22:18] Leventix buys a 10% share of CPR from the IPO for $100
+[22:18] CPR floats
+[22:18] CPR receives $1000
+[22:18] Leventix declines to sell shares
+[22:33] ChillHoroz passes
+-- 2024-11-06 --
+[08:08] this is not a train sells a 10% share of NYC and receives $90
+[08:08] NYC's share price moves down from $90 to $82
+[08:08] this is not a train buys a 10% share of CPR from the IPO for $100
+[08:08] this is not a train sells a 10% share of CPR and receives $100
+[08:08] CPR's share price moves down from $100 to $90
+[09:07] Skarmazh passes
+[09:09] Leventix buys a 10% share of C&O from the IPO for $90
+[09:09] Leventix declines to sell shares
+[09:10] ChillHoroz passes
+[10:25] this is not a train passes
+[10:25] Skarmazh passes
+[10:25] Leventix passes
+[10:25] ChillHoroz has priority deal
+[10:25] -- Operating Round 6.1 (of 3) --
+[10:25] Skarmazh operates B&O
+[23:14] B&O lays tile #9 with rotation 1 on H6
+[23:14] B&O passes place a token
+[23:14] B&O runs a 3 train for $110: I15-J14-K13
+[23:14] B&O pays out $110 = $11 per share ($66 to Skarmazh, $44 to B&O)
+[23:14] B&O's share price moves right from $90 to $100
+[23:15] B&O buys a 5 train for $450 from The Depot
+[23:15] B&O skips buy companies
+[23:15] ChillHoroz operates C&O
+[23:23] C&O lays tile #9 with rotation 2 on E3
+[23:24] C&O passes place a token
+[23:24] C&O runs a 4 train for $70: F6-F4-D2
+[23:24] C&O withholds $70
+[23:24] C&O's share price moves left from $90 to $82
+[23:24] C&O skips buy trains
+[23:24] C&O skips buy companies
+[23:24] Leventix operates CPR
+[23:24] CPR places a token on A19
+-- 2024-11-07 --
+[08:12] CPR lays tile #58 with rotation 0 on B20 (Burlington)
+[08:12] CPR skips place a token
+[08:12] CPR skips run routes
+[08:12] CPR does not run
+[08:12] CPR's share price moves left from $90 to $82
+[08:12] CPR buys a 5 train for $450 from The Depot
+[08:12] CPR passes buy trains
+[08:12] CPR skips buy companies
+[08:12] this is not a train operates NYC
+[08:46] NYC lays tile #63 with rotation 0 on E19 (Albany)
+[08:46] NYC passes place a token
+[08:46] NYC runs a 5 train for $60: E19-D14
+[08:46] NYC runs a 4 train for $170: E23-E19-F20-G19
+[08:46] NYC pays out $230 = $23 per share ($115 to this is not a train, $69 to Skarmazh, $23 to ChillHoroz, $23 to NYC)
+[08:46] NYC's share price moves right from $82 to $90
+[08:46] NYC skips buy trains
+[08:46] NYC skips buy companies
+[08:46] Leventix operates NYNH
+[08:50] NYNH lays tile #62 with rotation 0 on G19 (New York & Newark)
+[08:50] NYNH skips place a token
+[08:50] NYNH runs a 4 train for $180: G19-F20-F22-E23
+[08:50] NYNH runs a 3 train for $130: G19-F20-E19
+[08:51] NYNH pays out $310 = $31 per share ($186 to Leventix, $93 to NYNH, $31 to ChillHoroz)
+[08:51] NYNH's share price moves up from $80 to $90
+[08:51] NYNH skips buy trains
+[08:51] NYNH skips buy companies
+[08:51] this is not a train operates ERIE
+[08:51] ERIE places a token on E11
+[08:56] ERIE lays tile #59 with rotation 2 on E11 (Dunkirk & Buffalo)
+[08:56] ERIE must choose city for token
+[08:57] ERIE places a token on E11 (Dunkirk & Buffalo)
+[08:57] ERIE places a token on E19 (Albany) for $40
+[08:57] ERIE skips run routes
+[08:57] ERIE does not run
+[08:57] ERIE's share price moves left from $71 to $67
+[08:59] ERIE buys a 3 train for $330 from PRR
+[08:59] ERIE buys a 6 train for $630 from The Depot
+[08:59] -- Phase 6 (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[08:59] -- Event: 3 trains rust ( B&O x1, B&M x1, ERIE x1, NYNH x1, C&O x1) --
+[08:59] ERIE skips buy companies
+[08:59] this is not a train operates PRR
+[09:01] PRR lays tile #65 with rotation 3 on H18 (Philadelphia & Trenton)
+[09:01] PRR places a token on H18 (Philadelphia & Trenton) for $100
+[09:01] PRR skips run routes
+[09:01] PRR does not run
+[09:01] PRR's share price moves left from $68 to $67
+[09:01] PRR buys a 5 train for $413 from NYC
+[09:01] PRR skips buy companies
+[09:01] ChillHoroz operates B&M
+[16:39] B&M lays tile #44 with rotation 1 on E21
+[16:39] B&M skips place a token
+[16:39] B&M runs a 4 train for $180: E23-F22-F20-G19
+[16:40] B&M withholds $180
+[16:40] B&M's share price moves left from $68 to $67
+[16:41] B&M passes buy trains
+[16:41] B&M skips buy companies
+[16:41] -- Operating Round 6.2 (of 3) --
+[16:41] Skarmazh operates B&O
+-- 2024-11-09 --
+[00:25] B&O lays tile #57 with rotation 1 on H4 (Columbus)
+[00:25] B&O passes place a token
+[00:25] B&O runs a 5 train for $170: K13-J14-I15-I19-H18
+[00:25] B&O pays out $170 = $17 per share ($102 to Skarmazh, $68 to B&O)
+[00:25] B&O's share price moves up from $100 to $110
+[00:25] B&O passes buy trains
+[00:25] B&O skips buy companies
+[00:25] Leventix operates NYNH
+[07:27] NYNH lays tile #9 with rotation 2 on D20
+[07:27] NYNH skips place a token
+[07:27] NYNH runs a 4 train for $180: G19-F20-F22-E23
+[07:29] NYNH pays out $180 = $18 per share ($108 to Leventix, $54 to NYNH, $18 to ChillHoroz)
+[07:29] NYNH's share price moves right from $90 to $100
+[07:37] NYNH buys a 5 train for $160 from CPR
+[07:37] NYNH skips buy companies
+[07:37] this is not a train operates NYC
+[08:25] NYC lays tile #64 with rotation 0 on E11 (Dunkirk & Buffalo)
+[08:25] NYC passes place a token
+[08:25] NYC runs a 4 train for $190: G19-F20-E19-E23
+[08:26] NYC pays out $190 = $19 per share ($95 to this is not a train, $57 to Skarmazh, $19 to ChillHoroz, $19 to NYC)
+[08:26] NYC's share price moves right from $90 to $100
+[08:26] NYC passes buy trains
+[08:26] NYC skips buy companies
+[08:26] ChillHoroz operates C&O
+[12:55] C&O lays tile #58 with rotation 5 on D4 (Flint)
+[12:55] C&O passes place a token
+[12:55] C&O runs a 4 train for $80: F6-F4-D2-D4
+[12:56] C&O withholds $80
+[12:56] C&O's share price moves left from $82 to $76
+[12:56] C&O passes buy trains
+[12:56] C&O skips buy companies
+[12:56] Leventix operates CPR
+[14:18] CPR spends $80 and lays tile #8 with rotation 3 on C19
+[14:18] CPR skips place a token
+[14:18] CPR skips run routes
+[14:18] CPR does not run
+[14:18] CPR's share price moves left from $82 to $76
+[14:18] CPR buys a 6 train for $630 from The Depot
+[14:18] CPR skips buy companies
+[14:18] this is not a train operates PRR
+[14:21] PRR lays tile #14 with rotation 1 on H16 (Lancaster)
+[14:21] PRR skips place a token
+[14:21] PRR runs a 5 train for $210: G19-H18-H16-H10-H4
+[14:21] PRR pays out $210 = $21 per share ($105 to PRR, $42 to this is not a train, $21 to ChillHoroz, $21 to Leventix)
+[14:21] PRR's share price moves right from $67 to $68
+[14:21] PRR passes buy trains
+[14:21] PRR skips buy companies
+[14:21] ChillHoroz operates B&M
+[15:22] B&M passes lay/upgrade track
+[15:22] B&M skips place a token
+[15:22] B&M runs a 4 train for $180: E23-F22-F20-G19
+[15:22] B&M withholds $180
+[15:22] B&M's share price moves left from $67 to $60
+[15:22] B&M passes buy trains
+[15:22] B&M skips buy companies
+[15:22] this is not a train operates ERIE
+[16:00] ERIE lays tile #28 with rotation 1 on D18
+[16:00] ERIE skips place a token
+[16:00] ERIE runs a 6 train for $230: E23-E19-F20-G19-F20-F22
+[16:00] ERIE pays out $230 = $23 per share ($138 to this is not a train, $92 to ERIE)
+[16:00] ERIE's share price moves right from $67 to $71
+[16:00] ERIE passes buy trains
+[16:00] ERIE skips buy companies
+[16:00] -- Operating Round 6.3 (of 3) --
+[16:00] Skarmazh operates B&O
+-- 2024-11-11 --
+[11:25] B&O lays tile #7 with rotation 3 on H2
+[11:25] B&O passes place a token
+[11:25] B&O runs a 5 train for $170: K13-J14-I15-I19-H18
+[11:25] B&O pays out $170 = $17 per share ($102 to Skarmazh, $68 to B&O)
+[11:25] B&O's share price moves right from $110 to $120
+[11:30] B&O passes buy trains
+[11:30] B&O skips buy companies
+[11:30] Leventix operates NYNH
+[17:00] NYNH lays tile #45 with rotation 2 on F18
+[17:00] NYNH skips place a token
+[17:00] NYNH runs a 5 train for $150: E23-F24-F22-B20-A19
+[17:00] NYNH runs a 4 train for $180: G19-F20-F22-E23
+[17:01] NYNH withholds $330
+[17:01] NYNH's share price moves left from $100 to $90
+[17:01] NYNH skips buy trains
+[17:01] NYNH skips buy companies
+[17:01] this is not a train operates NYC
+[17:18] NYC lays tile #9 with rotation 1 on D12
+[17:18] NYC passes place a token
+[17:18] NYC runs a 4 train for $190: G19-F20-E19-E23
+[17:18] NYC withholds $190
+[17:18] NYC's share price moves left from $100 to $90
+[17:18] NYC passes buy trains
+[17:18] NYC skips buy companies
+[17:18] ChillHoroz operates C&O
+[17:21] C&O lays tile #14 with rotation 2 on F4 (Toledo)
+[17:21] C&O passes place a token
+[17:21] C&O runs a 4 train for $90: F6-F4-D2-D4
+[17:21] C&O withholds $90
+[17:21] C&O's share price moves left from $76 to $70
+[17:22] C&O passes buy trains
+[17:22] C&O skips buy companies
+[17:22] Leventix operates CPR
+[17:25] CPR lays tile #29 with rotation 3 on C19
+[17:25] CPR skips place a token
+[17:25] CPR runs a 6 train for $90: A19-B20-E19
+[17:25] CPR withholds $90
+[17:25] CPR's share price moves left from $76 to $70
+[17:26] CPR passes buy trains
+[17:26] CPR skips buy companies
+[17:26] this is not a train operates ERIE
+[17:27] ERIE spends $80 and lays tile #59 with rotation 4 on D10 (Hamilton & Toronto)
+[17:27] ERIE skips place a token
+[17:27] ERIE runs a 6 train for $230: E23-E19-F20-G19-F20-F22
+[17:27] ERIE pays out $230 = $23 per share ($138 to this is not a train, $92 to ERIE)
+[17:27] ERIE's share price moves right from $71 to $76
+[17:27] ERIE passes buy trains
+[17:27] ERIE skips buy companies
+[17:27] this is not a train operates PRR
+[17:27] PRR lays tile #8 with rotation 0 on G3
+[17:27] PRR passes place a token
+[17:27] PRR runs a 5 train for $210: G19-H18-H16-H10-H4
+[17:27] PRR pays out $210 = $21 per share ($105 to PRR, $42 to this is not a train, $21 to ChillHoroz, $21 to Leventix)
+[17:27] PRR's share price moves up from $68 to $69
+[17:28] PRR passes buy trains
+[17:28] PRR skips buy companies
+[17:28] ChillHoroz operates B&M
+[17:29] B&M passes lay/upgrade track
+[17:29] B&M skips place a token
+[17:29] B&M runs a 4 train for $180: E23-F22-F20-G19
+[17:29] B&M withholds $180
+[17:29] B&M's share price moves left from $60 to $50
+[17:30] B&M passes buy trains
+[17:30] B&M skips buy companies
+[17:30] -- Stock Round 7 --
+[17:32] ChillHoroz buys a 10% share of PRR from the IPO for $67
+[17:32] ChillHoroz declines to sell shares
+[17:34] this is not a train buys a 10% share of PRR from the market for $69
+[17:34] this is not a train declines to sell shares
+[21:36] Skarmazh buys a 10% share of NYC from the market for $90
+[21:36] Skarmazh declines to sell shares
+-- 2024-11-12 --
+[10:37] Leventix buys a 10% share of ERIE from the market for $76
+[10:37] Leventix declines to sell shares
+[10:39] ChillHoroz buys a 10% share of PRR from the market for $69
+[10:39] ChillHoroz declines to sell shares
+[13:11] this is not a train buys a 10% share of PRR from the market for $69
+[13:11] this is not a train declines to sell shares
+[13:19] Skarmazh buys a 10% share of PRR from the market for $69
+[13:19] Skarmazh declines to sell shares
+[13:41] Leventix buys a 10% share of PRR from the market for $69
+[13:41] Leventix declines to sell shares
+[13:45] ChillHoroz sells 2 shares of PRR and receives $138
+[13:45] PRR's share price moves down from $69 to $68
+[13:46] ChillHoroz buys a 10% share of ERIE from the market for $76
+[18:35] this is not a train buys a 10% share of PRR from the market for $68
+[18:35] this is not a train declines to sell shares
+-- 2024-11-13 --
+[08:34] Skarmazh buys a 10% share of PRR from the market for $68
+[08:34] Skarmazh declines to sell shares
+[12:17] Leventix buys a 10% share of ERIE from the market for $76
+[12:17] Leventix declines to sell shares
+[19:59] ChillHoroz buys a 10% share of CPR from the market for $70
+[19:59] ChillHoroz declines to sell shares
+[20:19] this is not a train buys a 10% share of B&O from the market for $120
+[20:19] this is not a train declines to sell shares
+-- 2024-11-14 --
+[11:18] Skarmazh buys a 10% share of ERIE from the market for $76
+[11:18] Skarmazh declines to sell shares
+[11:45] Leventix buys a 10% share of B&M from the market for $50
+[11:45] Leventix declines to sell shares
+[19:32] ChillHoroz passes
+[20:10] this is not a train buys a 10% share of B&O from the market for $120
+[20:12] this is not a train declines to sell shares
+[20:21] Skarmazh buys a 10% share of NYNH from the market for $90
+[20:21] Skarmazh declines to sell shares
+[20:21] Leventix buys a 10% share of B&M from the market for $50
+[20:21] Leventix declines to sell shares
+-- 2024-11-15 --
+[19:57] ChillHoroz passes
+-- 2024-11-16 --
+[00:05] this is not a train buys a 10% share of B&O from the market for $120
+[00:05] this is not a train declines to sell shares
+[00:21] Skarmazh buys a 10% share of NYNH from the market for $90
+[00:21] Skarmazh declines to sell shares
+[00:21] Leventix buys a 10% share of B&M from the market for $50
+[00:21] Leventix declines to sell shares
+[11:27] ChillHoroz passes
+[20:17] this is not a train sells a 10% share of ERIE and receives $76
+[20:17] ERIE's share price moves down from $76 to $71
+[20:17] this is not a train buys a 10% share of B&O from the market for $120
+[23:36] Skarmazh buys a 10% share of NYNH from the market for $90
+[23:36] Skarmazh declines to sell shares
+-- 2024-11-17 --
+[13:59] Leventix passes
+-- 2024-11-18 --
+[21:45] ChillHoroz passes
+[22:21] this is not a train passes
+-- 2024-11-19 --
+[09:10] Skarmazh passes
+[09:10] B&O's share price moves up from $120 to $140
+[09:10] NYNH's share price moves up from $90 to $100
+[09:10] NYC's share price moves up from $90 to $100
+[09:10] PRR's share price moves up from $68 to $69
+[09:10] B&M's share price moves up from $50 to $54
+[09:10] Leventix has priority deal
+[09:10] -- Operating Round 7.1 (of 3) --
+[09:10] Skarmazh operates B&O
+[09:11] B&O lays tile #14 with rotation 0 on H4 (Columbus)
+[09:11] B&O passes place a token
+[09:11] B&O runs a 5 train for $210: F2-H4-H10-H16-H18
+[09:11] B&O pays out $210 = $21 per share ($126 to Skarmazh, $84 to this is not a train)
+[09:11] B&O's share price moves right from $140 to $155
+-- 2024-11-21 --
+[09:29] B&O passes buy trains
+[09:29] B&O skips buy companies
+[09:29] Leventix operates NYNH
+[21:32] NYNH spends $120 and lays tile #8 with rotation 3 on E17
+[21:32] NYNH skips place a token
+[21:33] NYNH runs a 5 train for $200: E11-D14-G19-F20-E19
+[21:33] NYNH runs a 4 train for $140: E23-F22-B20-A19
+[21:33] NYNH pays out $340 = $34 per share ($204 to Leventix, $102 to Skarmazh, $34 to ChillHoroz)
+[21:33] NYNH's share price moves right from $100 to $110
+[21:33] NYNH skips buy trains
+[21:33] NYNH skips buy companies
+[21:33] this is not a train operates NYC
+[22:39] NYC lays tile #66 with rotation 4 on D10 (Hamilton & Toronto)
+[22:41] NYC passes place a token
+[22:41] NYC runs a 4 train for $190: G19-F20-E19-E23
+[22:41] NYC withholds $190
+[22:41] NYC's share price moves left from $100 to $90
+[22:41] NYC exchanges a 4 for a D train for $800 from The Depot
+[22:41] -- Phase D (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[22:41] -- Event: 4 trains rust ( The Depot x1, C&O x1, B&M x1, NYNH x1) --
+[22:41] NYC passes buy trains
+[22:41] NYC skips buy companies
+[22:41] this is not a train operates ERIE
+[22:41] ERIE lays tile #7 with rotation 4 on D8
+[22:41] ERIE passes place a token
+[22:41] ERIE runs a 6 train for $270: E23-E19-D14-D10-D10-E11
+[22:41] ERIE pays out $270 = $27 per share ($135 to this is not a train, $54 to Leventix, $27 to ChillHoroz, $27 to Skarmazh, $27 to ERIE)
+[22:41] ERIE's share price moves right from $71 to $75
+[22:41] ERIE passes buy trains
+[22:41] ERIE skips buy companies
+[22:41] ChillHoroz operates C&O
+-- 2024-11-22 --
+[08:36] C&O spends $80 and lays tile #59 with rotation 0 on E5 (Detroit & Windsor)
+[08:36] C&O passes place a token
+[08:36] C&O skips run routes
+[08:36] C&O does not run
+[08:36] C&O's share price moves left from $70 to $66
+[08:37] ChillHoroz sells a 10% share of CPR and receives $70
+[08:37] CPR's share price moves down from $70 to $65
+[08:37] ChillHoroz sells a 10% share of NYC and receives $90
+[08:37] NYC's share price moves down from $90 to $82
+[08:37] ChillHoroz sells 5 shares of B&M and receives $270
+[08:37] Leventix becomes the president of B&M
+[08:37] B&M's share price moves down from $54 to $20
+[08:37] ChillHoroz sells a 10% share of NYNH and receives $110
+[08:37] NYNH's share price moves down from $110 to $100
+[08:37] ChillHoroz sells a 10% share of PRR and receives $69
+[08:37] PRR's share price moves down from $69 to $68
+[08:37] ChillHoroz sells a 10% share of ERIE and receives $75
+[08:37] ERIE's share price moves down from $75 to $70
+[08:37] ChillHoroz sells a 10% share of C&O and receives $66
+[08:37] C&O's share price moves down from $66 to $60
+[08:38] ChillHoroz contributes $795
+[08:38] C&O buys a D train for $1100 from The Depot
+[08:38] C&O skips buy companies
+[08:38] this is not a train operates PRR
+[09:09] PRR lays tile #63 with rotation 0 on H16 (Lancaster)
+[09:09] PRR passes place a token
+[09:09] PRR runs a 5 train for $230: G19-H18-H16-H10-H4
+[09:09] PRR pays out $230 = $23 per share ($115 to this is not a train, $46 to Leventix, $46 to Skarmazh, $23 to PRR)
+[09:09] PRR's share price moves up from $68 to $69
+[09:09] PRR passes buy trains
+[09:09] PRR skips buy companies
+[09:09] Leventix operates CPR
+[10:10] CPR spends $80 and lays tile #7 with rotation 2 on B18
+[10:10] CPR skips place a token
+[10:11] CPR runs a 6 train for $90: A19-B20-E19
+[10:11] CPR pays out $90 = $9 per share ($54 to Leventix, $9 to CPR)
+[10:11] CPR's share price moves right from $65 to $70
+[10:11] CPR passes buy trains
+[10:11] CPR skips buy companies
+[10:11] Leventix operates B&M
+[10:11] B&M passes lay/upgrade track
+[10:11] B&M skips place a token
+[10:11] B&M skips run routes
+[10:11] B&M does not run
+[10:11] B&M's share price moves left from $20 to $10
+[10:13] Leventix sells a 10% share of CPR and receives $70
+[10:13] CPR's share price moves down from $70 to $66
+[10:13] Leventix contributes $456
+[10:13] B&M buys a D train for $1100 from The Depot
+[10:13] B&M skips buy companies
+[10:13] -- Operating Round 7.2 (of 3) --
+[10:13] Skarmazh operates B&O
+[20:34] B&O lays tile #63 with rotation 0 on H10 (Pittsburgh)
+[20:35] B&O passes place a token
+[20:35] B&O runs a 5 train for $230: F2-H4-H10-H16-H18
+[20:35] B&O pays out $230 = $23 per share ($138 to Skarmazh, $92 to this is not a train)
+[20:35] B&O's share price moves right from $155 to $170
+-- 2024-11-24 --
+[17:51] B&O passes buy trains
+[17:51] B&O skips buy companies
+[17:51] Leventix operates NYNH
+[18:02] NYNH lays tile #43 with rotation 2 on C19
+[18:02] NYNH skips place a token
+[18:02] NYNH runs a 5 train for $250: G19-D14-D10-D10-E11
+[18:02] NYNH pays out $250 = $25 per share ($150 to Leventix, $75 to Skarmazh, $25 to NYNH)
+[18:02] NYNH's share price moves up from $100 to $110
+[18:04] NYNH passes buy trains
+[18:04] NYNH skips buy companies
+[18:04] this is not a train operates NYC
+[18:18] NYC lays tile #39 with rotation 5 on D18
+[18:18] NYC passes place a token
+[18:18] NYC runs a D train for $360: E23-E19-F20-G19-D14-D10-D10-E11
+[18:18] NYC pays out $360 = $36 per share ($180 to this is not a train, $144 to Skarmazh, $36 to NYC)
+[18:18] NYC's share price moves right from $82 to $90
+[18:18] NYC passes buy trains
+[18:18] NYC skips buy companies
+[18:18] this is not a train operates ERIE
+[18:18] ERIE lays tile #27 with rotation 2 on B18
+[18:18] ERIE passes place a token
+[18:18] ERIE runs a 6 train for $270: E23-E19-D14-D10-D10-E11
+[18:19] ERIE pays out $270 = $27 per share ($135 to this is not a train, $54 to Leventix, $54 to ERIE, $27 to Skarmazh)
+[18:19] ERIE's share price moves up from $70 to $75
+[18:19] ERIE passes buy trains
+[18:19] ERIE skips buy companies
+[18:19] this is not a train operates PRR
+[18:22] PRR lays tile #24 with rotation 0 on G3
+[18:22] PRR passes place a token
+[18:22] PRR runs a 5 train for $240: G19-H18-H16-H10-H4
+[18:22] PRR pays out $240 = $24 per share ($120 to this is not a train, $48 to Leventix, $48 to Skarmazh, $24 to PRR)
+[18:22] PRR's share price moves right from $69 to $70
+[18:22] PRR passes buy trains
+[18:22] PRR skips buy companies
+[18:22] Leventix operates CPR
+[18:23] CPR lays tile #57 with rotation 0 on B16 (Ottawa)
+[18:23] CPR skips place a token
+[18:23] CPR runs a 6 train for $120: E19-B20-A19-B16-C15
+[18:23] CPR pays out $120 = $12 per share ($60 to Leventix, $24 to CPR)
+[18:23] CPR's share price moves right from $66 to $71
+[18:24] CPR passes buy trains
+[18:24] CPR skips buy companies
+[18:24] ChillHoroz operates C&O
+[20:18] C&O lays tile #67 with rotation 0 on E5 (Detroit & Windsor)
+[20:18] C&O skips place a token
+[20:18] C&O runs a D train for $140: F6-F4-D2-D4-E5
+[20:18] C&O pays out $140 = $14 per share ($70 to ChillHoroz, $14 to Leventix, $14 to C&O)
+[20:18] C&O's share price moves right from $60 to $65
+[20:18] C&O passes buy trains
+[20:18] C&O skips buy companies
+[20:18] Leventix operates B&M
+[20:19] B&M lays tile #8 with rotation 2 on C13
+[20:19] B&M skips place a token
+[20:19] B&M runs a D train for $240: E19-F20-G19-F20-F22-E23-F24
+[20:21] B&M pays out $240 = $24 per share ($120 to B&M, $72 to Leventix, $24 to ChillHoroz, $24 to this is not a train)
+[20:21] B&M's share price moves right from $10 to $20
+[20:21] B&M passes buy trains
+[20:21] B&M skips buy companies
+[20:21] -- Operating Round 7.3 (of 3) --
+[20:21] Skarmazh operates B&O
+-- 2024-11-25 --
+[10:33] B&O lays tile #61 with rotation 0 on I15 (Baltimore)
+[10:34] B&O passes place a token
+[10:34] B&O runs a 5 train for $240: F2-H4-H10-I15-H16
+[10:34] B&O pays out $240 = $24 per share ($144 to Skarmazh, $96 to this is not a train)
+[10:34] B&O's share price moves right from $170 to $185
+[10:34] B&O passes buy trains
+[10:34] B&O skips buy companies
+[10:34] Leventix operates NYNH
+[13:58] NYNH lays tile #8 with rotation 5 on B12
+[13:58] NYNH skips place a token
+[13:59] NYNH runs a 5 train for $250: G19-D14-D10-D10-E11
+[13:59] NYNH pays out $250 = $25 per share ($150 to Leventix, $75 to Skarmazh, $25 to NYNH)
+[13:59] NYNH's share price moves right from $110 to $120
+[13:59] NYNH passes buy trains
+[13:59] NYNH skips buy companies
+[13:59] this is not a train operates NYC
+[20:31] NYC lays tile #29 with rotation 4 on D8
+[20:31] NYC places a token on B16 (Ottawa) for $40
+[20:31] NYC runs a D train for $360: E23-E19-F20-G19-D14-D10-D10-E11
+[20:31] NYC pays out $360 = $36 per share ($180 to this is not a train, $144 to Skarmazh, $36 to NYC)
+[20:31] NYC's share price moves right from $90 to $100
+[20:31] NYC passes buy trains
+[20:31] NYC skips buy companies
+[20:31] this is not a train operates ERIE
+[20:31] ERIE lays tile #3 with rotation 2 on E7 (London)
+[20:31] ERIE places a token on D14 (Rochester) for $100
+[20:31] ERIE runs a 6 train for $270: E23-E19-D14-D10-D10-E11
+[20:31] ERIE pays out $270 = $27 per share ($135 to this is not a train, $54 to Leventix, $54 to ERIE, $27 to Skarmazh)
+[20:31] ERIE's share price moves right from $75 to $80
+[20:32] ERIE passes buy trains
+[20:32] ERIE skips buy companies
+[20:32] Leventix operates CPR
+-- 2024-11-26 --
+[07:33] CPR lays tile #14 with rotation 0 on B16 (Ottawa)
+[07:34] CPR places a token on B16 (Ottawa) for $40
+[07:35] CPR runs a 6 train for $130: E19-B20-A19-B16-C15
+[07:35] CPR pays out $130 = $13 per share ($65 to Leventix, $26 to CPR)
+[07:35] CPR's share price moves right from $71 to $76
+[07:35] CPR passes buy trains
+[07:35] CPR skips buy companies
+[07:35] this is not a train operates PRR
+[09:02] PRR spends $80 and lays tile #7 with rotation 5 on D6
+[09:02] PRR places a token on E5 (Detroit & Windsor) for $100
+[09:03] PRR runs a 5 train for $240: I15-H16-H18-G19-G17
+[09:03] PRR pays out $240 = $24 per share ($120 to this is not a train, $48 to Leventix, $48 to Skarmazh, $24 to PRR)
+[09:03] PRR's share price moves up from $70 to $75
+[09:03] PRR buys a D train for $1 from NYC
+[09:03] PRR skips buy companies
+[09:03] ChillHoroz operates C&O
+[18:39] C&O lays tile #1 with rotation 1 on G7 (Akron & Canton)
+[18:39] C&O skips place a token
+[18:39] C&O runs a D train for $150: E5-D4-D2-F4-F6-G7
+[18:39] C&O pays out $150 = $15 per share ($75 to ChillHoroz, $15 to Leventix, $15 to C&O)
+[18:39] C&O's share price moves right from $65 to $70
+[18:39] C&O passes buy trains
+[18:39] C&O skips buy companies
+[18:39] Leventix operates B&M
+[18:44] B&M spends $120 and lays tile #8 with rotation 2 on D22
+[18:44] B&M skips place a token
+[18:45] B&M runs a D train for $240: E19-F20-G19-F20-F22-E23-F24
+[18:45] B&M pays out $240 = $24 per share ($120 to B&M, $72 to Leventix, $24 to ChillHoroz, $24 to this is not a train)
+[18:45] B&M's share price moves right from $20 to $30
+[18:45] B&M passes buy trains
+[18:45] B&M skips buy companies
+[18:45] -- Stock Round 8 --
+-- 2024-11-28 --
+[08:41] Leventix buys a 10% share of B&M from the market for $30
+-- 2024-11-30 --
+[17:12] Leventix buys a 10% share of B&M from the market for $30
+[17:13] Leventix buys a 10% share of B&M from the market for $30
+[17:13] Leventix buys a 10% share of B&M from the market for $30
+[17:13] Leventix buys a 10% share of B&M from the market for $30
+[17:13] Leventix declines to sell shares
+-- 2024-12-01 --
+[01:59] ChillHoroz buys a 10% share of PRR from the market for $75
+[01:59] ChillHoroz declines to sell shares
+[09:28] this is not a train sells 4 shares of NYC and receives $400
+[09:28] Skarmazh becomes the president of NYC
+[09:28] NYC's share price moves down from $100 to $70
+[09:29] this is not a train buys a 10% share of C&O from the market for $70
+-- 2024-12-02 --
+[17:01] Skarmazh buys a 10% share of NYC from the market for $70
+[17:03] Skarmazh declines to sell shares
+[21:30] Leventix buys a 10% share of CPR from the market for $76
+[21:31] Leventix declines to sell shares
+-- 2024-12-04 --
+[08:11] ChillHoroz buys a 10% share of ERIE from the market for $80
+[08:12] ChillHoroz declines to sell shares
+[09:08] this is not a train buys a 10% share of ERIE from the market for $80
+[09:09] this is not a train declines to sell shares
+-- 2024-12-05 --
+[09:22] Skarmazh buys a 10% share of NYC from the market for $70
+[09:23] Skarmazh declines to sell shares
+[14:13] Leventix buys a 10% share of NYC from the market for $70
+[14:13] Leventix declines to sell shares
+[18:07] ChillHoroz buys a 10% share of C&O from the IPO for $90
+[18:07] ChillHoroz declines to sell shares
+[19:18] this is not a train buys a 10% share of C&O from the IPO for $90
+[19:18] this is not a train declines to sell shares
+-- 2024-12-06 --
+[19:05] Skarmazh passes
+[19:12] Leventix passes
+[20:25] ChillHoroz passes
+[20:29] this is not a train sells a 10% share of B&O and receives $185
+[20:29] this is not a train buys a 10% share of NYNH from the market for $120
+[22:29] Skarmazh passes
+-- 2024-12-07 --
+[13:39] Leventix passes
+-- 2024-12-08 --
+[00:41] ChillHoroz passes
+[07:15] this is not a train sells a 10% share of B&O and receives $185
+[07:16] this is not a train buys a 10% share of CPR from the market for $76
+[10:48] Skarmazh passes
+[10:48] Leventix passes
+[18:27] ChillHoroz passes
+[18:59] this is not a train passes
+[18:59] NYNH's share price moves up from $120 to $140
+[18:59] ERIE's share price moves up from $80 to $90
+[18:59] PRR's share price moves up from $75 to $82
+[18:59] B&M's share price moves up from $30 to $40
+[18:59] Skarmazh has priority deal
+[18:59] -- Operating Round 8.1 (of 3) --
+[18:59] Skarmazh operates B&O
+[19:04] B&O lays tile #15 with rotation 0 on J14 (Washington)
+[19:04] B&O passes place a token
+[19:04] B&O runs a 5 train for $240: F2-H4-H10-I15-H16
+[19:04] B&O withholds $240
+[19:04] B&O's share price moves left from $185 to $170
+[19:04] B&O passes buy trains
+[19:04] B&O skips buy companies
+[19:04] Leventix operates NYNH
+[19:06] NYNH spends $120 and lays tile #57 with rotation 2 on F16 (Scranton)
+[19:06] NYNH skips place a token
+[19:06] NYNH runs a 5 train for $190: E23-F22-F20-G19-F20
+[19:06] NYNH pays out $190 = $19 per share ($114 to Leventix, $57 to Skarmazh, $19 to this is not a train)
+[19:06] NYNH's share price moves right from $140 to $155
+[19:06] NYNH passes buy trains
+[19:06] NYNH skips buy companies
+[19:06] this is not a train operates ERIE
+[19:22] ERIE lays tile #26 with rotation 1 on D12
+[19:22] ERIE skips place a token
+[19:22] ERIE runs a 6 train for $300: G19-D14-E11-D10-D10-E11
+[19:22] ERIE pays out $300 = $30 per share ($180 to this is not a train, $60 to Leventix, $30 to Skarmazh, $30 to ChillHoroz)
+[19:22] ERIE's share price moves right from $90 to $100
+[19:22] ERIE passes buy trains
+[19:22] ERIE skips buy companies
+[19:22] this is not a train operates PRR
+[19:41] PRR lays tile #18 with rotation 1 on I17
+[19:41] PRR skips place a token
+[19:41] PRR runs a D train for $430: I15-I19-H18-H16-H12-H10-H4-F4-E5-E7-D10-E11
+[19:41] PRR runs a 5 train for $240: I15-H16-H18-G19-G17
+[19:41] PRR pays out $670 = $67 per share ($335 to this is not a train, $134 to Skarmazh, $134 to Leventix, $67 to ChillHoroz)
+[19:41] PRR's share price moves right from $82 to $90
+[19:41] PRR skips buy trains
+[19:41] PRR skips buy companies
+[19:41] Leventix operates CPR
+[19:41] CPR lays tile #24 with rotation 5 on B12
+[19:41] CPR skips place a token
+[19:42] CPR runs a 6 train for $180: A11-C15-B16-A19-B20-E19
+[19:42] CPR pays out $180 = $18 per share ($108 to Leventix, $18 to this is not a train)
+[19:42] CPR's share price moves right from $76 to $82
+[19:42] CPR passes buy trains
+[19:42] CPR skips buy companies
+[19:42] Skarmazh operates NYC
+[21:21] NYC lays tile #7 with rotation 5 on E15
+[21:21] NYC passes place a token
+[21:21] NYC skips run routes
+[21:21] NYC does not run
+[21:21] NYC's share price moves left from $70 to $69
+[21:21] NYC buys a 5 train for $138 from B&O
+[21:21] NYC skips buy companies
+[21:21] ChillHoroz operates C&O
+-- 2024-12-09 --
+[18:17] C&O lays tile #8 with rotation 1 on G9
+[18:17] C&O skips place a token
+[18:17] C&O runs a D train for $150: E5-D4-D2-F4-F6-G7
+[18:17] C&O pays out $150 = $15 per share ($90 to ChillHoroz, $30 to this is not a train, $15 to Leventix)
+[18:17] C&O's share price moves right from $70 to $76
+[18:17] C&O passes buy trains
+[18:17] C&O skips buy companies
+[18:17] Leventix operates B&M
+[20:04] B&M spends $120 and lays tile #8 with rotation 5 on C21
+[20:04] B&M skips place a token
+[20:05] B&M runs a D train for $290: E19-F20-G19-F20-F22-F24-E23-B20-A19
+[20:05] B&M pays out $290 = $29 per share ($232 to Leventix, $29 to ChillHoroz, $29 to this is not a train)
+[20:05] B&M's share price moves right from $40 to $50
+[20:05] B&M skips buy trains
+[20:05] B&M skips buy companies
+[20:05] -- Operating Round 8.2 (of 3) --
+[20:05] Skarmazh operates B&O
+-- 2024-12-10 --
+[17:20] B&O lays tile #8 with rotation 0 on G11
+[17:20] B&O passes place a token
+[17:20] B&O skips run routes
+[17:20] B&O does not run
+[17:20] B&O's share price moves left from $170 to $155
+[17:20] Skarmazh contributes $452
+[17:20] B&O buys a D train for $1100 from The Depot
+[17:20] B&O skips buy companies
+[17:20] Leventix operates NYNH
+[17:25] NYNH lays tile #8 with rotation 3 on F14
+[17:25] NYNH skips place a token
+[17:25] NYNH runs a 5 train for $190: E23-F22-F20-G19-F20
+[17:25] NYNH pays out $190 = $19 per share ($114 to Leventix, $57 to Skarmazh, $19 to this is not a train)
+[17:25] NYNH's share price moves right from $155 to $170
+[17:25] NYNH passes buy trains
+[17:25] NYNH skips buy companies
+[17:25] this is not a train operates ERIE
+[20:19] ERIE passes lay/upgrade track
+[20:19] ERIE skips place a token
+[20:19] ERIE runs a 6 train for $300: G19-D14-E11-D10-D10-E11
+[20:19] ERIE pays out $300 = $30 per share ($180 to this is not a train, $60 to Leventix, $30 to Skarmazh, $30 to ChillHoroz)
+[20:19] ERIE's share price moves up from $100 to $110
+[20:19] ERIE passes buy trains
+[20:19] ERIE skips buy companies
+[20:19] this is not a train operates PRR
+[20:19] PRR lays tile #3 with rotation 5 on F10 (Erie)
+[20:19] PRR skips place a token
+[20:19] PRR runs a D train for $430: I15-I19-H18-H16-H12-H10-H4-F4-E5-E7-D10-E11
+[20:19] PRR runs a 5 train for $240: I15-H16-H18-G19-G17
+[20:19] PRR pays out $670 = $67 per share ($335 to this is not a train, $134 to Skarmazh, $134 to Leventix, $67 to ChillHoroz)
+[20:19] PRR's share price moves right from $90 to $100
+[20:19] PRR skips buy trains
+[20:19] PRR skips buy companies
+[20:19] Leventix operates CPR
+[22:51] CPR lays tile #23 with rotation 4 on C13
+[22:51] CPR skips place a token
+[22:51] CPR runs a 6 train for $180: A11-C15-B16-A19-B20-E19
+[22:51] CPR pays out $180 = $18 per share ($108 to Leventix, $18 to this is not a train)
+[22:51] CPR's share price moves right from $82 to $90
+[22:52] CPR passes buy trains
+[22:52] CPR skips buy companies
+[22:52] ChillHoroz operates C&O
+-- 2024-12-12 --
+[21:52] C&O lays tile #25 with rotation 2 on G11
+[21:52] C&O skips place a token
+[21:52] C&O runs a D train for $200: E5-D4-D2-F4-F6-G7-F10-H10
+[21:52] C&O pays out $200 = $20 per share ($120 to ChillHoroz, $40 to this is not a train, $20 to Leventix)
+[21:52] C&O's share price moves right from $76 to $82
+[21:52] C&O passes buy trains
+[21:52] C&O skips buy companies
+[21:52] Skarmazh operates NYC
+[21:53] NYC lays tile #24 with rotation 3 on F14
+[21:53] NYC skips place a token
+[21:53] NYC runs a 5 train for $210: E23-E19-F20-G19-D14
+[21:54] NYC pays out $210 = $21 per share ($126 to Skarmazh, $42 to NYC, $21 to Leventix, $21 to this is not a train)
+[21:54] NYC's share price moves right from $69 to $70
+[21:54] NYC passes buy trains
+[21:54] NYC skips buy companies
+[21:54] Leventix operates B&M
+-- 2024-12-13 --
+[08:07] B&M passes lay/upgrade track
+[08:07] B&M skips place a token
+[08:07] B&M runs a D train for $290: E19-F20-G19-F20-F22-F24-E23-B20-A19
+[08:08] B&M pays out $290 = $29 per share ($232 to Leventix, $29 to ChillHoroz, $29 to this is not a train)
+[08:08] B&M's share price moves up from $50 to $60
+[08:08] B&M skips buy trains
+[08:08] B&M skips buy companies
+[08:08] -- Operating Round 8.3 (of 3) --
+[08:08] Leventix operates NYNH
+[08:09] NYNH spends $120 and lays tile #8 with rotation 2 on G15
+[08:09] NYNH skips place a token
+[08:11] NYNH runs a 5 train for $190: E23-F22-F20-G19-F20
+[08:11] NYNH pays out $190 = $19 per share ($114 to Leventix, $57 to Skarmazh, $19 to this is not a train)
+[08:11] NYNH's share price moves right from $170 to $185
+[08:11] NYNH passes buy trains
+[08:11] NYNH skips buy companies
+[08:11] Skarmazh operates B&O
+[09:17] B&O lays tile #46 with rotation 0 on G3
+[09:17] B&O skips place a token
+[09:17] B&O runs a D train for $410: K13-J14-I15-I19-H18-H16-H10-H4-F4-D2-D4-E5
+[09:17] B&O pays out $410 = $41 per share ($246 to Skarmazh, $82 to this is not a train, $82 to B&O)
+[09:17] B&O's share price moves right from $155 to $170
+[09:18] B&O passes buy trains
+[09:18] B&O skips buy companies
+[09:18] this is not a train operates ERIE
+[09:32] ERIE spends $120 and lays tile #8 with rotation 1 on G13
+[09:32] ERIE skips place a token
+[09:32] ERIE runs a 6 train for $300: G19-D14-E11-D10-D10-E11
+[09:32] ERIE pays out $300 = $30 per share ($180 to this is not a train, $60 to Leventix, $30 to Skarmazh, $30 to ChillHoroz)
+[09:32] ERIE's share price moves right from $110 to $120
+[09:32] ERIE passes buy trains
+[09:32] ERIE skips buy companies
+[09:32] this is not a train operates PRR
+[09:32] PRR lays tile #40 with rotation 0 on G11
+[09:32] PRR skips place a token
+[09:32] PRR runs a D train for $430: I15-I19-H18-H16-H12-H10-H4-F4-E5-E7-D10-E11
+[09:32] PRR runs a 5 train for $240: I15-H16-H18-G19-G17
+[09:32] PRR pays out $670 = $67 per share ($335 to this is not a train, $134 to Skarmazh, $134 to Leventix, $67 to ChillHoroz)
+[09:32] PRR's share price moves up from $100 to $110
+[09:32] PRR skips buy trains
+[09:32] PRR skips buy companies
+[09:32] Leventix operates CPR
+[09:36] CPR lays tile #9 with rotation 1 on C11
+[09:36] CPR skips place a token
+[09:36] CPR runs a 6 train for $200: A11-C15-B16-A19-B20-E23
+[09:36] CPR pays out $200 = $20 per share ($120 to Leventix, $20 to this is not a train)
+[09:36] CPR's share price moves right from $90 to $100
+[09:36] CPR passes buy trains
+[09:36] CPR skips buy companies
+[09:36] ChillHoroz operates C&O
+[18:20] C&O lays tile #28 with rotation 5 on E17
+[18:20] C&O skips place a token
+[18:21] C&O runs a D train for $230: E5-D4-D2-F4-F6-G7-F10-F16-G17-E19
+[18:21] C&O pays out $230 = $23 per share ($138 to ChillHoroz, $46 to this is not a train, $23 to Leventix)
+[18:21] C&O's share price moves right from $82 to $90
+[18:21] C&O passes buy trains
+[18:21] C&O skips buy companies
+[18:21] Skarmazh operates NYC
+[21:40] NYC lays tile #25 with rotation 1 on G9
+[21:40] NYC skips place a token
+[21:40] NYC runs a 5 train for $210: E23-E19-F20-G19-D14
+[21:41] NYC pays out $210 = $21 per share ($126 to Skarmazh, $42 to NYC, $21 to Leventix, $21 to this is not a train)
+[21:41] NYC's share price moves up from $70 to $75
+[21:41] NYC passes buy trains
+[21:41] NYC skips buy companies
+[21:41] Leventix operates B&M
+[22:09] B&M lays tile #24 with rotation 2 on G15
+[22:09] B&M skips place a token
+[22:10] B&M runs a D train for $350: I15-I19-H18-H16-F16-G17-F20-F22-F24-E23-B20-A19
+[22:11] B&M pays out $350 = $35 per share ($280 to Leventix, $35 to ChillHoroz, $35 to this is not a train)
+[22:11] B&M's share price moves up from $60 to $67
+[22:11] B&M skips buy trains
+[22:11] B&M skips buy companies
+[22:11] -- Stock Round 9 --
+-- 2024-12-14 --
+[10:24] Skarmazh sells a 10% share of NYC and receives $75
+[10:24] NYC's share price moves down from $75 to $70
+[10:26] Skarmazh buys a 10% share of CPR from the IPO for $100
+[10:26] Skarmazh sells a 10% share of CPR and receives $100
+[10:26] CPR's share price moves down from $100 to $90
+[10:41] Leventix sells 2 shares of B&M and receives $134
+[10:41] B&M's share price moves down from $67 to $50
+[10:42] Leventix declines to buy shares
+[11:38] ChillHoroz buys a 10% share of B&M from the market for $50
+[11:38] ChillHoroz declines to sell shares
+[12:30] this is not a train buys a 10% share of B&M from the market for $50
+[12:30] this is not a train declines to sell shares
+-- 2024-12-15 --
+[19:19] Skarmazh buys a 10% share of C&O from the IPO for $90
+[19:19] Skarmazh declines to sell shares
+[19:27] Leventix sells a 10% share of C&O and receives $90
+[19:27] C&O's share price moves down from $90 to $82
+[19:27] Leventix buys a 10% share of B&O from the market for $170
+-- 2024-12-17 --
+[18:27] ChillHoroz buys a 10% share of B&O from the market for $170
+[18:27] ChillHoroz declines to sell shares
+[20:30] this is not a train sells a 10% share of NYNH and receives $185
+[20:31] this is not a train buys a 10% share of C&O from the market for $82
+[21:17] Skarmazh sells a 10% share of NYC and receives $70
+[21:17] Skarmazh buys a 10% share of NYNH from the market for $185
+[21:19] Leventix passes
+-- 2024-12-18 --
+[08:00] ChillHoroz buys a 10% share of NYC from the market for $70
+[08:00] ChillHoroz declines to sell shares
+[09:38] this is not a train sells a 10% share of CPR and receives $90
+[09:38] CPR's share price moves down from $90 to $80
+[09:38] this is not a train buys a 10% share of NYC from the market for $70
+-- 2024-12-20 --
+[14:26] Skarmazh passes
+[16:52] Leventix passes
+-- 2024-12-23 --
+[22:58] ChillHoroz buys a 10% share of CPR from the market for $80
+[22:58] ChillHoroz declines to sell shares
+-- 2024-12-24 --
+[10:59] this is not a train passes
+[10:59] Skarmazh passes
+[12:09] Leventix passes
+-- 2024-12-31 --
+[16:23] ChillHoroz buys a 10% share of CPR from the market for $80
+[16:23] ChillHoroz declines to sell shares
+[16:23] this is not a train passes
+[16:23] Skarmazh passes
+[16:23] Leventix passes
+[16:24] ChillHoroz buys a 10% share of CPR from the IPO for $100
+[16:24] ChillHoroz declines to sell shares
+[16:24] this is not a train passes
+[16:24] Skarmazh passes
+[16:24] Leventix passes
+[16:24] ChillHoroz buys a 10% share of CPR from the IPO for $100
+[16:24] ChillHoroz declines to sell shares
+[16:24] this is not a train passes
+[16:24] Skarmazh passes
+[16:24] Leventix passes
+[16:24] ChillHoroz buys a 10% share of NYC from the market for $70
+[16:24] ChillHoroz declines to sell shares
+[16:24] this is not a train passes
+[16:51] Skarmazh passes
+[16:51] Leventix passes
+[17:34] ChillHoroz passes
+[17:34] NYNH's share price moves up from $185 to $220
+[17:34] B&O's share price moves up from $170 to $200
+[17:34] ERIE's share price moves up from $120 to $140
+[17:34] PRR's share price moves up from $110 to $125
+[17:34] C&O's share price moves up from $82 to $90
+[17:34] CPR's share price moves up from $80 to $90
+[17:34] B&M's share price moves up from $50 to $60
+[17:34] this is not a train has priority deal
+[17:34] -- Operating Round 9.1 (of 3) --
+[17:34] Leventix operates NYNH
+[17:47] NYNH lays tile #46 with rotation 2 on G15
+[17:47] NYNH skips place a token
+[17:49] NYNH runs a 5 train for $190: E23-F22-F20-G19-F20
+[17:49] NYNH pays out $190 = $19 per share ($114 to Leventix, $76 to Skarmazh)
+[17:49] NYNH's share price moves right from $220 to $240
+[17:49] NYNH buys a D train for $10 from B&M
+[17:49] NYNH skips buy companies
+[17:49] Skarmazh operates B&O
+[18:18] B&O lays tile #47 with rotation 2 on F14
+[18:18] B&O skips place a token
+[18:18] B&O runs a D train for $410: E5-D4-D2-F4-H4-H10-I15-I19-H18-H16-F16-G17-E19
+[18:18] B&O pays out $410 = $41 per share ($246 to Skarmazh, $82 to this is not a train, $41 to Leventix, $41 to ChillHoroz)
+[18:18] B&O's share price moves right from $200 to $220
+[18:18] B&O passes buy trains
+[18:18] B&O skips buy companies
+[18:18] this is not a train operates ERIE
+[18:45] ERIE lays tile #23 with rotation 3 on E13
+[18:45] ERIE skips place a token
+[18:45] ERIE runs a 6 train for $300: G19-D14-E11-D10-D10-E11
+[18:45] ERIE pays out $300 = $30 per share ($180 to this is not a train, $60 to Leventix, $30 to Skarmazh, $30 to ChillHoroz)
+[18:45] ERIE's share price moves right from $140 to $155
+[18:45] ERIE passes buy trains
+[18:45] ERIE skips buy companies
+[18:45] this is not a train operates PRR
+[18:49] PRR lays tile #70 with rotation 4 on D8
+[18:49] PRR skips place a token
+[18:49] PRR runs a D train for $430: I15-I19-H18-H16-H12-H10-H4-F4-E5-E7-D10-E11
+[18:49] PRR runs a 5 train for $240: I15-H16-H18-G19-G17
+[18:50] PRR pays out $670 = $67 per share ($335 to this is not a train, $134 to Skarmazh, $134 to Leventix, $67 to ChillHoroz)
+[18:50] PRR's share price moves right from $125 to $140
+[18:50] PRR skips buy trains
+[18:50] PRR skips buy companies
+[18:50] Leventix operates CPR
+-- 2025-01-01 --
+[18:08] CPR lays tile #9 with rotation 1 on C9
+[18:08] CPR skips place a token
+[18:08] CPR runs a 6 train for $200: A11-C15-B16-A19-B20-E23
+[18:08] CPR pays out $200 = $20 per share ($120 to Leventix, $80 to ChillHoroz)
+[18:08] CPR's share price moves right from $90 to $100
+[18:08] CPR passes buy trains
+[18:08] CPR skips buy companies
+[18:08] ChillHoroz operates C&O
+-- 2025-01-02 --
+[08:06] C&O lays tile #8 with rotation 1 on I3
+[08:06] C&O skips place a token
+[08:07] C&O runs a D train for $240: I1-H4-F4-F6-G7-F10-F16-G17-E19
+[08:07] C&O pays out $240 = $24 per share ($144 to ChillHoroz, $72 to this is not a train, $24 to Skarmazh)
+[08:07] C&O's share price moves right from $90 to $100
+[08:07] C&O passes buy trains
+[08:07] C&O skips buy companies
+[08:07] Skarmazh operates NYC
+-- 2025-01-03 --
+[17:20] NYC lays tile #8 with rotation 4 on C7
+[17:20] NYC skips place a token
+[17:20] NYC runs a 5 train for $210: E23-E19-F20-G19-D14
+[17:21] NYC pays out $210 = $21 per share ($84 to Skarmazh, $42 to this is not a train, $42 to ChillHoroz, $21 to Leventix, $21 to NYC)
+[17:21] NYC's share price moves up from $70 to $75
+[17:21] NYC passes buy trains
+[17:21] NYC skips buy companies
+[17:21] Leventix operates B&M
+[18:37] B&M lays tile #45 with rotation 1 on H14
+[18:37] B&M skips place a token
+[18:37] B&M skips run routes
+[18:37] B&M does not run
+[18:37] B&M's share price moves left from $60 to $50
+[18:38] Leventix contributes $1090
+[18:38] B&M buys a D train for $1100 from The Depot
+[18:38] B&M skips buy companies
+[18:38] -- Operating Round 9.2 (of 3) --
+[18:38] Leventix operates NYNH
+[18:38] NYNH lays tile #41 with rotation 2 on B18
+[18:38] NYNH skips place a token
+[18:39] NYNH runs a D train for $320: E23-F24-F22-F20-G17-F16-H16-G17-G19-H18
+[18:39] NYNH runs a 5 train for $150: E19-F20-G19-D14
+[18:39] NYNH pays out $470 = $47 per share ($282 to Leventix, $188 to Skarmazh)
+[18:39] NYNH's share price moves right from $240 to $260
+[18:39] NYNH skips buy trains
+[18:39] NYNH skips buy companies
+[18:39] Skarmazh operates B&O
+-- 2025-01-04 --
+[19:55] B&O lays tile #8 with rotation 5 on I13
+[19:55] B&O skips place a token
+[19:55] B&O runs a D train for $480: E5-D4-D2-F4-H4-H10-I15-I19-H18-H16-G17-G19-H18
+[19:55] B&O pays out $480 = $48 per share ($288 to Skarmazh, $96 to this is not a train, $48 to Leventix, $48 to ChillHoroz)
+[19:55] B&O's share price moves right from $220 to $240
+[19:56] B&O passes buy trains
+[19:56] B&O skips buy companies
+[19:56] this is not a train operates ERIE
+[20:24] ERIE lays tile #29 with rotation 5 on D6
+[20:24] ERIE skips place a token
+[20:24] ERIE runs a 6 train for $300: G19-D14-E11-D10-D10-E11
+[20:25] ERIE pays out $300 = $30 per share ($180 to this is not a train, $60 to Leventix, $30 to Skarmazh, $30 to ChillHoroz)
+[20:25] ERIE's share price moves right from $155 to $170
+[20:25] ERIE passes buy trains
+[20:25] ERIE skips buy companies
+[20:25] this is not a train operates PRR
+[20:25] PRR lays tile #43 with rotation 4 on D6
+[20:25] PRR skips place a token
+[20:25] PRR runs a D train for $430: I15-I19-H18-H16-H12-H10-H4-F4-E5-E7-D10-E11
+[20:25] PRR runs a 5 train for $240: I15-H16-H18-G19-G17
+[20:25] PRR pays out $670 = $67 per share ($335 to this is not a train, $134 to Skarmazh, $134 to Leventix, $67 to ChillHoroz)
+[20:25] PRR's share price moves right from $140 to $155
+[20:25] PRR skips buy trains
+[20:25] PRR skips buy companies
+[20:25] Leventix operates CPR
+-- 2025-01-05 --
+[12:45] CPR lays tile #23 with rotation 4 on C11
+[12:45] CPR skips place a token
+[12:45] CPR runs a 6 train for $200: A11-C15-B16-A19-B20-E23
+[12:45] CPR pays out $200 = $20 per share ($120 to Leventix, $80 to ChillHoroz)
+[12:45] CPR's share price moves up from $100 to $110
+[12:46] CPR passes buy trains
+[12:46] CPR skips buy companies
+[12:46] ChillHoroz operates C&O
+-- 2025-01-06 --
+[09:02] C&O passes lay/upgrade track
+[09:02] C&O skips place a token
+[09:02] C&O runs a D train for $240: I1-H4-F4-F6-G7-F10-F16-G17-E19
+[09:02] -- The bank has broken --
+[09:02] C&O pays out $240 = $24 per share ($144 to ChillHoroz, $72 to this is not a train, $24 to Skarmazh)
+[09:02] C&O's share price moves right from $100 to $111
+[09:02] C&O passes buy trains
+[09:02] C&O skips buy companies
+[09:02] Skarmazh operates NYC
+[10:19] NYC lays tile #57 with rotation 2 on B10 (Barrie)
+[10:19] NYC passes place a token
+[10:19] NYC runs a 5 train for $210: E23-E19-F20-G19-D14
+[10:19] NYC pays out $210 = $21 per share ($84 to Skarmazh, $42 to this is not a train, $42 to ChillHoroz, $21 to Leventix, $21 to NYC)
+[10:19] NYC's share price moves right from $75 to $80
+[10:20] NYC passes buy trains
+[10:20] NYC skips buy companies
+[10:20] Leventix operates B&M
+[16:55] B&M lays tile #29 with rotation 5 on E15
+[16:55] B&M skips place a token
+[16:55] B&M runs a D train for $370: H18-G19-G17-H16-F16-G17-F20-F22-F24-E23-B20-A19
+[16:55] B&M pays out $370 = $37 per share ($222 to Leventix, $74 to this is not a train, $74 to ChillHoroz)
+[16:55] B&M's share price moves right from $50 to $60
+[16:55] B&M skips buy trains
+[16:55] B&M skips buy companies
+[16:55] -- Operating Round 9.3 (of 3) --
+[16:55] Leventix operates NYNH
+[16:56] NYNH passes lay/upgrade track
+[16:56] NYNH skips place a token
+[16:56] NYNH runs a D train for $320: E23-F24-F22-F20-G17-F16-H16-G17-G19-H18
+[16:56] NYNH runs a 5 train for $150: E19-F20-G19-D14
+[16:56] NYNH pays out $470 = $47 per share ($282 to Leventix, $188 to Skarmazh)
+[16:56] NYNH's share price moves right from $260 to $280
+[16:56] NYNH skips buy trains
+[16:56] NYNH skips buy companies
+[16:56] Skarmazh operates B&O
+-- 2025-01-07 --
+[17:26] B&O lays tile #27 with rotation 2 on G5
+[17:26] B&O skips place a token
+[17:26] B&O runs a D train for $480: E5-D4-D2-F4-H4-H10-I15-I19-H18-H16-G17-G19-H18
+[17:26] B&O pays out $480 = $48 per share ($288 to Skarmazh, $96 to this is not a train, $48 to Leventix, $48 to ChillHoroz)
+[17:26] B&O's share price moves right from $240 to $260
+[17:26] B&O passes buy trains
+[17:26] B&O skips buy companies
+[17:26] this is not a train operates ERIE
+[19:41] ERIE lays tile #41 with rotation 0 on E13
+[19:41] ERIE skips place a token
+[19:41] ERIE runs a 6 train for $300: G19-D14-E11-D10-D10-E11
+[19:41] ERIE pays out $300 = $30 per share ($180 to this is not a train, $60 to Leventix, $30 to Skarmazh, $30 to ChillHoroz)
+[19:41] ERIE's share price moves right from $170 to $185
+[19:41] ERIE passes buy trains
+[19:41] ERIE skips buy companies
+[19:41] this is not a train operates PRR
+[19:42] PRR passes lay/upgrade track
+[19:42] PRR skips place a token
+[19:46] PRR runs a D train for $430: I15-I19-H18-H16-H12-H10-H4-F4-E5-E7-D10-E11
+[19:46] PRR runs a 5 train for $240: I15-H16-H18-G19-G17
+[19:46] PRR pays out $670 = $67 per share ($335 to this is not a train, $134 to Skarmazh, $134 to Leventix, $67 to ChillHoroz)
+[19:46] PRR's share price moves right from $155 to $170
+[19:46] PRR skips buy trains
+[19:46] PRR skips buy companies
+[19:46] ChillHoroz operates C&O
+-- 2025-01-09 --
+[08:30] C&O passes lay/upgrade track
+[08:30] C&O skips place a token
+[08:30] C&O runs a D train for $240: I1-H4-F4-F6-G7-F10-F16-G17-E19
+[08:30] C&O pays out $240 = $24 per share ($144 to ChillHoroz, $72 to this is not a train, $24 to Skarmazh)
+[08:30] C&O's share price moves right from $111 to $125
+[08:30] C&O passes buy trains
+[08:30] C&O skips buy companies
+[08:30] Leventix operates CPR
+[17:27] CPR lays tile #23 with rotation 1 on C21
+[17:27] CPR skips place a token
+[17:27] CPR runs a 6 train for $200: A11-C15-B16-A19-B20-E23
+[17:27] CPR pays out $200 = $20 per share ($120 to Leventix, $80 to ChillHoroz)
+[17:27] CPR's share price moves right from $110 to $120
+[17:27] CPR passes buy trains
+[17:27] CPR skips buy companies
+[17:27] Skarmazh operates NYC
+-- 2025-01-10 --
+[18:47] NYC passes lay/upgrade track
+[18:47] NYC places a token on F16 (Scranton) for $100
+[18:47] NYC runs a 5 train for $210: E23-E19-F20-G19-D14
+[18:47] NYC pays out $210 = $21 per share ($84 to Skarmazh, $42 to this is not a train, $42 to ChillHoroz, $21 to Leventix, $21 to NYC)
+[18:47] NYC's share price moves up from $80 to $90
+[18:47] NYC passes buy trains
+[18:47] NYC skips buy companies
+[18:47] Leventix operates B&M
+-- 2025-01-13 --
+[16:54] B&M passes lay/upgrade track
+[16:54] B&M skips place a token
+[16:55] B&M runs a D train for $290: E19-F20-G19-F20-F22-F24-E23-B20-A19
+[16:55] B&M pays out $290 = $29 per share ($174 to Leventix, $58 to this is not a train, $58 to ChillHoroz)
+[16:55] B&M's share price moves up from $60 to $67
+[16:55] B&M skips buy trains
+[16:55] B&M skips buy companies
+[16:55] -- Game over: this is not a train ($9363), Leventix ($7652), Skarmazh ($7463), ChillHoroz ($3529) --

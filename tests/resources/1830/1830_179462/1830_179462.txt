@@ -1,0 +1,4 @@
+-- 2024-09-23 --
+[10:52] -- Phase 2 (Operating Rounds: 1 | Train Limit: 4 | Available Tiles: Yellow) --
+[10:52] Game ended manually by Skollvaldr
+[10:52] -- Game over: DAK (UTC+8) ($600), Skollvaldr ($600), Alberic ($600), cutebeast ($600) --

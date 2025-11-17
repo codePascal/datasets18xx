@@ -1,0 +1,1629 @@
+-- 2024-09-23 --
+[14:32] -- Phase 2 (Operating Rounds: 1 | Train Limit: 4 | Available Tiles: Yellow) --
+[14:32] Optional rules used in this game:
+[14:32] * Optional extra 6-Train: Adds a 3rd 6-train
+[14:32] squiddy bids $165 for Camden & Amboy
+[15:17] Larryp1960 bids $75 for Delaware & Hudson
+[15:56] KingZombie bids $170 for Camden & Amboy
+[17:40] squiddy bids $115 for Mohawk & Hudson
+-- 2024-09-24 --
+[04:23] Larryp1960 buys Schuylkill Valley for $20
+[04:25] KingZombie buys Champlain & St.Lawrence for $40
+[04:25] Larryp1960 wins the auction for Delaware & Hudson with the only bid of $75
+[04:25] squiddy wins the auction for Mohawk & Hudson with the only bid of $115
+[04:25] Camden & Amboy goes up for auction
+[07:47] squiddy bids $175 for Camden & Amboy
+[12:52] KingZombie bids $180 for Camden & Amboy
+[16:57] squiddy bids $185 for Camden & Amboy
+[17:14] KingZombie bids $190 for Camden & Amboy
+[17:50] squiddy bids $195 for Camden & Amboy
+[17:52] KingZombie bids $200 for Camden & Amboy
+[17:52] squiddy bids $205 for Camden & Amboy
+[19:00] KingZombie bids $215 for Camden & Amboy
+[21:00] squiddy bids $220 for Camden & Amboy
+[21:02] KingZombie bids $225 for Camden & Amboy
+[21:02] squiddy bids $230 for Camden & Amboy
+[21:03] KingZombie passes on Camden & Amboy
+[21:03] squiddy wins the auction for Camden & Amboy with a bid of $230
+[21:03] squiddy receives a 10% share of PRR
+[21:03] squiddy passes bidding
+[22:05] Larryp1960 buys Baltimore & Ohio for $220
+[22:05] Larryp1960 pars B&O at $100
+[22:05] Larryp1960 receives a 20% share of B&O
+[22:05] Larryp1960 becomes the president of B&O
+[22:05] KingZombie has priority deal
+[22:05] -- Stock Round 1 --
+-- 2024-09-25 --
+[00:56] KingZombie pars C&O at $67
+[00:56] KingZombie buys a 20% share of C&O from the IPO for $134
+[00:56] KingZombie becomes the president of C&O
+[02:02] squiddy pars PRR at $67
+[02:02] squiddy buys a 20% share of PRR from the IPO for $134
+[02:02] squiddy becomes the president of PRR
+[02:49] Larryp1960 buys a 10% share of B&O from the IPO for $100
+[03:05] KingZombie buys a 10% share of C&O from the IPO for $67
+[03:05] squiddy buys a 10% share of PRR from the IPO for $67
+[03:05] Larryp1960 buys a 10% share of B&O from the IPO for $100
+[03:05] KingZombie buys a 10% share of C&O from the IPO for $67
+[03:05] squiddy buys a 10% share of PRR from the IPO for $67
+[03:05] Larryp1960 buys a 10% share of B&O from the IPO for $100
+[03:05] KingZombie buys a 10% share of C&O from the IPO for $67
+[03:05] squiddy buys a 10% share of PRR from the IPO for $67
+[03:05] PRR floats
+[03:05] PRR receives $670
+[03:05] Larryp1960 buys a 10% share of B&O from the IPO for $100
+[03:05] B&O floats
+[03:05] B&O receives $1000
+[03:05] KingZombie buys a 10% share of C&O from the IPO for $67
+[03:05] C&O floats
+[03:05] C&O receives $670
+[06:01] squiddy passes
+[14:05] Larryp1960 buys a 10% share of PRR from the IPO for $67
+[14:10] KingZombie buys a 10% share of PRR from the IPO for $67
+[14:10] squiddy passes
+[14:10] Larryp1960 has no valid actions and passes
+[14:10] KingZombie buys a 10% share of PRR from the IPO for $67
+[14:10] squiddy passes
+[14:10] Larryp1960 has no valid actions and passes
+[14:10] KingZombie buys a 10% share of PRR from the IPO for $67
+[14:10] squiddy passes
+[14:10] Larryp1960 has no valid actions and passes
+[14:10] KingZombie passes
+[14:10] PRR's share price moves up from $67 to $71
+[14:10] squiddy has priority deal
+[14:10] -- Operating Round 1.1 (of 1) --
+[14:10] squiddy collects $20 from Mohawk & Hudson
+[14:10] squiddy collects $25 from Camden & Amboy
+[14:10] Larryp1960 collects $5 from Schuylkill Valley
+[14:10] Larryp1960 collects $15 from Delaware & Hudson
+[14:10] Larryp1960 collects $30 from Baltimore & Ohio
+[14:10] KingZombie collects $10 from Champlain & St.Lawrence
+[14:10] Larryp1960 operates B&O
+[14:10] B&O places a token on I15
+[23:39] B&O spends $80 and lays tile #57 with rotation 0 on J14 (Washington)
+[23:39] B&O places a token on J14 (Washington) for $40
+[23:39] B&O skips run routes
+[23:39] B&O does not run
+[23:39] B&O's share price moves left from $100 to $90
+[23:39] B&O buys a 2 train for $80 from The Depot
+[23:39] Baltimore & Ohio closes
+[23:39] B&O buys a 2 train for $80 from The Depot
+[23:39] B&O buys a 2 train for $80 from The Depot
+[23:39] B&O passes buy trains
+[23:39] B&O skips buy companies
+[23:39] squiddy operates PRR
+[23:39] PRR places a token on H12
+-- 2024-09-26 --
+[02:17] PRR lays tile #9 with rotation 1 on H14
+[02:17] PRR skips place a token
+[02:17] PRR skips run routes
+[02:17] PRR does not run
+[02:17] PRR's share price moves left from $71 to $67
+[02:17] PRR buys a 2 train for $80 from The Depot
+[02:17] PRR passes buy trains
+[02:17] PRR skips buy companies
+[02:17] KingZombie operates C&O
+[02:17] C&O places a token on F6
+[02:28] C&O lays tile #8 with rotation 1 on G5
+[02:28] C&O skips place a token
+[02:28] C&O skips run routes
+[02:28] C&O does not run
+[02:28] C&O's share price moves left from $67 to $65
+[02:28] C&O buys a 2 train for $80 from The Depot
+[02:28] C&O passes buy trains
+[02:28] C&O skips buy companies
+[02:28] -- Stock Round 2 --
+[14:12] squiddy buys a 10% share of B&O from the IPO for $100
+[14:12] squiddy sells a 10% share of PRR and receives $67
+[14:12] PRR's share price moves down from $67 to $65
+[15:15] Larryp1960 buys a 10% share of C&O from the IPO for $67
+[15:15] Larryp1960 declines to sell shares
+[15:42] KingZombie passes
+[22:25] squiddy buys a 10% share of B&O from the IPO for $100
+[22:25] squiddy declines to sell shares
+[22:25] Larryp1960 passes
+-- 2024-09-27 --
+[00:19] KingZombie passes
+[00:19] squiddy passes
+[00:19] Larryp1960 has priority deal
+[00:19] -- Operating Round 2.1 (of 1) --
+[00:19] Larryp1960 collects $5 from Schuylkill Valley
+[00:19] Larryp1960 collects $15 from Delaware & Hudson
+[00:19] KingZombie collects $10 from Champlain & St.Lawrence
+[00:19] squiddy collects $20 from Mohawk & Hudson
+[00:19] squiddy collects $25 from Camden & Amboy
+[00:19] Larryp1960 operates B&O
+[00:51] B&O spends $80 and lays tile #9 with rotation 1 on I17
+[00:51] B&O skips place a token
+[00:52] B&O runs a 2 train for $40: I15-I19
+[00:52] B&O runs a 2 train for $50: I15-J14
+[00:52] B&O runs a 2 train for $50: J14-K13
+[00:52] B&O pays out $140 = $14 per share ($84 to Larryp1960, $28 to squiddy)
+[00:52] B&O's share price moves right from $90 to $100
+[00:52] B&O passes buy trains
+[00:52] B&O skips buy companies
+[00:52] KingZombie operates C&O
+[01:25] C&O lays tile #8 with rotation 2 on G3
+[01:25] C&O skips place a token
+[01:25] C&O runs a 2 train for $70: F6-F2
+[01:25] C&O pays out $70 = $7 per share ($42 to KingZombie, $7 to Larryp1960)
+[01:25] C&O's share price moves right from $65 to $67
+[01:26] C&O passes buy trains
+[01:26] C&O skips buy companies
+[01:26] squiddy operates PRR
+[04:36] PRR lays tile #57 with rotation 1 on H16 (Lancaster)
+[04:36] PRR places a token on H16 (Lancaster) for $40
+[04:37] PRR runs a 2 train for $30: H16-H12
+[04:38] PRR withholds $30
+[04:38] PRR's share price moves left from $65 to $58
+[04:40] PRR buys a 2 train for $80 from The Depot
+[04:40] PRR buys a 3 train for $180 from The Depot
+[04:40] -- Phase 3 (Operating Rounds: 2 | Train Limit: 4 | Available Tiles: Yellow, Green) --
+[04:40] PRR buys Camden & Amboy from squiddy for $320
+[04:40] PRR skips buy companies
+[04:40] -- Stock Round 3 --
+[15:30] Larryp1960 buys a 10% share of C&O from the IPO for $67
+[15:30] Larryp1960 declines to sell shares
+[15:32] KingZombie sells 3 shares of PRR and receives $174
+[15:32] PRR's share price moves down from $58 to $40
+[15:32] KingZombie sells a 10% share of C&O and receives $67
+[15:32] C&O's share price moves down from $67 to $67
+[15:33] KingZombie pars NYNH at $76
+[15:33] KingZombie buys a 20% share of NYNH from the IPO for $152
+[15:33] KingZombie becomes the president of NYNH
+[18:15] squiddy sells 2 shares of B&O and receives $200
+[18:15] B&O's share price moves down from $100 to $82
+[18:17] squiddy pars ERIE at $100
+[18:17] squiddy buys a 20% share of ERIE from the IPO for $200
+[18:17] squiddy becomes the president of ERIE
+[19:22] Larryp1960 passes
+[19:22] KingZombie buys a 10% share of NYNH from the IPO for $76
+[19:22] KingZombie declines to sell shares
+[20:09] squiddy buys a 10% share of ERIE from the IPO for $100
+[20:09] squiddy declines to sell shares
+[20:09] Larryp1960 passes
+[22:11] KingZombie buys a 10% share of NYNH from the IPO for $76
+[22:11] KingZombie declines to sell shares
+[22:11] squiddy buys a 10% share of ERIE from the IPO for $100
+[22:11] squiddy declines to sell shares
+[22:11] Larryp1960 passes
+[22:11] KingZombie buys a 10% share of NYNH from the IPO for $76
+[22:11] KingZombie declines to sell shares
+[22:11] squiddy buys a 10% share of ERIE from the IPO for $100
+[22:11] squiddy declines to sell shares
+[22:11] Larryp1960 passes
+[22:11] KingZombie buys a 10% share of NYNH from the IPO for $76
+[22:11] NYNH floats
+[22:11] NYNH receives $760
+[22:12] KingZombie declines to sell shares
+[22:12] squiddy buys a 10% share of ERIE from the IPO for $100
+[22:12] ERIE floats
+[22:12] ERIE receives $1000
+[22:44] squiddy declines to sell shares
+[22:44] Larryp1960 passes
+[22:51] KingZombie passes
+[22:51] squiddy passes
+[22:51] Larryp1960 has priority deal
+[22:51] -- Operating Round 3.1 (of 2) --
+[22:51] Larryp1960 collects $5 from Schuylkill Valley
+[22:51] Larryp1960 collects $15 from Delaware & Hudson
+[22:51] KingZombie collects $10 from Champlain & St.Lawrence
+[22:51] squiddy collects $20 from Mohawk & Hudson
+[22:51] PRR collects $25 from Camden & Amboy
+[22:51] squiddy operates ERIE
+[22:51] ERIE places a token on E11
+[22:52] ERIE lays tile #59 with rotation 4 on E11 (Dunkirk & Buffalo)
+[22:52] ERIE must choose city for token
+[22:52] ERIE places a token on E11 (Dunkirk & Buffalo)
+[22:52] ERIE skips place a token
+[22:52] ERIE skips run routes
+[22:52] ERIE does not run
+[22:52] ERIE's share price moves left from $100 to $90
+[22:52] ERIE buys a 3 train for $180 from The Depot
+[22:55] ERIE buys a 3 train for $180 from The Depot
+[22:55] ERIE passes buy trains
+[22:55] ERIE passes buy companies
+[22:55] Larryp1960 operates B&O
+-- 2024-09-28 --
+[03:02] B&O lays tile #53 with rotation 0 on I15 (Baltimore)
+[03:02] B&O skips place a token
+[03:03] B&O runs a 2 train for $60: I15-I19
+[03:03] B&O runs a 2 train for $70: I15-J14
+[03:03] B&O runs a 2 train for $50: J14-K13
+[03:03] B&O pays out $180 = $18 per share ($108 to Larryp1960, $36 to B&O)
+[03:03] B&O's share price moves right from $82 to $90
+[03:03] B&O buys a 3 train for $180 from The Depot
+[03:03] B&O buys Schuylkill Valley from Larryp1960 for $40
+[03:03] B&O buys Delaware & Hudson from Larryp1960 for $140
+[03:03] B&O passes buy companies
+[03:03] KingZombie operates NYNH
+[03:03] NYNH places a token on G19
+[05:56] NYNH lays tile #69 with rotation 4 on F20 (New Haven & Hartford)
+[05:56] NYNH skips place a token
+[05:56] NYNH skips run routes
+[05:56] NYNH does not run
+[05:56] NYNH's share price moves left from $76 to $71
+[05:56] NYNH buys a 3 train for $180 from The Depot
+[05:56] NYNH passes buy trains
+[05:56] NYNH passes buy companies
+[05:56] KingZombie operates C&O
+[05:56] C&O lays tile #55 with rotation 1 on G7 (Akron & Canton)
+[05:56] C&O skips place a token
+[05:56] C&O runs a 2 train for $70: F6-F2
+[05:56] C&O pays out $70 = $7 per share ($35 to KingZombie, $14 to Larryp1960, $7 to C&O)
+[05:56] C&O's share price moves right from $67 to $69
+[05:56] C&O buys a 4 train for $300 from The Depot
+[05:56] -- Phase 4 (Operating Rounds: 2 | Train Limit: 3 | Available Tiles: Yellow, Green) --
+[05:56] -- Event: 2 trains rust ( B&O x3, PRR x2, C&O x1) --
+[05:56] C&O passes buy trains
+[05:57] C&O passes buy companies
+[05:57] squiddy operates PRR
+[06:01] PRR lays tile #59 with rotation 5 on H18 (Philadelphia & Trenton)
+[06:01] PRR skips place a token
+[06:01] PRR runs a 3 train for $70: H12-H16-H18
+[06:01] PRR pays out $70 = $7 per share ($35 to squiddy, $28 to PRR, $7 to Larryp1960)
+[06:01] PRR's share price moves right from $40 to $50
+[06:02] PRR buys a 3 train for $1 from ERIE
+[06:02] PRR passes buy trains
+[06:02] PRR passes buy companies
+[06:02] -- Operating Round 3.2 (of 2) --
+[06:02] KingZombie collects $10 from Champlain & St.Lawrence
+[06:02] squiddy collects $20 from Mohawk & Hudson
+[06:02] B&O collects $5 from Schuylkill Valley
+[06:02] B&O collects $15 from Delaware & Hudson
+[06:02] PRR collects $25 from Camden & Amboy
+[06:02] Larryp1960 operates B&O
+[14:37] B&O lays tile #27 with rotation 4 on H14
+[14:37] B&O passes place a token
+[14:38] B&O runs a 3 train for $100: I15-I19-H18
+[14:38] B&O pays out $100 = $10 per share ($60 to Larryp1960, $20 to B&O)
+[14:38] B&O's share price moves right from $90 to $100
+[14:38] B&O passes buy trains
+[14:38] B&O passes buy companies
+[14:38] squiddy operates ERIE
+[15:42] ERIE lays tile #8 with rotation 1 on E13
+[15:42] ERIE passes place a token
+[15:42] ERIE runs a 3 train for $60: E11-D14
+[15:43] ERIE pays out $60 = $6 per share ($36 to squiddy)
+[15:43] ERIE's share price moves right from $90 to $100
+[15:47] ERIE buys Mohawk & Hudson from squiddy for $220
+[15:47] ERIE passes buy trains
+[15:47] ERIE passes buy companies
+[15:47] KingZombie operates NYNH
+[15:55] NYNH lays tile #57 with rotation 2 on E19 (Albany)
+[15:55] NYNH skips place a token
+[15:55] NYNH runs a 3 train for $70: G19-F20-E19
+[15:55] NYNH pays out $70 = $7 per share ($42 to KingZombie)
+[15:55] NYNH's share price moves right from $71 to $76
+[15:55] NYNH passes buy trains
+[15:55] NYNH buys Champlain & St.Lawrence from KingZombie for $80
+[15:55] NYNH passes buy companies
+[15:55] KingZombie operates C&O
+[15:56] C&O lays tile #8 with rotation 2 on H8
+[15:56] C&O skips place a token
+[15:56] C&O runs a 4 train for $80: F2-F6-G7
+[15:56] C&O pays out $80 = $8 per share ($40 to KingZombie, $16 to Larryp1960, $8 to C&O)
+[15:56] C&O's share price moves right from $69 to $70
+[15:56] C&O passes buy trains
+[15:56] C&O skips buy companies
+[15:56] squiddy operates PRR
+[19:08] PRR lays tile #14 with rotation 0 on H16 (Lancaster)
+[19:08] PRR skips place a token
+[19:09] PRR runs a 3 train for $70: H16-H18
+[19:09] PRR runs a 3 train for $80: H16-I15
+[19:09] PRR pays out $150 = $15 per share ($75 to squiddy, $60 to PRR, $15 to Larryp1960)
+[19:09] PRR's share price moves right from $50 to $60
+[19:09] PRR passes buy trains
+[19:09] PRR skips buy companies
+[19:09] -- Stock Round 4 --
+[19:11] Larryp1960 sells 2 shares of C&O and receives $140
+[19:11] Larryp1960 pars NYC at $100
+[19:11] Larryp1960 buys a 20% share of NYC from the IPO for $200
+[19:11] Larryp1960 becomes the president of NYC
+[19:16] KingZombie buys a 10% share of PRR from the market for $60
+[19:16] KingZombie declines to sell shares
+[19:18] squiddy sells a 10% share of ERIE and receives $100
+[19:18] ERIE's share price moves down from $100 to $90
+[19:18] squiddy pars B&M at $82
+[19:18] squiddy buys a 20% share of B&M from the IPO for $164
+[19:18] squiddy becomes the president of B&M
+[19:22] Larryp1960 buys a 10% share of NYC from the IPO for $100
+[19:22] Larryp1960 declines to sell shares
+[19:50] KingZombie buys a 10% share of ERIE from the market for $90
+[19:50] KingZombie declines to sell shares
+[20:23] squiddy buys a 10% share of B&M from the IPO for $82
+[20:23] squiddy declines to sell shares
+[20:23] Larryp1960 buys a 10% share of NYC from the IPO for $100
+[20:23] Larryp1960 declines to sell shares
+[20:23] KingZombie buys a 10% share of C&O from the IPO for $67
+[20:23] KingZombie declines to sell shares
+[20:24] squiddy buys a 10% share of B&M from the IPO for $82
+[20:24] squiddy declines to sell shares
+[20:24] Larryp1960 buys a 10% share of NYC from the IPO for $100
+[20:24] Larryp1960 declines to sell shares
+[20:24] KingZombie passes
+[20:24] squiddy buys a 10% share of B&M from the IPO for $82
+[20:24] squiddy declines to sell shares
+[20:24] Larryp1960 buys a 10% share of NYC from the IPO for $100
+[20:24] NYC floats
+[20:24] NYC receives $1000
+-- 2024-09-29 --
+[01:33] Larryp1960 declines to sell shares
+[01:33] KingZombie passes
+[01:34] squiddy buys a 10% share of B&M from the IPO for $82
+[01:34] B&M floats
+[01:34] B&M receives $820
+[01:34] squiddy declines to sell shares
+[01:37] Larryp1960 passes
+[01:37] KingZombie passes
+[01:38] squiddy sells a 10% share of B&M and receives $82
+[01:38] B&M's share price moves down from $82 to $76
+[01:38] squiddy buys a 10% share of C&O from the market for $70
+[02:15] Larryp1960 passes
+[02:41] KingZombie passes
+[02:53] squiddy passes
+[02:53] Larryp1960 has priority deal
+[02:53] -- Operating Round 4.1 (of 2) --
+[02:53] B&O collects $5 from Schuylkill Valley
+[02:53] B&O collects $15 from Delaware & Hudson
+[02:53] ERIE collects $20 from Mohawk & Hudson
+[02:53] NYNH collects $10 from Champlain & St.Lawrence
+[02:53] PRR collects $25 from Camden & Amboy
+[02:53] Larryp1960 operates B&O
+[04:04] B&O lays tile #56 with rotation 3 on G17 (Reading & Allentown)
+[04:04] B&O places a token on H16 (Lancaster) for $100
+[04:05] B&O runs a 3 train for $120: I15-H16-H18
+[04:05] B&O pays out $120 = $12 per share ($72 to Larryp1960, $24 to B&O)
+[04:05] B&O's share price moves right from $100 to $111
+[04:05] B&O passes buy trains
+[04:05] B&O skips buy companies
+[04:05] Larryp1960 operates NYC
+[04:05] NYC places a token on E19
+[04:05] NYC lays tile #15 with rotation 5 on E19 (Albany)
+[04:05] NYC skips place a token
+[04:05] NYC skips run routes
+[04:05] NYC does not run
+[04:05] NYC's share price moves left from $100 to $90
+[04:05] NYC buys a 4 train for $300 from The Depot
+[04:05] NYC passes buy trains
+[04:05] NYC skips buy companies
+[04:05] squiddy operates ERIE
+[04:56] ERIE lays tile #24 with rotation 1 on E13
+[04:56] ERIE passes place a token
+[04:56] ERIE runs a 3 train for $60: E11-D14
+[04:57] ERIE pays out $60 = $6 per share ($30 to squiddy, $6 to KingZombie)
+[04:57] ERIE's share price moves right from $90 to $100
+[04:57] ERIE passes buy trains
+[04:57] ERIE skips buy companies
+[04:57] KingZombie operates NYNH
+[05:32] NYNH lays tile #8 with rotation 5 on D18
+[05:32] NYNH places a token on E19 (Albany) for $40
+[05:33] NYNH runs a 3 train for $80: G19-F20-E19
+[05:33] NYNH pays out $80 = $8 per share ($48 to KingZombie)
+[05:33] NYNH's share price moves right from $76 to $82
+[05:34] NYNH passes buy trains
+[05:34] NYNH passes buy companies
+[05:34] squiddy operates B&M
+[05:34] B&M places a token on E23
+[05:35] B&M spends $80 and lays tile #57 with rotation 1 on F22 (Providence)
+[05:35] B&M passes place a token
+[05:35] B&M skips run routes
+[05:35] B&M does not run
+[05:35] B&M's share price moves left from $76 to $71
+[05:38] B&M buys a 3 train for $195 from PRR
+[05:39] B&M passes buy trains
+[05:39] B&M skips buy companies
+[05:39] KingZombie operates C&O
+[05:48] C&O lays tile #57 with rotation 1 on H10 (Pittsburgh)
+[05:49] C&O passes place a token
+[05:49] C&O runs a 4 train for $100: F2-F6-G7-H10
+[05:49] C&O withholds $100
+[05:49] C&O's share price moves left from $70 to $69
+[05:49] C&O passes buy trains
+[05:49] C&O skips buy companies
+[05:49] squiddy operates PRR
+[07:42] PRR lays tile #14 with rotation 0 on H10 (Pittsburgh)
+[07:42] PRR passes place a token
+[07:42] PRR runs a 3 train for $120: I15-H16-H18
+[07:43] PRR pays out $120 = $12 per share ($60 to squiddy, $36 to PRR, $12 to Larryp1960, $12 to KingZombie)
+[07:43] PRR's share price moves up from $60 to $67
+[07:43] PRR passes buy trains
+[07:43] PRR skips buy companies
+[07:43] -- Operating Round 4.2 (of 2) --
+[07:43] B&O collects $5 from Schuylkill Valley
+[07:43] B&O collects $15 from Delaware & Hudson
+[07:43] ERIE collects $20 from Mohawk & Hudson
+[07:43] NYNH collects $10 from Champlain & St.Lawrence
+[07:43] PRR collects $25 from Camden & Amboy
+[07:43] Larryp1960 operates B&O
+[13:22] B&O spends $80 and lays tile #54 with rotation 0 on G19 (New York & Newark)
+[13:22] B&O skips place a token
+[13:22] B&O runs a 3 train for $120: I15-H16-H18
+[13:22] B&O pays out $120 = $12 per share ($72 to Larryp1960, $24 to B&O)
+[13:22] B&O's share price moves right from $111 to $125
+[13:23] B&O passes buy trains
+[13:23] B&O skips buy companies
+[13:23] squiddy operates ERIE
+[16:19] ERIE lays tile #9 with rotation 1 on D16
+[16:20] ERIE passes place a token
+[16:20] ERIE runs a 3 train for $90: E11-D14-E19
+[16:20] ERIE pays out $90 = $9 per share ($45 to squiddy, $9 to KingZombie)
+[16:20] ERIE's share price moves right from $100 to $112
+[16:23] ERIE buys a 3 train for $461 from PRR
+[16:23] ERIE skips buy companies
+[16:23] Larryp1960 operates NYC
+[17:27] NYC lays tile #9 with rotation 0 on F18
+[17:28] NYC passes place a token
+[17:28] NYC runs a 4 train for $120: G19-F20-E19-D14
+[17:28] NYC pays out $120 = $12 per share ($72 to Larryp1960)
+[17:28] NYC's share price moves right from $90 to $100
+[17:28] NYC passes buy trains
+[17:28] NYC skips buy companies
+[17:28] KingZombie operates NYNH
+-- 2024-09-30 --
+[02:15] NYNH (CS) lays tile #58 with rotation 4 on B20 (Burlington)
+[02:15] NYNH lays tile #9 with rotation 1 on D12
+[02:15] NYNH skips place a token
+[02:16] NYNH runs a 3 train for $100: G19-F20-E19
+[02:16] NYNH pays out $100 = $10 per share ($60 to KingZombie)
+[02:16] NYNH's share price moves right from $82 to $90
+[02:16] NYNH passes buy trains
+[02:16] NYNH skips buy companies
+[02:16] squiddy operates B&M
+[04:24] B&M lays tile #18 with rotation 3 on F18
+[04:25] B&M passes place a token
+[04:25] B&M runs a 3 train for $60: E23-F24-F22
+[04:26] B&M pays out $60 = $6 per share ($30 to squiddy, $6 to B&M)
+[04:26] B&M's share price moves right from $71 to $76
+[04:26] B&M buys a 3 train for $1 from ERIE
+[04:26] B&M passes buy trains
+[04:26] B&M skips buy companies
+[04:26] KingZombie operates C&O
+[04:34] C&O lays tile #8 with rotation 0 on G11
+[04:34] C&O places a token on H10 (Pittsburgh) for $40
+[04:34] C&O runs a 4 train for $110: H10-G7-F6-F2
+[04:34] C&O withholds $110
+[04:34] C&O's share price moves left from $69 to $67
+[04:34] C&O passes buy trains
+[04:34] C&O skips buy companies
+[04:34] squiddy operates PRR
+[04:43] PRR lays tile #24 with rotation 0 on G11
+[04:43] PRR passes place a token
+[04:43] PRR skips run routes
+[04:43] PRR does not run
+[04:43] PRR's share price moves left from $67 to $60
+[04:45] PRR buys a 3 train for $95 from B&M
+[04:47] PRR buys a 3 train for $1 from ERIE
+[04:47] PRR passes buy trains
+[04:47] PRR skips buy companies
+[04:47] -- Stock Round 5 --
+[05:04] Larryp1960 buys a 10% share of C&O from the market for $67
+[05:04] Larryp1960 declines to sell shares
+[06:38] KingZombie sells a 10% share of ERIE and receives $112
+[06:38] ERIE's share price moves down from $112 to $100
+[06:38] KingZombie sells a 10% share of NYNH and receives $90
+[06:38] NYNH's share price moves down from $90 to $82
+[06:38] KingZombie sells a 10% share of C&O and receives $67
+[06:38] C&O's share price moves down from $67 to $67
+[06:39] KingZombie pars CPR at $67
+[06:39] KingZombie buys a 20% share of CPR from the IPO for $134
+[06:39] KingZombie becomes the president of CPR
+[14:20] squiddy sells 3 shares of ERIE and receives $300
+[14:20] ERIE's share price moves down from $100 to $75
+[14:21] squiddy buys a 10% share of B&O from the IPO for $100
+[19:34] Larryp1960 buys a 10% share of NYNH from the IPO for $76
+[19:34] Larryp1960 declines to sell shares
+[20:59] KingZombie buys a 10% share of CPR from the IPO for $67
+[20:59] KingZombie declines to sell shares
+[21:46] squiddy buys a 10% share of B&O from the IPO for $100
+[21:46] squiddy sells a 10% share of B&O and receives $125
+[21:46] B&O's share price moves down from $125 to $110
+[22:22] Larryp1960 buys a 10% share of ERIE from the market for $75
+[22:22] Larryp1960 declines to sell shares
+[23:50] KingZombie buys a 10% share of CPR from the IPO for $67
+[23:50] KingZombie declines to sell shares
+-- 2024-10-01 --
+[00:00] squiddy buys a 10% share of C&O from the market for $67
+[00:00] squiddy declines to sell shares
+[00:32] Larryp1960 passes
+[00:54] KingZombie buys a 10% share of CPR from the IPO for $67
+[00:54] KingZombie declines to sell shares
+[01:47] squiddy buys a 10% share of NYC from the IPO for $100
+[01:47] squiddy declines to sell shares
+[01:47] Larryp1960 passes
+[01:48] KingZombie buys a 10% share of CPR from the IPO for $67
+[01:48] CPR floats
+[01:48] CPR receives $670
+[01:48] KingZombie declines to sell shares
+[01:52] squiddy passes
+[01:52] Larryp1960 passes
+[01:53] KingZombie passes
+[01:53] squiddy has priority deal
+[01:53] -- Operating Round 5.1 (of 2) --
+[01:53] B&O collects $5 from Schuylkill Valley
+[01:53] B&O collects $15 from Delaware & Hudson
+[01:53] NYNH collects $10 from Champlain & St.Lawrence
+[01:53] ERIE collects $20 from Mohawk & Hudson
+[01:53] PRR collects $25 from Camden & Amboy
+[01:53] Larryp1960 operates B&O
+[01:55] B&O lays tile #23 with rotation 4 on H8
+[01:55] B&O skips place a token
+[01:55] B&O runs a 3 train for $120: I15-H16-H18
+[01:55] B&O pays out $120 = $12 per share ($72 to Larryp1960, $36 to B&O, $12 to squiddy)
+[01:55] B&O's share price moves right from $110 to $120
+[01:55] B&O passes buy trains
+[01:55] B&O skips buy companies
+[01:55] Larryp1960 operates NYC
+[01:56] NYC lays tile #24 with rotation 4 on D16
+[01:56] NYC passes place a token
+[01:56] NYC runs a 4 train for $120: G19-F20-E19-D14
+[01:56] NYC pays out $120 = $12 per share ($72 to Larryp1960, $12 to squiddy)
+[01:56] NYC's share price moves right from $100 to $112
+[01:56] NYC passes buy trains
+[01:56] NYC skips buy companies
+[01:56] KingZombie operates NYNH
+[02:00] NYNH lays tile #9 with rotation 0 on E15
+[02:00] NYNH skips place a token
+[02:01] NYNH runs a 3 train for $100: G19-F20-E19
+[02:01] NYNH pays out $100 = $10 per share ($50 to KingZombie, $10 to Larryp1960, $10 to NYNH)
+[02:01] NYNH's share price moves right from $82 to $90
+[02:01] NYNH passes buy trains
+[02:01] NYNH skips buy companies
+[02:01] squiddy operates B&M
+[02:02] B&M lays tile #15 with rotation 1 on F22 (Providence)
+[02:02] B&M passes place a token
+[02:03] B&M runs a 3 train for $70: E23-F24-F22
+[02:03] B&M withholds $70
+[02:03] B&M's share price moves left from $76 to $71
+[02:03] B&M passes buy trains
+[02:03] B&M skips buy companies
+[02:03] squiddy operates ERIE
+[02:03] ERIE lays tile #23 with rotation 3 on E15
+[02:03] ERIE skips place a token
+[02:03] ERIE skips run routes
+[02:03] ERIE does not run
+[02:03] ERIE's share price moves left from $75 to $71
+[02:03] ERIE buys a 3 train for $1 from PRR
+[02:03] ERIE passes buy trains
+[02:03] ERIE skips buy companies
+[02:03] KingZombie operates CPR
+[02:03] CPR places a token on A19
+[02:06] CPR passes lay/upgrade track
+[02:06] CPR skips place a token
+[02:06] CPR skips run routes
+[02:06] CPR does not run
+[02:06] CPR's share price moves left from $67 to $65
+[02:06] CPR buys a 4 train for $300 from The Depot
+[02:07] CPR passes buy trains
+[02:07] CPR skips buy companies
+[02:07] KingZombie operates C&O
+[02:07] C&O lays tile #58 with rotation 3 on F10 (Erie)
+[02:07] C&O passes place a token
+[02:07] C&O runs a 4 train for $110: E11-F10-H10-H16
+[02:07] C&O pays out $110 = $11 per share ($55 to KingZombie, $22 to squiddy, $11 to Larryp1960, $11 to C&O)
+[02:07] C&O's share price moves right from $67 to $68
+[02:07] C&O buys a 4 train for $81 from CPR
+[02:07] C&O passes buy trains
+[02:07] C&O skips buy companies
+[02:07] squiddy operates PRR
+[03:41] PRR lays tile #9 with rotation 1 on H6
+[03:42] PRR passes place a token
+[03:42] PRR runs a 3 train for $120: I15-H16-H18
+[03:42] PRR pays out $120 = $12 per share ($60 to squiddy, $36 to PRR, $12 to Larryp1960, $12 to KingZombie)
+[03:42] PRR's share price moves right from $60 to $67
+[03:42] PRR buys a 3 train for $750 from ERIE
+[07:24] PRR passes buy trains
+[07:24] PRR skips buy companies
+[07:24] -- Operating Round 5.2 (of 2) --
+[07:24] B&O collects $5 from Schuylkill Valley
+[07:24] B&O collects $15 from Delaware & Hudson
+[07:24] NYNH collects $10 from Champlain & St.Lawrence
+[07:24] ERIE collects $20 from Mohawk & Hudson
+[07:24] PRR collects $25 from Camden & Amboy
+[07:24] Larryp1960 operates B&O
+[13:19] B&O lays tile #8 with rotation 4 on F12
+[13:19] B&O skips place a token
+[13:19] B&O runs a 3 train for $120: I15-H16-H18
+[13:19] B&O pays out $120 = $12 per share ($72 to Larryp1960, $36 to B&O, $12 to squiddy)
+[13:19] B&O's share price moves right from $120 to $130
+[13:19] B&O passes buy trains
+[13:19] B&O skips buy companies
+[13:19] Larryp1960 operates NYC
+[13:19] NYC lays tile #8 with rotation 1 on F14
+[13:19] NYC places a token on H10 (Pittsburgh) for $40
+[13:20] NYC runs a 4 train for $140: G19-F20-E19-E11
+[13:20] NYC withholds $140
+[13:20] NYC's share price moves left from $112 to $100
+[13:20] NYC buys a 4 train for $300 from The Depot
+[13:20] NYC buys a 5 train for $450 from The Depot
+[13:20] -- Phase 5 (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[13:20] -- Event: Private companies close --
+[13:20] NYC discards 4
+[13:20] NYC skips buy companies
+[13:20] KingZombie operates NYNH
+[13:24] NYNH lays tile #66 with rotation 5 on H18 (Philadelphia & Trenton)
+[13:24] NYNH skips place a token
+[13:24] NYNH runs a 3 train for $100: G19-F20-E19
+[13:24] NYNH pays out $100 = $10 per share ($50 to KingZombie, $10 to Larryp1960, $10 to NYNH)
+[13:24] NYNH's share price moves right from $90 to $100
+[13:24] NYNH buys a 5 train for $450 from The Depot
+[13:24] NYNH skips buy companies
+[13:24] squiddy operates ERIE
+[18:00] ERIE lays tile #64 with rotation 2 on E11 (Dunkirk & Buffalo)
+[20:32] ERIE passes place a token
+[20:32] ERIE skips run routes
+[20:32] ERIE does not run
+[20:32] ERIE's share price moves left from $71 to $67
+[20:32] ERIE buys a 5 train for $450 from The Depot
+[20:32] ERIE buys a 4 train for $300 from The Discard
+[20:32] ERIE skips buy companies
+[20:32] squiddy operates B&M
+[20:37] B&M lays tile #43 with rotation 3 on F18
+[20:38] B&M passes place a token
+[20:38] B&M runs a 3 train for $70: E23-F24-F22
+[20:39] B&M pays out $70 = $7 per share ($35 to squiddy, $7 to B&M)
+[20:39] B&M's share price moves right from $71 to $76
+[20:39] B&M buys a 3 train for $670 from PRR
+[20:39] B&M skips buy companies
+[20:39] KingZombie operates C&O
+-- 2024-10-02 --
+[04:06] C&O lays tile #42 with rotation 1 on D16
+[04:06] C&O places a token on D14 (Rochester) for $100
+[04:06] C&O runs a 4 train for $130: E11-D14-H10-H16
+[04:06] C&O runs a 4 train for $140: H10-G7-F6-F2
+[04:06] C&O pays out $270 = $27 per share ($135 to KingZombie, $54 to squiddy, $27 to Larryp1960, $27 to C&O)
+[04:06] C&O's share price moves up from $68 to $69
+[04:06] C&O skips buy trains
+[04:06] C&O skips buy companies
+[04:06] squiddy operates PRR
+[14:11] PRR lays tile #26 with rotation 4 on I17
+[14:11] PRR passes place a token
+[14:11] PRR runs a 3 train for $130: I15-H16-H18
+[14:11] PRR pays out $130 = $13 per share ($65 to squiddy, $39 to PRR, $13 to Larryp1960, $13 to KingZombie)
+[14:11] PRR's share price moves right from $67 to $68
+[14:11] PRR buys a 6 train for $630 from The Depot
+[14:11] -- Phase 6 (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[14:11] -- Event: 3 trains rust ( B&M x2, PRR x1, B&O x1, NYNH x1) --
+[14:15] PRR buys a 4 train for $198 from ERIE
+[14:15] PRR skips buy companies
+[14:15] KingZombie operates CPR
+[14:16] CPR passes lay/upgrade track
+[14:16] CPR skips place a token
+[14:16] CPR skips run routes
+[14:16] CPR does not run
+[14:16] CPR's share price moves left from $65 to $58
+[14:17] CPR buys a 5 train for $450 from NYNH
+[14:17] CPR passes buy trains
+[14:17] CPR skips buy companies
+[14:17] -- Stock Round 6 --
+[14:19] squiddy buys a 10% share of NYNH from the IPO for $76
+[14:21] squiddy declines to sell shares
+[14:33] Larryp1960 buys a 10% share of B&M from the market for $76
+[14:34] Larryp1960 declines to sell shares
+[14:34] KingZombie buys a 10% share of NYNH from the IPO for $76
+[14:34] KingZombie declines to sell shares
+[19:38] squiddy buys a 10% share of NYNH from the IPO for $76
+[19:39] squiddy sells a 10% share of NYNH and receives $100
+[19:56] Larryp1960 buys a 10% share of ERIE from the market for $67
+[19:56] Larryp1960 declines to sell shares
+[19:58] KingZombie sells a 10% share of NYNH and receives $100
+[19:58] KingZombie buys a 10% share of NYC from the IPO for $100
+[20:21] squiddy buys a 10% share of ERIE from the market for $67
+[20:21] squiddy declines to sell shares
+[20:25] Larryp1960 buys a 10% share of ERIE from the market for $67
+[20:26] Larryp1960 declines to sell shares
+[21:01] KingZombie buys a 10% share of C&O from the IPO for $67
+[21:01] KingZombie declines to sell shares
+[21:02] squiddy buys a 10% share of ERIE from the IPO for $100
+[21:02] squiddy declines to sell shares
+[21:09] Larryp1960 buys a 10% share of ERIE from the IPO for $100
+[21:10] Larryp1960 declines to sell shares
+[21:22] KingZombie buys a 10% share of NYC from the IPO for $100
+[21:22] KingZombie declines to sell shares
+[21:22] squiddy buys a 10% share of ERIE from the IPO for $100
+[21:22] squiddy declines to sell shares
+[21:22] Larryp1960 passes
+-- 2024-10-03 --
+[01:40] KingZombie buys a 10% share of PRR from the market for $68
+[01:40] KingZombie declines to sell shares
+[03:19] squiddy passes
+[03:19] Larryp1960 passes
+[03:19] KingZombie passes
+[03:19] squiddy has priority deal
+[03:19] -- Operating Round 6.1 (of 3) --
+[03:19] Larryp1960 operates B&O
+[03:19] B&O lays tile #62 with rotation 0 on G19 (New York & Newark)
+[03:19] B&O skips place a token
+[03:19] B&O skips run routes
+[03:19] B&O does not run
+[03:19] B&O's share price moves left from $130 to $120
+[03:20] Larryp1960 sells 4 shares of ERIE and receives $268
+[03:20] ERIE's share price moves down from $67 to $50
+[03:20] Larryp1960 sells a 10% share of PRR and receives $68
+[03:20] Larryp1960 contributes $334
+[03:20] B&O buys a 6 train for $630 from The Depot
+[03:20] B&O skips buy companies
+[03:20] KingZombie operates NYNH
+[03:54] NYNH lays tile #53 with rotation 1 on E23 (Boston)
+[03:54] NYNH skips place a token
+[03:54] NYNH skips run routes
+[03:54] NYNH does not run
+[03:54] NYNH's share price moves left from $100 to $90
+[03:55] KingZombie sells a 10% share of NYC and receives $100
+[03:55] NYC's share price moves down from $100 to $90
+[03:55] KingZombie contributes $110
+[03:55] NYNH buys a 6 train for $630 from The Depot
+[03:55] NYNH skips buy companies
+[03:55] Larryp1960 operates NYC
+[04:02] NYC lays tile #63 with rotation 0 on H10 (Pittsburgh)
+[04:02] NYC skips place a token
+[04:02] NYC runs a 5 train for $150: E19-G17-H18-I19-H18
+[04:02] NYC runs a 4 train for $170: G19-F20-E19-E11
+[04:02] NYC pays out $320 = $32 per share ($192 to Larryp1960, $32 to squiddy, $32 to KingZombie, $32 to NYC)
+[04:02] NYC's share price moves right from $90 to $100
+[04:02] NYC skips buy trains
+[04:02] NYC skips buy companies
+[04:02] squiddy operates B&M
+[04:15] B&M lays tile #61 with rotation 3 on E23 (Boston)
+[04:15] B&M passes place a token
+[04:15] B&M skips run routes
+[04:15] B&M does not run
+[04:15] B&M's share price moves left from $76 to $71
+[04:15] B&M buys a 4 train for $1 from PRR
+[04:16] B&M passes buy trains
+[04:16] B&M skips buy companies
+[04:16] KingZombie operates C&O
+[04:17] C&O lays tile #42 with rotation 4 on E13
+[04:17] C&O skips place a token
+[04:18] C&O runs a 4 train for $140: E11-D14-H10-H16
+[04:18] C&O runs a 4 train for $150: H10-G7-F6-F2
+[04:18] C&O pays out $290 = $29 per share ($174 to KingZombie, $58 to squiddy, $29 to Larryp1960, $29 to C&O)
+[04:18] C&O's share price moves right from $69 to $70
+[04:18] C&O skips buy trains
+[04:18] C&O skips buy companies
+[04:18] squiddy operates PRR
+[04:18] PRR lays tile #63 with rotation 0 on H16 (Lancaster)
+[04:18] PRR skips place a token
+[04:18] PRR runs a 6 train for $240: G19-G17-H16-H18-I19-H18
+[04:18] PRR pays out $240 = $24 per share ($120 to squiddy, $72 to PRR, $48 to KingZombie)
+[04:18] PRR's share price moves up from $68 to $69
+[04:18] PRR passes buy trains
+[04:18] PRR skips buy companies
+[04:18] KingZombie operates CPR
+[04:19] CPR passes lay/upgrade track
+[04:19] CPR skips place a token
+[04:19] CPR skips run routes
+[04:19] CPR does not run
+[04:19] CPR's share price moves left from $58 to $50
+[04:19] CPR passes buy trains
+[04:19] CPR skips buy companies
+[04:19] squiddy operates ERIE
+[04:27] ERIE spends $80 and lays tile #59 with rotation 5 on D10 (Hamilton & Toronto)
+[04:28] ERIE passes place a token
+[04:28] ERIE runs a 5 train for $120: D10-E11-E19
+[04:28] ERIE withholds $120
+[04:28] ERIE's share price moves left from $50 to $40
+[04:28] ERIE passes buy trains
+[04:28] ERIE skips buy companies
+[04:28] -- Operating Round 6.2 (of 3) --
+[04:28] Larryp1960 operates B&O
+[04:51] B&O lays tile #61 with rotation 0 on I15 (Baltimore)
+[04:51] B&O skips place a token
+[04:52] B&O runs a 6 train for $250: G19-G17-H16-I15-I19-H18
+[04:52] B&O pays out $250 = $25 per share ($150 to Larryp1960, $75 to B&O, $25 to squiddy)
+[04:52] B&O's share price moves right from $120 to $130
+[04:52] B&O passes buy trains
+[04:52] B&O skips buy companies
+[04:52] Larryp1960 operates NYC
+[04:52] NYC lays tile #57 with rotation 1 on H4 (Columbus)
+[04:52] NYC skips place a token
+[04:52] NYC runs a 5 train for $160: E19-G17-H18-I19-I15
+[04:52] NYC runs a 4 train for $170: G19-F20-E19-E11
+[04:52] NYC pays out $330 = $33 per share ($198 to Larryp1960, $33 to squiddy, $33 to KingZombie, $33 to NYC)
+[04:52] NYC's share price moves right from $100 to $112
+[04:52] NYC skips buy trains
+[04:52] NYC skips buy companies
+[04:52] KingZombie operates NYNH
+[12:21] NYNH lays tile #29 with rotation 5 on D18
+[12:21] NYNH skips place a token
+[12:21] NYNH runs a 6 train for $220: E19-F20-G19-F20-F22-E23
+[12:21] NYNH pays out $220 = $22 per share ($110 to KingZombie, $66 to NYNH, $22 to squiddy, $22 to Larryp1960)
+[12:21] NYNH's share price moves right from $90 to $100
+[12:22] NYNH buys a 4 train for $66 from C&O
+[12:22] NYNH skips buy companies
+[12:22] squiddy operates B&M
+[16:11] B&M passes lay/upgrade track
+[16:11] B&M places a token on H18 (Philadelphia & Trenton) for $40
+[16:11] B&M runs a 4 train for $180: E23-F22-F20-G19
+[16:11] B&M pays out $180 = $18 per share ($90 to squiddy, $18 to Larryp1960)
+[16:11] B&M's share price moves right from $71 to $76
+[16:12] B&M passes buy trains
+[16:12] B&M skips buy companies
+[16:12] KingZombie operates C&O
+[16:16] C&O lays tile #68 with rotation 1 on D10 (Hamilton & Toronto)
+[16:16] C&O skips place a token
+[16:16] C&O runs a 4 train for $150: E11-D14-H10-H16
+[16:16] C&O pays out $150 = $15 per share ($90 to KingZombie, $30 to squiddy, $15 to Larryp1960, $15 to C&O)
+[16:16] C&O's share price moves up from $70 to $75
+[16:16] C&O buys a 5 train for $1 from CPR
+[16:16] C&O skips buy companies
+[16:16] squiddy operates PRR
+[17:13] PRR passes lay/upgrade track
+[17:13] PRR skips place a token
+[17:13] PRR runs a 6 train for $240: G19-G17-H16-H18-I19-H18
+[17:13] PRR pays out $240 = $24 per share ($120 to squiddy, $72 to PRR, $48 to KingZombie)
+[17:13] PRR's share price moves right from $69 to $70
+[17:13] PRR passes buy trains
+[17:13] PRR skips buy companies
+[17:13] KingZombie operates CPR
+[17:23] CPR passes lay/upgrade track
+[17:23] CPR skips place a token
+[17:23] CPR skips run routes
+[17:23] CPR does not run
+[17:23] CPR's share price moves left from $50 to $42
+[17:23] CPR passes buy trains
+[17:23] CPR skips buy companies
+[17:23] squiddy operates ERIE
+[17:41] ERIE lays tile #8 with rotation 3 on C9
+[17:41] ERIE passes place a token
+[17:42] ERIE runs a 5 train for $130: D10-E11-E19
+[17:42] ERIE withholds $130
+[17:42] ERIE's share price moves left from $40 to $30
+[17:42] ERIE passes buy trains
+[17:42] ERIE skips buy companies
+[17:42] -- Operating Round 6.3 (of 3) --
+[17:42] Larryp1960 operates B&O
+[19:12] B&O lays tile #14 with rotation 5 on J14 (Washington)
+[19:12] B&O skips place a token
+[19:12] B&O runs a 6 train for $260: K13-J14-I15-H16-G17-G19
+[19:13] B&O pays out $260 = $26 per share ($156 to Larryp1960, $78 to B&O, $26 to squiddy)
+[19:13] B&O's share price moves up from $130 to $155
+[19:13] B&O passes buy trains
+[19:13] B&O skips buy companies
+[19:13] Larryp1960 operates NYC
+[19:13] NYC lays tile #14 with rotation 1 on H4 (Columbus)
+[19:13] NYC passes place a token
+[19:13] NYC runs a 5 train for $180: E11-E19-F20-G19-F20
+[19:13] NYC runs a 4 train for $140: E11-F10-H10-H16
+[19:13] NYC pays out $320 = $32 per share ($192 to Larryp1960, $32 to squiddy, $32 to KingZombie, $32 to NYC)
+[19:13] NYC's share price moves right from $112 to $126
+[19:13] NYC skips buy trains
+[19:13] NYC skips buy companies
+[19:13] KingZombie operates NYNH
+[20:16] NYNH lays tile #25 with rotation 4 on F12
+[20:16] NYNH skips place a token
+[20:16] NYNH runs a 6 train for $220: G19-F20-E19-E11-F10-H10
+[20:16] NYNH runs a 4 train for $180: G19-F20-F22-E23
+[20:16] NYNH pays out $400 = $40 per share ($200 to KingZombie, $120 to NYNH, $40 to squiddy, $40 to Larryp1960)
+[20:16] NYNH's share price moves up from $100 to $110
+[20:16] NYNH skips buy trains
+[20:16] NYNH skips buy companies
+[20:16] squiddy operates B&M
+[20:20] B&M passes lay/upgrade track
+[20:20] B&M skips place a token
+[20:20] B&M runs a 4 train for $180: E23-F22-F20-G19
+[20:20] B&M pays out $180 = $18 per share ($90 to squiddy, $18 to Larryp1960)
+[20:20] B&M's share price moves right from $76 to $82
+[20:20] B&M passes buy trains
+[20:20] B&M skips buy companies
+[20:20] KingZombie operates C&O
+[23:02] C&O lays tile #8 with rotation 4 on D8
+[23:02] C&O skips place a token
+[23:02] C&O runs a 5 train for $170: H16-H10-F10-E11-E19
+[23:02] C&O runs a 4 train for $150: H10-G7-F6-F2
+[23:02] C&O pays out $320 = $32 per share ($192 to KingZombie, $64 to squiddy, $32 to Larryp1960, $32 to C&O)
+[23:02] C&O's share price moves right from $75 to $80
+[23:02] C&O skips buy trains
+[23:02] C&O skips buy companies
+[23:02] squiddy operates PRR
+-- 2024-10-04 --
+[00:56] PRR passes lay/upgrade track
+[00:57] PRR passes place a token
+[00:57] PRR runs a 6 train for $240: G19-G17-H16-H18-I19-H18
+[00:57] PRR pays out $240 = $24 per share ($120 to squiddy, $72 to PRR, $48 to KingZombie)
+[00:57] PRR's share price moves up from $70 to $75
+[01:04] PRR passes buy trains
+[01:04] PRR skips buy companies
+[01:04] KingZombie operates CPR
+[05:00] CPR passes lay/upgrade track
+[05:00] CPR skips place a token
+[05:00] CPR skips run routes
+[05:00] CPR does not run
+[05:00] CPR's share price moves left from $42 to $34
+[05:00] CPR passes buy trains
+[05:00] CPR skips buy companies
+[05:00] squiddy operates ERIE
+[07:02] ERIE lays tile #57 with rotation 0 on B10 (Barrie)
+[07:02] ERIE passes place a token
+[07:02] ERIE runs a 5 train for $200: A11-B10-D10-E11-E19
+[07:02] ERIE withholds $200
+[07:02] ERIE's share price moves left from $30 to $20
+[07:02] ERIE passes buy trains
+[07:02] ERIE skips buy companies
+[07:02] -- Stock Round 7 --
+[07:03] squiddy buys a 10% share of ERIE from the market for $20
+[07:03] squiddy buys a 10% share of ERIE from the market for $20
+[07:03] squiddy buys a 10% share of ERIE from the market for $20
+[07:03] squiddy buys a 10% share of ERIE from the market for $20
+[07:03] squiddy declines to sell shares
+[14:06] Larryp1960 buys a 10% share of PRR from the market for $75
+[14:07] Larryp1960 declines to sell shares
+[16:09] KingZombie sells 4 shares of CPR and receives $136
+[16:09] CPR's share price moves down from $34 to $10
+[16:09] KingZombie buys a 10% share of NYC from the IPO for $100
+[17:45] squiddy buys a 10% share of NYC from the market for $126
+[17:45] squiddy declines to sell shares
+[19:24] Larryp1960 buys a 10% share of CPR from the IPO for $67
+[19:25] Larryp1960 declines to sell shares
+[22:10] KingZombie buys a 10% share of NYNH from the market for $110
+[22:10] KingZombie declines to sell shares
+[22:21] squiddy buys a 10% share of C&O from the market for $80
+[22:22] squiddy declines to sell shares
+[23:07] Larryp1960 passes
+[23:10] KingZombie buys a 10% share of PRR from the market for $75
+[23:10] KingZombie declines to sell shares
+[23:21] squiddy buys a 10% share of PRR from the market for $75
+[23:21] squiddy declines to sell shares
+[23:21] Larryp1960 passes
+[23:23] KingZombie buys a 10% share of B&M from the IPO for $82
+[23:23] KingZombie declines to sell shares
+[23:24] squiddy buys a 10% share of NYNH from the market for $110
+[23:24] squiddy declines to sell shares
+[23:24] Larryp1960 passes
+[23:24] KingZombie buys a 10% share of B&O from the market for $155
+[23:24] KingZombie declines to sell shares
+[23:25] squiddy buys a 10% share of NYNH from the market for $110
+[23:25] squiddy declines to sell shares
+[23:25] Larryp1960 passes
+[23:25] KingZombie buys a 10% share of B&O from the market for $155
+[23:25] KingZombie declines to sell shares
+[23:25] squiddy buys a 10% share of B&M from the IPO for $82
+[23:25] squiddy declines to sell shares
+[23:25] Larryp1960 passes
+[23:25] KingZombie buys a 10% share of B&O from the market for $155
+[23:25] KingZombie declines to sell shares
+[23:26] squiddy buys a 10% share of ERIE from the IPO for $100
+[23:26] squiddy declines to sell shares
+[23:26] Larryp1960 passes
+[23:26] KingZombie passes
+[23:26] squiddy buys a 10% share of CPR from the market for $10
+[23:26] squiddy declines to sell shares
+[23:26] Larryp1960 passes
+-- 2024-10-05 --
+[00:47] KingZombie passes
+[03:16] squiddy passes
+[03:16] B&O's share price moves up from $155 to $180
+[03:16] NYC's share price moves up from $126 to $142
+[03:16] NYNH's share price moves up from $110 to $125
+[03:16] C&O's share price moves up from $80 to $90
+[03:16] PRR's share price moves up from $75 to $82
+[03:16] ERIE's share price moves up from $20 to $30
+[03:16] Larryp1960 has priority deal
+[03:16] -- Operating Round 7.1 (of 3) --
+[03:16] Larryp1960 operates B&O
+[05:11] B&O lays tile #8 with rotation 5 on I13
+[05:11] B&O skips place a token
+[05:12] B&O runs a 6 train for $260: K13-J14-I15-H16-G17-G19
+[05:12] B&O pays out $260 = $26 per share ($156 to Larryp1960, $78 to KingZombie, $26 to squiddy)
+[05:12] B&O's share price moves right from $180 to $200
+[05:12] B&O passes buy trains
+[05:12] B&O skips buy companies
+[05:12] Larryp1960 operates NYC
+[05:13] NYC lays tile #63 with rotation 0 on H4 (Columbus)
+[05:13] NYC places a token on H4 (Columbus) for $100
+[05:13] NYC runs a 5 train for $210: H10-F10-E11-E19-G19
+[05:13] NYC runs a 4 train for $120: H16-H10-G7-F6
+[05:13] NYC pays out $330 = $33 per share ($198 to Larryp1960, $66 to KingZombie, $66 to squiddy)
+[05:13] NYC's share price moves right from $142 to $160
+[05:13] NYC skips buy trains
+[05:13] NYC skips buy companies
+[05:13] KingZombie operates NYNH
+[12:44] NYNH passes lay/upgrade track
+[12:44] NYNH skips place a token
+[12:44] NYNH runs a 6 train for $220: G19-F20-E19-E11-F10-H10
+[12:44] NYNH runs a 4 train for $180: G19-F20-F22-E23
+[12:44] NYNH pays out $400 = $40 per share ($240 to KingZombie, $120 to squiddy, $40 to Larryp1960)
+[12:44] NYNH's share price moves right from $125 to $140
+[12:44] NYNH skips buy trains
+[12:44] NYNH skips buy companies
+[12:44] KingZombie operates C&O
+[12:45] C&O lays tile #3 with rotation 2 on E7 (London)
+[12:45] C&O skips place a token
+[12:45] C&O runs a 5 train for $170: H16-H10-F10-E11-E19
+[12:45] C&O runs a 4 train for $150: H10-G7-F6-F2
+[12:45] C&O pays out $320 = $32 per share ($192 to KingZombie, $96 to squiddy, $32 to Larryp1960)
+[12:45] C&O's share price moves right from $90 to $100
+[12:45] C&O skips buy trains
+[12:45] C&O skips buy companies
+[12:45] squiddy operates PRR
+[17:13] PRR passes lay/upgrade track
+[17:13] PRR passes place a token
+[17:13] PRR runs a 6 train for $240: G19-G17-H16-H18-I19-H18
+[17:19] PRR withholds $240
+[17:19] PRR's share price moves left from $82 to $76
+[17:20] PRR passes buy trains
+[17:20] PRR skips buy companies
+[17:20] squiddy operates B&M
+[17:20] B&M passes lay/upgrade track
+[17:20] B&M skips place a token
+[17:20] B&M runs a 4 train for $180: E23-F22-F20-G19
+[17:20] B&M pays out $180 = $18 per share ($108 to squiddy, $18 to Larryp1960, $18 to KingZombie)
+[17:20] B&M's share price moves right from $82 to $90
+[17:20] B&M buys a 6 train for $1 from PRR
+[17:20] B&M skips buy companies
+[17:20] squiddy operates ERIE
+[17:21] ERIE lays tile #14 with rotation 2 on B10 (Barrie)
+[17:21] ERIE passes place a token
+[17:21] ERIE runs a 5 train for $210: A11-B10-D10-E11-E19
+[17:21] ERIE withholds $210
+[17:21] ERIE's share price moves left from $30 to $20
+[17:21] ERIE buys a 4 train for $1 from B&M
+[17:21] ERIE exchanges a 4 for a D train for $800 from The Depot
+[17:21] -- Phase D (Operating Rounds: 3 | Train Limit: 2 | Available Tiles: Yellow, Green, Brown) --
+[17:21] -- Event: 4 trains rust ( NYNH x1, NYC x1, C&O x1, The Depot x1) --
+[17:21] ERIE skips buy companies
+[17:21] KingZombie operates CPR
+[18:15] CPR passes lay/upgrade track
+[18:15] CPR skips place a token
+[18:15] CPR skips run routes
+[18:15] CPR does not run
+[18:16] CPR passes buy trains
+[18:16] CPR skips buy companies
+[18:16] -- Operating Round 7.2 (of 3) --
+[18:16] Larryp1960 operates B&O
+[22:58] B&O spends $120 and lays tile #9 with rotation 1 on I11
+[22:58] B&O skips place a token
+[22:58] B&O runs a 6 train for $260: K13-J14-I15-H16-G17-G19
+[22:58] B&O pays out $260 = $26 per share ($156 to Larryp1960, $78 to KingZombie, $26 to squiddy)
+[22:58] B&O's share price moves right from $200 to $220
+[22:58] B&O passes buy trains
+[22:58] B&O skips buy companies
+[22:58] Larryp1960 operates NYC
+[22:58] NYC lays tile #24 with rotation 2 on G3
+[22:58] NYC skips place a token
+[22:59] NYC runs a 5 train for $260: F2-H4-H10-E19-G19
+[22:59] NYC pays out $260 = $26 per share ($156 to Larryp1960, $52 to KingZombie, $52 to squiddy)
+[22:59] NYC's share price moves right from $160 to $180
+[22:59] NYC passes buy trains
+[22:59] NYC skips buy companies
+[22:59] KingZombie operates NYNH
+[23:11] NYNH passes lay/upgrade track
+[23:11] NYNH skips place a token
+[23:11] NYNH runs a 6 train for $220: H10-F10-E11-E19-G19-F20
+[23:11] NYNH pays out $220 = $22 per share ($132 to KingZombie, $66 to squiddy, $22 to Larryp1960)
+[23:11] NYNH's share price moves right from $140 to $155
+[23:11] NYNH passes buy trains
+[23:11] NYNH skips buy companies
+[23:11] KingZombie operates C&O
+[23:11] C&O spends $80 and lays tile #7 with rotation 5 on D6
+[23:11] C&O skips place a token
+[23:11] C&O runs a 5 train for $220: F2-H4-H10-D14-E11
+[23:11] C&O pays out $220 = $22 per share ($132 to KingZombie, $66 to squiddy, $22 to Larryp1960)
+[23:11] C&O's share price moves up from $100 to $110
+[23:11] C&O passes buy trains
+[23:11] C&O skips buy companies
+[23:11] squiddy operates B&M
+[23:12] B&M passes lay/upgrade track
+[23:12] B&M skips place a token
+[23:13] B&M runs a 6 train for $220: E23-F22-F20-G19-F20-E19
+[23:13] B&M pays out $220 = $22 per share ($132 to squiddy, $22 to Larryp1960, $22 to KingZombie)
+[23:13] B&M's share price moves right from $90 to $100
+[23:13] B&M buys a D train for $1 from ERIE
+[23:13] B&M skips buy companies
+[23:13] squiddy operates PRR
+[23:14] PRR passes lay/upgrade track
+[23:14] PRR passes place a token
+[23:14] PRR skips run routes
+[23:14] PRR does not run
+[23:14] PRR's share price moves left from $76 to $71
+[23:16] PRR buys a 6 train for $280 from B&M
+[23:16] PRR passes buy trains
+[23:16] PRR skips buy companies
+[23:16] squiddy operates ERIE
+[23:17] ERIE lays tile #39 with rotation 5 on D18
+[23:17] ERIE skips place a token
+[23:17] ERIE runs a 5 train for $210: A11-B10-D10-E11-E19
+[23:17] ERIE pays out $210 = $21 per share ($210 to squiddy)
+[23:17] ERIE's share price moves right from $20 to $30
+[23:17] ERIE passes buy trains
+[23:17] ERIE skips buy companies
+[23:17] KingZombie operates CPR
+[23:21] CPR passes lay/upgrade track
+[23:21] CPR skips place a token
+[23:21] CPR skips run routes
+[23:21] CPR does not run
+[23:21] CPR passes buy trains
+[23:21] CPR skips buy companies
+[23:21] -- Operating Round 7.3 (of 3) --
+[23:21] Larryp1960 operates B&O
+-- 2024-10-06 --
+[01:19] B&O lays tile #9 with rotation 1 on I9
+[01:19] B&O skips place a token
+[01:19] B&O runs a 6 train for $260: K13-J14-I15-H16-G17-G19
+[01:19] B&O pays out $260 = $26 per share ($156 to Larryp1960, $78 to KingZombie, $26 to squiddy)
+[01:19] B&O's share price moves right from $220 to $240
+[01:19] B&O passes buy trains
+[01:19] B&O skips buy companies
+[01:19] Larryp1960 operates NYC
+[01:19] NYC lays tile #23 with rotation 1 on H6
+[01:19] NYC skips place a token
+[01:19] NYC runs a 5 train for $260: F2-H4-H10-E19-G19
+[01:19] NYC pays out $260 = $26 per share ($156 to Larryp1960, $52 to KingZombie, $52 to squiddy)
+[01:19] NYC's share price moves right from $180 to $200
+[01:19] NYC passes buy trains
+[01:19] NYC skips buy companies
+[01:19] KingZombie operates NYNH
+[01:22] NYNH lays tile #43 with rotation 0 on G11
+[01:22] NYNH skips place a token
+[01:22] NYNH runs a 6 train for $220: H10-F10-E11-E19-G19-F20
+[01:22] NYNH pays out $220 = $22 per share ($132 to KingZombie, $66 to squiddy, $22 to Larryp1960)
+[01:22] NYNH's share price moves right from $155 to $170
+[01:22] NYNH passes buy trains
+[01:22] NYNH skips buy companies
+[01:22] KingZombie operates C&O
+[01:23] C&O lays tile #24 with rotation 1 on G5
+[01:23] C&O skips place a token
+[01:23] C&O runs a 5 train for $220: F2-H4-H10-D14-E11
+[01:23] C&O pays out $220 = $22 per share ($132 to KingZombie, $66 to squiddy, $22 to Larryp1960)
+[01:23] C&O's share price moves right from $110 to $120
+[01:23] C&O passes buy trains
+[01:23] C&O skips buy companies
+[01:23] squiddy operates B&M
+[03:55] B&M spends $120 and lays tile #9 with rotation 1 on D22
+[03:55] B&M skips place a token
+[03:56] B&M runs a D train for $270: H16-H18-I19-H18-G17-F20-F22-E23-F24
+[03:56] B&M pays out $270 = $27 per share ($162 to squiddy, $27 to Larryp1960, $27 to KingZombie)
+[03:56] B&M's share price moves right from $100 to $110
+[03:57] B&M passes buy trains
+[03:57] B&M skips buy companies
+[03:57] squiddy operates PRR
+[04:04] PRR spends $120 and lays tile #9 with rotation 2 on G15
+[04:04] PRR skips place a token
+[04:05] PRR runs a 6 train for $240: G19-G17-H16-H18-I19-H18
+[04:05] PRR pays out $240 = $24 per share ($144 to squiddy, $72 to KingZombie, $24 to Larryp1960)
+[04:05] PRR's share price moves right from $71 to $76
+[04:05] PRR passes buy trains
+[04:05] PRR skips buy companies
+[04:05] squiddy operates ERIE
+[04:08] ERIE lays tile #41 with rotation 0 on E15
+[04:08] ERIE skips place a token
+[04:08] ERIE runs a 5 train for $230: A11-B10-D10-E11-E11
+[04:08] ERIE pays out $230 = $23 per share ($230 to squiddy)
+[04:08] ERIE's share price moves right from $30 to $40
+[04:08] ERIE passes buy trains
+[04:08] ERIE skips buy companies
+[04:08] KingZombie operates CPR
+[04:22] CPR passes lay/upgrade track
+[04:22] CPR skips place a token
+[04:22] CPR skips run routes
+[04:22] CPR does not run
+[04:22] CPR passes buy trains
+[04:22] CPR skips buy companies
+[04:22] -- Stock Round 8 --
+[14:00] Larryp1960 passes
+[14:00] KingZombie buys a 10% share of B&M from the IPO for $82
+[14:12] KingZombie declines to sell shares
+[15:30] squiddy passes
+[15:30] Larryp1960 passes
+[17:47] KingZombie buys a 10% share of CPR from the market for $10
+[17:47] KingZombie buys a 10% share of CPR from the market for $10
+[17:47] KingZombie buys a 10% share of CPR from the market for $10
+[17:47] KingZombie declines to sell shares
+[17:47] squiddy passes
+[17:47] Larryp1960 passes
+[17:48] KingZombie passes
+[17:48] B&O's share price moves up from $240 to $275
+[17:48] NYNH's share price moves up from $170 to $200
+[17:48] C&O's share price moves up from $120 to $140
+[17:48] PRR's share price moves up from $76 to $82
+[17:48] ERIE's share price moves up from $40 to $50
+[17:48] squiddy has priority deal
+[17:48] -- Operating Round 8.1 (of 3) --
+[17:48] Larryp1960 operates B&O
+-- 2024-10-07 --
+[03:13] B&O lays tile #8 with rotation 2 on I7
+[03:13] B&O skips place a token
+[03:14] B&O runs a 6 train for $290: F2-H4-J14-I15-H16-H18
+[03:14] B&O pays out $290 = $29 per share ($174 to Larryp1960, $87 to KingZombie, $29 to squiddy)
+[03:14] B&O's share price moves right from $275 to $300
+[03:14] B&O passes buy trains
+[03:14] B&O skips buy companies
+[03:14] KingZombie operates NYNH
+[14:32] NYNH lays tile #9 with rotation 1 on G9
+[14:32] NYNH skips place a token
+[14:32] NYNH runs a 6 train for $250: G19-E19-E11-F10-G7-F2
+[14:32] NYNH pays out $250 = $25 per share ($150 to KingZombie, $75 to squiddy, $25 to Larryp1960)
+[14:32] NYNH's share price moves right from $200 to $220
+[14:32] NYNH passes buy trains
+[14:32] NYNH skips buy companies
+[14:32] Larryp1960 operates NYC
+[15:25] NYC passes lay/upgrade track
+[15:25] NYC skips place a token
+[15:25] NYC runs a 5 train for $260: F2-H4-H10-E19-G19
+[15:25] NYC pays out $260 = $26 per share ($156 to Larryp1960, $52 to squiddy, $52 to KingZombie)
+[15:25] NYC's share price moves right from $200 to $225
+[15:25] NYC passes buy trains
+[15:25] NYC skips buy companies
+[15:25] KingZombie operates C&O
+[15:28] C&O spends $80 and lays tile #59 with rotation 1 on E5 (Detroit & Windsor)
+[15:28] C&O skips place a token
+[15:28] C&O runs a 5 train for $220: F2-H4-H10-D14-D10
+[15:28] C&O pays out $220 = $22 per share ($132 to KingZombie, $66 to squiddy, $22 to Larryp1960)
+[15:28] C&O's share price moves right from $140 to $155
+[15:28] C&O passes buy trains
+[15:28] C&O skips buy companies
+[15:28] squiddy operates B&M
+[18:16] B&M lays tile #8 with rotation 2 on D20
+[18:16] B&M skips place a token
+[18:17] B&M runs a D train for $270: H16-H18-I19-H18-G17-F20-F22-E23-F24
+[18:17] B&M pays out $270 = $27 per share ($162 to squiddy, $54 to KingZombie, $27 to Larryp1960)
+[18:17] B&M's share price moves right from $110 to $120
+[18:17] B&M passes buy trains
+[18:17] B&M skips buy companies
+[18:17] squiddy operates PRR
+[18:17] PRR lays tile #19 with rotation 5 on F14
+[18:17] PRR skips place a token
+[18:18] PRR runs a 6 train for $240: G19-G17-H16-H18-I19-H18
+[18:18] PRR pays out $240 = $24 per share ($144 to squiddy, $72 to KingZombie, $24 to Larryp1960)
+[18:18] PRR's share price moves right from $82 to $90
+[18:18] PRR passes buy trains
+[18:18] PRR skips buy companies
+[18:18] squiddy operates ERIE
+[18:19] ERIE lays tile #46 with rotation 5 on F14
+[18:19] ERIE skips place a token
+[18:20] ERIE runs a 5 train for $230: A11-B10-D10-E11-E11
+[18:20] ERIE withholds $230
+[18:20] ERIE's share price moves left from $50 to $40
+[18:20] ERIE passes buy trains
+[18:20] ERIE skips buy companies
+[18:20] KingZombie operates CPR
+[18:23] CPR passes lay/upgrade track
+[18:23] CPR skips place a token
+[18:23] CPR skips run routes
+[18:23] CPR does not run
+[18:23] CPR passes buy trains
+[18:23] CPR skips buy companies
+[18:23] -- Operating Round 8.2 (of 3) --
+[18:23] Larryp1960 operates B&O
+[21:38] B&O passes lay/upgrade track
+[21:38] B&O skips place a token
+[21:38] B&O runs a 6 train for $290: F2-H4-J14-I15-H16-H18
+[21:38] B&O pays out $290 = $29 per share ($174 to Larryp1960, $87 to KingZombie, $29 to squiddy)
+[21:38] B&O's share price moves right from $300 to $325
+[21:38] B&O passes buy trains
+[21:38] B&O skips buy companies
+[21:38] Larryp1960 operates NYC
+[21:39] NYC passes lay/upgrade track
+[21:39] NYC skips place a token
+[21:39] NYC runs a 5 train for $260: F2-H4-H10-E19-G19
+[21:39] NYC pays out $260 = $26 per share ($156 to Larryp1960, $52 to squiddy, $52 to KingZombie)
+[21:39] NYC's share price moves right from $225 to $250
+[21:39] NYC passes buy trains
+[21:39] NYC skips buy companies
+[21:39] KingZombie operates NYNH
+[22:58] NYNH passes lay/upgrade track
+[22:58] NYNH skips place a token
+[22:58] NYNH runs a 6 train for $250: G19-E19-E11-F10-G7-F2
+[22:58] NYNH pays out $250 = $25 per share ($150 to KingZombie, $75 to squiddy, $25 to Larryp1960)
+[22:58] NYNH's share price moves right from $220 to $240
+[22:58] NYNH passes buy trains
+[22:58] NYNH skips buy companies
+[22:58] KingZombie operates C&O
+[22:58] C&O passes lay/upgrade track
+[22:58] C&O skips place a token
+[22:58] C&O runs a 5 train for $220: F2-H4-H10-D14-D10
+[22:58] C&O pays out $220 = $22 per share ($132 to KingZombie, $66 to squiddy, $22 to Larryp1960)
+[22:58] C&O's share price moves right from $155 to $170
+[22:58] C&O passes buy trains
+[22:58] C&O skips buy companies
+[22:58] squiddy operates B&M
+[23:28] B&M spends $80 and lays tile #9 with rotation 2 on C19
+[23:28] B&M skips place a token
+[23:28] B&M runs a D train for $270: H16-H18-I19-H18-G17-F20-F22-E23-F24
+[23:29] B&M pays out $270 = $27 per share ($162 to squiddy, $54 to KingZombie, $27 to Larryp1960)
+[23:29] B&M's share price moves right from $120 to $130
+[23:29] B&M passes buy trains
+[23:29] B&M skips buy companies
+[23:29] squiddy operates PRR
+[23:31] PRR lays tile #47 with rotation 0 on G5
+[23:31] PRR skips place a token
+[23:31] PRR runs a 6 train for $250: F2-H4-G7-H16-G17-G19
+[23:31] PRR pays out $250 = $25 per share ($150 to squiddy, $75 to KingZombie, $25 to Larryp1960)
+[23:31] PRR's share price moves right from $90 to $100
+[23:31] PRR passes buy trains
+[23:31] PRR skips buy companies
+[23:31] squiddy operates ERIE
+[23:34] ERIE lays tile #8 with rotation 2 on C11
+[23:34] ERIE passes place a token
+[23:35] ERIE runs a 5 train for $230: A11-B10-D10-E11-E11
+[23:35] ERIE pays out $230 = $23 per share ($230 to squiddy)
+[23:35] ERIE's share price moves right from $40 to $50
+[23:36] ERIE passes buy trains
+[23:36] ERIE skips buy companies
+[23:36] KingZombie operates CPR
+[23:56] CPR passes lay/upgrade track
+[23:56] CPR skips place a token
+[23:56] CPR skips run routes
+[23:56] CPR does not run
+[23:56] CPR passes buy trains
+[23:56] CPR skips buy companies
+[23:56] -- Operating Round 8.3 (of 3) --
+[23:56] Larryp1960 operates B&O
+-- 2024-10-08 --
+[00:25] B&O passes lay/upgrade track
+[00:25] B&O skips place a token
+[00:25] B&O runs a 6 train for $290: F2-H4-J14-I15-H16-H18
+[00:25] B&O pays out $290 = $29 per share ($174 to Larryp1960, $87 to KingZombie, $29 to squiddy)
+[00:25] B&O's share price moves right from $325 to $350
+[00:25] B&O passes buy trains
+[00:25] B&O skips buy companies
+[00:25] Larryp1960 operates NYC
+[00:26] NYC passes lay/upgrade track
+[00:26] NYC skips place a token
+[00:26] NYC runs a 5 train for $260: F2-H4-H10-E19-G19
+[00:26] NYC pays out $260 = $26 per share ($156 to Larryp1960, $52 to squiddy, $52 to KingZombie)
+[00:26] NYC's share price moves right from $250 to $275
+[00:26] NYC passes buy trains
+[00:26] NYC skips buy companies
+[00:26] KingZombie operates NYNH
+[00:31] NYNH passes lay/upgrade track
+[00:31] NYNH skips place a token
+[00:31] NYNH runs a 6 train for $250: G19-E19-E11-F10-G7-F2
+[00:31] NYNH pays out $250 = $25 per share ($150 to KingZombie, $75 to squiddy, $25 to Larryp1960)
+[00:31] NYNH's share price moves right from $240 to $260
+[00:31] NYNH passes buy trains
+[00:31] NYNH skips buy companies
+[00:31] KingZombie operates C&O
+[00:32] C&O lays tile #29 with rotation 5 on D6
+[00:32] C&O skips place a token
+[00:32] C&O runs a 5 train for $220: F2-H4-H10-D14-D10
+[00:32] C&O pays out $220 = $22 per share ($132 to KingZombie, $66 to squiddy, $22 to Larryp1960)
+[00:32] C&O's share price moves right from $170 to $185
+[00:32] C&O passes buy trains
+[00:32] C&O skips buy companies
+[00:32] squiddy operates B&M
+[02:51] B&M spends $80 and lays tile #8 with rotation 3 on B18
+[02:51] B&M skips place a token
+[02:51] B&M runs a D train for $310: H16-H18-I19-H18-G17-F20-F22-F24-E23-A19
+[02:51] B&M pays out $310 = $31 per share ($186 to squiddy, $62 to KingZombie, $31 to Larryp1960)
+[02:51] B&M's share price moves up from $130 to $155
+[02:51] B&M passes buy trains
+[02:51] B&M skips buy companies
+[02:51] squiddy operates PRR
+[02:54] PRR lays tile #24 with rotation 1 on I9
+[02:54] PRR skips place a token
+[02:54] PRR runs a 6 train for $250: F2-H4-G7-H16-G17-G19
+[02:54] PRR pays out $250 = $25 per share ($150 to squiddy, $75 to KingZombie, $25 to Larryp1960)
+[02:54] PRR's share price moves right from $100 to $110
+[02:54] PRR passes buy trains
+[02:54] PRR skips buy companies
+[02:54] squiddy operates ERIE
+[02:54] ERIE lays tile #9 with rotation 1 on C13
+[02:55] ERIE passes place a token
+[02:56] ERIE runs a 5 train for $230: A11-B10-D10-E11-E11
+[02:56] ERIE withholds $230
+[02:56] ERIE's share price moves left from $50 to $40
+[02:56] ERIE passes buy trains
+[02:56] ERIE skips buy companies
+[02:56] KingZombie operates CPR
+[04:01] CPR lays tile #24 with rotation 2 on D20
+[04:01] CPR skips place a token
+[04:01] CPR skips run routes
+[04:01] CPR does not run
+[04:01] CPR buys a 5 train for $1 from C&O
+[04:01] CPR passes buy trains
+[04:01] CPR skips buy companies
+[04:01] -- Stock Round 9 --
+[04:59] squiddy sells 2 shares of C&O and receives $370
+[04:59] -- The bank has broken --
+[04:59] squiddy buys a 10% share of CPR from the IPO for $67
+[05:55] Larryp1960 buys a 10% share of B&M from the IPO for $82
+[05:56] Larryp1960 declines to sell shares
+[11:46] KingZombie buys a 10% share of CPR from the IPO for $67
+[11:46] KingZombie declines to sell shares
+[16:12] squiddy buys a 10% share of CPR from the IPO for $67
+[16:12] squiddy declines to sell shares
+[16:22] Larryp1960 passes
+[17:54] KingZombie passes
+[18:26] squiddy passes
+[18:26] NYNH's share price moves up from $260 to $300
+[18:26] B&M's share price moves up from $155 to $180
+[18:26] PRR's share price moves up from $110 to $125
+[18:26] ERIE's share price moves up from $40 to $45
+[18:26] CPR's share price moves up from $10 to $20
+[18:26] Larryp1960 has priority deal
+[18:26] -- Operating Round 9.1 (of 3) --
+[18:26] Larryp1960 operates B&O
+[18:38] B&O passes lay/upgrade track
+[18:38] B&O skips place a token
+[18:38] B&O runs a 6 train for $290: F2-H4-J14-I15-H16-H18
+[18:38] B&O pays out $290 = $29 per share ($174 to Larryp1960, $87 to KingZombie, $29 to squiddy)
+[18:38] B&O passes buy trains
+[18:38] B&O skips buy companies
+[18:38] KingZombie operates NYNH
+[18:39] NYNH spends $120 and lays tile #8 with rotation 3 on E21
+[18:39] NYNH skips place a token
+[18:39] NYNH runs a 6 train for $250: G19-E19-E11-F10-G7-F2
+[18:40] NYNH pays out $250 = $25 per share ($150 to KingZombie, $75 to squiddy, $25 to Larryp1960)
+[18:40] NYNH's share price moves right from $300 to $325
+[18:40] NYNH skips buy trains
+[18:40] NYNH skips buy companies
+[18:40] Larryp1960 operates NYC
+[19:27] NYC lays tile #28 with rotation 5 on E21
+[19:27] NYC skips place a token
+[19:27] NYC runs a 5 train for $260: F2-H4-H10-E19-G19
+[19:27] NYC pays out $260 = $26 per share ($156 to Larryp1960, $52 to KingZombie, $52 to squiddy)
+[19:27] NYC's share price moves right from $275 to $300
+[19:27] NYC passes buy trains
+[19:27] NYC skips buy companies
+[19:27] KingZombie operates C&O
+[21:31] C&O lays tile #4 with rotation 1 on D4 (Flint)
+[21:31] C&O skips place a token
+[21:31] C&O skips run routes
+[21:31] C&O does not run
+[21:31] C&O's share price moves left from $185 to $170
+[21:31] C&O buys a 6 train for $314 from NYNH
+[21:31] C&O skips buy companies
+[21:31] squiddy operates B&M
+[23:12] B&M lays tile #23 with rotation 5 on B18
+[23:12] B&M skips place a token
+[23:12] B&M runs a D train for $310: H16-H18-I19-H18-G17-F20-F22-F24-E23-A19
+[23:12] B&M pays out $310 = $31 per share ($186 to squiddy, $62 to Larryp1960, $62 to KingZombie)
+[23:12] B&M's share price moves right from $180 to $200
+[23:12] B&M passes buy trains
+[23:12] B&M skips buy companies
+[23:12] squiddy operates PRR
+[23:13] PRR lays tile #41 with rotation 4 on H14
+[23:13] PRR skips place a token
+[23:13] PRR runs a 6 train for $250: F2-H4-G7-H16-G17-G19
+[23:13] PRR pays out $250 = $25 per share ($150 to squiddy, $75 to KingZombie, $25 to Larryp1960)
+[23:13] PRR's share price moves right from $125 to $140
+[23:13] PRR passes buy trains
+[23:13] PRR skips buy companies
+[23:13] squiddy operates ERIE
+[23:14] ERIE lays tile #57 with rotation 0 on B16 (Ottawa)
+[23:15] ERIE passes place a token
+[23:16] ERIE runs a 5 train for $230: A11-B10-D10-E11-E11
+[23:16] ERIE pays out $230 = $23 per share ($230 to squiddy)
+[23:16] ERIE's share price moves right from $45 to $54
+[23:16] ERIE passes buy trains
+[23:16] ERIE skips buy companies
+[23:16] KingZombie operates CPR
+[23:19] CPR lays tile #45 with rotation 5 on B18
+[23:19] CPR skips place a token
+[23:20] CPR runs a 5 train for $100: A19-E23
+[23:20] CPR pays out $100 = $10 per share ($60 to KingZombie, $30 to squiddy, $10 to Larryp1960)
+[23:20] CPR's share price moves right from $20 to $30
+[23:20] CPR passes buy trains
+[23:20] CPR skips buy companies
+[23:20] -- Operating Round 9.2 (of 3) --
+[23:20] Larryp1960 operates B&O
+[23:40] B&O passes lay/upgrade track
+[23:40] B&O skips place a token
+[23:40] B&O runs a 6 train for $290: F2-H4-J14-I15-H16-H18
+[23:40] B&O pays out $290 = $29 per share ($174 to Larryp1960, $87 to KingZombie, $29 to squiddy)
+[23:40] B&O passes buy trains
+[23:40] B&O skips buy companies
+[23:40] KingZombie operates NYNH
+[23:42] NYNH lays tile #20 with rotation 0 on D22
+[23:42] NYNH skips place a token
+[23:42] NYNH skips run routes
+[23:42] NYNH does not run
+[23:42] NYNH's share price moves left from $325 to $300
+[23:42] KingZombie contributes $786
+[23:42] NYNH buys a D train for $1100 from The Depot
+[23:42] NYNH skips buy companies
+[23:42] Larryp1960 operates NYC
+-- 2024-10-09 --
+[01:14] NYC passes lay/upgrade track
+[01:14] NYC skips place a token
+[01:14] NYC runs a 5 train for $260: F2-H4-H10-E19-G19
+[01:14] NYC pays out $260 = $26 per share ($156 to Larryp1960, $52 to KingZombie, $52 to squiddy)
+[01:14] NYC's share price moves right from $300 to $325
+[01:14] NYC passes buy trains
+[01:14] NYC skips buy companies
+[01:14] squiddy operates B&M
+[01:24] B&M lays tile #27 with rotation 2 on C19
+[01:24] B&M skips place a token
+[01:24] B&M runs a D train for $430: E11-D10-B10-C15-B16-E23-F24-F22-F20-G17-H18-I19-H18-H16
+[01:24] B&M pays out $430 = $43 per share ($258 to squiddy, $86 to Larryp1960, $86 to KingZombie)
+[01:24] B&M's share price moves right from $200 to $220
+[01:24] B&M passes buy trains
+[01:24] B&M skips buy companies
+[01:24] KingZombie operates C&O
+[01:25] C&O lays tile #8 with rotation 0 on E3
+[01:25] C&O skips place a token
+[01:25] C&O runs a 6 train for $260: F2-H4-H10-F10-E11-E11
+[01:25] C&O pays out $260 = $26 per share ($156 to KingZombie, $52 to C&O, $26 to Larryp1960, $26 to squiddy)
+[01:25] C&O's share price moves right from $170 to $185
+[01:25] C&O passes buy trains
+[01:25] C&O skips buy companies
+[01:25] squiddy operates PRR
+[01:27] PRR lays tile #40 with rotation 0 on F12
+[01:27] PRR skips place a token
+[01:27] PRR runs a 6 train for $250: F2-H4-G7-H16-G17-G19
+[01:27] PRR pays out $250 = $25 per share ($150 to squiddy, $75 to KingZombie, $25 to Larryp1960)
+[01:27] PRR's share price moves right from $140 to $155
+[01:27] PRR passes buy trains
+[01:27] PRR skips buy companies
+[01:27] squiddy operates ERIE
+[01:28] ERIE lays tile #70 with rotation 2 on E21
+[01:29] ERIE passes place a token
+[01:29] ERIE runs a 5 train for $230: A11-B10-D10-E11-E11
+[01:29] ERIE pays out $230 = $23 per share ($230 to squiddy)
+[01:29] ERIE's share price moves right from $54 to $63
+[01:29] ERIE passes buy trains
+[01:29] ERIE skips buy companies
+[01:29] KingZombie operates CPR
+[01:32] CPR lays tile #14 with rotation 0 on B16 (Ottawa)
+[01:32] CPR skips place a token
+[01:33] CPR runs a 5 train for $160: A19-B16-C15-B10-D10
+[01:33] CPR pays out $160 = $16 per share ($96 to KingZombie, $48 to squiddy, $16 to Larryp1960)
+[01:33] CPR's share price moves right from $30 to $40
+[01:33] CPR passes buy trains
+[01:33] CPR skips buy companies
+[01:33] -- Operating Round 9.3 (of 3) --
+[01:33] Larryp1960 operates B&O
+[09:02] B&O passes lay/upgrade track
+[09:02] B&O skips place a token
+[09:02] B&O runs a 6 train for $290: F2-H4-J14-I15-H16-H18
+[09:02] B&O pays out $290 = $29 per share ($174 to Larryp1960, $87 to KingZombie, $29 to squiddy)
+[09:02] B&O passes buy trains
+[09:02] B&O skips buy companies
+[09:02] Larryp1960 operates NYC
+[09:02] NYC passes lay/upgrade track
+[09:02] NYC skips place a token
+[09:02] NYC runs a 5 train for $260: F2-H4-H10-E19-G19
+[09:02] NYC pays out $260 = $26 per share ($156 to Larryp1960, $52 to KingZombie, $52 to squiddy)
+[09:02] NYC's share price moves right from $325 to $350
+[09:02] NYC passes buy trains
+[09:02] NYC skips buy companies
+[09:02] KingZombie operates NYNH
+[13:52] NYNH lays tile #44 with rotation 0 on D22
+[13:52] NYNH skips place a token
+[13:52] NYNH runs a D train for $530: I15-J14-H4-G7-F10-E11-E19-F20-G19-F20-F22-B16-C15-B10-D10-E11
+[13:52] NYNH pays out $530 = $53 per share ($318 to KingZombie, $159 to squiddy, $53 to Larryp1960)
+[13:52] NYNH's share price moves right from $300 to $325
+[13:52] NYNH skips buy trains
+[13:52] NYNH skips buy companies
+[13:52] squiddy operates B&M
+[17:51] B&M passes lay/upgrade track
+[17:51] B&M skips place a token
+[17:52] B&M runs a D train for $440: E11-D10-B10-C15-B16-E23-F24-F22-F20-G17-H18-I19-H18-H16
+[17:52] B&M pays out $440 = $44 per share ($264 to squiddy, $88 to Larryp1960, $88 to KingZombie)
+[17:52] B&M's share price moves right from $220 to $240
+[17:52] B&M passes buy trains
+[17:52] B&M skips buy companies
+[17:52] KingZombie operates C&O
+[18:02] C&O passes lay/upgrade track
+[18:02] C&O skips place a token
+[18:02] C&O runs a 6 train for $260: F2-H4-H10-F10-E11-E11
+[18:02] C&O pays out $260 = $26 per share ($156 to KingZombie, $52 to C&O, $26 to Larryp1960, $26 to squiddy)
+[18:02] C&O's share price moves right from $185 to $200
+[18:02] C&O passes buy trains
+[18:02] C&O skips buy companies
+[18:02] squiddy operates PRR
+[19:43] PRR passes lay/upgrade track
+[19:43] PRR skips place a token
+[19:43] PRR runs a 6 train for $250: F2-H4-G7-H16-G17-G19
+[19:43] PRR pays out $250 = $25 per share ($150 to squiddy, $75 to KingZombie, $25 to Larryp1960)
+[19:43] PRR's share price moves right from $155 to $170
+[19:43] PRR passes buy trains
+[19:43] PRR skips buy companies
+[19:43] squiddy operates ERIE
+[19:43] ERIE passes lay/upgrade track
+[19:43] ERIE passes place a token
+[19:44] ERIE runs a 5 train for $230: A11-B10-D10-E11-E11
+[19:44] ERIE pays out $230 = $23 per share ($230 to squiddy)
+[19:44] ERIE's share price moves right from $63 to $67
+[19:44] ERIE passes buy trains
+[19:44] ERIE skips buy companies
+[19:44] KingZombie operates CPR
+[19:44] CPR passes lay/upgrade track
+[19:44] CPR skips place a token
+[19:44] CPR runs a 5 train for $160: A19-B16-C15-B10-D10
+[19:44] CPR pays out $160 = $16 per share ($96 to KingZombie, $48 to squiddy, $16 to Larryp1960)
+[19:44] CPR's share price moves right from $40 to $50
+[19:45] CPR passes buy trains
+[19:45] CPR skips buy companies
+[19:45] -- Game over: squiddy ($12164), KingZombie ($10604), Larryp1960 ($10261) --
