@@ -12,5 +12,5 @@ python-dateutil==2.9.0.post0
 pytz==2025.2
 six==1.17.0
 tqdm==4.67.1
-transcripts18xx @ git+ssh://git@github.com/codePascal/transcripts18xx.git@3791b52af834205e350b26f1cf42dbbf3475df9c
+transcripts18xx @ git+https://git@github.com/codePascal/transcripts18xx.git@3791b52af834205e350b26f1cf42dbbf3475df9c
 tzdata==2025.2
