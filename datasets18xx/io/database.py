@@ -20,7 +20,7 @@ def database() -> Path:
     Returns:
         The exported database, or default is env variable is not set.
     """
-    return os.environ.get('DATABASE', default_database())
+    return Path(os.environ.get('DATABASE', default_database()))
 
 
 def default_database() -> Path:

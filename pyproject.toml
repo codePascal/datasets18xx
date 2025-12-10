@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "datasets18xx"
-version = "1.0.0"
+version = "1.0.1"
 description = "A Python package to maintain datasets from 18xx.games"
 authors = ["Pascal <mup0117@gmail.com>"]
 readme = "README.md"

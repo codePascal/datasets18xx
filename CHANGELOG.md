@@ -16,6 +16,12 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Fixed
 
+## [1.0.1] - 2025-12-10
+
+### Fixed
+
+- Fixed format of database return value to `Path`.
+
 ## [1.0.0] - 2025-11-17
 
 ### Added
